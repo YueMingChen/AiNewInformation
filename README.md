@@ -83,7 +83,7 @@ TRANSLATION_API_KEY=你的_key
 | --- | --- |
 | Framework Preset | `Other` |
 | Root Directory | `./` |
-| Build Command | 留空 |
+| Build Command | `node scripts/check.mjs` |
 | Output Directory | `public` |
 | Environment Variables | 不需要 |
 
@@ -94,7 +94,7 @@ TRANSLATION_API_KEY=你的_key
 ```json
 {
   "framework": null,
-  "buildCommand": null,
+  "buildCommand": "node scripts/check.mjs",
   "outputDirectory": "public"
 }
 ```
