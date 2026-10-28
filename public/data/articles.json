@@ -1,6 +1,545 @@
 {
-  "generatedAt": "2026-10-28T08:43:01.117Z",
+  "generatedAt": "2026-10-28T16:43:14.435Z",
   "articles": [
+    {
+      "id": "4c7660853ba1f21919",
+      "titleOriginal": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+      "summaryOriginal": "",
+      "titleZh": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T22:53:53.000Z",
+      "author": "蔡芳芳",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ffad10ea2a36908e14",
+      "titleOriginal": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+      "summaryOriginal": "",
+      "titleZh": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T22:05:40.000Z",
+      "author": "Jennifer Belissent",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2fb15e964f5df8051e",
+      "titleOriginal": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+      "summaryOriginal": "",
+      "titleZh": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T21:39:45.000Z",
+      "author": "Snowflake",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dc7f1dc43f32455eaa",
+      "titleOriginal": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+      "summaryOriginal": "",
+      "titleZh": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T21:00:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2983bd0a6a78877cef",
+      "titleOriginal": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+      "summaryOriginal": "",
+      "titleZh": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T19:00:00.000Z",
+      "author": "作者：Leela Kumili",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "73d658338ff91cdf61",
+      "titleOriginal": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+      "summaryOriginal": "",
+      "titleZh": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T18:14:48.000Z",
+      "author": "Tina",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "203fc6ad598c9b40a5",
+      "titleOriginal": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+      "summaryOriginal": "",
+      "titleZh": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T17:54:54.000Z",
+      "author": "Tina",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c7b2677c06bd049641",
+      "titleOriginal": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
+      "summaryOriginal": "",
+      "titleZh": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/lCw5JBglbgZj9BYeZChS",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T17:45:17.000Z",
+      "author": "Tina",
+      "tags": [
+        "news",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "103888aa286187cee7",
+      "titleOriginal": "带出Transformer一作、前ACL顶会主席来华分享：人类正在把“思考”全盘外包",
+      "summaryOriginal": "",
+      "titleZh": "带出Transformer一作、前ACL顶会主席来华分享：人类正在把“思考”全盘外包",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/SZuklTgjFS7o8BaZ8TJh",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T17:42:38.000Z",
+      "author": "青和",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d62565c3b0e282726d",
+      "titleOriginal": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
+      "summaryOriginal": "",
+      "titleZh": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/cJsKydV5kDNIwZr38UtT",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T16:57:57.000Z",
+      "author": "木子",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ee31e0102e56ffdbbb",
+      "titleOriginal": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+      "summaryOriginal": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear subtext ran through the sessions and the repeated nods to ChatGPT's 1.2 billion weekly users: OpenAI wants developers to build their businesses directly on its infrastructure. The article OpenAI teases Dots for Europe, but",
+      "titleZh": "OpenAI挑逗欧洲的Dots ，但其柏林DevDay实际上是建立一个平台",
+      "summaryZh": "在柏林的DevDay Exchange上， OpenAI基本上重复了它已经宣布的内容，但它确实分享了一些新的细节。人工智能助手Dots应该“在几周内”在欧洲更广泛地推出，自1月以来，德国每周的Codex用户数量增长了20倍。会议和反复向ChatGPT每周12亿用户点头的明确潜台词： OpenAI希望开发人员直接在其基础设施上建立业务。OpenAI的文章取笑欧洲的Dots ，但是",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T16:25:02.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "ChatGPT",
+        "Codex"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "690be7f28dbe12912c",
+      "titleOriginal": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+      "summaryOriginal": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly. The article Claude for Legal now verifies sources automatically, then hands the file to a lawyer appeared first on The Decoder .",
+      "titleZh": "Claude for Legal现在自动验证来源，然后将文件交给律师",
+      "summaryZh": "Anthropic正在为Claude for Legal添加预建模板。这些交互式概述和表格简化了法律团队的设置，加快了合同审查等日常工作，而60多个集成让公司可以直接连接自己的数据库。Claude for Legal的文章现在会自动验证来源，然后将文件交给首次出现在The Decoder上的律师。",
+      "translated": true,
+      "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T16:20:03.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1739307690c34a287c",
+      "titleOriginal": "Meta says it’ll probably delay its controversial new business terms again",
+      "summaryOriginal": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X , Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" The new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Face",
+      "titleZh": "Meta表示，它可能会再次推迟有争议的新业务条款",
+      "summaryZh": "Meta表示，由于出版商对人工智能培训的担忧， Meta可能会将新业务条款的实施推迟到11月20日。Meta通信负责人安迪·斯通（ Andy Stone ）在X上的一篇帖子中表示，该公司“未经与行业团体和领导者充分协商，不打算进行政策变更。“新的商业条款本应于10月30日生效，最初似乎允许Meta在使用Face的新闻网站上训练其人工智能模型。",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T16:15:30.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d0407e5d8c6e4e865b",
+      "titleOriginal": "AI execs may be too out of touch to build for the general public",
+      "summaryOriginal": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "titleZh": "人工智能高管可能过于脱节，无法为公众打造",
+      "summaryZh": "技术领导者吹嘘使用人工智能与家人联系时，他们是多么的脱节。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T15:53:52.000Z",
+      "author": "Amanda Silberling",
+      "tags": [
+        "news",
+        "AI",
+        "marissa meyer"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "09e3fdf794ae39649f",
+      "titleOriginal": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+      "summaryOriginal": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival. Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning. The article Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker re",
+      "titleZh": "Nvidia的开放式Nemotron 3.5 Transcribe结合了转录、翻译和扬声器识别功能",
+      "summaryZh": "英伟达发布了Nemotron 3.5 Transcribe ，这是一种开放的语音识别模型，可处理转录、说话人识别和翻译，并将其指令作为文本提示。它领先于几个基准，仅使用其最强开放竞争对手的六分之一活跃参数。英伟达还发布了一个数据集，其中包含超过80万小时的语音，以及用于微调的工具。英伟达开放式Nemotron 3.5 Transcribe文章结合了转录、翻译和",
+      "translated": true,
+      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T15:49:39.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "feda3ad530f5eea07f",
+      "titleOriginal": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "summaryOriginal": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "titleZh": "韩国金融业遭遇新一轮网络攻击",
+      "summaryZh": "韩国金融机构受到了另一波网络攻击的打击，凸显了亚洲人工智能驱动黑客攻击的风险日益增加。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T15:41:18.000Z",
+      "author": "Kate Park",
+      "tags": [
+        "news",
+        "AI",
+        "Security",
+        "CrowdStrike",
+        "cybersecurity"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ebd1e167c721b0d41e",
+      "titleOriginal": "New Artificial Analysis index widens the gap between open and closed models",
+      "summaryOriginal": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on The Decoder .",
+      "titleZh": "新的人工分析指数扩大了开放和封闭模型之间的差距",
+      "summaryZh": "人工智能分析彻底改变了其智能指数，导致Kimi K3.1 Pro在排名中下降了5位。文章New Artificial Analysis index扩大了开放和封闭模型之间的差距，首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T15:04:43.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AAII"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f1ebb512d4e04c5710",
+      "titleOriginal": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "summaryOriginal": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+      "titleZh": "流行的语音人工智能：英伟达发布新的开放转录模型",
+      "summaryZh": "英伟达刚刚发布了一个可以转录多达40种语言的自由语音转文本模型，但它只适用于录音，而不适用于现场音频，因此它是会议和医疗转录工具的重要一步，同时仍然让ElevenLabs等竞争对手实时使用。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T15:00:00.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "launch",
+        "AI",
+        "TC",
+        "In Brief",
+        "nvidia"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5283652bd524be85ae",
+      "titleOriginal": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "summaryOriginal": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian . A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to se",
+      "titleZh": "xAI正在收购那些承诺不会就数据中心噪音提起诉讼的房主",
+      "summaryZh": "xAI位于密西西比州Southaven的数据中心。|照片由Brandon Dill/法新社通过Getty Images提供根据《卫报》的一份报告，只要居民不加入针对该公司附近数据中心和发电厂的诉讼，埃隆·马斯克(Elon Musk)的xAI子公司将提供购买密西西比州社区的房屋。据报道， Southaven社区的一名挨家挨户的房地产经纪人告诉一名居民， xAI计划购买418套房屋，并补充说， 18名房主已经计划",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T14:44:00.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "93b9dc1d3128927826",
+      "titleOriginal": "The October inflection point for vibe game development",
+      "summaryOriginal": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts t",
+      "titleZh": "氛围游戏开发的十月转折点",
+      "summaryZh": "我之前写过关于2025年11月是编码代理商的拐点- Opus 4.5和GPT-5.1越过了临界点，这意味着它们各自的编码代理商成为软件工程师可靠的日常驱动因素。我认为我们在2026年10月达到了一个新的拐点，这次是氛围编码电脑游戏。树木欣赏者Emberwick Battle Drones Pumpkin Farmer ，又名Quarter Sun Cove四次侮辱如果有人真的把",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-28T13:55:15.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Agent",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "26d384728b5eb667ae",
+      "titleOriginal": "Anthropic巨亏背后，藏着行业什么秘密？",
+      "summaryOriginal": "（本文作者为 听筒Tech，钛媒体经授权发布） 文 | 听筒Tech（ID:tingtongtech），作者 | 杨 林， 编辑 | 饶霞飞 巨头的数据摆在一起，就构成了行业刺眼的一组对照。 2026年10月26日，Anthropic向SEC递交了招股书，目标11月登陆纳斯达克，估值1.5万亿美元到2万亿美元。 如按上限定价，这是美股史上最大的IPO之一。但招股书迎面撞上的是一组让人需要揉眼睛的数字，2026年上半年营收162.86亿美元，同比增长约1300%，净亏损却高达807.48亿美元。 巨亏的背后，藏着AI行业底层逻辑的秘密，这从另一家巨头的财报中可窥一二。 在更早的10月20日，SpaceX发布了第三季度财报，营收145.75亿美元，净利润44.04亿美元，实现了上市后首次季度盈利。而撑起集团85%营业利润的，仍是星链通信业务。 一边是模型公司亏出天文数字，一边是“卖铲子”的公司开始赚钱。这背后，不在谁亏谁赚，而在成本结构。 诸如，SpaceX的盈利，始终靠一门走过资本开支高峰的通信业务给AI板块兜底。不过，遗憾的是，Anthropic没有这层缓冲带，每一美元收入，都要直面推",
+      "titleZh": "Anthropic巨亏背后，藏着行业什么秘密？",
+      "summaryZh": "（本文作者为 听筒Tech，钛媒体经授权发布） 文 | 听筒Tech（ID:tingtongtech），作者 | 杨 林， 编辑 | 饶霞飞 巨头的数据摆在一起，就构成了行业刺眼的一组对照。 2026年10月26日，Anthropic向SEC递交了招股书，目标11月登陆纳斯达克，估值1.5万亿美元到2万亿美元。 如按上限定价，这是美股史上最大的IPO之一。但招股书迎面撞上的是一组让人需要揉眼睛的数字，2026年上半年营收162.86亿美元，同比增长约1300%，净亏损却高达807.48亿美元。 巨亏的背后，藏着AI行业底层逻辑的秘密，这从另一家巨头的财报中可窥一二。 在更早的10月20日，SpaceX发布了第三季度财报，营收145.75亿美元，净利润44.04亿美元，实现了上市后首次季度盈利。而撑起集团85%营业利润的，仍是星链通信业务。 一边是模型公司亏出天文数字，一边是“卖铲子”的公司开始赚钱。这背后，不在谁亏谁赚，而在成本结构。 诸如，SpaceX的盈利，始终靠一门走过资本开支高峰的通信业务给AI板块兜底。不过，遗憾的是，Anthropic没有这层缓冲带，每一美元收入，都要直面推",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8183803.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T13:21:46.000Z",
+      "author": "听筒Tech",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "11933a85bc5f9fa36c",
+      "titleOriginal": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "summaryOriginal": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+      "titleZh": "距离TechCrunch创始人峰会还剩7天：开门前通行证最高可节省$ 100",
+      "summaryZh": "在短短7天内， TechCrunch创始人峰会于11月4日接管了波士顿的SoWa发电站。您节省高达100 $门票的机会即将到来，与经验丰富的创始人、投资者和创业领袖直接学习和联系的机会即将到来。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T13:00:00.000Z",
+      "author": "TechCrunch Events",
+      "tags": [
+        "news",
+        "TC",
+        "Startups",
+        "Climate",
+        "Fintech"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bd2ece37228e760f8a",
+      "titleOriginal": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI DeepSeek Harness的官方GitHub代码仓库里出现了三个DeepSeek此前从未公开过的模型，分别为deepseek-v5、deepseek-v5-open、deepseek-v5-next。 这段代码来自于DSH里账号登录通路的测试文件provider.spec.ts。 用户登录账号后，客户端会向服务端的/models 接口要一份模型清单，再根据清单决定哪些模型能用，哪些要先把DSH本身更新到新版本。 deepseek-v5是最基础的模型，没有声明客户端版本要求，当前版本的内置目录不认识它，所以隐藏，调用时报MODEL_UNSUPPORTED。 deepseek-v5-open代表开放给所有用户。声明的最低客户端版本是0.0.1，也就是任何版本的客户端都能直接使用，会正常出现在模型列表里。 deepseek-v5-next代表着后续更新的模型，需要升级DSH才能使用。要求的最低版本是99.0.0-alpha.1，而目前公开的DSH版本还停留在0.2.x。 很明显，DSH永远不会更新到99.0.0版本，所以de",
+      "titleZh": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI DeepSeek Harness的官方GitHub代码仓库里出现了三个DeepSeek此前从未公开过的模型，分别为deepseek-v5、deepseek-v5-open、deepseek-v5-next。 这段代码来自于DSH里账号登录通路的测试文件provider.spec.ts。 用户登录账号后，客户端会向服务端的/models 接口要一份模型清单，再根据清单决定哪些模型能用，哪些要先把DSH本身更新到新版本。 deepseek-v5是最基础的模型，没有声明客户端版本要求，当前版本的内置目录不认识它，所以隐藏，调用时报MODEL_UNSUPPORTED。 deepseek-v5-open代表开放给所有用户。声明的最低客户端版本是0.0.1，也就是任何版本的客户端都能直接使用，会正常出现在模型列表里。 deepseek-v5-next代表着后续更新的模型，需要升级DSH才能使用。要求的最低版本是99.0.0-alpha.1，而目前公开的DSH版本还停留在0.2.x。 很明显，DSH永远不会更新到99.0.0版本，所以de",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184852.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T12:19:41.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ad8edd3291dc203c39",
+      "titleOriginal": "腾讯AI压力来到微信小微",
+      "summaryOriginal": "（本文作者为 海克财经，钛媒体经授权发布） 文丨海克财经 许俊浩 全球AI持续迭代，头部玩家仍在沿着模型与产品两条线并行提速。 国内互联网大厂腾讯近期频密动作已引得业界更多关注。腾讯日前发布并开源的混元同声传译大模型Hy-SimulMT即在此列。据官方资料，Hy-SimulMT在翻译高准确率的同时，做到了低时延，平均响应时间仅为3秒。 混元大模型的底层进阶已颇显著。在AI大模型聚合平台OpenRouter全球调用量榜单上，2026年10月27日当周，腾讯混元大模型Hy4 preview调用量为9万亿tokens，排名第五，位列DeepSeek V4.1 Flash 1017、DeepSeek V4.1 Flash、智谱GLM-5.3 Flash和MiniMax M3.1 Flash之后；而在2025年，混元系列模型甚至无法排入OpenRouter调用量榜单。 作为目前全球最大的大模型聚合平台，OpenRouter所列榜单尽管统计的只是通过该平台的大模型调用量，但已具备相当的说服力。国内一些出色的模型凭借更高的性价比和在此基础上更大的使用量，在榜单上或可超过部分海外头部模型。虽然使用量不",
+      "titleZh": "腾讯AI压力来到微信小微",
+      "summaryZh": "（本文作者为 海克财经，钛媒体经授权发布） 文丨海克财经 许俊浩 全球AI持续迭代，头部玩家仍在沿着模型与产品两条线并行提速。 国内互联网大厂腾讯近期频密动作已引得业界更多关注。腾讯日前发布并开源的混元同声传译大模型Hy-SimulMT即在此列。据官方资料，Hy-SimulMT在翻译高准确率的同时，做到了低时延，平均响应时间仅为3秒。 混元大模型的底层进阶已颇显著。在AI大模型聚合平台OpenRouter全球调用量榜单上，2026年10月27日当周，腾讯混元大模型Hy4 preview调用量为9万亿tokens，排名第五，位列DeepSeek V4.1 Flash 1017、DeepSeek V4.1 Flash、智谱GLM-5.3 Flash和MiniMax M3.1 Flash之后；而在2025年，混元系列模型甚至无法排入OpenRouter调用量榜单。 作为目前全球最大的大模型聚合平台，OpenRouter所列榜单尽管统计的只是通过该平台的大模型调用量，但已具备相当的说服力。国内一些出色的模型凭借更高的性价比和在此基础上更大的使用量，在榜单上或可超过部分海外头部模型。虽然使用量不",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184625.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T12:14:39.000Z",
+      "author": "海克财经",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
     {
       "id": "871a453978523cca02",
       "titleOriginal": "智能指数得分创新高！蚂蚁百灵开源Ling-3.1-flash-1019：让Personal Agent走向真实业务",
@@ -19,6 +558,164 @@
       "tags": [
         "news",
         "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8030d1b5c63548dbcf",
+      "titleOriginal": "Voters in Texas agree: They hate data centers",
+      "summaryOriginal": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face recall attempts over data center developments. And some 30 miles outside o",
+      "titleZh": "德克萨斯州选民一致认为：他们讨厌数据中心",
+      "summaryZh": "询问德克萨斯州全国有色人种协进会主席加里·布莱索（ Gary Bledsoe ） ，看到数据中心开发人员来到奥斯汀及其周边郊区是什么感觉，他可以在项目面临当地人的反对后喋喋不休地完成项目。泰勒（ Taylor ）因计划在一个应该是公园的场地上建造数据中心而发生争执。Bledsoe说，距离约40英里的Temple是另一个痛处。那里的市长和市议会成员面临着数据中心开发的召回尝试。外面大约30英里",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "author": "Justine Calma",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "056614830d953cd400",
+      "titleOriginal": "Pairing industrial AI autonomy and human control",
+      "summaryOriginal": "",
+      "titleZh": "Pairing industrial AI autonomy and human control",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "author": "MIT Technology Review Insights",
+      "tags": [
+        "analysis",
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "144691b56e46b7710b",
+      "titleOriginal": "当DeepSeek成为一种亚文化",
+      "summaryOriginal": "（本文作者为 山农下山，钛媒体经授权发布） 01 亚文化符号 这个世界上可能存在两个DeepSeek。 一个是以技术更新、融资动态为核心的AI公司，它最近开源推理框架、完成新一轮1000亿元融资的消息刷屏，频繁引发讨论。“DeepSeek何时上市”也是AI圈里的热门话题。 一个是年轻人中正在流行的二创对象。 它拥有了更多名字，比如“大肥鱼”（因鲸鱼Logo而来），基于此还诞生了更多拟人形象：穿女仆装的“鲸鱼娘”、穿西装戴鲸鱼耳机的成年男性“D老师”。“鲸鱼娘”的特点是“吃白饭”（消耗token但干活少或差）、在爱里长大（公司放养、用户宽容），“D老师”的人设是温柔体贴、专一纯粹。 网友二创的“D老师”和“鲸鱼娘”形象 年轻人以各种方式丰富它们的内涵。有人COS它们，有人在游戏中开发mod，让它们成为玩家可使用的角色。它们还衍生出各种表情包、梗图、同人动画、壁纸、桌宠，俨然形成了一条“DeepSeek赛道”，一批创作相关内容的博主因此成名，有些还开启了收费业务。 很多创作也紧贴热点。DeepSeek Harness团队负责人崔添翼今年10月被提拔，开始负责公司所有产品的设计和研发工作后，",
+      "titleZh": "当DeepSeek成为一种亚文化",
+      "summaryZh": "（本文作者为 山农下山，钛媒体经授权发布） 01 亚文化符号 这个世界上可能存在两个DeepSeek。 一个是以技术更新、融资动态为核心的AI公司，它最近开源推理框架、完成新一轮1000亿元融资的消息刷屏，频繁引发讨论。“DeepSeek何时上市”也是AI圈里的热门话题。 一个是年轻人中正在流行的二创对象。 它拥有了更多名字，比如“大肥鱼”（因鲸鱼Logo而来），基于此还诞生了更多拟人形象：穿女仆装的“鲸鱼娘”、穿西装戴鲸鱼耳机的成年男性“D老师”。“鲸鱼娘”的特点是“吃白饭”（消耗token但干活少或差）、在爱里长大（公司放养、用户宽容），“D老师”的人设是温柔体贴、专一纯粹。 网友二创的“D老师”和“鲸鱼娘”形象 年轻人以各种方式丰富它们的内涵。有人COS它们，有人在游戏中开发mod，让它们成为玩家可使用的角色。它们还衍生出各种表情包、梗图、同人动画、壁纸、桌宠，俨然形成了一条“DeepSeek赛道”，一批创作相关内容的博主因此成名，有些还开启了收费业务。 很多创作也紧贴热点。DeepSeek Harness团队负责人崔添翼今年10月被提拔，开始负责公司所有产品的设计和研发工作后，",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184563.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T11:58:12.000Z",
+      "author": "山农下山",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6da995572c9c0a774a",
+      "titleOriginal": "Meta quietly launched an ‘AI pet journal’ app",
+      "summaryOriginal": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games. The Play store description says: A little friend that listens. A",
+      "titleZh": "Meta quietly launched an ‘AI pet journal’ app",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T11:27:30.000Z",
+      "author": "Robert Hart",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7cfa8cb7db9f9f17b9",
+      "titleOriginal": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "summaryOriginal": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure.\" That sounds empowering, but it pushes the bar for newcomers toward entrepreneurial thinking and assumes a hustle mentality not everyone brings to the job. The article With AI writing the code, entrepreneurial thinking is n",
+      "titleZh": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T11:15:00.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and coding",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0abddda64ba7c69876",
+      "titleOriginal": "苹果最赚钱的生意，正被Siri亲手拆掉？",
+      "summaryOriginal": "（本文作者为 文武赵，钛媒体经授权发布） 文 | 文武赵 10月26日，苹果发布iOS 27.2系统更新，继续扩大Siri AI的能力。 这次更新中，Siri增加了对历史对话的记忆功能，能够调用语音邮件、信息附件等更多个人数据。与此同时，苹果还增加了“排除应用”选项，允许用户决定哪些App可以被Siri访问。 显然，苹果正在让Siri越来越深入地介入用户的数字生活。从读取邮件、理解屏幕内容，到调用应用完成任务，Siri正逐渐获得过去由一个个独立App承担的功能。 一、苹果最赚钱的生意，建立在App之上 苹果是全球移动互联网商业秩序的重要建立者。 2008年，第一代App Store上线。开发者获得了触达全球iPhone用户的渠道，消费者则可以通过统一的商店寻找、下载和购买应用。 此后，App成为移动互联网最重要的商业单元。 购物需要打开亚马逊，打车需要Uber，订酒店需要Booking，听音乐需要Spotify。 在中国市场，类似的商业结构体现在淘宝、美团、携程、抖音和微信等超级应用中。 每一个App都试图争夺用户的时间、交易和支付行为。 苹果则处在这些商业活动的上游。 2026年6月",
+      "titleZh": "苹果最赚钱的生意，正被Siri亲手拆掉？",
+      "summaryZh": "（本文作者为 文武赵，钛媒体经授权发布） 文 | 文武赵 10月26日，苹果发布iOS 27.2系统更新，继续扩大Siri AI的能力。 这次更新中，Siri增加了对历史对话的记忆功能，能够调用语音邮件、信息附件等更多个人数据。与此同时，苹果还增加了“排除应用”选项，允许用户决定哪些App可以被Siri访问。 显然，苹果正在让Siri越来越深入地介入用户的数字生活。从读取邮件、理解屏幕内容，到调用应用完成任务，Siri正逐渐获得过去由一个个独立App承担的功能。 一、苹果最赚钱的生意，建立在App之上 苹果是全球移动互联网商业秩序的重要建立者。 2008年，第一代App Store上线。开发者获得了触达全球iPhone用户的渠道，消费者则可以通过统一的商店寻找、下载和购买应用。 此后，App成为移动互联网最重要的商业单元。 购物需要打开亚马逊，打车需要Uber，订酒店需要Booking，听音乐需要Spotify。 在中国市场，类似的商业结构体现在淘宝、美团、携程、抖音和微信等超级应用中。 每一个App都试图争夺用户的时间、交易和支付行为。 苹果则处在这些商业活动的上游。 2026年6月",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184537.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T11:01:06.000Z",
+      "author": "文武赵",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "37f5357ffc7a47c902",
+      "titleOriginal": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "summaryOriginal": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs are through their external software dependencies. The article AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense appeared first on The Decoder .",
+      "titleZh": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:56:24.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -45,6 +742,186 @@
       "readingMinutes": 2
     },
     {
+      "id": "f30271b5bfe8d6eb41",
+      "titleOriginal": "别人还在抽卡，米哈游已经开始抽芯片了",
+      "summaryOriginal": "（本文作者为 商业数据派，钛媒体经授权发布） 文｜商业数据派，作者 | 郭梦仪 10月19日，芯片公司铭芯启睿宣布完成超4亿元A轮融资，米哈游出现在跟投名单中； 三天后，九天睿芯披露半年累计融资10亿元，米哈游又成为新加入的投资方之一。 据广州日报报道，就在投资铭芯启睿的同一天，米哈游完成工商变更，退出持股49%的脑机接口公司零唯一思。 一周内两次落子芯片、一次告别脑机接口，这组动作不像一家游戏公司的常规业务，却构成了理解米哈游当下最贴切的入口： 它一边退出离主业较远的想象，一边向AI产业链更深处推进；一边寻找下一款游戏，一边试图改变生产游戏的方式。 米哈游联合创始人兼大股东蔡浩宇在2026年初年会上用过一个比喻：过去的米哈游像一棵大树，未来要成为一片森林。 在这套比喻里，《原神》无疑是最粗壮的一棵树。它带来了全球用户、充沛现金流和一家公司的跃迁，也让米哈游此后每一次扩张都绕不开同一个问题： 下一棵树在哪里？ 米哈游已经证明自己能做出第二款、第三款头部游戏，也在试图用新产品填补老产品回落的缺口。 它现在努力同时重建两套能力：在产品端摆脱单一爆款模型，在技术端把AI变成可复用、可负担的生",
+      "titleZh": "别人还在抽卡，米哈游已经开始抽芯片了",
+      "summaryZh": "（本文作者为 商业数据派，钛媒体经授权发布） 文｜商业数据派，作者 | 郭梦仪 10月19日，芯片公司铭芯启睿宣布完成超4亿元A轮融资，米哈游出现在跟投名单中； 三天后，九天睿芯披露半年累计融资10亿元，米哈游又成为新加入的投资方之一。 据广州日报报道，就在投资铭芯启睿的同一天，米哈游完成工商变更，退出持股49%的脑机接口公司零唯一思。 一周内两次落子芯片、一次告别脑机接口，这组动作不像一家游戏公司的常规业务，却构成了理解米哈游当下最贴切的入口： 它一边退出离主业较远的想象，一边向AI产业链更深处推进；一边寻找下一款游戏，一边试图改变生产游戏的方式。 米哈游联合创始人兼大股东蔡浩宇在2026年初年会上用过一个比喻：过去的米哈游像一棵大树，未来要成为一片森林。 在这套比喻里，《原神》无疑是最粗壮的一棵树。它带来了全球用户、充沛现金流和一家公司的跃迁，也让米哈游此后每一次扩张都绕不开同一个问题： 下一棵树在哪里？ 米哈游已经证明自己能做出第二款、第三款头部游戏，也在试图用新产品填补老产品回落的缺口。 它现在努力同时重建两套能力：在产品端摆脱单一爆款模型，在技术端把AI变成可复用、可负担的生",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184518.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T10:26:02.000Z",
+      "author": "商业数据派",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ec6b9e654881180e92",
+      "titleOriginal": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "summaryOriginal": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+      "titleZh": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:15:00.000Z",
+      "author": "Adam Morgan",
+      "tags": [
+        "analysis",
+        "Culture",
+        "Culture / Books"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5d9615019ec259be0b",
+      "titleOriginal": "Quoting Terk Terkowitz",
+      "summaryOriginal": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI Tags: amazon , generative-ai , agentic-engineering , ai , llms",
+      "titleZh": "Quoting Terk Terkowitz",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:09:07.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2fc8e689e413caadbb",
+      "titleOriginal": "Legora is building the agentic operating system for legal work",
+      "summaryOriginal": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "titleZh": "Legora is building the agentic operating system for legal work",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "41c97fe8dc29ac4a38",
+      "titleOriginal": "Legora is building the agentic operating system for legal work",
+      "summaryOriginal": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "titleZh": "Legora is building the agentic operating system for legal work",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/legora",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-28T09:30:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "74f01406152b39217d",
+      "titleOriginal": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
+      "summaryOriginal": "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。到本次更新前，灵基付费客户已达3706家。 期间，金蝶集团总裁章勇、金蝶中国副总裁兼研发中心总经理刘仲文围绕产品定位、行业变局等进行分享。其核心思路是将ERP从记录系统升级为Agent的认知底座，让Agent带着企业既有的业务逻辑、权限边界和历史习惯去干活。 金蝶的AI尝试早于灵基的发布。2023年8月，金蝶发布苍穹GPT大模型，彼时的思路是将大模型能力嵌入ERP与财务场景，推出预算规划、代码生成等AI助手。到了2024年，金蝶苍穹升级为新一代企业级AI平台，这一阶段验证了AI在企业管理场景中的可行性，但同时也暴露出一个问题：Agent如果没有企业既有的业务逻辑和上下文，很难真正干活。 如今来看，软件行业里的共识已经在发生变化：过往企业软件以权限为驱动，为满足企业每个角色的使用价值，企业软件只能无限广地开发和组合系统功能点，这种不断扩张的功能会不断强化用户在软件上的使用黏性，从而构成了每套企业软件自身的护城河。而Agent的开发逻辑大大不同，除了Harness工程，另一方面",
+      "titleZh": "当上下文成为产业共识，金蝶灵基把ERP变成Agent的认知底座",
+      "summaryZh": "据金蝶2026年中期业绩披露，灵基发布后签约26家客户、上线40余个Agent，AI原生产品收入同比增长189%。到本次更新前，灵基付费客户已达3706家。 期间，金蝶集团总裁章勇、金蝶中国副总裁兼研发中心总经理刘仲文围绕产品定位、行业变局等进行分享。其核心思路是将ERP从记录系统升级为Agent的认知底座，让Agent带着企业既有的业务逻辑、权限边界和历史习惯去干活。 金蝶的AI尝试早于灵基的发布。2023年8月，金蝶发布苍穹GPT大模型，彼时的思路是将大模型能力嵌入ERP与财务场景，推出预算规划、代码生成等AI助手。到了2024年，金蝶苍穹升级为新一代企业级AI平台，这一阶段验证了AI在企业管理场景中的可行性，但同时也暴露出一个问题：Agent如果没有企业既有的业务逻辑和上下文，很难真正干活。 如今来看，软件行业里的共识已经在发生变化：过往企业软件以权限为驱动，为满足企业每个角色的使用价值，企业软件只能无限广地开发和组合系统功能点，这种不断扩张的功能会不断强化用户在软件上的使用黏性，从而构成了每套企业软件自身的护城河。而Agent的开发逻辑大大不同，除了Harness工程，另一方面",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184285.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T09:28:49.000Z",
+      "author": "TechHorizon",
+      "tags": [
+        "launch",
+        "ToB产业观察",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d63ec046f4d752f9e0",
+      "titleOriginal": "短剧的通胀危机：为何AI没有让内容生意更好赚钱？",
+      "summaryOriginal": "图片由AI生成 “制作已经没有任何意义了。” 在近期举办的2026阅文创作大会结束后的交流环节，黄浩南发出如此感叹。 而最近让他这种感受更强烈的一件事，是他发现一个初三女生在校用豆包做了一个AI短视频，瞬间收获300万点赞。这在很多短剧公司看来，是烧光几百万甚至上千万元，都可能难以实现的成绩。 黄浩南是酱油文化创始人，网文作家出身，如今是国内体量最大的AI漫剧出品方之一。酱油文化可以做到月均上线两三百部剧。他还开启了海外布局，海外收入占公司大盘约三成，每月稳定一百多万美金。 猝不及防的是，今年AI正在侵蚀他的护城河。 DataEye研究院数据显示，2026年 1—5月国内 AI剧漫剧市场规模已达220亿元，全年有望突破400亿元，同比增长约138%。供给端的数字更惊人：上半年，抖音新增 AI剧、漫剧22.19万部，日均上新超过1200部。广电总局的数据披露，今年前8个月全国上线微短剧43万部，是去年全年的13倍，AI剧占比超九成。 供给不再稀缺。高峰期，大约每20秒就有一部新剧诞生。然而，上半年抖音新增的22.19万部AI漫剧中，爆款率仅0.47%，超九成内容流量表现低迷。 技术平权，",
+      "titleZh": "短剧的通胀危机：为何AI没有让内容生意更好赚钱？",
+      "summaryZh": "图片由AI生成 “制作已经没有任何意义了。” 在近期举办的2026阅文创作大会结束后的交流环节，黄浩南发出如此感叹。 而最近让他这种感受更强烈的一件事，是他发现一个初三女生在校用豆包做了一个AI短视频，瞬间收获300万点赞。这在很多短剧公司看来，是烧光几百万甚至上千万元，都可能难以实现的成绩。 黄浩南是酱油文化创始人，网文作家出身，如今是国内体量最大的AI漫剧出品方之一。酱油文化可以做到月均上线两三百部剧。他还开启了海外布局，海外收入占公司大盘约三成，每月稳定一百多万美金。 猝不及防的是，今年AI正在侵蚀他的护城河。 DataEye研究院数据显示，2026年 1—5月国内 AI剧漫剧市场规模已达220亿元，全年有望突破400亿元，同比增长约138%。供给端的数字更惊人：上半年，抖音新增 AI剧、漫剧22.19万部，日均上新超过1200部。广电总局的数据披露，今年前8个月全国上线微短剧43万部，是去年全年的13倍，AI剧占比超九成。 供给不再稀缺。高峰期，大约每20秒就有一部新剧诞生。然而，上半年抖音新增的22.19万部AI漫剧中，爆款率仅0.47%，超九成内容流量表现低迷。 技术平权，",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8184741.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T09:22:35.000Z",
+      "author": "LCC_Beta版",
+      "tags": [
+        "research",
+        "主编精选文章",
+        "AGI",
+        "短剧",
+        "人工智能"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b9974a4154f912b05f",
+      "titleOriginal": "实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」",
+      "summaryOriginal": "早高峰的广州地铁三号线上，总能看到一排排年轻人举着手机，对着聊天框把一段话打了又删、删了又改。 平时想用语音转文字偷个懒，往往也并不省心：开口前，你得先把散落在各个群里的信息理顺、在脑子里打好腹稿；一旦中途嘴瓢或者带了点语气词，屏幕上就会跳出一长串口水话，最后还是得停下来，挪着光标一个字一个字地手动删改。 过去我们一直习惯了人去迁就机器，可是到了 AI 大模型时代，为什么不能反过来，让机器开始迁就人类真实的表达习惯？ 最近把主力输入法升级到讯飞输入法 16.0.1 后 ，我发现这个设想已经开始变成现实。 新发布的第三代语音输入「意图成稿」与个性化 AI 键盘，把信息整理、长程记忆和场景技能装进 AI 键盘，让用户只需说出意图，就能得到一份可以直接修改和使用的草稿。 当一块键盘终于学会迁就人的偷懒、口误与词穷，日常沟通到底能省掉多少麻烦？我直接拿职场与生活里最折磨人的几个场景做了一轮实测。 人负责表达意图，键盘负责整理一切 以前「人迁就机器」最累的地方，在于键盘没有记性——信息散落在群聊、截图和小程序里，每换一个聊天对象，你就得来回切屏、重复粘贴。 而在讯飞输入法 16.0 的「意图成稿",
+      "titleZh": "实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」",
+      "summaryZh": "早高峰的广州地铁三号线上，总能看到一排排年轻人举着手机，对着聊天框把一段话打了又删、删了又改。 平时想用语音转文字偷个懒，往往也并不省心：开口前，你得先把散落在各个群里的信息理顺、在脑子里打好腹稿；一旦中途嘴瓢或者带了点语气词，屏幕上就会跳出一长串口水话，最后还是得停下来，挪着光标一个字一个字地手动删改。 过去我们一直习惯了人去迁就机器，可是到了 AI 大模型时代，为什么不能反过来，让机器开始迁就人类真实的表达习惯？ 最近把主力输入法升级到讯飞输入法 16.0.1 后 ，我发现这个设想已经开始变成现实。 新发布的第三代语音输入「意图成稿」与个性化 AI 键盘，把信息整理、长程记忆和场景技能装进 AI 键盘，让用户只需说出意图，就能得到一份可以直接修改和使用的草稿。 当一块键盘终于学会迁就人的偷懒、口误与词穷，日常沟通到底能省掉多少麻烦？我直接拿职场与生活里最折磨人的几个场景做了一轮实测。 人负责表达意图，键盘负责整理一切 以前「人迁就机器」最累的地方，在于键盘没有记性——信息散落在群聊、截图和小程序里，每换一个聊天对象，你就得来回切屏、重复粘贴。 而在讯飞输入法 16.0 的「意图成稿",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686281",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T09:18:48.000Z",
+      "author": "莫崇宇",
+      "tags": [
+        "launch",
+        "公司",
+        "讯飞输入法",
+        "语音输入"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "e3e17de3d2acc6b12e",
       "titleOriginal": "在AI时代如何提升软件工程能力",
       "summaryOriginal": "",
@@ -63,6 +940,29 @@
         "guide"
       ],
       "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6a0b9071c42b333eb7",
+      "titleOriginal": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "summaryOriginal": "Several midsize headlines today; on top of some impressive Math verification , Google Genie and Artificial Analysis and FrontierCode all shipped major version bumps of their top offerings, all of which have been AINews title stories in the past, but are mostly annual incremental improvements. Past guest Felix Reiseberg gets the headline today for coming out and charting the path forward for junior engineers : “ Hunger beats tenure” This month, I laid the traditional coding interview to rest. As",
+      "titleZh": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-28T08:50:30.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis",
+        "ainews: weekday roundups",
+        "Coding"
+      ],
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
@@ -6280,7 +7180,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 34
+      "count": 36
     },
     {
       "id": "deepmind",
@@ -6296,7 +7196,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 30
+      "count": 34
     },
     {
       "id": "theverge",
@@ -6304,7 +7204,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 16
+      "count": 20
     },
     {
       "id": "mittr",
@@ -6312,7 +7212,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 10
+      "count": 11
     },
     {
       "id": "wired",
@@ -6320,7 +7220,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 14
+      "count": 15
     },
     {
       "id": "thedecoder",
@@ -6328,7 +7228,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 13
+      "count": 19
     },
     {
       "id": "marktechpost",
@@ -6344,7 +7244,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 31
+      "count": 33
     },
     {
       "id": "oneusefulthing",
@@ -6360,7 +7260,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 23
+      "count": 24
     },
     {
       "id": "ifanr",
@@ -6368,7 +7268,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 14
+      "count": 15
     },
     {
       "id": "sspai",
@@ -6384,7 +7284,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 32
+      "count": 40
     },
     {
       "id": "infoq",
@@ -6392,13 +7292,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 9
+      "count": 19
     }
   ],
   "stats": {
-    "total": 278,
-    "guides": 19,
-    "translated": 52,
+    "total": 318,
+    "guides": 20,
+    "translated": 64,
     "sources": 15
   }
 }
