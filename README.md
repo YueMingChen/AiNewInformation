@@ -8,7 +8,7 @@
 
 ## 现在有什么
 
-- **最新信号**：219 条真实文章，来自 OpenAI、Google DeepMind、TechCrunch AI、MIT Technology Review、The Decoder、Simon Willison、爱范儿、少数派、InfoQ 中文等 15 个来源。
+- **最新信号**：251 条真实文章，来自 OpenAI、Google DeepMind、TechCrunch AI、MIT Technology Review、The Decoder、Simon Willison、爱范儿、少数派、InfoQ 中文等 15 个来源。
 - **自动分类**：新闻、发布、教程、研究、观点。
 - **中英双语**：中文来源直接展示；英文标题和摘要通过 MyMemory 机器翻译，并缓存结果。没有预翻译的文章，打开详情时会自动翻译，也可以手动点“翻译摘要”。
 - **六篇原创使用指南**：从第一次对话、四段式提示词、读论文、写代码，到搭一个自己的 AI 工作流。
