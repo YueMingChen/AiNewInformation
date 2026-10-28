@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-10-28T16:43:14.435Z",
+  "generatedAt": "2026-10-28T22:41:47.372Z",
   "articles": [
+    {
+      "id": "0328ce93e84857a633",
+      "titleOriginal": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "summaryOriginal": "This month Elorian launched its first visual reasoning model , Glimpse . It’s being promoted as “a new category of visual thinking model: a system that reasons about the physical world from what it sees.” View post on X ↗ So how does Glimpse compare to both frontier models and world models in vision tests? A new benchmark called DecoyCount , co-released by Elorian, provides some answers. We quizzed CEO Andrew Dai on the benchmark, and also talked about Elorian’s positioning in a crowded models l",
+      "titleZh": "前沿模型能看到过去的诱饵吗？ Elorian测试视觉推理",
+      "summaryZh": "本月， Elorian推出了其首个视觉推理模型Glimpse。它被宣传为“一种新的视觉思维模式：一种从物理世界的视角来推理物理世界的系统。”在X上查看帖子↗那么，在视力测试中， Glimpse与前沿模型和世界模型相比如何？由Elorian联合发布的名为DecoyCount的新基准提供了一些答案。我们对首席执行官Andrew Dai进行了基准测试，并讨论了Elorian在拥挤的模型中的定位。",
+      "translated": true,
+      "url": "https://latent.space/p/elorian/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "author": "Richard MacManus",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "4c7660853ba1f21919",
       "titleOriginal": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
@@ -21,6 +42,30 @@
         "Agent"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6c3fc951707f4dfc94",
+      "titleOriginal": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一",
+      "summaryOriginal": "Gemini 终于又支棱起来了？ 当全世界的目光都聚焦在苹果首款触控屏 MacBook Pro 身上，Google DeepMind 刚刚正式宣布推出新一代旗舰模型 Gemini 4 Carbon。 按照官方公布的数据，Gemini 4 Carbon 在最新 Artificial Analysis Intelligence Index v5.0 榜单中拿下 59 分，超越 Claude Opus 5.5 和 GPT-6 Astra，登上全球大模型榜首。 更惊人的是，Gemini 4 Carbon 已经能连续数天处理复杂工程任务，自主寻找、验证并修复软件安全漏洞，在多项网络安全基准测试中刷新纪录。 然而，如此强大的模型，普通用户暂时还用不上：谷歌决定优先向少数网络安全防御人员开放，其他用户何时能够体验仍没有明确时间表。 重回世界第一，Gemini 也开始卷能力上限了 回顾今年的大模型竞争，谷歌的更新节奏明显正在「知耻而后勇」。 此前，接连推出 Gemini Flash 3.5 至 3.8 系列后，谷歌迟迟没有兑现新一代旗舰 Pro 模型的期待。另一边，Anthropic 和 OpenAI",
+      "titleZh": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一",
+      "summaryZh": "Gemini 终于又支棱起来了？ 当全世界的目光都聚焦在苹果首款触控屏 MacBook Pro 身上，Google DeepMind 刚刚正式宣布推出新一代旗舰模型 Gemini 4 Carbon。 按照官方公布的数据，Gemini 4 Carbon 在最新 Artificial Analysis Intelligence Index v5.0 榜单中拿下 59 分，超越 Claude Opus 5.5 和 GPT-6 Astra，登上全球大模型榜首。 更惊人的是，Gemini 4 Carbon 已经能连续数天处理复杂工程任务，自主寻找、验证并修复软件安全漏洞，在多项网络安全基准测试中刷新纪录。 然而，如此强大的模型，普通用户暂时还用不上：谷歌决定优先向少数网络安全防御人员开放，其他用户何时能够体验仍没有明确时间表。 重回世界第一，Gemini 也开始卷能力上限了 回顾今年的大模型竞争，谷歌的更新节奏明显正在「知耻而后勇」。 此前，接连推出 Gemini Flash 3.5 至 3.8 系列后，谷歌迟迟没有兑现新一代旗舰 Pro 模型的期待。另一边，Anthropic 和 OpenAI",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686587",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T22:31:28.000Z",
+      "author": "莫崇宇",
+      "tags": [
+        "research",
+        "公司",
+        "AI",
+        "Gemini"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -45,6 +90,56 @@
       "readingMinutes": 2
     },
     {
+      "id": "b126d7721238eea7de",
+      "titleOriginal": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summaryOriginal": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "titleZh": "微软刚刚分享了Azure的实际收入： $ 332亿",
+      "summaryZh": "微软从未以美元披露Azure的季度收入。但第一次，我们可以看到它离击败市场上最大的竞争对手AWS有多近。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:58:32.000Z",
+      "author": "Aditya Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f348c6db37d87fbea6",
+      "titleOriginal": "Google expands AI Search ads globally as core ad growth slows",
+      "summaryOriginal": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+      "titleZh": "随着核心广告增长放缓，谷歌在全球范围内扩展AI搜索广告",
+      "summaryZh": "该公告与母公司Alphabet的第三季度收益报告同时发布，该报告的收入同比增长25% ，达到1276亿美元（ $ ）。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:48:37.000Z",
+      "author": "Lauren Forristal",
+      "tags": [
+        "news",
+        "AI",
+        "gemini",
+        "Google",
+        "Google Search"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "2fb15e964f5df8051e",
       "titleOriginal": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
       "summaryOriginal": "",
@@ -61,6 +156,80 @@
       "author": "Snowflake",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "90b267becbf2eaa801",
+      "titleOriginal": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "summaryOriginal": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+      "titleZh": "微软从OpenAI获得了100亿美元的收入",
+      "summaryZh": "微软表示，截至9月30日的季度，它从与OpenAI的商业安排中获得了100亿美元的收入，包括收入分成付款。它强调了合作伙伴关系仍然存在巨大的财务依赖性。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:34:30.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "Microsoft",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e4867209a9cdfe0b15",
+      "titleOriginal": "Akai is embracing vibe-coded mods with an open-source MPC",
+      "summaryOriginal": "The MPC Sample Key looks like the MPC Sample just with keys instead of pads. | Image: Akai The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run some version of the same software found on the MPC Sample , but with tweaks t",
+      "titleZh": "Akai正在使用开源MPC拥抱氛围编码的模组",
+      "summaryZh": "MPC示例密钥看起来像MPC示例，只是使用密钥而不是焊盘。|图片： Akai MPC示例密钥尚未正式公布，但Akai已经通过vibe编码展示了改装社区正在烹饪的东西。Akai决定接受黑客和自定义固件开发人员的爆炸式增长，让他们提前访问该设备，该设备将具有开源固件。它可能会运行MPC示例中找到的相同软件的某些版本，但会进行调整",
+      "translated": true,
+      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:34:04.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news",
+        "Open Source",
+        "Image",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f7041d98b5619cae9d",
+      "titleOriginal": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summaryOriginal": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+      "titleZh": "微软连续10个季度创下收入纪录",
+      "summaryZh": "无论人工智能的未来如何，目前的情况对微软来说仍然非常有利。这家科技巨头周三公布的季度收入又创纪录： 923亿美元，比去年同期增长19%。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T21:25:30.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "TC",
+        "Microsoft"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -87,6 +256,172 @@
       "readingMinutes": 2
     },
     {
+      "id": "5d25973f53528cf6b2",
+      "titleOriginal": "Creating AI value with enterprise context",
+      "summaryOriginal": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they str",
+      "titleZh": "利用企业环境创造人工智能价值",
+      "summaryZh": "在整个企业中，任何数量的人工智能平台、系统和工具都可以同时工作，例如，人工智能驱动的客户平台、会话助手以及工作流和流程自动化工具。每个问题都很复杂、先进，响应速度也很快。但是，当开始工作时，出现的结果和行动可能是错误的，混乱的，或者缺乏对业务的正确理解。许多组织发现自己处于这种情况-这可能是他们STR的关键原因之一",
+      "translated": true,
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-10-28T20:32:02.000Z",
+      "author": "MIT Technology Review Insights",
+      "tags": [
+        "guide",
+        "Artificial intelligence",
+        "sponsored"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fc7d1d71bde9a18e24",
+      "titleOriginal": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "summaryOriginal": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday , Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defen",
+      "titleZh": "谷歌推出Gemini 4 Carbon ，在网络安全方面实现“重大飞跃",
+      "summaryZh": "谷歌发布了其最新的前沿模型Gemini 4 Carbon ，在编码、代理任务和网络安全方面提供了“显着收益”。在周三的一份声明中，谷歌强调了Carbon在人工智能指数（ v5.0 ）基准测试中的领先地位， Claude Opus 5.5和GPT-6 Astra紧随其后。新的Gemini 4 Carbon模型对Google本月早些时候发布的Argon进行了改进。它目前仅适用于特定的网络安全防御群体",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T20:03:00.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "research",
+        "Coding"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2ad8f77a17b3ea17a5",
+      "titleOriginal": "Why Agents Love Supabase",
+      "summaryOriginal": "I first met Paul Copplestone and Ant Wilson in Singapore, shortly after they finished YC as the hottest startup of YC S20 . Six years later, we finally got them on the podcast! This is their first podcast together, after taking an open-source, fully remote company from zero to a $10 billion valuation. The title is a question I wanted to understand for myself: why do agents love Supabase? There are plenty of managed databases. Postgres hosting is competitive. Being familiar to a model is useful d",
+      "titleZh": "为什么客服代表喜欢Supabase",
+      "summaryZh": "我在新加坡第一次见到Paul Copplestone和Ant Wilson ，他们刚刚完成YC ，成为YC S20最热门的创业公司。六年后，我们终于让他们上了播客！这是他们在将一家开源、完全远程的公司的估值从零提高到100 $之后的第一个播客。标题是我自己想了解的一个问题：为什么客服代表喜欢Supabase ？有很多托管数据库。Postgres出租具有竞争力。熟悉一个模型是有用的d",
+      "translated": true,
+      "url": "https://latent.space/p/supabase/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-28T19:48:05.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis",
+        "Agent",
+        "Open Source"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fd580bd0716cdc3bc5",
+      "titleOriginal": "iPad mini 首发上手：体验无可替代，刀法无人能及",
+      "summaryOriginal": "1、2、3！苹果连续三天的新品发布如今终于来到尾声。 很有仪式感地，最后一天的发布从线上转到了洛杉矶特别体验活动现场，这几天发布的新款 iPad、iMac 和 MacBook 也终于齐聚一堂。 爱范儿的同事也已经来到现场，为我们带来最新鲜的上手体验。 在这轮新品中率先登场的，正是时隔两年终于迎来更新的 iPad mini。 这两年里，整个消费电子行业被裹挟进新一轮的 AI 浪潮之中，内存等元器件紧缺导致的价格暴涨已是既成事实；既然新品涨价不可避免，苹果似乎也随之调整了 iPad mini 的定位—— 配备上 OLED、2nm 制程 A20 Pro 芯片、IP67 抗水防尘和首发的 Acoustic Display 音频技术后，全新的 iPad mini（A20 Pro）可谓从娱乐用的随身小平板，变为了一台 Pro 级别的设备。 但拧巴的是， 这台「应有尽有」的新品唯独缺少了对体验至关重要的 120Hz 高刷 。 只能说，苹果为了维持 iPad 设备之间的差序格局，故意不小心地遗忘了这个最明显的升级点。 世子之争，向来如此啊！ mini 的价格，Pro 的待遇 做大事的设备，往往不会太张",
+      "titleZh": "iPad mini 首发上手：体验无可替代，刀法无人能及",
+      "summaryZh": "1、2、3！苹果连续三天的新品发布如今终于来到尾声。 很有仪式感地，最后一天的发布从线上转到了洛杉矶特别体验活动现场，这几天发布的新款 iPad、iMac 和 MacBook 也终于齐聚一堂。 爱范儿的同事也已经来到现场，为我们带来最新鲜的上手体验。 在这轮新品中率先登场的，正是时隔两年终于迎来更新的 iPad mini。 这两年里，整个消费电子行业被裹挟进新一轮的 AI 浪潮之中，内存等元器件紧缺导致的价格暴涨已是既成事实；既然新品涨价不可避免，苹果似乎也随之调整了 iPad mini 的定位—— 配备上 OLED、2nm 制程 A20 Pro 芯片、IP67 抗水防尘和首发的 Acoustic Display 音频技术后，全新的 iPad mini（A20 Pro）可谓从娱乐用的随身小平板，变为了一台 Pro 级别的设备。 但拧巴的是， 这台「应有尽有」的新品唯独缺少了对体验至关重要的 120Hz 高刷 。 只能说，苹果为了维持 iPad 设备之间的差序格局，故意不小心地遗忘了这个最明显的升级点。 世子之争，向来如此啊！ mini 的价格，Pro 的待遇 做大事的设备，往往不会太张",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686487",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-28T19:27:06.000Z",
+      "author": "彭海星",
+      "tags": [
+        "guide",
+        "产品",
+        "A20 Pro",
+        "iPad Mini",
+        "OLED"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2ede9b7f343197b453",
+      "titleOriginal": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summaryOriginal": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "titleZh": "Anthropic刚刚推出了工具，向公司展示他们的人工智能支出正在购买什么",
+      "summaryZh": "前沿实验室正在解除用户在计划的首次公开募股之前如何在其模型上花钱的帷幕。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T19:19:58.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2caeea9abb48117b2d",
+      "titleOriginal": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+      "summaryOriginal": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced security capabilities, access is limited to selected security experts at first. The article Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board appeared first on The Decoder .",
+      "titleZh": "Google Deepmind在Argon发布两周后发布Gemini 4 Carbon ，全面获利",
+      "summaryZh": "就在Gemini 4 Argon发布两周后， Google DeepMind发布了Gemini 4 Carbon ，它以59分的成绩超过了人工智能分析智能指数v5。谷歌表示，该模型是为扩展的代理工作流程和整个网络防御生命周期而构建的。由于这些高级安全功能，访问权限首先仅限于选定的安全专家。Google Deepmind在Argon发布Gemini 4 Carbon仅两周后发布的文章首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T19:17:58.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "launch",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Gemini 4",
+        "Gemini 4 Carbon"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "66c9055b3cf21443e3",
+      "titleOriginal": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "summaryOriginal": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "titleZh": "Wiz的PHP2Shell首席技术官和即将到来的“vulnpocalypse",
+      "summaryZh": "PHP恐慌可能已经从您的Feed中消失，但清理工作远未结束。上周，大约70 ％的网站背后的开源语言中的两个关键错误使组织急于修复其系统，其中一些网站在修补漏洞之前会脱机。据研究人员称，他们发现[…]",
+      "translated": true,
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T19:05:46.000Z",
+      "author": "Theresa Loconsolo",
+      "tags": [
+        "news",
+        "AI",
+        "Security",
+        "Startups",
+        "CTO"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "2983bd0a6a78877cef",
       "titleOriginal": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
       "summaryOriginal": "",
@@ -105,6 +440,75 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "24b289310b1971f470",
+      "titleOriginal": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "summaryOriginal": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
+      "titleZh": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T18:50:39.000Z",
+      "author": "Theresa Loconsolo, Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Security",
+        "Startups",
+        "cybersecurity"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d0753be868cc7807af",
+      "titleOriginal": "Microsoft is ending Copilot support on smart TVs",
+      "summaryOriginal": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central . The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central' s Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to",
+      "titleZh": "Microsoft is ending Copilot support on smart TVs",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T18:36:26.000Z",
+      "author": "Andrew Liszewski",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e71c51112ff92ffc64",
+      "titleOriginal": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "summaryOriginal": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "titleZh": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-28T18:30:00.000Z",
+      "author": "Will Knight",
+      "tags": [
+        "analysis",
+        "Business",
+        "Agent"
+      ],
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
@@ -151,6 +555,31 @@
       "readingMinutes": 2
     },
     {
+      "id": "c44aa551102e17afec",
+      "titleOriginal": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+      "summaryOriginal": "Google DeepMind has introduced Gemini 4 Carbon , its strongest model to date. Gemini 4 Carbon is a frontier model from Google built for long-horizon agentic coding and cybersecurity defense. It ranks #1 on the updated v5.0 Artificial Analysis Intelligence Index with a score of 59. For developers, the catch is access. Carbon starts with a vetted group of cyber defenders, not the public API. TL;DR Size: Parameter count and context window not disclosed. Its predecessor, Gemini 4 Argon , has a 1,048",
+      "titleZh": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-28T17:48:38.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "c7b2677c06bd049641",
       "titleOriginal": "Claude Code 撑起史上最大 IPO，被封号不退费的中国开发者撑起那 5%“脏收入”",
       "summaryOriginal": "",
@@ -194,6 +623,148 @@
       "readingMinutes": 2
     },
     {
+      "id": "d8fb4e7732a4a4aa8a",
+      "titleOriginal": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+      "summaryOriginal": "MiniMax has open-sourced MCode Stack , the workflows and agent skills its team uses to build MiniMax Code. The MiniMax MCode Stack agent skills went public on October 28, 2026 under the MIT license . It is not a prompt collection. Each piece is a SKILL.md skill or checklist that installs directly into MiniMax Code . For developers, it turns harness engineering habits into steps an agent can actually run. TL;DR Size: 2 stacks, 17 skills (15 from Ronny, 2 from Jiachen), 5 checklists, 5 companion n",
+      "titleZh": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-28T17:20:29.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b0da25ea6c1a296754",
+      "titleOriginal": "Gemini 4 Carbon: Our next frontier model",
+      "summaryOriginal": "",
+      "titleZh": "Gemini 4 Carbon: Our next frontier model",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-10-28T17:00:58.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "765a5a74d2443b200e",
+      "titleOriginal": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summaryOriginal": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "titleZh": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "author": "Sarah Perez",
+      "tags": [
+        "news",
+        "AI",
+        "Apps",
+        "Chrome",
+        "Google"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1e8ba9106ed897eba9",
+      "titleOriginal": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summaryOriginal": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+      "titleZh": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "author": "Sarah Perez",
+      "tags": [
+        "news",
+        "AI",
+        "Apps",
+        "gemini",
+        "Google"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c802108aab79694f5d",
+      "titleOriginal": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "summaryOriginal": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number , email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself. The expand",
+      "titleZh": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "author": "Andrew Liszewski",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "becd12354f283ff0a3",
+      "titleOriginal": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summaryOriginal": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too. The article Google opens Android development to third-party AI agents and unveils new Gemini APIs appeared firs",
+      "titleZh": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-28T16:59:59.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and coding",
+        "Android"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "d62565c3b0e282726d",
       "titleOriginal": "模型越来越强，落地却处处卡关？14位行业大佬拆解难题｜1024 模力工场 · AI社区日圆满收官",
       "summaryOriginal": "",
@@ -208,6 +779,27 @@
       "lang": "zh",
       "publishedAt": "2026-10-28T16:57:57.000Z",
       "author": "木子",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d8f853e661d65a1d28",
+      "titleOriginal": "GitHub Octoverse 2026",
+      "summaryOriginal": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a pretty stark representation of the impact of agentic engineering on GitHub. In 2026, merged pull requests tripled in less than a year to 220 million per month. Commits more than tripled to 7.38 billion per month, with most of that increase in the second half of thi",
+      "titleZh": "GitHub Octoverse 2026",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-28T16:45:23.000Z",
+      "author": "",
       "tags": [
         "news"
       ],
@@ -303,7 +895,8 @@
       "tags": [
         "news",
         "AI",
-        "marissa meyer"
+        "Social",
+        "Marissa Mayer"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -474,6 +1067,29 @@
       "readingMinutes": 2
     },
     {
+      "id": "75e2017ed4c5a2ecba",
+      "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "titleZh": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-28T13:15:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Company",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "11933a85bc5f9fa36c",
       "titleOriginal": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
       "summaryOriginal": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
@@ -490,8 +1106,8 @@
       "author": "TechCrunch Events",
       "tags": [
         "news",
-        "TC",
-        "Startups",
+        "AI",
+        "Biotech & Health",
         "Climate",
         "Fintech"
       ],
@@ -805,6 +1421,28 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0dc3cf0b7c98dcde7c",
+      "titleOriginal": "The future of the firm",
+      "summaryOriginal": "How AI might enter the org chart—beneath, beside, and between us.",
+      "titleZh": "The future of the firm",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-28T10:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Intelligence Age"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -7180,7 +7818,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 36
+      "count": 38
     },
     {
       "id": "deepmind",
@@ -7188,7 +7826,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 31
+      "count": 32
     },
     {
       "id": "techcrunch",
@@ -7196,7 +7834,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 34
+      "count": 43
     },
     {
       "id": "theverge",
@@ -7204,7 +7842,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 20
+      "count": 24
     },
     {
       "id": "mittr",
@@ -7212,7 +7850,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 11
+      "count": 12
     },
     {
       "id": "wired",
@@ -7220,7 +7858,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 15
+      "count": 16
     },
     {
       "id": "thedecoder",
@@ -7228,7 +7866,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 19
+      "count": 21
     },
     {
       "id": "marktechpost",
@@ -7236,7 +7874,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 14
+      "count": 16
     },
     {
       "id": "simonwillison",
@@ -7244,7 +7882,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 33
+      "count": 34
     },
     {
       "id": "oneusefulthing",
@@ -7260,7 +7898,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 24
+      "count": 26
     },
     {
       "id": "ifanr",
@@ -7268,7 +7906,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 15
+      "count": 17
     },
     {
       "id": "sspai",
@@ -7296,9 +7934,9 @@
     }
   ],
   "stats": {
-    "total": 318,
-    "guides": 20,
-    "translated": 64,
+    "total": 345,
+    "guides": 22,
+    "translated": 76,
     "sources": 15
   }
 }
