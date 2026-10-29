@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:41:47.372Z",
+  "generatedAt": "2026-10-29T05:58:22.910Z",
   "articles": [
     {
       "id": "0328ce93e84857a633",
@@ -20,6 +20,385 @@
         "research"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2f22e057d80dee3306",
+      "titleOriginal": "AI 用起来了，业务价值谁来打分？",
+      "summaryOriginal": "",
+      "titleZh": "AI 用起来了，业务价值谁来打分？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/LLbRSSwTyvqTpFsaJs3v",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:37:25.000Z",
+      "author": "极客时间企业版",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2e2ca9292d0b04177d",
+      "titleOriginal": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "summaryOriginal": "",
+      "titleZh": "从三天Demo到一个月全员可用：小红书企业级AI助理Seal的规模化实践",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/eOqH5GJ5R6UuZGtlhL53",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T09:58:08.000Z",
+      "author": "作者：孟洪进",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ad74db945c4c1f5bda",
+      "titleOriginal": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "summaryOriginal": "",
+      "titleZh": "活动回顾｜InfoQ AI 侦察团的实战一天：企业 AI 如何走向落地？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/g7TTtqzU1qyQXooXFQGN",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T09:55:47.000Z",
+      "author": "高梦霞",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b7164e56f75105c9c0",
+      "titleOriginal": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+      "summaryOriginal": "",
+      "titleZh": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/YmgmEh686wTClmj3PY8o",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T08:00:00.000Z",
+      "author": "作者：Daniel Dominguez",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "78617a408aa03fe844",
+      "titleOriginal": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+      "summaryOriginal": "a quiet day. AI News for 10/27/2026-10/28/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews' website lets you search all past issues. As a reminder, AINews is now a section of Latent Space . You can opt in/out of email frequencies! AI Twitter Recap Gemini 4 Carbon Tops Independent Leaderboards, with Access Limited to Cyber Defenders Launch : Google DeepMind announced Gemini 4 Carbon two weeks after Argon. It is positioned as state of the art on cybersecurity and long-h",
+      "titleZh": "[AINews] Gemini 4 Carbon在排行榜上名列前茅，为网络防御者推出",
+      "summaryZh": "安静的一天。2026年10月27日至2026年10月28日的AI新闻。我们检查了12个子版块， 544个推特，没有进一步的Discords。AINews的网站允许您搜索所有过去的问题。请注意， AINews现在是潜在空间的一部分。您可以选择加入/退出电子邮件频率！ AI Twitter回顾Gemini 4 Carbon Tops独立排行榜，仅限于网络防御者发布： Google DeepMind在Argon发布两周后宣布推出Gemini 4 Carbon。它被定位为网络安全和long-h方面的最先进技术",
+      "translated": true,
+      "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-29T05:55:19.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "launch",
+        "ainews: weekday roundups"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3b34917d1516031bef",
+      "titleOriginal": "Suning NEXT首店亮相，新店打造AI消费新入口",
+      "summaryOriginal": "10月30日，南京百年商圈湖南路的核心位置，苏宁易购山西路店以“Suning NEXT未来空间”全国首店的全新身份开启试营业。机器人、机器狗集中亮相，超过800平米的巨型大屏亮出“我爱湖南路”五个大字——这家新店既是苏宁易购面向下一代零售的重新提案，也是湖南路商圈系统性焕新计划中首个升级亮相的复合型商业项目。 物理AI消费新入口：一家“不一样”的店 与传统家电卖场的品类陈列不同，Suning NEXT未来空间在空间组织逻辑上进行了彻底重构，将门店重组为AIDEA、SUPER LEO PARK超级里奥运动超乐场、CM苏宁超买、myHOME私享家四大核心模块，融合前沿科技、运动娱乐、社交互动、应用创作与家庭消费，致力于打造“物理AI时代的生活方式体验空间”。 其中，AIDEA模块是整座门店的“科技心脏”，落地南京首个规模化具身机器人体验中心，仿生机器人、人形跳舞机器人、人形拳击机器人、陪伴机器人、乐队机器人、车载机器人、智能花盆植物机器人、编程机器人、全屋移动监控家庭机器人及机器狗等多品类集中亮相，机器人对弈、制作咖啡和冰淇淋、机器狗越障表演等成为商业服务体系的有机组成部分。店内特设AI",
+      "titleZh": "Suning NEXT首店亮相，新店打造AI消费新入口",
+      "summaryZh": "10月30日，南京百年商圈湖南路的核心位置，苏宁易购山西路店以“Suning NEXT未来空间”全国首店的全新身份开启试营业。机器人、机器狗集中亮相，超过800平米的巨型大屏亮出“我爱湖南路”五个大字——这家新店既是苏宁易购面向下一代零售的重新提案，也是湖南路商圈系统性焕新计划中首个升级亮相的复合型商业项目。 物理AI消费新入口：一家“不一样”的店 与传统家电卖场的品类陈列不同，Suning NEXT未来空间在空间组织逻辑上进行了彻底重构，将门店重组为AIDEA、SUPER LEO PARK超级里奥运动超乐场、CM苏宁超买、myHOME私享家四大核心模块，融合前沿科技、运动娱乐、社交互动、应用创作与家庭消费，致力于打造“物理AI时代的生活方式体验空间”。 其中，AIDEA模块是整座门店的“科技心脏”，落地南京首个规模化具身机器人体验中心，仿生机器人、人形跳舞机器人、人形拳击机器人、陪伴机器人、乐队机器人、车载机器人、智能花盆植物机器人、编程机器人、全屋移动监控家庭机器人及机器狗等多品类集中亮相，机器人对弈、制作咖啡和冰淇淋、机器狗越障表演等成为商业服务体系的有机组成部分。店内特设AI",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185820.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T05:28:47.000Z",
+      "author": "科技指北",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c16f956c0fd3bed3e5",
+      "titleOriginal": "AI裁员背后：消失的不只是工作，还有年轻人的机会",
+      "summaryOriginal": "（本文作者为 登顶可选，钛媒体经授权发布） 文 | 登顶可选 10月23日，国务院办公厅公开发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》。 文件提出18项任务，其中包括减缓AI应用的就业替代影响、建立就业风险评估机制，以及调整收入分配和社会保障制度。 国务院办公厅《意见》原文 | 中国政府网 &middot; 2026年10月23日 一份关于人工智能的政策文件，开始具体讨论如何减少岗位替代、帮助劳动者转岗，以及应对规模性失业风险。 这让一个长期争论的问题变得更加现实——官方出手，那么 AI对就业究竟影响有多大？ 2025年9月，Salesforce首席执行官马克&middot;贝尼奥夫在播客中透露，公司客服团队已经从9000人缩减至约5000人。 AI承担了越来越多的客户咨询，还帮助公司重新联系过去积压的大量销售线索。贝尼奥夫将这段经历称为自己职业生涯中最令人兴奋的时期之一。 对企业来说，这是一笔漂亮的生意。客服团队缩小了，销售机会却增加了。 当然，4000人的差额并不等于4000人全部遭到裁员。部分员工被重新安排到其他岗位。但有一点已经确定：Salesforce不",
+      "titleZh": "AI裁员背后：消失的不只是工作，还有年轻人的机会",
+      "summaryZh": "（本文作者为 登顶可选，钛媒体经授权发布） 文 | 登顶可选 10月23日，国务院办公厅公开发布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》。 文件提出18项任务，其中包括减缓AI应用的就业替代影响、建立就业风险评估机制，以及调整收入分配和社会保障制度。 国务院办公厅《意见》原文 | 中国政府网 &middot; 2026年10月23日 一份关于人工智能的政策文件，开始具体讨论如何减少岗位替代、帮助劳动者转岗，以及应对规模性失业风险。 这让一个长期争论的问题变得更加现实——官方出手，那么 AI对就业究竟影响有多大？ 2025年9月，Salesforce首席执行官马克&middot;贝尼奥夫在播客中透露，公司客服团队已经从9000人缩减至约5000人。 AI承担了越来越多的客户咨询，还帮助公司重新联系过去积压的大量销售线索。贝尼奥夫将这段经历称为自己职业生涯中最令人兴奋的时期之一。 对企业来说，这是一笔漂亮的生意。客服团队缩小了，销售机会却增加了。 当然，4000人的差额并不等于4000人全部遭到裁员。部分员工被重新安排到其他岗位。但有一点已经确定：Salesforce不",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185164.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T04:53:18.000Z",
+      "author": "登顶可选",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "66907b0457e52258e0",
+      "titleOriginal": "人形机器人，要出大结果了",
+      "summaryOriginal": "（本文作者为 华商韬略，钛媒体经授权发布） 文 | 华商韬略 10月21日，特斯拉在三季度财报里宣布：Optimus人形机器人已在加州弗里蒙特工厂的量产线上开工。这条产线原本属于Model S和Model X，今年7月，特斯拉只用46天就把旧线拆了个干净，然后换上了Optimus的生产线。 几乎同期，英伟达创始人黄仁勋在柏林GTC大会上高喊：物理AI，人形机器人，是下一个伟大的产业；王兴兴说自己犯的最大错误就是不够相信AI，并且提前了人形机器人的规模化应用时间表，市值被腰斩的宇树科技则开始了股价反攻。 如果把过去三年的大模型比作一个人，它更像一位被困在电脑里的“无所不知”：能创作、能编程、能回答你各种问题，陪你聊人生，但却从没走出电脑，哪怕为你亲手拿起过一只杯子。物理AI要补的，就是这一课—— 让“无所不知”变成“无所不能”。 黄仁勋今年1月在CES上的表述是：AI正在越过理解数字信息的阶段，开始去理解重力、摩擦、惯性和因果。翻译成大白话，物理AI，就是让AI从“会说”变成“会做”。它要从屏幕里走出来，走进工厂、仓库、街道和家庭。 物理Al的核心是机器人。 会自己开的车，是带轮子的机器",
+      "titleZh": "人形机器人，要出大结果了",
+      "summaryZh": "（本文作者为 华商韬略，钛媒体经授权发布） 文 | 华商韬略 10月21日，特斯拉在三季度财报里宣布：Optimus人形机器人已在加州弗里蒙特工厂的量产线上开工。这条产线原本属于Model S和Model X，今年7月，特斯拉只用46天就把旧线拆了个干净，然后换上了Optimus的生产线。 几乎同期，英伟达创始人黄仁勋在柏林GTC大会上高喊：物理AI，人形机器人，是下一个伟大的产业；王兴兴说自己犯的最大错误就是不够相信AI，并且提前了人形机器人的规模化应用时间表，市值被腰斩的宇树科技则开始了股价反攻。 如果把过去三年的大模型比作一个人，它更像一位被困在电脑里的“无所不知”：能创作、能编程、能回答你各种问题，陪你聊人生，但却从没走出电脑，哪怕为你亲手拿起过一只杯子。物理AI要补的，就是这一课—— 让“无所不知”变成“无所不能”。 黄仁勋今年1月在CES上的表述是：AI正在越过理解数字信息的阶段，开始去理解重力、摩擦、惯性和因果。翻译成大白话，物理AI，就是让AI从“会说”变成“会做”。它要从屏幕里走出来，走进工厂、仓库、街道和家庭。 物理Al的核心是机器人。 会自己开的车，是带轮子的机器",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185839.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T04:44:22.000Z",
+      "author": "华商韬略",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "02aebfc3f398f61af6",
+      "titleOriginal": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+      "summaryOriginal": "NVIDIA has released Nemotron 3.5 Transcribe , an open-weights speech LLM built for transcription. One model handles 40 languages and recordings up to 1 hour . A text instruction picks the output style for each request. Options include verbatim, written form, speaker-attributed, contextual and translated output. For developers, it can replace separate ASR, diarization and alignment tools. TL;DR Size: 34B total and about 4.3B active parameters; 65,536-token context; audio up to 1 hour. Runs on: 1x",
+      "titleZh": "NVIDIA发布Nemotron 3.5 Transcribe ：开放的30B MoE模型，用于40语言转录，具有约4B活动参数",
+      "summaryZh": "NVIDIA发布了Nemotron 3.5 Transcribe ，这是一款专为转录而打造的开放式语音LLM。一个型号可处理40种语言和长达1小时的录音。文本指令为每个请求选择输出样式。选项包括逐字记录、书面形式、演讲者归属、上下文和翻译输出。对于开发人员，它可以替换单独的ASR、darization和alignment工具。TL ； DR大小：总计34B ，约43B活动参数； 65,536-令牌上下文；音频长达1小时。运行于： 1x",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-29T04:41:24.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5d96806f0b1d76325c",
+      "titleOriginal": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
+      "summaryOriginal": "摩尔线程交出了第一份单季扣非净利润转正的财报。 10月28日晚，摩尔线程发布2026年第三季度报告，该季度实现营业收入15.52亿元，同比增长1773.92%，环比增长55.4%；归母净利润4926.04万元，扣非归母净利润2007.24万元，均同比扭亏为盈。 收入创下单季度新高，增长开始反映在利润上，对于仍需持续投入研发的GPU企业，扣非转正是一个值得关注的变化。它意味着，在剔除相关非经常性损益后，摩尔线程当季仍实现了盈利。当然，第三季度扣非净利率约为1.29%，利润空间还不厚。 把时间线延长到前三季度，摩尔线程累计营收32.89亿元，归母净利润3769.73万元，扣非归母净利润仍亏损约1.31亿元。 这使得摩尔线程成为观察国产GPU商业化的一个样本，当销售规模扩大，市场会进一步关注收入如何转化为利润，以及增长需要付出多少资金成本。 盈利前移一年，毛利率居国产GPU第一梯队 摩尔线程此前表示，预计2027年实现盈利，本份财报将盈利时间表大幅提前。其提到，收入增长是因为人工智能产业对算力及全功能GPU的需求，以及以MTT S5000为代表的智算产品加速落地。 其披露，客户包括互联网及云",
+      "titleZh": "摩尔线程单季扣非净利润首次转正，国产GPU生意走到哪一步了？",
+      "summaryZh": "摩尔线程交出了第一份单季扣非净利润转正的财报。 10月28日晚，摩尔线程发布2026年第三季度报告，该季度实现营业收入15.52亿元，同比增长1773.92%，环比增长55.4%；归母净利润4926.04万元，扣非归母净利润2007.24万元，均同比扭亏为盈。 收入创下单季度新高，增长开始反映在利润上，对于仍需持续投入研发的GPU企业，扣非转正是一个值得关注的变化。它意味着，在剔除相关非经常性损益后，摩尔线程当季仍实现了盈利。当然，第三季度扣非净利率约为1.29%，利润空间还不厚。 把时间线延长到前三季度，摩尔线程累计营收32.89亿元，归母净利润3769.73万元，扣非归母净利润仍亏损约1.31亿元。 这使得摩尔线程成为观察国产GPU商业化的一个样本，当销售规模扩大，市场会进一步关注收入如何转化为利润，以及增长需要付出多少资金成本。 盈利前移一年，毛利率居国产GPU第一梯队 摩尔线程此前表示，预计2027年实现盈利，本份财报将盈利时间表大幅提前。其提到，收入增长是因为人工智能产业对算力及全功能GPU的需求，以及以MTT S5000为代表的智算产品加速落地。 其披露，客户包括互联网及云",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185837.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T04:37:44.000Z",
+      "author": "TechPulse",
+      "tags": [
+        "guide",
+        "主编精选文章",
+        "算力",
+        "AI前线"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d73c3d48e2124cfa46",
+      "titleOriginal": "“世界”等待张一鸣",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 2021年的时候，张一鸣曾在卸任信中写道：“虚拟现实、生命科学、科学计算对人类生活的影响都已现黎明之曙光，这些需要我们突破业务的惯性去探索。” 2021年6月，《财新》报道称，张一鸣曾亲自到潍坊谈判收购Pico，见面时张一鸣就表现出了收购意向。这次收购后来成为这一轮元宇宙投资热的标志性事件，但《财新》在新闻中特意写到，双方当时并未透露“进军元宇宙”的意向。 5年后，来到2026年6月，字节世界模型曝光，该爆料称世界模型是字节2026年AI四大重点之一，目标年底前至少发布一版，对标Genie 3。 这个项目基于Seedance，用户以Pico的头戴设备为入口，说一句话、做一个动作，云端就生成一个随之变化的世界。 张一鸣笔下的“虚拟现实”指的并非是元宇宙，而是更为宏大的世界模型。他的卸任信，其实也可以理解成为一封预告信。 2026年9月份又有爆料称，已成为中国首富的张一鸣，仍然亲自督导字节跳动的一个实时空间视频模型，协调不同业务部门，把AI资源和算力向该项目倾斜。可见他对世界模型有多么上心。 不知道字节对Genie 3研究得如何",
+      "titleZh": "“世界”等待张一鸣",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 2021年的时候，张一鸣曾在卸任信中写道：“虚拟现实、生命科学、科学计算对人类生活的影响都已现黎明之曙光，这些需要我们突破业务的惯性去探索。” 2021年6月，《财新》报道称，张一鸣曾亲自到潍坊谈判收购Pico，见面时张一鸣就表现出了收购意向。这次收购后来成为这一轮元宇宙投资热的标志性事件，但《财新》在新闻中特意写到，双方当时并未透露“进军元宇宙”的意向。 5年后，来到2026年6月，字节世界模型曝光，该爆料称世界模型是字节2026年AI四大重点之一，目标年底前至少发布一版，对标Genie 3。 这个项目基于Seedance，用户以Pico的头戴设备为入口，说一句话、做一个动作，云端就生成一个随之变化的世界。 张一鸣笔下的“虚拟现实”指的并非是元宇宙，而是更为宏大的世界模型。他的卸任信，其实也可以理解成为一封预告信。 2026年9月份又有爆料称，已成为中国首富的张一鸣，仍然亲自督导字节跳动的一个实时空间视频模型，协调不同业务部门，把AI资源和算力向该项目倾斜。可见他对世界模型有多么上心。 不知道字节对Genie 3研究得如何",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185843.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T04:36:16.000Z",
+      "author": "字母AI",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "74a0c53d04aa0c0b1a",
+      "titleOriginal": "谷歌云收入翻倍，股价为什么还跌了？",
+      "summaryOriginal": "（本文作者为 强调Next，钛媒体经授权发布） 文 | 强调Next AI订单越多，谷歌需要提前垫付的钱也越多。股东担心的是，这轮增长何时能改善现金回报。 10月28日美股盘后，谷歌母公司Alphabet交出了一份云业务收入增长 103% 的财报，股价却跌超 10% 。 三季度，谷歌云收入达到 307亿美元 ，营业利润超过 111亿美元 。整个集团的营业利润同比增长 30% 。这样的经营表现，仍未抵消市场对现金流的失望：当季自由现金流为 负90.7亿美元 ，而市场此前期待它接近收支平衡。 谷歌已经把AI需求变成收入，接下来的考验是，这些收入需要占用多少资金，又能留下多少现金。 谷歌云正在扩大TPU系统销售。它开始承担更多硬件备货和交付的资金需求。与此同时，为了尽快承接云客户订单，谷歌还需要租用第三方算力。增长的两条路径，都有各自的成本。 谷歌的AI业务越做越大，投资者越需要重新评估每一美元收入的价值。 利润增长，已经盖不住现金缺口 Alphabet本季度收入约 1276亿美元 ，营业利润约 406亿美元 。归属普通股股东的净利润却同比下降约 25% ，至 262亿美元 。 公司在电话会",
+      "titleZh": "谷歌云收入翻倍，股价为什么还跌了？",
+      "summaryZh": "（本文作者为 强调Next，钛媒体经授权发布） 文 | 强调Next AI订单越多，谷歌需要提前垫付的钱也越多。股东担心的是，这轮增长何时能改善现金回报。 10月28日美股盘后，谷歌母公司Alphabet交出了一份云业务收入增长 103% 的财报，股价却跌超 10% 。 三季度，谷歌云收入达到 307亿美元 ，营业利润超过 111亿美元 。整个集团的营业利润同比增长 30% 。这样的经营表现，仍未抵消市场对现金流的失望：当季自由现金流为 负90.7亿美元 ，而市场此前期待它接近收支平衡。 谷歌已经把AI需求变成收入，接下来的考验是，这些收入需要占用多少资金，又能留下多少现金。 谷歌云正在扩大TPU系统销售。它开始承担更多硬件备货和交付的资金需求。与此同时，为了尽快承接云客户订单，谷歌还需要租用第三方算力。增长的两条路径，都有各自的成本。 谷歌的AI业务越做越大，投资者越需要重新评估每一美元收入的价值。 利润增长，已经盖不住现金缺口 Alphabet本季度收入约 1276亿美元 ，营业利润约 406亿美元 。归属普通股股东的净利润却同比下降约 25% ，至 262亿美元 。 公司在电话会",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185797.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T04:36:08.000Z",
+      "author": "强调Next",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "01652893400f23171e",
+      "titleOriginal": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
+      "summaryOriginal": "用 AI 生成一段十几秒的视频，已经不是什么难事了。 随着视频模型的进步，越来越多创作者开始尝试更复杂的内容。从最初的一条视频，到完整的短片、商业广告，再到有连续剧情和多个角色的剧集，AI 视频创作能够完成的作品也越来越丰富。 不过，当创作对象从单条视频变成一部完整作品，需要解决的问题也多了起来。 几十甚至上百个镜头，如何保证人物形象、服装和场景的一致性？修改一段剧情，能不能同步调整后面的分镜？已经生成的视频，如果只有几秒钟不满意，还需要全部重新生成吗？ 过去，即梦已经提供了不少面向短片、商业广告等专业创作场景的工具。现在，即梦开始进一步探索剧集创作，正式推出了短剧工作室。 从剧本创作、角色和场景资产管理，到 3D 导演台、智能预演、片段重拍以及超分等功能，即梦把这些工具放进了一套完整的创作流程中。 创作者可以从一句灵感开始，也可以直接导入已经写好的剧本，在同一个项目里完成后续的分镜设计、视频生成和修改。 图｜短剧工作室内的智能画布功能 APPSO 此前也探索过 AI 短剧的制作流程。我们曾用小云雀搭建过类似的短剧工作流，制作了一段《沙丘》风格的短片。 这次，即梦短剧工作室也整合了小云",
+      "titleZh": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
+      "summaryZh": "用 AI 生成一段十几秒的视频，已经不是什么难事了。 随着视频模型的进步，越来越多创作者开始尝试更复杂的内容。从最初的一条视频，到完整的短片、商业广告，再到有连续剧情和多个角色的剧集，AI 视频创作能够完成的作品也越来越丰富。 不过，当创作对象从单条视频变成一部完整作品，需要解决的问题也多了起来。 几十甚至上百个镜头，如何保证人物形象、服装和场景的一致性？修改一段剧情，能不能同步调整后面的分镜？已经生成的视频，如果只有几秒钟不满意，还需要全部重新生成吗？ 过去，即梦已经提供了不少面向短片、商业广告等专业创作场景的工具。现在，即梦开始进一步探索剧集创作，正式推出了短剧工作室。 从剧本创作、角色和场景资产管理，到 3D 导演台、智能预演、片段重拍以及超分等功能，即梦把这些工具放进了一套完整的创作流程中。 创作者可以从一句灵感开始，也可以直接导入已经写好的剧本，在同一个项目里完成后续的分镜设计、视频生成和修改。 图｜短剧工作室内的智能画布功能 APPSO 此前也探索过 AI 短剧的制作流程。我们曾用小云雀搭建过类似的短剧工作流，制作了一段《沙丘》风格的短片。 这次，即梦短剧工作室也整合了小云",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686343",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T04:02:26.000Z",
+      "author": "张子豪",
+      "tags": [
+        "guide",
+        "公司",
+        "3D 导演台",
+        "AI 视频",
+        "Seedance"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2b3501a170a6ac7dc2",
+      "titleOriginal": "让 Agent 读懂你的身体：数据处理篇",
+      "summaryOriginal": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "titleZh": "让 Agent 读懂你的身体：数据处理篇",
+      "summaryZh": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ... 查看全文 本文为会员文章，出自 《单篇文章》 ，订阅后可阅读全文。",
+      "translated": true,
+      "url": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T03:29:46.000Z",
+      "author": "叁思Santh",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "191f070ddb62d12b7f",
+      "titleOriginal": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+      "summaryOriginal": "22999 元起，触屏 MacBook Pro 发布，发光 logo 回归 Google 发布 Gemini 4 Carbon，超越 Opus 5.5 微软 Azure 营收增长 48%，Windows 设备业务下滑 22% SK 海力士单季营收首破 100 万亿韩元，预计内存供不应求持续至 2030 年 Google 云收入翻倍，Alphabet 单季自由现金流净流出 90.65 亿美元 韩国就应用内支付限制处罚 Google、苹果，罚款分别为 429 亿和 208.1 亿韩元 Marvell 洽购光通信厂商 Lumentum，最快下周宣布交易 OpenAI 拟采购 Google TPU，已招聘工程师适配前沿模型 纽约州签署 AI 陪伴新法，禁止向未成年人提供拟人化关系功能 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 SpaceXSI 招寿司厨师：时薪最高 35 美元，每天需能站立 10 小时 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 《影之刃零》发售前准备约 5GB 补丁，制作人回顾二十年创作历程 豆包回应「15 万群演资料喂给大模型」：项目数据不用于训练字",
+      "titleZh": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+      "summaryZh": "22999 元起，触屏 MacBook Pro 发布，发光 logo 回归 Google 发布 Gemini 4 Carbon，超越 Opus 5.5 微软 Azure 营收增长 48%，Windows 设备业务下滑 22% SK 海力士单季营收首破 100 万亿韩元，预计内存供不应求持续至 2030 年 Google 云收入翻倍，Alphabet 单季自由现金流净流出 90.65 亿美元 韩国就应用内支付限制处罚 Google、苹果，罚款分别为 429 亿和 208.1 亿韩元 Marvell 洽购光通信厂商 Lumentum，最快下周宣布交易 OpenAI 拟采购 Google TPU，已招聘工程师适配前沿模型 纽约州签署 AI 陪伴新法，禁止向未成年人提供拟人化关系功能 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 SpaceXSI 招寿司厨师：时薪最高 35 美元，每天需能站立 10 小时 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 《影之刃零》发售前准备约 5GB 补丁，制作人回顾二十年创作历程 豆包回应「15 万群演资料喂给大模型」：项目数据不用于训练字",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686590",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T00:00:32.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "research",
+        "早报",
+        "MacBook Pro",
+        "OpenAI",
+        "TPU"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b0fbfced4c005ad415",
+      "titleOriginal": "Quoting Ted Sanders",
+      "summaryOriginal": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered: Luna < Terra < Sol < Astr",
+      "titleZh": "引用Ted Sanders的话",
+      "summaryZh": "一般来说，法学硕士的表现是非常多维的。不能保证一个固定的顺序，其中最擅长数学的模型也是最擅长笑话的模型。尽管存在这种复杂性，但性能的大部分变化仅由一个变量来解释：模型大小。一般来说，较大的模型将（ a ）更高性能/更可靠， （ b ）每个代币的成本更高，以及（ c ）更好地回忆深奥的事实。如您所知，我们的型号已订购： LUNA < TERRA < SOL < ASTR",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:23:21.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "09f762edab0d4f1948",
+      "titleOriginal": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "summaryOriginal": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and long-form video for Instagram , Mosseri said he thinks there's a trend of \"more anxiety and more frustration and more anger about AI,\" particularly in creative industries: It's n",
+      "titleZh": "亚当·莫塞里（ Adam Mosseri ）表示，围绕人工智能的消极情绪“会变得更糟",
+      "summaryZh": "当被问及人工智能和大学生在毕业典礼上嘘科技CEO的趋势时， Instagram负责人Adam Mosseri在接受采访时承认，很多人真的不喜欢人工智能，而且不仅仅是年轻人和创意人员。Mosseri出现在Colin和Samir的播客上，谈论Instagram的宽屏和长视频的推出，他说他认为有一种“对人工智能更加焦虑、沮丧和愤怒”的趋势，特别是在创意行业：",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-28T23:05:39.000Z",
+      "author": "Stevie Bonifield",
+      "tags": [
+        "launch",
+        "Video"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -109,7 +488,7 @@
         "AI",
         "Enterprise",
         "TC",
-        "Microsoft"
+        "Azure"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -446,9 +825,9 @@
       "id": "24b289310b1971f470",
       "titleOriginal": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
       "summaryOriginal": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]",
-      "titleZh": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Wiz的首席技术官表示， “Vulnpocalypse”即将迎来互联网的老化代码",
+      "summaryZh": "PHP恐慌可能已经从您的Feed中消失，但清理工作远未结束。上周，大约70 ％的网站背后的开源语言中的两个关键错误使组织急于修复其系统，其中一些网站在修补漏洞之前会脱机。据研究人员称，他们发现[…]",
+      "translated": true,
       "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -471,9 +850,9 @@
       "id": "d0753be868cc7807af",
       "titleOriginal": "Microsoft is ending Copilot support on smart TVs",
       "summaryOriginal": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central . The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central' s Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to",
-      "titleZh": "Microsoft is ending Copilot support on smart TVs",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "微软终止对智能电视的Copilot支持",
+      "summaryZh": "根据Windows Central的一份报告，在LG和三星在CES 2025上宣布他们最新的智能电视将包括对微软Copilot的访问近两年后，该公司今年将终止对所有电视上AI助手功能的支持。这一消息并非来自LG、三星或微软的官方公告，而是来自今天早些时候出现在Windows Central的Zac Bowden的webOS驱动的LG电视上的屏幕通知。“微软最近决定",
+      "translated": true,
       "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -492,9 +871,9 @@
       "id": "e71c51112ff92ffc64",
       "titleOriginal": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
       "summaryOriginal": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
-      "titleZh": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "我派了一群人工智能特工来管理一支梦幻足球队。他们并不比人类优秀，但",
+      "summaryZh": "为了尝试人工智能的预测技能，我让法典在一个幻想团队中发挥作用。起初，它试图替换Erling Haaland ，但很快就学会了错误的方式。",
+      "translated": true,
       "url": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
       "sourceId": "wired",
       "sourceName": "WIRED AI",
@@ -558,9 +937,9 @@
       "id": "c44aa551102e17afec",
       "titleOriginal": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
       "summaryOriginal": "Google DeepMind has introduced Gemini 4 Carbon , its strongest model to date. Gemini 4 Carbon is a frontier model from Google built for long-horizon agentic coding and cybersecurity defense. It ranks #1 on the updated v5.0 Artificial Analysis Intelligence Index with a score of 59. For developers, the catch is access. Carbon starts with a vetted group of cyber defenders, not the public API. TL;DR Size: Parameter count and context window not disclosed. Its predecessor, Gemini 4 Argon , has a 1,048",
-      "titleZh": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "谷歌DeepMind推出其顶级网络防御和编码模型Gemini 4 Carbon",
+      "summaryZh": "谷歌DeepMind推出了Gemini 4 Carbon ，这是迄今为止最强大的型号。Gemini 4 Carbon是谷歌为长期代理编码和网络安全防御而打造的前沿模型。它在更新的V5.0人工智能指数中排名第一，得分为59分。对于开发人员来说，关键在于访问。Carbon从一群经过审查的网络防御者开始，而不是公共API。TL ； DR大小：未披露参数计数和上下文窗口。它的前身Gemini 4 Argon拥有1,048",
+      "translated": true,
       "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
       "sourceId": "marktechpost",
       "sourceName": "MarkTechPost",
@@ -626,9 +1005,9 @@
       "id": "d8fb4e7732a4a4aa8a",
       "titleOriginal": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
       "summaryOriginal": "MiniMax has open-sourced MCode Stack , the workflows and agent skills its team uses to build MiniMax Code. The MiniMax MCode Stack agent skills went public on October 28, 2026 under the MIT license . It is not a prompt collection. Each piece is a SKILL.md skill or checklist that installs directly into MiniMax Code . For developers, it turns harness engineering habits into steps an agent can actually run. TL;DR Size: 2 stacks, 17 skills (15 from Ronny, 2 from Jiachen), 5 checklists, 5 companion n",
-      "titleZh": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "MiniMax开源MCode堆栈：其编码团队每天使用的15种代理技能",
+      "summaryZh": "MiniMax拥有开源的MCode Stack ，其团队用于构建MiniMax代码的工作流和代理技能。MiniMax MCode Stack代理技能于2026年10月28日在MIT许可证下上市。它不是一个提示集合。每件作品都是SKILL.md技能或清单，可直接安装到MiniMax代码中。对于开发人员来说，它将利用工程习惯转化为代理实际运行的步骤。TL ； DR规模： 2组， 17项技能（ 15项来自Ronny ， 2项来自Jiachen ） ， 5份清单， 5名同伴n",
+      "translated": true,
       "url": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
       "sourceId": "marktechpost",
       "sourceName": "MarkTechPost",
@@ -651,9 +1030,9 @@
       "id": "b0da25ea6c1a296754",
       "titleOriginal": "Gemini 4 Carbon: Our next frontier model",
       "summaryOriginal": "",
-      "titleZh": "Gemini 4 Carbon: Our next frontier model",
+      "titleZh": "Gemini 4 Carbon ：我们的下一个前沿车型",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "sourceId": "deepmind",
       "sourceName": "Google DeepMind",
@@ -672,9 +1051,9 @@
       "id": "765a5a74d2443b200e",
       "titleOriginal": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
       "summaryOriginal": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "titleZh": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Chrome的人工智能自动填充功能现在可以在您的Gmail中进行挖掘以填写表单",
+      "summaryZh": "通过自动填充更新， Chrome浏览器可以在您允许的情况下，从您的收件箱中提取航班确认、跟踪信息、订单详细信息和其他信息。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -697,9 +1076,9 @@
       "id": "1e8ba9106ed897eba9",
       "titleOriginal": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "summaryOriginal": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
-      "titleZh": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "随着人工智能代理重塑网络，谷歌将Gemini和Search开放给更多应用程序",
+      "summaryZh": "一个新的开发者平台将允许企业将其服务带入谷歌的人工智能体验，这可能会改变消费者发现和使用应用的方式。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -7842,7 +8221,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 24
+      "count": 25
     },
     {
       "id": "mittr",
@@ -7874,7 +8253,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 16
+      "count": 17
     },
     {
       "id": "simonwillison",
@@ -7882,7 +8261,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 34
+      "count": 35
     },
     {
       "id": "oneusefulthing",
@@ -7898,7 +8277,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 26
+      "count": 27
     },
     {
       "id": "ifanr",
@@ -7906,7 +8285,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 17
+      "count": 19
     },
     {
       "id": "sspai",
@@ -7914,7 +8293,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 1
+      "count": 2
     },
     {
       "id": "tmtpost",
@@ -7922,7 +8301,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 40
+      "count": 46
     },
     {
       "id": "infoq",
@@ -7930,13 +8309,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 19
+      "count": 23
     }
   ],
   "stats": {
-    "total": 345,
-    "guides": 22,
-    "translated": 76,
+    "total": 362,
+    "guides": 27,
+    "translated": 88,
     "sources": 15
   }
 }
