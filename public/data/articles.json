@@ -1,6 +1,69 @@
 {
-  "generatedAt": "2026-10-29T05:58:22.910Z",
+  "generatedAt": "2026-10-29T13:16:32.750Z",
   "articles": [
+    {
+      "id": "23bc590ba1599da489",
+      "titleOriginal": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+      "summaryOriginal": "",
+      "titleZh": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T20:13:07.000Z",
+      "author": "李冬梅",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "88d8c31e2ac7db76e1",
+      "titleOriginal": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+      "summaryOriginal": "",
+      "titleZh": "AI+增长：员工提效了，企业为什么没多赚钱？｜上海鲸阙AI联合创始人 沈涛分享",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/aK6ADSkIvwf265yc8PuT",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T18:00:23.000Z",
+      "author": "木子",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "73ca686b3fdbbd18cf",
+      "titleOriginal": "Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争",
+      "summaryOriginal": "",
+      "titleZh": "Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/EQTckj5GQQymiQES22Bo",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T16:44:01.000Z",
+      "author": "褚杏娟",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "0328ce93e84857a633",
       "titleOriginal": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
@@ -23,6 +86,115 @@
       "readingMinutes": 2
     },
     {
+      "id": "57e5b7b58d645c40ef",
+      "titleOriginal": "生产级 AI：隐性故障、工程落地与智能体治理",
+      "summaryOriginal": "",
+      "titleZh": "生产级 AI：隐性故障、工程落地与智能体治理",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/tsyyFmCmzphHw4gWy7Fo",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T15:21:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6954beec8401148ed4",
+      "titleOriginal": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
+      "summaryOriginal": "谷歌云业务第三季度的亮眼增长被其他令华尔街失望的财务业绩所掩盖，尤其是谷歌搜索广告收入增长乏力。谷歌股价在盘后交易中下跌近10%。 负90亿美元自由现金流 财报显示，Alphabet三季度营收同比增长25%至1275.8亿美元，略低于华尔街预期；净利润同比下滑25%至261.7亿美元。由于在人工智能领域投入巨资，三季度自由现金流为负90多亿美元，而去年同期则为正240多亿美元，这也是连续第二季度为负。 那么钱都去哪里了。本季度资本支出514亿美元，大部分用于AI技术基础设施建设，其中65%是服务器和网络设备、35%用于数据中心。值得一提的是，谷歌TPU系统销售库存挤压及2018年欧盟罚款52亿美元现金支付影响，也在影响现金流情况，第三季度经营现金流423亿美元。 Alphabet CFO阿纳特&middot;阿什肯纳齐在财报会上指出，公司2026年全年资本支出指导区间1950亿至2050亿美 元保 持不变，预计2027年资本支出将显著增加。这使得外界更加关注谷歌这笔钱以及未来花的钱究竟值不值，而本季财报中唯一亮点的是谷歌云业务，而不是谷歌搜索。 一方面，Alphabet的基本盘搜索业务",
+      "titleZh": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
+      "summaryZh": "谷歌云业务第三季度的亮眼增长被其他令华尔街失望的财务业绩所掩盖，尤其是谷歌搜索广告收入增长乏力。谷歌股价在盘后交易中下跌近10%。 负90亿美元自由现金流 财报显示，Alphabet三季度营收同比增长25%至1275.8亿美元，略低于华尔街预期；净利润同比下滑25%至261.7亿美元。由于在人工智能领域投入巨资，三季度自由现金流为负90多亿美元，而去年同期则为正240多亿美元，这也是连续第二季度为负。 那么钱都去哪里了。本季度资本支出514亿美元，大部分用于AI技术基础设施建设，其中65%是服务器和网络设备、35%用于数据中心。值得一提的是，谷歌TPU系统销售库存挤压及2018年欧盟罚款52亿美元现金支付影响，也在影响现金流情况，第三季度经营现金流423亿美元。 Alphabet CFO阿纳特&middot;阿什肯纳齐在财报会上指出，公司2026年全年资本支出指导区间1950亿至2050亿美 元保 持不变，预计2027年资本支出将显著增加。这使得外界更加关注谷歌这笔钱以及未来花的钱究竟值不值，而本季财报中唯一亮点的是谷歌云业务，而不是谷歌搜索。 一方面，Alphabet的基本盘搜索业务",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186405.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T12:46:13.000Z",
+      "author": "TechHorizon",
+      "tags": [
+        "news",
+        "主编精选文章",
+        "谷歌",
+        "看财报"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1325ab1f61745e2286",
+      "titleOriginal": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+      "summaryOriginal": "10月29日，深兰科技举办新品发布会，正式推出 全球首款大模型 AI 智能体工作手机 Wowoker 。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。 本次发布会集结华为、中国移动等战略合作伙伴，现场举办多场订购合作签约仪式，面向政企、国央企、金融及泛企业市场，推出 “硬件 + SaaS + 数据 + AI” 四位一体企业级 AI 工作终端，推动企业销售管理从传统结果管理迈向 过程智能管控与人机协同 的全新发展阶段。 深兰科技创始人、董事长陈海波在开场致辞中表示，当下企业面临获客难、运营难和管理难三大“难点”。销售业务寻找客户线索难度大，销售沟通全过程无法监管，业务数据依赖人工录入容易失真、核心客户资产伴随人员离职发生流失、销售沟通违规风险难以提前防控。普通消费级 AI 手机聚焦个人娱乐问答场景，无法满足企业业务管控与数据安全的双重诉求。 深兰科技依托多年人工智能技术研发与产业落地实践，联合华为鸿蒙生态打造企业专属 AI 工作终端，以终端硬件为抓手，为千行百业提供兼顾安全可控与业务赋能的数字化底座。 而深兰智能体负责人张玉解读了产品技术架构、核心能力与产业价值。他介",
+      "titleZh": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
+      "summaryZh": "10月29日，深兰科技举办新品发布会，正式推出 全球首款大模型 AI 智能体工作手机 Wowoker 。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。 本次发布会集结华为、中国移动等战略合作伙伴，现场举办多场订购合作签约仪式，面向政企、国央企、金融及泛企业市场，推出 “硬件 + SaaS + 数据 + AI” 四位一体企业级 AI 工作终端，推动企业销售管理从传统结果管理迈向 过程智能管控与人机协同 的全新发展阶段。 深兰科技创始人、董事长陈海波在开场致辞中表示，当下企业面临获客难、运营难和管理难三大“难点”。销售业务寻找客户线索难度大，销售沟通全过程无法监管，业务数据依赖人工录入容易失真、核心客户资产伴随人员离职发生流失、销售沟通违规风险难以提前防控。普通消费级 AI 手机聚焦个人娱乐问答场景，无法满足企业业务管控与数据安全的双重诉求。 深兰科技依托多年人工智能技术研发与产业落地实践，联合华为鸿蒙生态打造企业专属 AI 工作终端，以终端硬件为抓手，为千行百业提供兼顾安全可控与业务赋能的数字化底座。 而深兰智能体负责人张玉解读了产品技术架构、核心能力与产业价值。他介",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186683.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T11:19:29.000Z",
+      "author": "财经雪者",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e9f4c3ac337c50fcc1",
+      "titleOriginal": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
+      "summaryOriginal": "2026 年，AI 正从模型竞争走向产业重构。 如果说过去三年，AI行业的重心在基础设施，模型、算力、数据中心，比的是谁建得更快、规模更大，在今年，应用端的爆发开始接棒，AI 在生物医药等领域陆续拿出此前难以想象的成果，智能第一次以产业结果，而非单一技术指标的方式证明自己。与此同时，行业用来命名“智能”的词也在更换，从AI到SI，围绕新概念的争论本身，说明智能的形态与边界正在被重新定义。安全与治理议题的权重，也在这一年显著上升。这些变化都指向同一个方向，智能正在从一项被单独评估的技术，变为产业流程中的一环，迁移的不止是技术本身，AI 落地产业的范式在变，人才与组织在重组，资本的流向在改道，连价值评估的方式也在跟着迁移。 12 月 6-8 日，2026 T-EDGE 创新大会将首次以北京-硅谷双城联动的形式举办，讨论在「智能大迁移」——The Intelligence Shift的背景下，全球会共同面对的十个问题。于此同时，钛媒体集团正式开启「2026 EDGE AWARDS 全球创新评选」，重新校准评估价值的标尺，邀请您一同参与和见证 2026 年的创新力量。 EDGE AWARDS",
+      "titleZh": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
+      "summaryZh": "2026 年，AI 正从模型竞争走向产业重构。 如果说过去三年，AI行业的重心在基础设施，模型、算力、数据中心，比的是谁建得更快、规模更大，在今年，应用端的爆发开始接棒，AI 在生物医药等领域陆续拿出此前难以想象的成果，智能第一次以产业结果，而非单一技术指标的方式证明自己。与此同时，行业用来命名“智能”的词也在更换，从AI到SI，围绕新概念的争论本身，说明智能的形态与边界正在被重新定义。安全与治理议题的权重，也在这一年显著上升。这些变化都指向同一个方向，智能正在从一项被单独评估的技术，变为产业流程中的一环，迁移的不止是技术本身，AI 落地产业的范式在变，人才与组织在重组，资本的流向在改道，连价值评估的方式也在跟着迁移。 12 月 6-8 日，2026 T-EDGE 创新大会将首次以北京-硅谷双城联动的形式举办，讨论在「智能大迁移」——The Intelligence Shift的背景下，全球会共同面对的十个问题。于此同时，钛媒体集团正式开启「2026 EDGE AWARDS 全球创新评选」，重新校准评估价值的标尺，邀请您一同参与和见证 2026 年的创新力量。 EDGE AWARDS",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8185865.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:49:22.000Z",
+      "author": "小钛的朋友圈",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4db8c6ef2e927fa5b3",
+      "titleOriginal": "Agentic Cloud，阿里云如何接住模型之后的生意",
+      "summaryOriginal": "最近，Personal Agent「千问Go！」掀起了一阵热潮，参与测试的用户经历被反复转发：用户只说了一句“帮我沟通赔偿”，它就去查订单、核对航班动态、联系客服，甚至把平台原本只肯给的代金券，争取成了70元现金。而这并非孤例：市场上也正推出同类产品，Meta的Muse、Manus的Cue，以及国内多家厂商的产品密集面世。 这一系列信号正在印证，Agent已经从走出演示阶段，走进日常事务，规模化落地已经开始。今年5月，Gartner预测，AI智能体软件支出将从2025年的864亿美元，增至2026年的2065亿美元，并于2027年达到3763亿美元。 但要实现规模化，需要满足一个更为现实的前提：上一个技术时代，云原生成为了应用运行的标准，也定义了云的技术形态。如今，Agent开始规模化落地，需要的是“另一朵云”。 区别在于任务的形态：一个回答问题的应用，可以在返回文本后结束请求；一个替用户办事的Agent，要等待外部系统响应，在中途生成文件，再根据反馈调整下一步，用户关掉界面，任务也未必结束。当这样的任务以亿为单位运行，云要交付的就不再只是算力和模型，而是一套能让Agent持续运行的环",
+      "titleZh": "Agentic Cloud，阿里云如何接住模型之后的生意",
+      "summaryZh": "最近，Personal Agent「千问Go！」掀起了一阵热潮，参与测试的用户经历被反复转发：用户只说了一句“帮我沟通赔偿”，它就去查订单、核对航班动态、联系客服，甚至把平台原本只肯给的代金券，争取成了70元现金。而这并非孤例：市场上也正推出同类产品，Meta的Muse、Manus的Cue，以及国内多家厂商的产品密集面世。 这一系列信号正在印证，Agent已经从走出演示阶段，走进日常事务，规模化落地已经开始。今年5月，Gartner预测，AI智能体软件支出将从2025年的864亿美元，增至2026年的2065亿美元，并于2027年达到3763亿美元。 但要实现规模化，需要满足一个更为现实的前提：上一个技术时代，云原生成为了应用运行的标准，也定义了云的技术形态。如今，Agent开始规模化落地，需要的是“另一朵云”。 区别在于任务的形态：一个回答问题的应用，可以在返回文本后结束请求；一个替用户办事的Agent，要等待外部系统响应，在中途生成文件，再根据反馈调整下一步，用户关掉界面，任务也未必结束。当这样的任务以亿为单位运行，云要交付的就不再只是算力和模型，而是一套能让Agent持续运行的环",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8182516.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:45:28.000Z",
+      "author": "TechPulse",
+      "tags": [
+        "guide",
+        "Agent"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
       "id": "2f22e057d80dee3306",
       "titleOriginal": "AI 用起来了，业务价值谁来打分？",
       "summaryOriginal": "",
@@ -41,6 +213,213 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f9c4a621ca934c1e1d",
+      "titleOriginal": "为什么新模型发布，都要先做一个游戏？",
+      "summaryOriginal": "终于等到了！《影之刃零》发售了！ 这款从 2023 年首次亮相、经过多轮实机演示和跳票（划掉）的国产动作游戏，今天正式登陆 PC 和 PS5。 再过三个星期，另一场持续多年的等待也将结束，《GTA 6》定于 11 月 19 日发售 一款大作面世，人们早已习惯以「年」为单位计算时间。开发团队要搭建城市和关卡，设计战斗规则，让角色、武器、物理与画面在玩家按下每一个按钮时正确合作。 另一边，几乎每款新的 AI 模型发布后，互联网上都会迅速出现一批游戏——速度堪比 Steam 上新。 Claude Opus 5.5 发布时，Anthropic 特意展示了不同模型根据同一条提示词制作游戏的结果，并称 Opus 5.5 在画面和完成度上得分最高。OpenAI 介绍 GPT-6 Astra 的计算机操作能力，也把游戏开发放进重点演示，一位开发者用它制作了一段可以游玩的伦敦历史。 ▲ 图片来源：soonlab.ai Kimi K3.1 Pro 上线后，社区又让它与 Claude、GPT 和 DeepSeek 同场制作第一人称射击、农场、赛车与迷宫游戏，比较生成时间、价格和最终效果。最新推出的 Geni",
+      "titleZh": "为什么新模型发布，都要先做一个游戏？",
+      "summaryZh": "终于等到了！《影之刃零》发售了！ 这款从 2023 年首次亮相、经过多轮实机演示和跳票（划掉）的国产动作游戏，今天正式登陆 PC 和 PS5。 再过三个星期，另一场持续多年的等待也将结束，《GTA 6》定于 11 月 19 日发售 一款大作面世，人们早已习惯以「年」为单位计算时间。开发团队要搭建城市和关卡，设计战斗规则，让角色、武器、物理与画面在玩家按下每一个按钮时正确合作。 另一边，几乎每款新的 AI 模型发布后，互联网上都会迅速出现一批游戏——速度堪比 Steam 上新。 Claude Opus 5.5 发布时，Anthropic 特意展示了不同模型根据同一条提示词制作游戏的结果，并称 Opus 5.5 在画面和完成度上得分最高。OpenAI 介绍 GPT-6 Astra 的计算机操作能力，也把游戏开发放进重点演示，一位开发者用它制作了一段可以游玩的伦敦历史。 ▲ 图片来源：soonlab.ai Kimi K3.1 Pro 上线后，社区又让它与 Claude、GPT 和 DeepSeek 同场制作第一人称射击、农场、赛车与迷宫游戏，比较生成时间、价格和最终效果。最新推出的 Geni",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686650",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:22:21.000Z",
+      "author": "Selina",
+      "tags": [
+        "guide",
+        "公司",
+        "AI 编程",
+        "Claude Opus",
+        "游戏设计"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ec5ac67c7615d36c61",
+      "titleOriginal": "Google's AI search problem finally shows up in the earnings report, some investors believe",
+      "summaryOriginal": "Google's stock dropped as much as ten percent after its quarterly earnings. Cloud revenue more than doubled to $30.7 billion, but search revenue grew just 12 percent, slower than expected. Google acknowledged that its fast-growing AI mode brings in less revenue than traditional search, and it is now expanding its AI mode ad program internationally. The article Google's AI search problem finally shows up in the earnings report, some investors believe appeared first on The Decoder .",
+      "titleZh": "一些投资者认为，谷歌的人工智能搜索问题终于出现在收益报告中",
+      "summaryZh": "谷歌的股价在季度盈利后下跌了10%。云收入翻了一番多，达到307亿美元($) ，但搜索收入仅增长了12% ，低于预期。谷歌承认，其快速增长的人工智能模式带来的收入低于传统搜索，目前正在国际上扩展其人工智能模式广告计划。谷歌的人工智能搜索问题最终出现在收益报告中，一些投资者认为首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T10:16:34.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Google"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "92831c037f73c6c442",
+      "titleOriginal": "AI引发影视大迁徙：李世民下山、马景涛飞天、张艺兴远赴美国",
+      "summaryOriginal": "（本文作者为 摩登AI，钛媒体经授权发布） 文 | 摩登AI 今年，不少熟悉演员都消失视野中，头部流量演员也频传出国镀金的消息：张艺兴赴美读电影学位，金晨和孟佳结伴去洛杉矶学语言。 过去明星消息大多是进组拍戏、参加节目，不会长期消失在公众视野，怕消失久了就会过气。 但现在情况不一样了，AI来了。 今年开始，新剧开机率只有去年三成，新短剧超九成都是AI制作，演员工作机会越来越少。 出国镀金，去景区做NPC，回家做小本生意，转行去制作公司打工赚钱…… 凛冬已至，各谋生路。 演员按下暂停键 10月，金晨和孟佳上了热搜。俩人刚落地洛杉矶就被泼了一盆冷水：两人报名的当地一家老牌语言学校宣布破产停业，学费也没退。 此前，金晨原本定好的品牌直播取消了，常驻了三季的综艺《现在就出发》第四季也没有出现她的名字。工作停摆，她决定去美国学语言。 同行的孟佳也因为国内的舞台越来越少，索性给自己放了三个月的假。 过去演艺圈的演员们忙着进组拍戏，生怕过气；但现在，内娱演艺人们排着飞到大洋彼岸留学。 今年35岁的张艺兴在社交平台上把名字改成了“张艺兴（留了又留版）”，报考美国的学校，从头开始学摄影、灯光和剪辑。 4",
+      "titleZh": "AI引发影视大迁徙：李世民下山、马景涛飞天、张艺兴远赴美国",
+      "summaryZh": "（本文作者为 摩登AI，钛媒体经授权发布） 文 | 摩登AI 今年，不少熟悉演员都消失视野中，头部流量演员也频传出国镀金的消息：张艺兴赴美读电影学位，金晨和孟佳结伴去洛杉矶学语言。 过去明星消息大多是进组拍戏、参加节目，不会长期消失在公众视野，怕消失久了就会过气。 但现在情况不一样了，AI来了。 今年开始，新剧开机率只有去年三成，新短剧超九成都是AI制作，演员工作机会越来越少。 出国镀金，去景区做NPC，回家做小本生意，转行去制作公司打工赚钱…… 凛冬已至，各谋生路。 演员按下暂停键 10月，金晨和孟佳上了热搜。俩人刚落地洛杉矶就被泼了一盆冷水：两人报名的当地一家老牌语言学校宣布破产停业，学费也没退。 此前，金晨原本定好的品牌直播取消了，常驻了三季的综艺《现在就出发》第四季也没有出现她的名字。工作停摆，她决定去美国学语言。 同行的孟佳也因为国内的舞台越来越少，索性给自己放了三个月的假。 过去演艺圈的演员们忙着进组拍戏，生怕过气；但现在，内娱演艺人们排着飞到大洋彼岸留学。 今年35岁的张艺兴在社交平台上把名字改成了“张艺兴（留了又留版）”，报考美国的学校，从头开始学摄影、灯光和剪辑。 4",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186403.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:15:36.000Z",
+      "author": "摩登AI",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7fc8af86bfe3110180",
+      "titleOriginal": "一级市场的时间刻度与耐心之问",
+      "summaryOriginal": "（本文作者为 产业观察室，钛媒体经授权发布） 文 | 产业观察室 一笔融资与一级市场的冷暖刻度 近期，新石器宣布完成了E轮近4亿美元融资，这轮融资由博裕投资与国家级人工智能产业投资基金联合领投，阿里巴巴等多家新老股东一同入场。 至此，新石器已累计融资破百亿。这个体量在无人配送车行业相当令人瞩目，可以说是2026年一级市场的一个缩影。 一条还没有跑通规模化盈利的赛道，资本已在重金入局了。 估值跑在盈利前面，似乎是当前一级市场一个鲜明的特征。 上半年新募基金3981只，规模10494.64亿元，同比分别上升95.8%、49.6%；投资5944起，约5654亿元，增幅分别是14.7%、31.9%；退出2503笔，增幅8.3%，其中IPO退出1732笔，增幅198.6%；并购退出368笔，增幅94.7%。 清科研究中心的这个数据非常清晰，募、投、退三方面均呈现齐涨态势。 但曲线越陡，市场对盈利兑现的期待往往也会更高。 数字回暖 下的结构偏斜 及“非主流存在” 然而，数字的回暖与结构的偏斜也在同时发生。 上半年，在11330家存续管理人中，国资背景3986家，占35.2%，却管理着整个市场71.",
+      "titleZh": "一级市场的时间刻度与耐心之问",
+      "summaryZh": "（本文作者为 产业观察室，钛媒体经授权发布） 文 | 产业观察室 一笔融资与一级市场的冷暖刻度 近期，新石器宣布完成了E轮近4亿美元融资，这轮融资由博裕投资与国家级人工智能产业投资基金联合领投，阿里巴巴等多家新老股东一同入场。 至此，新石器已累计融资破百亿。这个体量在无人配送车行业相当令人瞩目，可以说是2026年一级市场的一个缩影。 一条还没有跑通规模化盈利的赛道，资本已在重金入局了。 估值跑在盈利前面，似乎是当前一级市场一个鲜明的特征。 上半年新募基金3981只，规模10494.64亿元，同比分别上升95.8%、49.6%；投资5944起，约5654亿元，增幅分别是14.7%、31.9%；退出2503笔，增幅8.3%，其中IPO退出1732笔，增幅198.6%；并购退出368笔，增幅94.7%。 清科研究中心的这个数据非常清晰，募、投、退三方面均呈现齐涨态势。 但曲线越陡，市场对盈利兑现的期待往往也会更高。 数字回暖 下的结构偏斜 及“非主流存在” 然而，数字的回暖与结构的偏斜也在同时发生。 上半年，在11330家存续管理人中，国资背景3986家，占35.2%，却管理着整个市场71.",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186320.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:15:31.000Z",
+      "author": "产业观察室",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c262b84215ab95ffb8",
+      "titleOriginal": "中国台湾新首富：身家1350亿，公司毛利赶超英伟达、台积电",
+      "summaryOriginal": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 中国台湾首富又换人了！ 10月27日，胡润研究院发布《2026胡润百富榜》。榜单显示，85岁的川湖科技创始人、董事长林聪吉，一年之内身家暴涨335%，达到1350亿元人民币，新晋成为中国台湾首富。 和常年霸占财经版面的芯片大佬、豪门家族比起来，这位新首富的履历格外特别。 林聪吉小学辍学，进入家具作坊当学徒，之后大半辈子都在和机械五金打交道。而他一手创办的川湖科技，主营产品也不是高大上的算法或芯片，而是机柜里再普通不过的金属滑轨。 但就是这家从传统铁工厂起步的企业，如今不仅吃下了全球八成的高端服务器滑轨市场，2026年第二季度毛利率更高达87.42%，甚至超过了客户英伟达、台积电。 林聪吉究竟是如何靠着两根不起眼的铁条，超越郭台铭、陈泰铭等一众商界大佬，在85岁高龄站上财富之巅的？ 一、一年狂涨335%，卖滑轨的老翁挤下商界大佬 《2026胡润百富榜》显示，在中国台湾的115位上榜企业家里，林聪吉家族凭借1040亿元的年度财富增量、高达335%的惊人涨幅，以1350亿元身家冲上中国台湾榜首，位列总榜第29名。 林聪吉的登顶，改",
+      "titleZh": "中国台湾新首富：身家1350亿，公司毛利赶超英伟达、台积电",
+      "summaryZh": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 中国台湾首富又换人了！ 10月27日，胡润研究院发布《2026胡润百富榜》。榜单显示，85岁的川湖科技创始人、董事长林聪吉，一年之内身家暴涨335%，达到1350亿元人民币，新晋成为中国台湾首富。 和常年霸占财经版面的芯片大佬、豪门家族比起来，这位新首富的履历格外特别。 林聪吉小学辍学，进入家具作坊当学徒，之后大半辈子都在和机械五金打交道。而他一手创办的川湖科技，主营产品也不是高大上的算法或芯片，而是机柜里再普通不过的金属滑轨。 但就是这家从传统铁工厂起步的企业，如今不仅吃下了全球八成的高端服务器滑轨市场，2026年第二季度毛利率更高达87.42%，甚至超过了客户英伟达、台积电。 林聪吉究竟是如何靠着两根不起眼的铁条，超越郭台铭、陈泰铭等一众商界大佬，在85岁高龄站上财富之巅的？ 一、一年狂涨335%，卖滑轨的老翁挤下商界大佬 《2026胡润百富榜》显示，在中国台湾的115位上榜企业家里，林聪吉家族凭借1040亿元的年度财富增量、高达335%的惊人涨幅，以1350亿元身家冲上中国台湾榜首，位列总榜第29名。 林聪吉的登顶，改",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186251.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:15:27.000Z",
+      "author": "新质动能",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f863128399a5ccb37f",
+      "titleOriginal": "We urgently need to monitor AI agents’ actions in real time",
+      "summaryOriginal": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem that’s by no means confined to OpenAI. In the months since, Anthropic, Google, and Meta have also disclosed incidents in which their agents have gone off tra",
+      "titleZh": "我们迫切需要实时监控AI代理的行为",
+      "summaryZh": "今年夏天，数百名OpenAI特工试图在网络安全测试中作弊。他们突破了测试环境，成功入侵了Hugging Face ，他们认为这个网站提供了关于他们如何评分的线索。大约在同一时间，另一名OpenAI代理从澳大利亚政府网站访问了私人文件。这个问题绝不仅限于OpenAI。在此后的几个月里， Anthropic、Google和Meta也披露了他们的代理人",
+      "translated": true,
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "author": "Madhulika Srikumar, Claire Leibowicz",
+      "tags": [
+        "analysis",
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Opinion"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dbb140b56cd1c0aeee",
+      "titleOriginal": "云厂商“三兄弟”业绩放榜，AI吞金兽继续发威",
+      "summaryOriginal": "（本文作者为 一千二百字，钛媒体经授权发布） 文 | 一千二百字 微软和谷歌今天同步进行三季度业绩放榜，自然年Q3在微软对应的是它2027财年Q1。本周亚马逊也将发财报，美国五大云厂商中主要的三兄弟集中放榜，自然吸引外界在AI语境下的业绩对比分析。这三家公司在最新全球科技公司市值排行榜中，也是紧挨着分列第三、四、五位，排在英伟达和苹果之后。 在发财报前，微软被曝刚启动了一轮密集的削减成本计划，引起业界震动。先是微软Azure部门总裁要求员工针对云服务器租赁业务拿出降低20%成本的方案，后被微软否认了该报道；随后多家海外主流媒体报道，10月份微软人力资源部门在内部推出自愿离职计划，可能涉及5-6万名员工，占比约四分之一，这将是公司史上最大的一次自愿离职方案。该方案涉及的词是buyout，可以理解为“买断”。在今年7月微软刚针对老员工推出的自愿退休项目中，8750名符合资格的员工有超30%接受了买断方案。10月份这次的离职意愿比例及其引起的震荡尚无法估量。 这些改变都与AI相关，这里将微软和谷歌放在一起，做一个资本性支出和自由现金流的对比分析，看看AI吞金兽究竟对云计算大厂施加了多大压力。",
+      "titleZh": "云厂商“三兄弟”业绩放榜，AI吞金兽继续发威",
+      "summaryZh": "（本文作者为 一千二百字，钛媒体经授权发布） 文 | 一千二百字 微软和谷歌今天同步进行三季度业绩放榜，自然年Q3在微软对应的是它2027财年Q1。本周亚马逊也将发财报，美国五大云厂商中主要的三兄弟集中放榜，自然吸引外界在AI语境下的业绩对比分析。这三家公司在最新全球科技公司市值排行榜中，也是紧挨着分列第三、四、五位，排在英伟达和苹果之后。 在发财报前，微软被曝刚启动了一轮密集的削减成本计划，引起业界震动。先是微软Azure部门总裁要求员工针对云服务器租赁业务拿出降低20%成本的方案，后被微软否认了该报道；随后多家海外主流媒体报道，10月份微软人力资源部门在内部推出自愿离职计划，可能涉及5-6万名员工，占比约四分之一，这将是公司史上最大的一次自愿离职方案。该方案涉及的词是buyout，可以理解为“买断”。在今年7月微软刚针对老员工推出的自愿退休项目中，8750名符合资格的员工有超30%接受了买断方案。10月份这次的离职意愿比例及其引起的震荡尚无法估量。 这些改变都与AI相关，这里将微软和谷歌放在一起，做一个资本性支出和自由现金流的对比分析，看看AI吞金兽究竟对云计算大厂施加了多大压力。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186340.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T10:10:15.000Z",
+      "author": "一千二百字",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9cd5509199bff92612",
+      "titleOriginal": "AI has come for Arizona’s water",
+      "summaryOriginal": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one building, and then another, and then the ground opens up where construction crews have dug up the earth so a third building can rise. There is a parking lot",
+      "titleZh": "人工智能已经来到了亚利桑那州的水源",
+      "summaryZh": "一个巨大的灰色巨人从沙漠中升起。在内部，工程师为我们的手机、电脑和电器、流媒体服务、搜索引擎和聊天机器人以及氛围编码的应用程序和网站创造了力量。这个建筑群既庞大又矮小，与周围的山脉相形见绌，而且是无穷无尽的。我开车经过一栋建筑物，然后是另一栋建筑物，然后地面开辟出来，施工人员挖掘了土壤，因此第三栋建筑物可以升起。有停车场",
+      "translated": true,
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-29T10:00:04.000Z",
+      "author": "Gaby Del Valle",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "17185e5bddec7c6eb2",
+      "titleOriginal": "I Gave My Blood to the AI Death Clock",
+      "summaryOriginal": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "titleZh": "我把血献给了AI死亡时钟",
+      "summaryZh": "死亡时钟承诺预测您何时死亡，并帮助您延长在地球上的时间。一个月后，我觉得它在吮吸我的生命。",
+      "translated": true,
+      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "author": "Jason Parham",
+      "tags": [
+        "analysis",
+        "The Big Story",
+        "Culture",
+        "Science"
+      ],
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
@@ -86,6 +465,31 @@
       "readingMinutes": 2
     },
     {
+      "id": "c8889526df5c769c31",
+      "titleOriginal": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+      "summaryOriginal": "Infini-AI-Lab has released Hermit , an open-source harness adapter framework for AI agents. Hermit is a framework from Infini-AI-Lab that trains an external ‘harness adapter’ while the agent’s model and harness stay frozen. The first release, v0.1.0 , shipped on October 25, 2026. CMU postdoc Haizhong Zheng announced it on X on October 27. For developers, the pitch is simple: adapt Codex or Claude Code agents to new tasks without fine-tuning or forking the harness. TL;DR Footprint: A Python frame",
+      "titleZh": "Infini-AI-Lab发布面向人工智能代理的开源线束适配器框架Hermit",
+      "summaryZh": "Infini-AI-Lab发布了Hermit ，这是一个用于AI代理的开源线束适配器框架。Hermit是Infini-AI-Lab的框架，用于训练外部“线束适配器” ，而代理的模型和线束则保持不变。第一个版本v0.1.0于2026年10月25日发布。CMU博士后Haizhong Zheng于10月27日在X上宣布了这一消息。对于开发人员来说，简介很简单：让Codex或Claude Code代理适应新任务，而无需对线束进行微调或分叉。TL; DR封装： Python框架",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-29T08:24:52.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "b7164e56f75105c9c0",
       "titleOriginal": "亚马逊云科技开源智能体“决策器”和“安全箱”，但并发与冷启动仍待解决",
       "summaryOriginal": "",
@@ -107,9 +511,84 @@
       "readingMinutes": 2
     },
     {
+      "id": "281b82320b75120bf0",
+      "titleOriginal": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+      "summaryOriginal": "Block’s AI research lab has released Dessa , a full-duplex speech model trained only on human conversation. Block announced it on October 23, 2026 as a research preview. Dessa is a speech-to-speech model from Block that listens and talks at the same time. Block says it used no text and no pretrained models. That is a different design from the text-first stacks behind most voice agents today. TL;DR Runs on: A MacBook Pro M4 Max or better, locally, faster than real time. Performance: Demo-only so",
+      "titleZh": "Block推出DESSA ，这是一种全双工语音模型，仅受过语音训练",
+      "summaryZh": "Block的人工智能研究实验室发布了Dessa ，这是一种仅在人类对话上训练的全双工语音模型。Block于2026年10月23日宣布将其作为研究预览。Dessa是Block的语音转语音模型，可以同时倾听和说话。Block说它没有使用文本，也没有预先训练的模型。这与当今大多数语音座席背后的文本优先堆栈不同。TL; DR运行于： MacBook Pro M4 Max或更高版本，本地，比实时更快。性能：仅限演示",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-29T07:50:39.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Artificial Intelligence",
+        "Audio Language Model",
+        "Editors Pick",
+        "Language Model"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b864fbcc4827fee2eb",
+      "titleOriginal": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+      "summaryOriginal": "AssemblyAI has released AssemblyAI-TTS-1 , its first text-to-speech model, now generally available. The AssemblyAI-TTS-1 text-to-speech API targets voice agents running on live phone calls. In that setting, latency and pronunciation decide whether a caller stays on the line. Pricing is $15 per 1M characters , with no annual contract and no concurrency tier to buy. For developers already using AssemblyAI speech-to-text, it closes the voice loop with one vendor. TL;DR Size: It is a hosted API mode",
+      "titleZh": "AssemblyAI发货AssemblyAI-TTS-1 ：每100万字符15 $语音代理文字转语音API",
+      "summaryZh": "AssemblyAI发布了其首个文本到语音转换模型AssemblyAI-TTS-1 ，现已正式推出。AssemblyAI-TTS-1文本转语音API面向在实时电话呼叫中运行的语音座席。在该设置中，延迟和发音决定呼叫者是否留在线路上。定价为每100万个字符15 $ ，没有年度合同，也没有可购买的并发层。对于已经使用AssemblyAI语音到文本的开发人员，它关闭了一个供应商的语音循环。TL; DR大小：这是一种托管API模式",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-29T07:28:36.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "36e624e6b82582f9fc",
+      "titleOriginal": "不认字的 AI，却很会说话",
+      "summaryOriginal": "用语音和 AI 聊天早已不是新鲜事，但市面上绝大多数语音助手的底层逻辑其实是在「念稿」——先把人说的话转成文字，交由文本大模型思考，最后再用语音合成技术朗读出来。 由前推特联合创始人推出的语音模型 Dessa，彻底绕开了文字这座桥梁，试图证明机器的知识与对话能力可以直接从声音本身生长出来。 「既然人类婴儿在识字之前就已经学会了说话，机器为什么不能走同样的路？」Jack Dorsey 抱着这样的决心于是这样做了一个 AI 实验室。Jack Dorsey 是现在的X、从前的推特的创始人之一，现在有一家自己的公司 Block，核心业务是 Square 和 Cash App 等金融支付产品。Dessa 是旗下的研究团队，只关注 AI 研究，直接向公司创始人 Jack Dorsey 汇报。 把文字从训练过程中剔除，是因为文字天然会过滤掉大量信息。文字把一句话固定成一串静态的字符，而声音每一次响起都千差万别。Block 团队表示，完全浸泡在声音里长大的 Dessa 不仅能边听边说、自然插话，随时给出「嗯」「是的」这类附和，甚至能直接在一台配备 M4 Max 芯片的 MacBook Pro 上本地运",
+      "titleZh": "不认字的 AI，却很会说话",
+      "summaryZh": "用语音和 AI 聊天早已不是新鲜事，但市面上绝大多数语音助手的底层逻辑其实是在「念稿」——先把人说的话转成文字，交由文本大模型思考，最后再用语音合成技术朗读出来。 由前推特联合创始人推出的语音模型 Dessa，彻底绕开了文字这座桥梁，试图证明机器的知识与对话能力可以直接从声音本身生长出来。 「既然人类婴儿在识字之前就已经学会了说话，机器为什么不能走同样的路？」Jack Dorsey 抱着这样的决心于是这样做了一个 AI 实验室。Jack Dorsey 是现在的X、从前的推特的创始人之一，现在有一家自己的公司 Block，核心业务是 Square 和 Cash App 等金融支付产品。Dessa 是旗下的研究团队，只关注 AI 研究，直接向公司创始人 Jack Dorsey 汇报。 把文字从训练过程中剔除，是因为文字天然会过滤掉大量信息。文字把一句话固定成一串静态的字符，而声音每一次响起都千差万别。Block 团队表示，完全浸泡在声音里长大的 Dessa 不仅能边听边说、自然插话，随时给出「嗯」「是的」这类附和，甚至能直接在一台配备 M4 Max 芯片的 MacBook Pro 上本地运",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686124",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T07:03:36.000Z",
+      "author": "Selina",
+      "tags": [
+        "research",
+        "公司",
+        "Block",
+        "XAI",
+        "人机交互"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "78617a408aa03fe844",
       "titleOriginal": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "summaryOriginal": "a quiet day. AI News for 10/27/2026-10/28/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews' website lets you search all past issues. As a reminder, AINews is now a section of Latent Space . You can opt in/out of email frequencies! AI Twitter Recap Gemini 4 Carbon Tops Independent Leaderboards, with Access Limited to Cyber Defenders Launch : Google DeepMind announced Gemini 4 Carbon two weeks after Argon. It is positioned as state of the art on cybersecurity and long-h",
+      "summaryOriginal": "It’s a good thing we published our Opus 5.5 podcast calling it the world’s best model before today’s launch. In a very pleasant surprise, Gemini announced Carbon , a newer frontier model than the 3 week old Argon , with fantastic benchmarks: Taking it to the new #1 on the Artificial Analysis consolidated benchmark, putting GDM in the lead for possibly the first time in AAII history: View post on X ↗ sd AI News for 10/27/2026-10/28/2026. We checked 12 subreddits, 544 Twitters and no further Disco",
       "titleZh": "[AINews] Gemini 4 Carbon在排行榜上名列前茅，为网络防御者推出",
       "summaryZh": "安静的一天。2026年10月27日至2026年10月28日的AI新闻。我们检查了12个子版块， 544个推特，没有进一步的Discords。AINews的网站允许您搜索所有过去的问题。请注意， AINews现在是潜在空间的一部分。您可以选择加入/退出电子邮件频率！ AI Twitter回顾Gemini 4 Carbon Tops独立排行榜，仅限于网络防御者发布： Google DeepMind在Argon发布两周后宣布推出Gemini 4 Carbon。它被定位为网络安全和long-h方面的最先进技术",
       "translated": true,
@@ -122,10 +601,10 @@
       "publishedAt": "2026-10-29T05:55:19.000Z",
       "author": "swyx .ai",
       "tags": [
-        "launch",
+        "research",
         "ainews: weekday roundups"
       ],
-      "category": "launch",
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -1101,9 +1580,9 @@
       "id": "c802108aab79694f5d",
       "titleOriginal": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
       "summaryOriginal": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number , email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself. The expand",
-      "titleZh": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Chrome浏览器增强的自动填充功能现在可以从Gmail中提取信息，帮助您填写表单",
+      "summaryZh": "继去年对Chrome浏览器增强的自动填充功能（包括您的姓名、护照号码、电子邮件地址以及来自您的Google帐户和Google钱包等服务的实际地址）进行了改进之后，该功能现在正在扩展。从今天开始， Chrome浏览器增强的自动填充功能将使用带有个人智能的Gemini来建议来自Gmail的信息，这可能使您无需自己搜索确认电子邮件、收据或邮寄更新。",
+      "translated": true,
       "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -1122,9 +1601,9 @@
       "id": "becd12354f283ff0a3",
       "titleOriginal": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
       "summaryOriginal": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too. The article Google opens Android development to third-party AI agents and unveils new Gemini APIs appeared firs",
-      "titleZh": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "谷歌向第三方人工智能代理开放Android开发，并推出新的Gemini API",
+      "summaryZh": "谷歌正在向第三方AI代理开放Android Studio。通过新的“Bring Your Own Agent”功能， IDE现在支持40多个编码代理，包括Anthropic的Claude Agent和OpenAI的Codex。谷歌表示，新的终端工具还可以帮助代理以77 ％的速度完成UI任务，同时使用的代币最多可减少三倍。Android开发也正变得以代理为中心。Google向第三方AI代理开放Android开发并推出新的Gemini API的文章",
+      "translated": true,
       "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -1449,9 +1928,9 @@
       "id": "75e2017ed4c5a2ecba",
       "titleOriginal": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "summaryOriginal": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "titleZh": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "titleZh": "OpenAI和ServiceNow扩展跨企业工作流程的合作伙伴关系",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -4939,7 +5418,8 @@
         "analysis",
         "Artificial intelligence",
         "AI",
-        "App"
+        "App",
+        "Opinion"
       ],
       "category": "analysis",
       "readingMinutes": 2
@@ -8221,7 +8701,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 25
+      "count": 26
     },
     {
       "id": "mittr",
@@ -8229,7 +8709,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 12
+      "count": 13
     },
     {
       "id": "wired",
@@ -8237,7 +8717,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 16
+      "count": 17
     },
     {
       "id": "thedecoder",
@@ -8245,7 +8725,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 21
+      "count": 22
     },
     {
       "id": "marktechpost",
@@ -8253,7 +8733,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 17
+      "count": 20
     },
     {
       "id": "simonwillison",
@@ -8285,7 +8765,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 19
+      "count": 21
     },
     {
       "id": "sspai",
@@ -8301,7 +8781,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 46
+      "count": 54
     },
     {
       "id": "infoq",
@@ -8309,13 +8789,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 23
+      "count": 27
     }
   ],
   "stats": {
-    "total": 362,
-    "guides": 27,
-    "translated": 88,
+    "total": 383,
+    "guides": 31,
+    "translated": 98,
     "sources": 15
   }
 }
