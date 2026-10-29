@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T13:16:32.750Z",
+  "generatedAt": "2026-10-29T19:43:02.489Z",
   "articles": [
     {
       "id": "23bc590ba1599da489",
@@ -20,6 +20,126 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "039f4be7610e1b0a5b",
+      "titleOriginal": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+      "summaryOriginal": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds appeared first on The Decoder .",
+      "titleZh": "Anthropic研究发现，专家采用人工智能代理的随机观点，并认为它们是他们自己的",
+      "summaryZh": "Anthropic为50名专家提供了一个AI代理，其偏好由抛硬币设置。在判断电话中，专家们多达86%的时间遵循客服代表的观点，大多数人认为结论是他们自己的。Anthropic研究发现，专家们采纳了人工智能代理的随机观点，并认为它们是他们自己的，这篇文章首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T19:33:37.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "31a141606e86628d3d",
+      "titleOriginal": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summaryOriginal": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+      "titleZh": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
+      "summaryZh": "应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或通过拍摄照片、录制快速视频或上传相机胶卷中的图片，手动添加物品。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T19:14:36.000Z",
+      "author": "Aisha Malik",
+      "tags": [
+        "launch",
+        "AI",
+        "Apps",
+        "Meta",
+        "Video"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2a1a8a7c88a01340d1",
+      "titleOriginal": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summaryOriginal": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini . The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now. Google added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leavin",
+      "titleZh": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件",
+      "summaryZh": "现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。从今天开始，所有Gemini用户都可以使用新的文件编辑功能，虽然PDF预览/编辑可在Web和移动设备上使用，但所有其他文件格式目前仅在Web版本中。今年早些时候，谷歌增加了对在Gemini中生成和下载文件的支持，但现在您可以在没有leavin的情况下调整这些文件",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-29T18:45:31.000Z",
+      "author": "Stevie Bonifield",
+      "tags": [
+        "launch",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bf3026d4c625e90298",
+      "titleOriginal": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "summaryOriginal": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
+      "titleZh": "国防承包商授予其个人人工智能代理访问安全的五角大楼系统的权限",
+      "summaryZh": "消息人士告诉WIRED ，埃森哲员工的私人Claude代理在被发现之前在美国国防部网络上运行了两个月，并且可以修补该漏洞。",
+      "translated": true,
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-29T18:39:43.000Z",
+      "author": "Vittoria Elliott",
+      "tags": [
+        "analysis",
+        "Politics",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ffb43a6dca61a6c526",
+      "titleOriginal": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
+      "summaryOriginal": "Prime Intellect has released Prime Mega MoE , a training extension of DeepSeek’s fused Mega MoE kernel. DeepSeek’s kernel only ran the forward pass. Prime Intellect added a fast, overlapping backward pass. That makes the fused kernel usable for training, not just inference. In its prime-rl trainer, full training steps on Qwen3 MoE models run up to 34% faster. Against TorchTitan, the gain reaches 55%. For teams training mixture-of-experts (MoE) models, that is a direct cut in GPU hours. TL;DR Siz",
+      "titleZh": "Prime Intellect发布Prime Mega MoE ：可训练的融合MoE内核， 3.11 x更快的前进通行证",
+      "summaryZh": "Prime Intellect发布了Prime Mega MoE ，这是DeepSeek融合的Mega MoE内核的训练扩展。DeepSeek的内核只运行了正向传递。至尊智慧增加了一个快速、重叠的反向通行证。这使得融合的内核可用于训练，而不仅仅是推理。在其主要的训练器中， Qwen3 MoE模型的完整训练步骤运行速度提高了34 ％。对阵TorchTitan ，增益达到55%。对于培训专家混合（ MoE ）模型的团队，这是直接削减GPU小时。TL; DR Siz",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-29T18:28:57.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -44,6 +164,100 @@
       "readingMinutes": 2
     },
     {
+      "id": "a39d2cb266f9545065",
+      "titleOriginal": "Granola crunches up a dictation feature to compete with Wispr",
+      "summaryOriginal": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+      "titleZh": "Granola推出听写功能，与Wispr展开竞争",
+      "summaryZh": "UNO REVERSE ！在Wispr向其听写应用程序添加会议笔记后， Granola正在向其会议笔记员添加听写。语音人工智能战争变得越来越有趣。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T17:54:38.000Z",
+      "author": "Ivan Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "Apps",
+        "ai dictation",
+        "granola"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "672400a4a73efc0dab",
+      "titleOriginal": "Building a multiplayer game world with autonomous Fable-class models",
+      "summaryOriginal": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to modify the game world. I fired it up on my phone for a few minutes and was able to prompt a castle into",
+      "titleZh": "使用自主的寓言级模型构建多人游戏世界",
+      "summaryZh": "我如何建立世界上最具人工智能的公司不要被点击诱饵的标题所拖延，雅各布·桑斯伯里（ Jacob Sansbury ）的这篇文章描述了他们如何构建Spawn ，这是对代理工程与前沿模型可能出现的前沿的迷人探索。Spawn是一个大型多人游戏环境，玩家可以使用提示（对游戏内代理Savi ）来修改游戏世界。我在手机上启动了几分钟，并能够提示城堡进入",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-29T17:00:26.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Agent",
+        "Prompt"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7bf0065ceb1646f57a",
+      "titleOriginal": "An updated Model Spec for more capable and beneficial AI",
+      "summaryOriginal": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "titleZh": "更新的模型规格，以实现更强大、更有益的人工智能",
+      "summaryZh": "OpenAI更新的模型规范概述了五个核心价值观，以引导更有能力的人工智能走向合理的判断、人为代理和对人类意图的忠诚。",
+      "translated": true,
+      "url": "https://openai.com/index/updated-model-spec",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "author": "",
+      "tags": [
+        "guide",
+        "Safety"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bcae5e5bffd4de8a00",
+      "titleOriginal": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summaryOriginal": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "titleZh": "Mistral发布针对网络安全的万亿参数AI模型的权重",
+      "summaryZh": "Mistral表示，其新模型可以让组织对其网络防御进行某种控制，而封闭模型无法做到这一点。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T17:00:00.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "launch",
+        "AI",
+        "cyber",
+        "mistral"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "73ca686b3fdbbd18cf",
       "titleOriginal": "Anthropic 取消编程面试：新人第一次有机会直接和资深工程师竞争",
       "summaryOriginal": "",
@@ -62,6 +276,56 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7610575f95441b581c",
+      "titleOriginal": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "summaryOriginal": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "titleZh": "美国调查了针对英伟达首席执行官的中国间谍阴谋",
+      "summaryZh": "消息人士告诉《纽约时报》，一家被指控向中国非法出售英伟达芯片的新加坡人工智能云公司的高管也可能是中国间谍。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T16:42:32.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "In Brief",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "88294416a4cb107945",
+      "titleOriginal": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "summaryOriginal": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "titleZh": "Palantir前高管以a16z的1700万美元推出Dream ，用于构建建筑AI世界模型",
+      "summaryZh": "DREAM以真实的物理和建筑标准为基础。正如法学硕士从文本中学习一样， Dream的世界模型是根据从美国各地的许可证档案中收集的超过1亿平方英尺的建筑数据进行培训的。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T16:21:00.000Z",
+      "author": "Marina Temkin",
+      "tags": [
+        "launch",
+        "AI",
+        "Startups",
+        "Venture",
+        "Andreessen Horowitz"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -86,6 +350,52 @@
       "readingMinutes": 2
     },
     {
+      "id": "45b4ef0b726f6d169a",
+      "titleOriginal": "Microsoft’s AI future has fewer jobs",
+      "summaryOriginal": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and India. It's the first time the company has presented such an offer to so many employees, expanding greatly upon the retirement offer that was limited to around 9,000 emp",
+      "titleZh": "微软的人工智能未来工作岗位减少",
+      "summaryZh": "对于任何密切关注微软首席执行官萨蒂亚·纳德拉（ Satya Nadella ）过去几年所说的话的人来说，本周似乎是人工智能即将从根本上改变微软员工规模的最明显迹象。微软现在向美国、英国、加拿大和印度的约6万名员工提供自愿收购。这是该公司首次向这么多员工提供此类优惠，大大扩展了仅限于约9,000帝国的退休优惠",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "author": "Tom Warren",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3b4fe0946b63490558",
+      "titleOriginal": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
+      "summaryOriginal": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly cheap. It still can't match China's top models, scoring 26 points to the 32 posted by DeepSeek V4.1 Flash and GLM-5.3. The article Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall appeared first on The Decoder .",
+      "titleZh": "总部位于巴黎的Mistral发布了“Le Chonk” ，这是一种强大的编码模式，总体上仍落后于中国",
+      "summaryZh": "Mistral发布了Large 4 （又名“Le Chonk” ）的重量，这是一个完全在欧洲训练的万亿参数模型。Mistral表示，它在编码方面击败了其公开竞争对手，独立测试表明它速度快且相当便宜。它仍然无法与中国的顶级机型相提并论，与DeepSeek V4.1 Flash和GLM-5.3发布的32个机型相比，得分为26分。总部位于巴黎的文章Mistral发布了“Le Chonk” ，这是一种强大的编码模型，仍然落后于中国整体，首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T15:25:27.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "launch",
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI in Europe",
+        "Mistral"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "57e5b7b58d645c40ef",
       "titleOriginal": "生产级 AI：隐性故障、工程落地与智能体治理",
       "summaryOriginal": "",
@@ -107,11 +417,294 @@
       "readingMinutes": 2
     },
     {
+      "id": "a2aa84b8c0fc4ac93c",
+      "titleOriginal": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "summaryOriginal": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+      "titleZh": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-29T15:00:00.000Z",
+      "author": "Paresh Dave",
+      "tags": [
+        "analysis",
+        "Business",
+        "Business / Startups",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9d92d4ec6e5e3635af",
+      "titleOriginal": "The NYT Cooking app is testing AI recipe modifications",
+      "summaryOriginal": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature , which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and \"generally make our recipes work for what a cook",
+      "titleZh": "The NYT Cooking app is testing AI recipe modifications",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:39:37.000Z",
+      "author": "Jess Weatherbed",
+      "tags": [
+        "news",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "60c269dfa54ed7c518",
+      "titleOriginal": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summaryOriginal": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "titleZh": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:35:26.000Z",
+      "author": "Sarah Perez",
+      "tags": [
+        "news",
+        "AI",
+        "Apps",
+        "ai agent",
+        "IVP"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a5980a6c5a8cee9c0f",
+      "titleOriginal": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+      "summaryOriginal": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder .",
+      "titleZh": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:07:49.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Hugging Face"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "18c36f7241d29e161a",
+      "titleOriginal": "Quoting Ben Hylak",
+      "summaryOriginal": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai",
+      "titleZh": "Quoting Ben Hylak",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:06:27.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "079251699e8ed6eae1",
+      "titleOriginal": "Anthropic is asking Wall Street to believe in AGI",
+      "summaryOriginal": "Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet. But the price tag really isn’t th",
+      "titleZh": "Anthropic is asking Wall Street to believe in AGI",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:00:00.000Z",
+      "author": "Nilay Patel",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5955274c3dce891984",
+      "titleOriginal": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "summaryOriginal": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+      "titleZh": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-29T14:00:00.000Z",
+      "author": "Joel Khalili",
+      "tags": [
+        "launch",
+        "Business",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "01c6f1f45331af2ff3",
+      "titleOriginal": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+      "summaryOriginal": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on The Decoder .",
+      "titleZh": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:42:38.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "China"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0b3918620b863475f7",
+      "titleOriginal": "Anthropic’s business plan: Build God or die trying",
+      "summaryOriginal": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT contracts, Anthropic has just offered a handy solution: Doing a bunch of things that look like you're trying to build the machine god is the only way to avoid going bankrupt. Forget about the machine g",
+      "titleZh": "Anthropic’s business plan: Build God or die trying",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:30:00.000Z",
+      "author": "Elizabeth Lopatto",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9f18f72454115c704f",
+      "titleOriginal": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+      "summaryOriginal": "Chinese AI labs are now mainly tapping OpenAI's most powerful model, GPT-6 Astra, instead of Anthropic's Claude. The article OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses appeared first on The Decoder .",
+      "titleZh": "OpenAI's Astra becomes the main target for Chinese AI labs after Anthropic tightens its defenses",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/openais-astra-becomes-the-main-target-for-chinese-ai-labs-after-anthropic-tightens-its-defenses/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:20:14.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c546a70dbf994e9cbf",
+      "titleOriginal": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "summaryOriginal": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "titleZh": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "author": "Ivan Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "DeepGram",
+        "voice AI",
+        "Video"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fd92a529665f18a759",
+      "titleOriginal": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "summaryOriginal": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "titleZh": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "author": "Ivan Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "Commerce",
+        "Alexa",
+        "Amazon"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "6954beec8401148ed4",
       "titleOriginal": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
-      "summaryOriginal": "谷歌云业务第三季度的亮眼增长被其他令华尔街失望的财务业绩所掩盖，尤其是谷歌搜索广告收入增长乏力。谷歌股价在盘后交易中下跌近10%。 负90亿美元自由现金流 财报显示，Alphabet三季度营收同比增长25%至1275.8亿美元，略低于华尔街预期；净利润同比下滑25%至261.7亿美元。由于在人工智能领域投入巨资，三季度自由现金流为负90多亿美元，而去年同期则为正240多亿美元，这也是连续第二季度为负。 那么钱都去哪里了。本季度资本支出514亿美元，大部分用于AI技术基础设施建设，其中65%是服务器和网络设备、35%用于数据中心。值得一提的是，谷歌TPU系统销售库存挤压及2018年欧盟罚款52亿美元现金支付影响，也在影响现金流情况，第三季度经营现金流423亿美元。 Alphabet CFO阿纳特&middot;阿什肯纳齐在财报会上指出，公司2026年全年资本支出指导区间1950亿至2050亿美 元保 持不变，预计2027年资本支出将显著增加。这使得外界更加关注谷歌这笔钱以及未来花的钱究竟值不值，而本季财报中唯一亮点的是谷歌云业务，而不是谷歌搜索。 一方面，Alphabet的基本盘搜索业务",
+      "summaryOriginal": "（本文作者为 TechHorizon，钛媒体经授权发布） 谷歌云业务第三季度的亮眼增长被其他令华尔街失望的财务业绩所掩盖，尤其是谷歌搜索广告收入增长乏力。谷歌股价在盘后交易中下跌近10%。 负90亿美元自由现金流 财报显示，Alphabet三季度营收同比增长25%至1275.8亿美元，略低于华尔街预期；净利润同比下滑25%至261.7亿美元。由于在人工智能领域投入巨资，三季度自由现金流为负90多亿美元，而去年同期则为正240多亿美元，这也是连续第二季度为负。 那么钱都去哪里了。本季度资本支出514亿美元，大部分用于AI技术基础设施建设，其中65%是服务器和网络设备、35%用于数据中心。值得一提的是，谷歌TPU系统销售库存挤压及2018年欧盟罚款52亿美元现金支付影响，也在影响现金流情况，第三季度经营现金流423亿美元。 Alphabet CFO阿纳特&middot;阿什肯纳齐在财报会上指出，公司2026年全年资本支出指导区间1950亿至2050亿美 元保 持不变，预计2027年资本支出将显著增加。这使得外界更加关注谷歌这笔钱以及未来花的钱究竟值不值，而本季财报中唯一亮点的是谷歌云业务，",
       "titleZh": "Gemini 4 Carbon登顶难掩财报失色，谷歌AI豪赌的账单",
-      "summaryZh": "谷歌云业务第三季度的亮眼增长被其他令华尔街失望的财务业绩所掩盖，尤其是谷歌搜索广告收入增长乏力。谷歌股价在盘后交易中下跌近10%。 负90亿美元自由现金流 财报显示，Alphabet三季度营收同比增长25%至1275.8亿美元，略低于华尔街预期；净利润同比下滑25%至261.7亿美元。由于在人工智能领域投入巨资，三季度自由现金流为负90多亿美元，而去年同期则为正240多亿美元，这也是连续第二季度为负。 那么钱都去哪里了。本季度资本支出514亿美元，大部分用于AI技术基础设施建设，其中65%是服务器和网络设备、35%用于数据中心。值得一提的是，谷歌TPU系统销售库存挤压及2018年欧盟罚款52亿美元现金支付影响，也在影响现金流情况，第三季度经营现金流423亿美元。 Alphabet CFO阿纳特&middot;阿什肯纳齐在财报会上指出，公司2026年全年资本支出指导区间1950亿至2050亿美 元保 持不变，预计2027年资本支出将显著增加。这使得外界更加关注谷歌这笔钱以及未来花的钱究竟值不值，而本季财报中唯一亮点的是谷歌云业务，而不是谷歌搜索。 一方面，Alphabet的基本盘搜索业务",
+      "summaryZh": "（本文作者为 TechHorizon，钛媒体经授权发布） 谷歌云业务第三季度的亮眼增长被其他令华尔街失望的财务业绩所掩盖，尤其是谷歌搜索广告收入增长乏力。谷歌股价在盘后交易中下跌近10%。 负90亿美元自由现金流 财报显示，Alphabet三季度营收同比增长25%至1275.8亿美元，略低于华尔街预期；净利润同比下滑25%至261.7亿美元。由于在人工智能领域投入巨资，三季度自由现金流为负90多亿美元，而去年同期则为正240多亿美元，这也是连续第二季度为负。 那么钱都去哪里了。本季度资本支出514亿美元，大部分用于AI技术基础设施建设，其中65%是服务器和网络设备、35%用于数据中心。值得一提的是，谷歌TPU系统销售库存挤压及2018年欧盟罚款52亿美元现金支付影响，也在影响现金流情况，第三季度经营现金流423亿美元。 Alphabet CFO阿纳特&middot;阿什肯纳齐在财报会上指出，公司2026年全年资本支出指导区间1950亿至2050亿美 元保 持不变，预计2027年资本支出将显著增加。这使得外界更加关注谷歌这笔钱以及未来花的钱究竟值不值，而本季财报中唯一亮点的是谷歌云业务，",
       "translated": true,
       "url": "https://www.tmtpost.com/8186405.html",
       "sourceId": "tmtpost",
@@ -122,20 +715,20 @@
       "publishedAt": "2026-10-29T12:46:13.000Z",
       "author": "TechHorizon",
       "tags": [
-        "news",
+        "launch",
         "主编精选文章",
         "谷歌",
         "看财报"
       ],
-      "category": "news",
+      "category": "launch",
       "readingMinutes": 2
     },
     {
       "id": "1325ab1f61745e2286",
       "titleOriginal": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
-      "summaryOriginal": "10月29日，深兰科技举办新品发布会，正式推出 全球首款大模型 AI 智能体工作手机 Wowoker 。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。 本次发布会集结华为、中国移动等战略合作伙伴，现场举办多场订购合作签约仪式，面向政企、国央企、金融及泛企业市场，推出 “硬件 + SaaS + 数据 + AI” 四位一体企业级 AI 工作终端，推动企业销售管理从传统结果管理迈向 过程智能管控与人机协同 的全新发展阶段。 深兰科技创始人、董事长陈海波在开场致辞中表示，当下企业面临获客难、运营难和管理难三大“难点”。销售业务寻找客户线索难度大，销售沟通全过程无法监管，业务数据依赖人工录入容易失真、核心客户资产伴随人员离职发生流失、销售沟通违规风险难以提前防控。普通消费级 AI 手机聚焦个人娱乐问答场景，无法满足企业业务管控与数据安全的双重诉求。 深兰科技依托多年人工智能技术研发与产业落地实践，联合华为鸿蒙生态打造企业专属 AI 工作终端，以终端硬件为抓手，为千行百业提供兼顾安全可控与业务赋能的数字化底座。 而深兰智能体负责人张玉解读了产品技术架构、核心能力与产业价值。他介",
+      "summaryOriginal": "（本文作者为 财经雪者，钛媒体经授权发布） 10月29日，深兰科技举办新品发布会，正式推出 全球首款大模型 AI 智能体工作手机 Wowoker 。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。 本次发布会集结华为、中国移动等战略合作伙伴，现场举办多场订购合作签约仪式，面向政企、国央企、金融及泛企业市场，推出 “硬件 + SaaS + 数据 + AI” 四位一体企业级 AI 工作终端，推动企业销售管理从传统结果管理迈向 过程智能管控与人机协同 的全新发展阶段。 深兰科技创始人、董事长陈海波在开场致辞中表示，当下企业面临获客难、运营难和管理难三大“难点”。销售业务寻找客户线索难度大，销售沟通全过程无法监管，业务数据依赖人工录入容易失真、核心客户资产伴随人员离职发生流失、销售沟通违规风险难以提前防控。普通消费级 AI 手机聚焦个人娱乐问答场景，无法满足企业业务管控与数据安全的双重诉求。 深兰科技依托多年人工智能技术研发与产业落地实践，联合华为鸿蒙生态打造企业专属 AI 工作终端，以终端硬件为抓手，为千行百业提供兼顾安全可控与业务赋能的数字化底座。 而深兰智能体负责人张玉",
       "titleZh": "深兰科技联合华为，发布全球首款大模型智能体工作手机 Wowoker",
-      "summaryZh": "10月29日，深兰科技举办新品发布会，正式推出 全球首款大模型 AI 智能体工作手机 Wowoker 。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。 本次发布会集结华为、中国移动等战略合作伙伴，现场举办多场订购合作签约仪式，面向政企、国央企、金融及泛企业市场，推出 “硬件 + SaaS + 数据 + AI” 四位一体企业级 AI 工作终端，推动企业销售管理从传统结果管理迈向 过程智能管控与人机协同 的全新发展阶段。 深兰科技创始人、董事长陈海波在开场致辞中表示，当下企业面临获客难、运营难和管理难三大“难点”。销售业务寻找客户线索难度大，销售沟通全过程无法监管，业务数据依赖人工录入容易失真、核心客户资产伴随人员离职发生流失、销售沟通违规风险难以提前防控。普通消费级 AI 手机聚焦个人娱乐问答场景，无法满足企业业务管控与数据安全的双重诉求。 深兰科技依托多年人工智能技术研发与产业落地实践，联合华为鸿蒙生态打造企业专属 AI 工作终端，以终端硬件为抓手，为千行百业提供兼顾安全可控与业务赋能的数字化底座。 而深兰智能体负责人张玉解读了产品技术架构、核心能力与产业价值。他介",
+      "summaryZh": "（本文作者为 财经雪者，钛媒体经授权发布） 10月29日，深兰科技举办新品发布会，正式推出 全球首款大模型 AI 智能体工作手机 Wowoker 。这是继豆包发布AI手机后，首家面向工作场景推出AI手机的科技企业。 本次发布会集结华为、中国移动等战略合作伙伴，现场举办多场订购合作签约仪式，面向政企、国央企、金融及泛企业市场，推出 “硬件 + SaaS + 数据 + AI” 四位一体企业级 AI 工作终端，推动企业销售管理从传统结果管理迈向 过程智能管控与人机协同 的全新发展阶段。 深兰科技创始人、董事长陈海波在开场致辞中表示，当下企业面临获客难、运营难和管理难三大“难点”。销售业务寻找客户线索难度大，销售沟通全过程无法监管，业务数据依赖人工录入容易失真、核心客户资产伴随人员离职发生流失、销售沟通违规风险难以提前防控。普通消费级 AI 手机聚焦个人娱乐问答场景，无法满足企业业务管控与数据安全的双重诉求。 深兰科技依托多年人工智能技术研发与产业落地实践，联合华为鸿蒙生态打造企业专属 AI 工作终端，以终端硬件为抓手，为千行百业提供兼顾安全可控与业务赋能的数字化底座。 而深兰智能体负责人张玉",
       "translated": true,
       "url": "https://www.tmtpost.com/8186683.html",
       "sourceId": "tmtpost",
@@ -143,7 +736,7 @@
       "sourceSite": "https://www.tmtpost.com/",
       "sourceColor": "#1c64f2",
       "lang": "zh",
-      "publishedAt": "2026-10-29T11:19:29.000Z",
+      "publishedAt": "2026-10-29T11:19:00.000Z",
       "author": "财经雪者",
       "tags": [
         "launch"
@@ -154,9 +747,9 @@
     {
       "id": "e9f4c3ac337c50fcc1",
       "titleOriginal": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
-      "summaryOriginal": "2026 年，AI 正从模型竞争走向产业重构。 如果说过去三年，AI行业的重心在基础设施，模型、算力、数据中心，比的是谁建得更快、规模更大，在今年，应用端的爆发开始接棒，AI 在生物医药等领域陆续拿出此前难以想象的成果，智能第一次以产业结果，而非单一技术指标的方式证明自己。与此同时，行业用来命名“智能”的词也在更换，从AI到SI，围绕新概念的争论本身，说明智能的形态与边界正在被重新定义。安全与治理议题的权重，也在这一年显著上升。这些变化都指向同一个方向，智能正在从一项被单独评估的技术，变为产业流程中的一环，迁移的不止是技术本身，AI 落地产业的范式在变，人才与组织在重组，资本的流向在改道，连价值评估的方式也在跟着迁移。 12 月 6-8 日，2026 T-EDGE 创新大会将首次以北京-硅谷双城联动的形式举办，讨论在「智能大迁移」——The Intelligence Shift的背景下，全球会共同面对的十个问题。于此同时，钛媒体集团正式开启「2026 EDGE AWARDS 全球创新评选」，重新校准评估价值的标尺，邀请您一同参与和见证 2026 年的创新力量。 EDGE AWARDS",
+      "summaryOriginal": "（本文作者为 小钛的朋友圈，钛媒体经授权发布） 2026 年，AI 正从模型竞争走向产业重构。 如果说过去三年，AI行业的重心在基础设施，模型、算力、数据中心，比的是谁建得更快、规模更大，在今年，应用端的爆发开始接棒，AI 在生物医药等领域陆续拿出此前难以想象的成果，智能第一次以产业结果，而非单一技术指标的方式证明自己。与此同时，行业用来命名“智能”的词也在更换，从AI到SI，围绕新概念的争论本身，说明智能的形态与边界正在被重新定义。安全与治理议题的权重，也在这一年显著上升。这些变化都指向同一个方向，智能正在从一项被单独评估的技术，变为产业流程中的一环，迁移的不止是技术本身，AI 落地产业的范式在变，人才与组织在重组，资本的流向在改道，连价值评估的方式也在跟着迁移。 12 月 6-8 日，2026 T-EDGE 创新大会将首次以北京-硅谷双城联动的形式举办，讨论在「智能大迁移」——The Intelligence Shift的背景下，全球会共同面对的十个问题。于此同时，钛媒体集团正式开启「2026 EDGE AWARDS 全球创新评选」，重新校准评估价值的标尺，邀请您一同参与和见证 2",
       "titleZh": "钛媒体「2026 EDGE AWARDS 全球创新评选」正式启动，AI 进入下一阶段，价值该如何衡量？",
-      "summaryZh": "2026 年，AI 正从模型竞争走向产业重构。 如果说过去三年，AI行业的重心在基础设施，模型、算力、数据中心，比的是谁建得更快、规模更大，在今年，应用端的爆发开始接棒，AI 在生物医药等领域陆续拿出此前难以想象的成果，智能第一次以产业结果，而非单一技术指标的方式证明自己。与此同时，行业用来命名“智能”的词也在更换，从AI到SI，围绕新概念的争论本身，说明智能的形态与边界正在被重新定义。安全与治理议题的权重，也在这一年显著上升。这些变化都指向同一个方向，智能正在从一项被单独评估的技术，变为产业流程中的一环，迁移的不止是技术本身，AI 落地产业的范式在变，人才与组织在重组，资本的流向在改道，连价值评估的方式也在跟着迁移。 12 月 6-8 日，2026 T-EDGE 创新大会将首次以北京-硅谷双城联动的形式举办，讨论在「智能大迁移」——The Intelligence Shift的背景下，全球会共同面对的十个问题。于此同时，钛媒体集团正式开启「2026 EDGE AWARDS 全球创新评选」，重新校准评估价值的标尺，邀请您一同参与和见证 2026 年的创新力量。 EDGE AWARDS",
+      "summaryZh": "（本文作者为 小钛的朋友圈，钛媒体经授权发布） 2026 年，AI 正从模型竞争走向产业重构。 如果说过去三年，AI行业的重心在基础设施，模型、算力、数据中心，比的是谁建得更快、规模更大，在今年，应用端的爆发开始接棒，AI 在生物医药等领域陆续拿出此前难以想象的成果，智能第一次以产业结果，而非单一技术指标的方式证明自己。与此同时，行业用来命名“智能”的词也在更换，从AI到SI，围绕新概念的争论本身，说明智能的形态与边界正在被重新定义。安全与治理议题的权重，也在这一年显著上升。这些变化都指向同一个方向，智能正在从一项被单独评估的技术，变为产业流程中的一环，迁移的不止是技术本身，AI 落地产业的范式在变，人才与组织在重组，资本的流向在改道，连价值评估的方式也在跟着迁移。 12 月 6-8 日，2026 T-EDGE 创新大会将首次以北京-硅谷双城联动的形式举办，讨论在「智能大迁移」——The Intelligence Shift的背景下，全球会共同面对的十个问题。于此同时，钛媒体集团正式开启「2026 EDGE AWARDS 全球创新评选」，重新校准评估价值的标尺，邀请您一同参与和见证 2",
       "translated": true,
       "url": "https://www.tmtpost.com/8185865.html",
       "sourceId": "tmtpost",
@@ -175,9 +768,9 @@
     {
       "id": "4db8c6ef2e927fa5b3",
       "titleOriginal": "Agentic Cloud，阿里云如何接住模型之后的生意",
-      "summaryOriginal": "最近，Personal Agent「千问Go！」掀起了一阵热潮，参与测试的用户经历被反复转发：用户只说了一句“帮我沟通赔偿”，它就去查订单、核对航班动态、联系客服，甚至把平台原本只肯给的代金券，争取成了70元现金。而这并非孤例：市场上也正推出同类产品，Meta的Muse、Manus的Cue，以及国内多家厂商的产品密集面世。 这一系列信号正在印证，Agent已经从走出演示阶段，走进日常事务，规模化落地已经开始。今年5月，Gartner预测，AI智能体软件支出将从2025年的864亿美元，增至2026年的2065亿美元，并于2027年达到3763亿美元。 但要实现规模化，需要满足一个更为现实的前提：上一个技术时代，云原生成为了应用运行的标准，也定义了云的技术形态。如今，Agent开始规模化落地，需要的是“另一朵云”。 区别在于任务的形态：一个回答问题的应用，可以在返回文本后结束请求；一个替用户办事的Agent，要等待外部系统响应，在中途生成文件，再根据反馈调整下一步，用户关掉界面，任务也未必结束。当这样的任务以亿为单位运行，云要交付的就不再只是算力和模型，而是一套能让Agent持续运行的环",
+      "summaryOriginal": "（本文作者为 TechPulse，钛媒体经授权发布） 最近，Personal Agent「千问Go！」掀起了一阵热潮，参与测试的用户经历被反复转发：用户只说了一句“帮我沟通赔偿”，它就去查订单、核对航班动态、联系客服，甚至把平台原本只肯给的代金券，争取成了70元现金。而这并非孤例：市场上也正推出同类产品，Meta的Muse、Manus的Cue，以及国内多家厂商的产品密集面世。 这一系列信号正在印证，Agent已经从走出演示阶段，走进日常事务，规模化落地已经开始。今年5月，Gartner预测，AI智能体软件支出将从2025年的864亿美元，增至2026年的2065亿美元，并于2027年达到3763亿美元。 但要实现规模化，需要满足一个更为现实的前提：上一个技术时代，云原生成为了应用运行的标准，也定义了云的技术形态。如今，Agent开始规模化落地，需要的是“另一朵云”。 区别在于任务的形态：一个回答问题的应用，可以在返回文本后结束请求；一个替用户办事的Agent，要等待外部系统响应，在中途生成文件，再根据反馈调整下一步，用户关掉界面，任务也未必结束。当这样的任务以亿为单位运行，云要交付的就",
       "titleZh": "Agentic Cloud，阿里云如何接住模型之后的生意",
-      "summaryZh": "最近，Personal Agent「千问Go！」掀起了一阵热潮，参与测试的用户经历被反复转发：用户只说了一句“帮我沟通赔偿”，它就去查订单、核对航班动态、联系客服，甚至把平台原本只肯给的代金券，争取成了70元现金。而这并非孤例：市场上也正推出同类产品，Meta的Muse、Manus的Cue，以及国内多家厂商的产品密集面世。 这一系列信号正在印证，Agent已经从走出演示阶段，走进日常事务，规模化落地已经开始。今年5月，Gartner预测，AI智能体软件支出将从2025年的864亿美元，增至2026年的2065亿美元，并于2027年达到3763亿美元。 但要实现规模化，需要满足一个更为现实的前提：上一个技术时代，云原生成为了应用运行的标准，也定义了云的技术形态。如今，Agent开始规模化落地，需要的是“另一朵云”。 区别在于任务的形态：一个回答问题的应用，可以在返回文本后结束请求；一个替用户办事的Agent，要等待外部系统响应，在中途生成文件，再根据反馈调整下一步，用户关掉界面，任务也未必结束。当这样的任务以亿为单位运行，云要交付的就不再只是算力和模型，而是一套能让Agent持续运行的环",
+      "summaryZh": "（本文作者为 TechPulse，钛媒体经授权发布） 最近，Personal Agent「千问Go！」掀起了一阵热潮，参与测试的用户经历被反复转发：用户只说了一句“帮我沟通赔偿”，它就去查订单、核对航班动态、联系客服，甚至把平台原本只肯给的代金券，争取成了70元现金。而这并非孤例：市场上也正推出同类产品，Meta的Muse、Manus的Cue，以及国内多家厂商的产品密集面世。 这一系列信号正在印证，Agent已经从走出演示阶段，走进日常事务，规模化落地已经开始。今年5月，Gartner预测，AI智能体软件支出将从2025年的864亿美元，增至2026年的2065亿美元，并于2027年达到3763亿美元。 但要实现规模化，需要满足一个更为现实的前提：上一个技术时代，云原生成为了应用运行的标准，也定义了云的技术形态。如今，Agent开始规模化落地，需要的是“另一朵云”。 区别在于任务的形态：一个回答问题的应用，可以在返回文本后结束请求；一个替用户办事的Agent，要等待外部系统响应，在中途生成文件，再根据反馈调整下一步，用户关掉界面，任务也未必结束。当这样的任务以亿为单位运行，云要交付的就",
       "translated": true,
       "url": "https://www.tmtpost.com/8182516.html",
       "sourceId": "tmtpost",
@@ -465,6 +1058,29 @@
       "readingMinutes": 2
     },
     {
+      "id": "d28967fce9c692cd06",
+      "titleOriginal": "How we detect frontier model misalignment",
+      "summaryOriginal": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "titleZh": "How we detect frontier model misalignment",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Security",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "c8889526df5c769c31",
       "titleOriginal": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
       "summaryOriginal": "Infini-AI-Lab has released Hermit , an open-source harness adapter framework for AI agents. Hermit is a framework from Infini-AI-Lab that trains an external ‘harness adapter’ while the agent’s model and harness stay frozen. The first release, v0.1.0 , shipped on October 25, 2026. CMU postdoc Haizhong Zheng announced it on X on October 27. For developers, the pitch is simple: adapt Codex or Claude Code agents to new tasks without fine-tuning or forking the harness. TL;DR Footprint: A Python frame",
@@ -583,6 +1199,27 @@
         "人机交互"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2d9928289658e98658",
+      "titleOriginal": "How Ropes & Gray is developing AI for transactional diligence",
+      "summaryOriginal": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "titleZh": "How Ropes & Gray is developing AI for transactional diligence",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -8677,7 +9314,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 38
+      "count": 41
     },
     {
       "id": "deepmind",
@@ -8693,7 +9330,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 43
+      "count": 51
     },
     {
       "id": "theverge",
@@ -8701,7 +9338,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 26
+      "count": 31
     },
     {
       "id": "mittr",
@@ -8717,7 +9354,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 17
+      "count": 20
     },
     {
       "id": "thedecoder",
@@ -8725,7 +9362,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 22
+      "count": 27
     },
     {
       "id": "marktechpost",
@@ -8733,7 +9370,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 20
+      "count": 21
     },
     {
       "id": "simonwillison",
@@ -8741,7 +9378,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 35
+      "count": 37
     },
     {
       "id": "oneusefulthing",
@@ -8793,9 +9430,9 @@
     }
   ],
   "stats": {
-    "total": 383,
-    "guides": 31,
-    "translated": 98,
+    "total": 410,
+    "guides": 32,
+    "translated": 111,
     "sources": 15
   }
 }
