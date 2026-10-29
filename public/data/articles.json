@@ -1,6 +1,100 @@
 {
-  "generatedAt": "2026-10-29T19:43:02.489Z",
+  "generatedAt": "2026-10-29T23:59:47.754Z",
   "articles": [
+    {
+      "id": "05367ef1f34c39f85d",
+      "titleOriginal": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summaryOriginal": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "titleZh": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。",
+      "summaryZh": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但其首席执行官周四表示，要做到这一点，它将不得不继续其资本支出狂潮。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T23:42:22.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "TC",
+        "Amazon"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "51e04c008a7e5cf4c1",
+      "titleOriginal": "【钛晨报】光模块三巨头“易中天”业绩出炉，前三季度净赚超350亿元；国家队最新调仓：国新进联通，诚通买黄金；联讯仪器、普冉股份，第三季度净利暴增超30倍",
+      "summaryOriginal": "（本文作者为 钛媒体官方账号，钛媒体经授权发布） 【钛媒体综合】备受市场关注的光模块三巨头“易中天”业绩全部公布，2026年前三季度合计营收超千亿、净利合计超350亿元。 10月29日，中际旭创公告，第三季度实现营收277.69亿元，同比增长171.83%；归属于上市公司股东的净利润为85.87亿元，同比增长173.74%。前三季度营收695.47亿元，同比增长178.13%；归属于上市公司股东的净利润为222.38亿元，同比增长211.81%。业绩核心驱动因素为全球AI算力基建加速带动800G/1.6T高速光模块销售放量。 在近期介绍经营状况时，中际旭创表示，当前下游需求保持高景气，公司在手订单饱满。海外市场方面，主要客户订单已下至2027年，部分重点客户已给出2028年需求的明确指引，预计1.6T、800G等高端光模块需求将保持快速增长，NPO、XPO等下一代光互连产品需求亦有望逐步释放。国内市场方面，AI算力基础设施建设快速推进，400G、800G等产品需求亦有望进一步增长。 此外，中际旭创还发布公告称，公司董事会审议通过议案，拟将回购专用证券账户中持有的565.31万股A股股份",
+      "titleZh": "【钛晨报】光模块三巨头“易中天”业绩出炉，前三季度净赚超350亿元；国家队最新调仓：国新进联通，诚通买黄金；联讯仪器、普冉股份，第三季度净利暴增超30倍",
+      "summaryZh": "（本文作者为 钛媒体官方账号，钛媒体经授权发布） 【钛媒体综合】备受市场关注的光模块三巨头“易中天”业绩全部公布，2026年前三季度合计营收超千亿、净利合计超350亿元。 10月29日，中际旭创公告，第三季度实现营收277.69亿元，同比增长171.83%；归属于上市公司股东的净利润为85.87亿元，同比增长173.74%。前三季度营收695.47亿元，同比增长178.13%；归属于上市公司股东的净利润为222.38亿元，同比增长211.81%。业绩核心驱动因素为全球AI算力基建加速带动800G/1.6T高速光模块销售放量。 在近期介绍经营状况时，中际旭创表示，当前下游需求保持高景气，公司在手订单饱满。海外市场方面，主要客户订单已下至2027年，部分重点客户已给出2028年需求的明确指引，预计1.6T、800G等高端光模块需求将保持快速增长，NPO、XPO等下一代光互连产品需求亦有望逐步释放。国内市场方面，AI算力基础设施建设快速推进，400G、800G等产品需求亦有望进一步增长。 此外，中际旭创还发布公告称，公司董事会审议通过议案，拟将回购专用证券账户中持有的565.31万股A股股份",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186866.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-29T23:20:00.000Z",
+      "author": "钛媒体官方账号",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "钛早了！晨报"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "07b8277675a3d49f10",
+      "titleOriginal": "API credits benefit for eligible ChatGPT subscriptions",
+      "summaryOriginal": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I mainta",
+      "titleZh": "符合条件的ChatGPT订阅可享受API积分优惠",
+      "summaryZh": "符合条件的ChatGPT订阅的API积分福利本月早些时候， Anthropic宣布为其Max和Team订阅提供慷慨的新福利：每月100美元、200美元和500美元的订阅者将获得等量的（即将到期的）积分，用于Anthropic API。OpenAI现在已经推出了几乎完全相同的交易：如果您有100美元、200美元或500美元的订阅计划，您现在可以获得相同数量的积分，以应用于您的API组织之一。",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-29T22:48:29.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "51e4998c0a55a1d953",
+      "titleOriginal": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
+      "summaryOriginal": "Baseten has released joey-1 , a 2B model from its in-house research lab, Base Labs. The joey-1 decision model returns a label and a calibrated probability instead of generated text. It targets high-volume routing, classification and guardrail checks. Baseten prices it at $0.01 per million input tokens , with open weights on Hugging Face under MIT. TL;DR Size: 2B parameters, post-trained from Qwen3.5-2B. 16,384-token max sequence (Baseten says 262k on dedicated deployments). Runs on: Baseten Mode",
+      "titleZh": "Baseten以每100万个代币0.01 $的价格发布joey-1 ，这是一个2B决策模型",
+      "summaryZh": "Baseten已经从其内部研究实验室Base Labs发布了joey-1 ，这是一种2B模型。joey-1决策模型返回标签和校准概率，而不是生成的文本。它针对大批量路由、分类和护栏检查。Baseten将其定价为每百万个输入代币0.01 $ ，并在麻省理工学院的Hugging Face上开放权重。TL ； DR大小： 2B个参数，从Qwen3.5-2B训练后。16,384个令牌最大序列（ Baseten表示专用部署为262k ）。运行于： Baseten模式",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-29T21:20:29.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "23bc590ba1599da489",
       "titleOriginal": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
@@ -18,6 +112,106 @@
       "author": "李冬梅",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6224c596d37f354a3a",
+      "titleOriginal": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summaryOriginal": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+      "titleZh": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
+      "summaryZh": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T20:08:31.000Z",
+      "author": "Sarah Perez",
+      "tags": [
+        "news",
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Social"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "24f3c9778b1e494a96",
+      "titleOriginal": "Rivian expands joint venture with VW to include AI assistant",
+      "summaryOriginal": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+      "titleZh": "Rivian扩大与大众的合资企业，包括人工智能助手",
+      "summaryZh": "Rivian没有透露其58亿美元合资企业的价值是否会因此而扩大。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T20:05:47.000Z",
+      "author": "Kirsten Korosec",
+      "tags": [
+        "news",
+        "AI",
+        "Transportation",
+        "Rivian",
+        "Volkswagen Group"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6db73530384441db2d",
+      "titleOriginal": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+      "summaryOriginal": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI. The article OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up appeared first on The Decoder .",
+      "titleZh": "随着与Anthropic的竞争加剧， OpenAI将Pro计划的使用限制增加了一倍",
+      "summaryZh": "OpenAI正在将其付费套餐的使用限制增加一倍，从Pro 100到Pro 500。在用户推回后，取消了对PRO 200配额的计划削减。像TERRA和SOL这样更高效的型号应该会提高可用容量。此举正好在Anthropic的IPO之前，因为两家公司都在争夺人工智能领域的B2B主导地位。OpenAI的文章将Pro套餐的使用限制增加了一倍，因为与Anthropic的竞争首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-29T20:01:27.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "56fa7327f2b2eb22f2",
+      "titleOriginal": "OpenAI-backed Thrive Holdings acquires ADT",
+      "summaryOriginal": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+      "titleZh": "OpenAI支持的Thrive Holdings收购ADT",
+      "summaryZh": "OpenAI支持的Thrive Holdings将以153亿美元的价格收购ADT ，并计划将AI引入家庭安全业务。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-29T19:56:19.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Venture",
+        "ADT",
+        "In Brief"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -420,9 +614,9 @@
       "id": "a2aa84b8c0fc4ac93c",
       "titleOriginal": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
       "summaryOriginal": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
-      "titleZh": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "可以将Vibe编码从自身中拯救出来的“屁股痛苦”数学",
+      "summaryZh": "一家名为& Truth的新创公司正在加入自动化正式验证的竞赛，这是一个艰苦的过程，使用数学来证明软件按预期工作。",
+      "translated": true,
       "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
       "sourceId": "wired",
       "sourceName": "WIRED AI",
@@ -444,9 +638,9 @@
       "id": "9d92d4ec6e5e3635af",
       "titleOriginal": "The NYT Cooking app is testing AI recipe modifications",
       "summaryOriginal": "The AI tool provides recommendations and adjusts the recipe accordingly. | Image: The New York Times The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature , which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and \"generally make our recipes work for what a cook",
-      "titleZh": "The NYT Cooking app is testing AI recipe modifications",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "纽约时报烹饪应用程序正在测试AI食谱修改",
+      "summaryZh": "AI工具提供建议并相应地调整配方。|图片：《纽约时报》《纽约时报》正在为其烹饪应用程序测试一项新的人工智能功能，该功能可帮助用户修改食谱，并在用户中引发了一些戏剧性事件。上周五，《纽约时报》烹饪资深编辑Genevieve Ko宣布了这一功能，该功能可用于推荐食材和烹饪设备的替代品，将食谱扩展到任意份量，并“通常使我们的食谱适用于",
+      "translated": true,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -466,9 +660,9 @@
       "id": "60c269dfa54ed7c518",
       "titleOriginal": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
       "summaryOriginal": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-      "titleZh": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "构建迷你应用程序的人工智能代理Wabi ，经过最新一轮融资，现在估值为12.5亿美元$",
+      "summaryZh": "周四，人工智能应用程序Wabi现在将自己描述为“个人经纪人” ，并表示已以12.5亿美元的估值筹集了5500万美元。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -491,9 +685,9 @@
       "id": "a5980a6c5a8cee9c0f",
       "titleOriginal": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
       "summaryOriginal": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared first on The Decoder .",
-      "titleZh": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "美国反垄断监管机构正在审查英伟达的Hugging Face交易和销售实践",
+      "summaryZh": "美国司法部正在调查英伟达收购开源平台Hugging Face的计划。美国反垄断监管机构正在仔细审查英伟达的Hugging Face交易，销售实践首次出现在The Decoder上。",
+      "translated": true,
       "url": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -516,9 +710,9 @@
       "id": "18c36f7241d29e161a",
       "titleOriginal": "Quoting Ben Hylak",
       "summaryOriginal": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai",
-      "titleZh": "Quoting Ben Hylak",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "引用Ben Hylak",
+      "summaryZh": "我使用的每个产品都应该只是一个无头的mcp ，它可以输入代理，在那里我永远不必考虑下面的任何事情。当然，除了我们的产品。在我们的产品中，客户非常喜欢用户界面，非常喜欢我们。我们很特别。— Ben Hylak Tags: model-context-protocol, ai",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -538,9 +732,9 @@
       "id": "079251699e8ed6eae1",
       "titleOriginal": "Anthropic is asking Wall Street to believe in AGI",
       "summaryOriginal": "Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet. But the price tag really isn’t th",
-      "titleZh": "Anthropic is asking Wall Street to believe in AGI",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Anthropic要求华尔街相信AGI",
+      "summaryZh": "今天在Decoder上，我与芯片和人工智能研究公司SemiAnalysis的分析师乔伊·布鲁克哈特（ Joey Brookhart ）一起，帮助我深入了解Anthropic IPO申请的数量—一份被称为S-1的文件。Anthropic刚刚申请在纳斯达克上市，最快可能在下个月开始交易，估值在1.5万亿至2万亿美元之间。这将立即使其成为这个星球上最有价值的公司之一。但价格标签真的不是",
+      "translated": true,
       "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -559,9 +753,9 @@
       "id": "5955274c3dce891984",
       "titleOriginal": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
       "summaryOriginal": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
-      "titleZh": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Mistral表示其人工智能模型“Le Chonk”在开放式比赛中超越了中国",
+      "summaryZh": "这家法国人工智能实验室声称，其最新版本在编码和网络安全方面甚至与DeepSeek和Z.ai的最佳型号相匹配或优于其他型号。",
+      "translated": true,
       "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
       "sourceId": "wired",
       "sourceName": "WIRED AI",
@@ -9330,7 +9524,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 51
+      "count": 55
     },
     {
       "id": "theverge",
@@ -9362,7 +9556,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 27
+      "count": 28
     },
     {
       "id": "marktechpost",
@@ -9370,7 +9564,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 21
+      "count": 22
     },
     {
       "id": "simonwillison",
@@ -9378,7 +9572,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 37
+      "count": 38
     },
     {
       "id": "oneusefulthing",
@@ -9418,7 +9612,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 54
+      "count": 55
     },
     {
       "id": "infoq",
@@ -9430,9 +9624,9 @@
     }
   ],
   "stats": {
-    "total": 410,
+    "total": 418,
     "guides": 32,
-    "translated": 111,
+    "translated": 125,
     "sources": 15
   }
 }
