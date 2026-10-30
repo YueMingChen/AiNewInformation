@@ -1,6 +1,290 @@
 {
-  "generatedAt": "2026-10-30T19:29:02.239Z",
+  "generatedAt": "2026-10-30T23:55:04.102Z",
   "articles": [
+    {
+      "id": "43523836c60442d994",
+      "titleOriginal": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "summaryOriginal": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "titleZh": "专注于隐私的人工智能助手Ollie正在关闭",
+      "summaryZh": "随着越来越多的人工智能助手涌入市场，尊重用户隐私的助手Ollie的创始人表示，它将在一周内关闭。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T22:56:13.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "Apps",
+        "Startups",
+        "AI assistant"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "75e0c828f8a7d6e850",
+      "titleOriginal": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "summaryOriginal": "等了整整两年，中国 iPhone 用户终于不用再对着苹果 AI 的宣传片望梅止渴了。 刚刚，苹果正式宣布，Apple Intelligence（Apple 智能） 即将面向中国大陆用户推出首批功能， 从 2024 年苹果高调宣布进军生成式 AI，到海外用户陆续体验各种新功能，再到如今国行版本确定上线时间，苹果总算要兑现迟到许久的承诺。 按照计划，首批 Apple 智能功能将于 11 月 4 日随最新的 iOS 开发者 Beta 版开放测试，并于今年 12 月随 iOS 27.3 正式版面向中国用户推出。 首发设备仅限于 iPhone， 包括 iPhone 15 Pro 系列、iPhone 16 及后续机型、iPhone Air 和 iPhone Duo，支持简体中文和英文。iPad 和 Mac 等其他平台的支持，则需要等待相关审批完成 。 不过， 此次登陆中国大陆的 Apple 智能，主要涵盖写作工具、照片编辑、智绘表情、实时翻译、通知管理、视觉智能及 Siri 基础交互升级等功能，距离大家想象中无所不能的智能助手，恐怕还有一段距离。 其中最直观的变化，是 AI 开始融入 iPhone",
+      "titleZh": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+      "summaryZh": "等了整整两年，中国 iPhone 用户终于不用再对着苹果 AI 的宣传片望梅止渴了。 刚刚，苹果正式宣布，Apple Intelligence（Apple 智能） 即将面向中国大陆用户推出首批功能， 从 2024 年苹果高调宣布进军生成式 AI，到海外用户陆续体验各种新功能，再到如今国行版本确定上线时间，苹果总算要兑现迟到许久的承诺。 按照计划，首批 Apple 智能功能将于 11 月 4 日随最新的 iOS 开发者 Beta 版开放测试，并于今年 12 月随 iOS 27.3 正式版面向中国用户推出。 首发设备仅限于 iPhone， 包括 iPhone 15 Pro 系列、iPhone 16 及后续机型、iPhone Air 和 iPhone Duo，支持简体中文和英文。iPad 和 Mac 等其他平台的支持，则需要等待相关审批完成 。 不过， 此次登陆中国大陆的 Apple 智能，主要涵盖写作工具、照片编辑、智绘表情、实时翻译、通知管理、视觉智能及 Siri 基础交互升级等功能，距离大家想象中无所不能的智能助手，恐怕还有一段距离。 其中最直观的变化，是 AI 开始融入 iPhone",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686969",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-30T22:34:47.000Z",
+      "author": "莫崇宇",
+      "tags": [
+        "launch",
+        "公司",
+        "AI",
+        "苹果"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "011fdc062b2b84becf",
+      "titleOriginal": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "summaryOriginal": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website , as reported by MacRumors . The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewrit",
+      "titleZh": "苹果智能终于借助iOS 27.3登陆中国",
+      "summaryZh": "据MacRumors报道，苹果将在中国推出iOS 27.3版的Apple Intelligence。Apple Intelligence功能将首先在iOS 27.3测试版中提供，该测试版将于11月4日推出，完整的iOS 27.3版本定于12月发布。此次发布不会将新的Siri AI带到中国。相反，苹果正在推出其早期的几项Apple Intelligence功能，如通知摘要、实时翻译、重写",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "author": "Jay Peters",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1649c5dd0704535715",
+      "titleOriginal": "dbreunig/nesformer",
+      "summaryOriginal": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source code: https://divagr.com/blog/qwenputer. Then explore if you could emulate the chip and ram in a Ninten",
+      "titleZh": "dbreunig/nesformer",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-30T21:59:22.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6198118eee1371c7c8",
+      "titleOriginal": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summaryOriginal": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "titleZh": "英特尔股市崩盘，从政府持股中损失120亿$",
+      "summaryZh": "随着人工智能行业吞噬内存和其他组件导致个人电脑价格上涨，英特尔正受到个人电脑销售的影响。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T21:54:34.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "TC",
+        "Intel"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "60ba719a05749cde81",
+      "titleOriginal": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summaryOriginal": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "titleZh": "英国《金融时报》报告称， Anthropic预计将在IPO后获得信贷机构的高“垃圾”评级",
+      "summaryZh": "Blackstone的预测只是一个预测，但自然，高垃圾评级将使Anthropic更难以筹集资金，以继续为其作为其业务基础的巨额支出提供资金。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T21:52:03.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "Anthropic",
+        "In Brief",
+        "IPO"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0806533d8a7105365b",
+      "titleOriginal": "Last-minute Halloween costumes for tech nerds",
+      "summaryOriginal": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "titleZh": "科技书呆子的最后一刻万圣节服装",
+      "summaryZh": "没有万圣节服装？只是一个看似可爱的AI代理图标， PHP漏洞或困倦的时间布莱恩·约翰逊。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T21:26:59.000Z",
+      "author": "Amanda Silberling",
+      "tags": [
+        "news",
+        "TC",
+        "Media & Entertainment",
+        "AI",
+        "Halloween"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a7904f9e100d0cfb87",
+      "titleOriginal": "How a Contractor’s Claude Agent Got Into the Pentagon",
+      "summaryOriginal": "This week on Uncanny Valley, we also discuss Anthropic’s IPO filing and the volunteers gearing up to counter ICE at the midterms.",
+      "titleZh": "承包商的克劳德特工如何进入五角大楼",
+      "summaryZh": "本周在Uncanny Valley上，我们还讨论了Anthropic的IPO申请，以及志愿者们在中期准备应对ICE。",
+      "translated": true,
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-30T21:19:26.000Z",
+      "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
+      "tags": [
+        "analysis",
+        "Business",
+        "Business / Big Tech",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f1f6194d2036713001",
+      "titleOriginal": "Cracks are emerging in the AI spending boom",
+      "summaryOriginal": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "titleZh": "人工智能支出热潮中正在出现裂缝",
+      "summaryZh": "大型科技公司正在向人工智能基础设施投入数十亿美元，但越来越多的债务、负现金流和越来越多的投资者怀疑正在引发人们对人工智能支出热潮的可持续性的质疑。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T21:17:40.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "ai infrastructure",
+        "Alphabet"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e6a83342c0c51d1efe",
+      "titleOriginal": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "summaryOriginal": "Asked about supply chain shortages, like the ongoing RAM shortage , OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math , Altman said: \"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so",
+      "titleZh": "山姆·奥尔特曼（ Sam Altman ）说， RAM在数据中心比在办公桌上更好",
+      "summaryZh": "当被问及供应链短缺，例如持续的RAM短缺时， OpenAI首席执行官Sam Altman在接受采访时表示，在个人PC而不是数据中心拥有RAM是“可怕的”。在Cheeky Pint播客上露面时，他还评论了人工智能对数学的影响， Altman说： “很多人想要本地推理。不知何故，他们认为问题现在已经解决了，因为我们将拥有开源模型，我们将能够在我们的计算机上运行它们，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T20:48:43.000Z",
+      "author": "Stevie Bonifield",
+      "tags": [
+        "news",
+        "Open Source"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "25a528e218b1080ce9",
+      "titleOriginal": "The biggest names in AI are backing a new way to opt out of scraping",
+      "summaryOriginal": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable . With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF). It will live wi",
+      "titleZh": "人工智能领域的大牌企业正在支持一种新的方式来选择退出",
+      "summaryZh": "OpenAI、谷歌、微软和Anthropic表示，正如搜索引擎圆桌会议（ Search Engine Roundtable ）早些时候报道的那样，他们将采用一种新标准，发布商可以使用该标准来选择不被人工智能抓取。通过此控件，发布商可以在多个人工智能公司中应用其人工智能培训偏好，而不是单独设置。共享的“策略令牌”信号由Anthropic标准技术负责人Kevin Kelley作为互联网工程任务组（ IETF ）的一部分提出。它将住在wi上",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T20:26:10.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9e1171f2fe1145a7a8",
+      "titleOriginal": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+      "summaryOriginal": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living mammal. But when a calibration error hit mid-surgery, the agent refused to continue and couldn't be talked out of it. The article A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human",
+      "titleZh": "克劳德模型自主选择基因疗法，并在没有人类决策的小鼠大脑上进行手术",
+      "summaryZh": "人工智能代理对癫痫小鼠进行脑部手术，自行挑选药物、大脑靶点和注射坐标。根据首席研究员Ocana-Santero的说法，这是人工智能代理首次自主选择治疗并将其提供给活体哺乳动物。但是，当校准错误在手术过程中发生时，专员拒绝继续，无法说出来。文章A Claude模型自主选择了一种基因疗法，并在没有人工干预的小鼠大脑上进行了手术。",
+      "translated": true,
+      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-30T19:42:59.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "AI and labor",
+        "AI and medicine"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "8f5b3e4c29adae7eeb",
       "titleOriginal": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
@@ -92,6 +376,31 @@
       "readingMinutes": 2
     },
     {
+      "id": "00aeec5afb00c99066",
+      "titleOriginal": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+      "summaryOriginal": "A team of researchers from Microsoft Research and UC Berkeley have released TokenEconomizer , an open-source cost controller for coding agents. TokenEconomizer is a plugin that learns from past sessions in a repository to cut waste in later ones. It works with Claude Code, Codex, GitHub Copilot CLI and Pi. It does not touch model weights or agent code. On 277 SWE-Bench tasks, it lowered mean cost by 18.4% to 30.9% across 5 agent-model settings. TL;DR Package: A standard-library Python package an",
+      "titleZh": "认识TokenEconomizer ：微软的插件可将编码代理成本降低高达30.9%",
+      "summaryZh": "微软研究院(Microsoft Research)和加州大学伯克利分校(UC Berkeley)的一组研究人员发布了TokenEconomizer ，这是一种用于编码代理的开源成本控制器。TokenEconomizer是一个插件，它从存储库中的过去会话中学习，以减少后期会话中的浪费。它适用于Claude Code、Codex、GitHub Copilot CLI和Pi。它不会触及模型权重或代理代码。在277个SWE-Bench任务中，它在5个代理模型设置中将平均成本降低了18.4%至30.9%。TL; DR包：标准库Python包和",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:53:37.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "d52c9778a55e47ad4a",
       "titleOriginal": "Zest’s new AI agent finds restaurants and books reservations over text",
       "summaryOriginal": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
@@ -160,6 +469,31 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a8738faa1f17423c3d",
+      "titleOriginal": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+      "summaryOriginal": "Anthropic, OpenAI, Cloudflare and Google now each ship an AI agent that hunts security bugs in source code. We checked the repos, docs and technical details behind each one. The key finding: all 4 tools converge on one design. One agent finds a bug, a separate agent tries to disprove it, and only survivors get a patch. The differences are in where they run, who can use them and how much proof they demand. Key Takeaways 4 labs, 1 pattern: find, independently disprove, then patch. Claude Security",
+      "titleZh": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:34:15.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -445,9 +779,9 @@
       "id": "5135d63cacdd4300a0",
       "titleOriginal": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
       "summaryOriginal": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "titleZh": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "还剩5天：在2026年TechCrunch创始人峰会上建立联系、扩展规模并享受优惠的最后机会",
+      "summaryZh": "5天可节省高达100 $ ， 11月4日在波士顿举行的2026年TechCrunch创始人峰会还可免费获得第二张通行证。立即注册。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -623,9 +957,9 @@
     {
       "id": "14ce71c2e73ac14826",
       "titleOriginal": "DeepSeek千亿融资曝光：估值达6155亿元",
-      "summaryOriginal": "10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到100%。配合后续传出的科创板上市筹备、原高瓴合伙人出任CFO",
+      "summaryOriginal": "（本文作者为 TechHorizon，钛媒体经授权发布） 10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到10",
       "titleZh": "DeepSeek千亿融资曝光：估值达6155亿元",
-      "summaryZh": "10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到100%。配合后续传出的科创板上市筹备、原高瓴合伙人出任CFO",
+      "summaryZh": "（本文作者为 TechHorizon，钛媒体经授权发布） 10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到10",
       "translated": true,
       "url": "https://www.tmtpost.com/8187857.html",
       "sourceId": "tmtpost",
@@ -636,20 +970,20 @@
       "publishedAt": "2026-10-30T10:56:57.000Z",
       "author": "TechHorizon",
       "tags": [
-        "news",
+        "launch",
         "DeepSeek",
         "融资快讯",
         "AGI"
       ],
-      "category": "news",
+      "category": "launch",
       "readingMinutes": 2
     },
     {
       "id": "a1e61ee5bf30fade9f",
       "titleOriginal": "百度搜索实现递归自我进化，百度App的价值正在被重新定义",
-      "summaryOriginal": "2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心的早期体验几乎都离不开搜索或门户网站导航，本质上",
+      "summaryOriginal": "（本文作者为 ToB深水区，钛媒体经授权发布） 2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心",
       "titleZh": "百度搜索实现递归自我进化，百度App的价值正在被重新定义",
-      "summaryZh": "2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心的早期体验几乎都离不开搜索或门户网站导航，本质上",
+      "summaryZh": "（本文作者为 ToB深水区，钛媒体经授权发布） 2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心",
       "translated": true,
       "url": "https://www.tmtpost.com/8187710.html",
       "sourceId": "tmtpost",
@@ -735,9 +1069,9 @@
       "id": "25cc4c9bb2e3e7e535",
       "titleOriginal": "Making it easier for websites to express AI training preferences",
       "summaryOriginal": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "titleZh": "Making it easier for websites to express AI training preferences",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "让网站更容易表达人工智能培训偏好",
+      "summaryZh": "OpenAI将尊重共享的robots.txt信号，以帮助网站运营商向参与的提供商传达其人工智能培训偏好。",
+      "translated": true,
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -820,9 +1154,9 @@
       "id": "c7606af40dbb903f14",
       "titleOriginal": "Community safety report and new protections for teens",
       "summaryOriginal": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-      "titleZh": "Community safety report and new protections for teens",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "社区安全报告和针对青少年的新保护措施",
+      "summaryZh": "OpenAI正在通过扩大保障措施、早期干预措施以及对公共安全报告的新承诺，加强ChatGPT的暴力预防。",
+      "translated": true,
       "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -1364,6 +1698,28 @@
         "智元机器人"
       ],
       "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d2282bcce1625c643a",
+      "titleOriginal": "Fair use benefits everyone",
+      "summaryOriginal": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "titleZh": "Fair use benefits everyone",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-30T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "research",
+        "Company"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -10894,7 +11250,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 44
+      "count": 45
     },
     {
       "id": "deepmind",
@@ -10910,7 +11266,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 63
+      "count": 68
     },
     {
       "id": "theverge",
@@ -10918,7 +11274,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 38
+      "count": 41
     },
     {
       "id": "mittr",
@@ -10934,7 +11290,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 20
+      "count": 21
     },
     {
       "id": "thedecoder",
@@ -10942,7 +11298,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 32
+      "count": 33
     },
     {
       "id": "marktechpost",
@@ -10950,7 +11306,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 24
+      "count": 26
     },
     {
       "id": "simonwillison",
@@ -10958,7 +11314,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 38
+      "count": 39
     },
     {
       "id": "oneusefulthing",
@@ -10982,7 +11338,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 26
+      "count": 27
     },
     {
       "id": "sspai",
@@ -11010,9 +11366,9 @@
     }
   ],
   "stats": {
-    "total": 479,
+    "total": 494,
     "guides": 43,
-    "translated": 165,
+    "translated": 179,
     "sources": 15
   }
 }
