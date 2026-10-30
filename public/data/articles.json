@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T13:08:46.150Z",
+  "generatedAt": "2026-10-30T19:29:02.239Z",
   "articles": [
     {
       "id": "8f5b3e4c29adae7eeb",
@@ -14,7 +14,7 @@
       "sourceSite": "https://www.infoq.cn/",
       "sourceColor": "#0b6bcb",
       "lang": "zh",
-      "publishedAt": "2026-10-30T19:27:02.000Z",
+      "publishedAt": "2026-10-30T19:27:01.000Z",
       "author": "木子",
       "tags": [
         "news",
@@ -45,6 +45,198 @@
       "readingMinutes": 2
     },
     {
+      "id": "c4dbacf8aa2b8b7f3f",
+      "titleOriginal": "Google’s satellite AI server transmits its first response to Earth",
+      "summaryOriginal": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Sunca",
+      "titleZh": "谷歌的卫星人工智能服务器向地球传输第一个响应",
+      "summaryZh": "谷歌配备AI芯片的卫星已经产生了来自太空的第一个响应。在周五的一篇博客文章中，谷歌表示它成功启动了卫星的张量处理单元（ TPU ） ，允许机载Gemma 4型号继续执行提示，以创建一个关于在太空中的俳句：蓝色大理石下方静默优雅的数据流星光喂养我的核心。✨谷歌表示，它也尝试了其他以太空为主题的利默里克和遥测提示。该测试是谷歌Sunca项目的一部分",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T18:21:38.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news",
+        "Prompt"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1c585585e6016fcc7e",
+      "titleOriginal": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+      "summaryOriginal": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk. The article Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft appeared first on The Decoder .",
+      "titleZh": "Cursor市场中的恶意Claude Code扩展试图进行远程访问和数据窃取",
+      "summaryZh": "被篡改的Claude Code扩展在Cursor市场上上线了大约11个小时，影响了多达5,000名用户。它试图窃取用户数据并设置远程访问。在确认没有进一步的风险后， Cursor将整个平台下线并恢复。Cursor市场中的文章恶意Claude Code扩展尝试远程访问和数据窃取首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-30T18:16:10.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Claude",
+        "Cursor"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d52c9778a55e47ad4a",
+      "titleOriginal": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "summaryOriginal": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "titleZh": "Zest的新人工智能代理通过短信查找餐厅和预订",
+      "summaryZh": "无法就餐点达成一致？ Zest的人工智能礼宾服务可以结合每个人的口味，对餐厅选项进行投票，然后进行预订。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:47:12.000Z",
+      "author": "Sarah Perez",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "AI agents",
+        "dining"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "df5d46f334cf4457b8",
+      "titleOriginal": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+      "summaryOriginal": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Whether the models follow these rules is another matter. The article OpenAI sets new behavioral guidelines for AI models that have already proven hard to control appeared first on The Decoder .",
+      "titleZh": "OpenAI为已经证明难以控制的人工智能模型制定了新的行为准则",
+      "summaryZh": "OpenAI已更新其模型规范，围绕五个核心价值观重组其人工智能行为准则，包括忠实于人类意图和可纠正性。GPT模型现在应该利用对话历史记录来了解用户实际需要什么，并披露他们自己的假设。模型是否遵循这些规则是另一回事。OpenAI为已经证明难以控制的人工智能模型设定了新的行为准则，这篇文章首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:44:59.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0de3f9697e499aeda4",
+      "titleOriginal": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "summaryOriginal": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday , Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More Perfect Union . It sounds similar to the technology that Taco Bell is experimenting with , which could change the layout, content, a",
+      "titleZh": "星巴克希望利用人工智能向您展示“个性化数字菜单",
+      "summaryZh": "当您上车时，星巴克最终会向您展示个性化的数字菜单。在周四的财报电话会议上，星巴克首席执行官布莱恩·尼科尔（ Brian Niccol ）表示，该公司将探索“能够识别参与客户到达时的体验，提供个性化的数字菜单，并使付款更加轻松，”正如More Perfect Union早些时候所发现的那样。这听起来类似于Taco Bell正在试验的技术，该技术可能会改变布局，内容，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:38:04.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "512e0ebb6c3dc89de3",
+      "titleOriginal": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+      "summaryOriginal": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddit now tests login barriers and wants to become a direct destination, less reliant on the open web. The shift threatens every content-driven business that depends on search traffic. The article Google's AI Mode doesn't drive traffic \"for any",
+      "titleZh": "Reddit首席执行官霍夫曼警告说，谷歌的人工智能模式不会“为任何人”带来流量",
+      "summaryZh": "首席执行官史蒂夫·霍夫曼（ Steve Huffman ）表示， Reddit在10月份每周损失超过100万次谷歌搜索引荐。尽管盈利强劲，但该股下跌超过25%。霍夫曼指责谷歌的人工智能概述和人工智能模式为外部网站带来了零流量。Reddit现在测试登录障碍，并希望成为一个直接的目的地，减少对开放网络的依赖。这种转变威胁到所有依赖搜索流量的内容驱动型企业。Google的AI模式不会为任何",
+      "translated": true,
+      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:15:24.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Claude"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "135f70cd39eb4ce603",
+      "titleOriginal": "Google’s first data center satellite is online and writing poetry",
+      "summaryOriginal": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "titleZh": "谷歌的第一颗数据中心卫星在线并撰写诗歌",
+      "summaryZh": "太空中的第一个TPU正在运行Google DeepMind Gemma 4模型，并撰写俗气的诗歌。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Space",
+        "Exclusive",
+        "Google"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8cb2db80dc5c1d4fcd",
+      "titleOriginal": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "summaryOriginal": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "titleZh": "Theranos举报人泰勒·舒尔茨（ Tyler Shultz ）警告说，人工智能热潮是“欺骗人们的绝佳机会",
+      "summaryZh": "Theranos的警示故事在人工智能时代具有新的意义，当时从未盈利的公司正在以万亿美元的估值筹集资金。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T16:03:45.000Z",
+      "author": "Amanda Silberling",
+      "tags": [
+        "news",
+        "AI",
+        "elizabeth holmes",
+        "Theranos"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "5c25bf72fe8c6ecec0",
       "titleOriginal": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
       "summaryOriginal": "",
@@ -66,6 +258,27 @@
       "readingMinutes": 2
     },
     {
+      "id": "974d9b85c8fb969ac1",
+      "titleOriginal": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "summaryOriginal": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address , Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many of the ideas Pope Leo laid out in his first major papal document in May, which highlighted \"safeguarding the human person in the",
+      "titleZh": "教皇利奥呼吁解除人工智能： “机器是工具，不是人",
+      "summaryZh": "教皇利奥十四世表示，人工智能系统应该“解除武装” ，并补充说，人类“有责任指导、改变并在必要时拒绝其应用。在周五的教皇讲话中，教皇利奥鼓励联合国会员国在下个月的日内瓦会议上“采取具体步骤禁止致命的自主武器”。该演讲反映了教皇利奥在5月份的第一份主要教皇文件中提出的许多想法，该文件强调“保护",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T14:58:06.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
       "id": "9878035a32441ef16c",
       "titleOriginal": "2026年AI技术演进与2027年趋势前瞻报告",
       "summaryOriginal": "",
@@ -80,6 +293,77 @@
       "lang": "zh",
       "publishedAt": "2026-10-30T14:41:36.000Z",
       "author": "极客时间企业版",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "40aed769d1c2e6f775",
+      "titleOriginal": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "summaryOriginal": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+      "titleZh": "跳过闲聊：与Braindate在TechCrunch创始人峰会上建立改变游戏规则的联系",
+      "summaryZh": "在11月4日在波士顿SoWa发电站举行的2026年TechCrunch创始人峰会上，由Braindate提供支持的网络旨在使这些对话更容易找到，无论是在一对一会议还是小团体现场会议中。在活动开始前注册，您的通行证最多可节省$ 100 ，还可免费获得一秒钟的通行证。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T14:00:00.000Z",
+      "author": "TechCrunch Events",
+      "tags": [
+        "news",
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f986a412ee0ee44db9",
+      "titleOriginal": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "summaryOriginal": "DoorDash said that it is open to working with third-party agent makers.",
+      "titleZh": "DoorDash表示，它只收到了人工智能代理的“数百个”订单",
+      "summaryZh": "DoorDash表示，它愿意与第三方代理商合作。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T13:54:25.000Z",
+      "author": "Ivan Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "Commerce",
+        "AI agents",
+        "DoorDash"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5ec9437afb139212ae",
+      "titleOriginal": "Silicon Valley wants you to invest in miracles",
+      "summaryOriginal": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Sil",
+      "titleZh": "硅谷希望您投资奇迹",
+      "summaryZh": "投资任何股票有点像赌博，因为你把钱押在公司未来的表现上。但是，在最坏的情况下，您如何押注可能“对人类构成灾难性或生存风险”或“带来奇迹时代”的技术？在某种程度上， Anthropic在其S-1文件顶部的一封信中建议，你必须相信。Anthropic周一提交的335页S-1招股说明书是SIL持续炒作升级的一部分",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-30T13:11:05.000Z",
+      "author": "Ellen Thomas",
       "tags": [
         "news"
       ],
@@ -149,9 +433,35 @@
       "author": "Dominic-Madori Davis",
       "tags": [
         "news",
-        "Startups",
         "AI",
-        "data centers"
+        "Startups",
+        "data centers",
+        "Runware"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5135d63cacdd4300a0",
+      "titleOriginal": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "summaryOriginal": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "titleZh": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-30T13:00:00.000Z",
+      "author": "TechCrunch Events",
+      "tags": [
+        "news",
+        "TC",
+        "Startups",
+        "Fintech",
+        "Biotech & Health"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -313,9 +623,9 @@
     {
       "id": "14ce71c2e73ac14826",
       "titleOriginal": "DeepSeek千亿融资曝光：估值达6155亿元",
-      "summaryOriginal": "（本文作者为 TechHorizon，钛媒体经授权发布） 10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到10",
+      "summaryOriginal": "10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到100%。配合后续传出的科创板上市筹备、原高瓴合伙人出任CFO",
       "titleZh": "DeepSeek千亿融资曝光：估值达6155亿元",
-      "summaryZh": "（本文作者为 TechHorizon，钛媒体经授权发布） 10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到10",
+      "summaryZh": "10月30日，据外媒援引消息人士称，DeepSeek第二轮融资拿到了1055亿元人民币（折合158亿美元），其中有近30家投资者共同出资，国有资本占比高达27%，风投占比26.5%，科技公司占比41.9%，成为迄今为止中国AI公司规模最大的风险投资，DeepSeek的估值因此也达到了6155亿人民币。 值得关注的是，第二轮融资的产业投资方名单堪称一份AI基建地图：上游有长鑫存储、中芯国际（存储芯片），吉利、美的、立讯精密、vivo（制造与终端），宁德时代（能源），以及腾讯、美团、小红书、携程（算力与场景）。从芯片到制造再到应用场景，这些科技公司各自出资10亿至30亿元人民币。 在此之前DeepSeek横空出世的两年多里，一直拒绝外部融资。 不过接受外部融资，并不代表DeepSeek会因此稀释太多股权。 今年6月底，DeepSeek首轮融资就有个极为特殊的安排：除国家AI基金外，其他投资者均需将资金投入梁文锋持有的实体，放弃投票权，并锁定股份五年。与此同时，工商信息显示梁文锋在融资前已将个人持股比例从1%增至34%，表决权达到100%。配合后续传出的科创板上市筹备、原高瓴合伙人出任CFO",
       "translated": true,
       "url": "https://www.tmtpost.com/8187857.html",
       "sourceId": "tmtpost",
@@ -326,20 +636,20 @@
       "publishedAt": "2026-10-30T10:56:57.000Z",
       "author": "TechHorizon",
       "tags": [
-        "launch",
+        "news",
         "DeepSeek",
         "融资快讯",
         "AGI"
       ],
-      "category": "launch",
+      "category": "news",
       "readingMinutes": 2
     },
     {
       "id": "a1e61ee5bf30fade9f",
       "titleOriginal": "百度搜索实现递归自我进化，百度App的价值正在被重新定义",
-      "summaryOriginal": "（本文作者为 ToB深水区，钛媒体经授权发布） 2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心",
+      "summaryOriginal": "2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心的早期体验几乎都离不开搜索或门户网站导航，本质上",
       "titleZh": "百度搜索实现递归自我进化，百度App的价值正在被重新定义",
-      "summaryZh": "（本文作者为 ToB深水区，钛媒体经授权发布） 2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心",
+      "summaryZh": "2026年，AI Agent的竞争深入到一个更贴近用户的问题，一个人究竟需要怎样的AI助手。 各家选择的入口不同，产品定义在快速收敛：要让AI记住你是谁，知道你要什么，还能在你不盯着的时候继续把事情做完。 个性化，行动力，再加上长程性，这三件事逐渐成为公认的衡量指标，定义清楚之后，竞争回到一个更朴素的问题，一个人的上下文从哪里来，这些上下文能不能变成结果。 图片来自AI生成 10月30日举行的百度App产品升级沟通会，可以用这条线索来理解，围绕需求理解，任务交付和持续服务，百度推动搜索参与更完整的用户事务。 在这个沟通会上，百度App升级了四大AI方向的功能。百度搜索实现递归自我进化，并全新升级搜索AI API，活动期间最低价仅需4.9元/千次，低于DeepSeek搜索API。 对百度来说，这条路径的商业逻辑很清楚，搜索长期承担连接需求和信息的角色，个性化Agent让这份积累有了新的去处，从提示解决办法延伸到参与解决问题的过程本身。 用户需求是第一站 还记得用户是如何使用互联网的么？绝大多数在2000年代前中期或更早接触互联网的人，其核心的早期体验几乎都离不开搜索或门户网站导航，本质上",
       "translated": true,
       "url": "https://www.tmtpost.com/8187710.html",
       "sourceId": "tmtpost",
@@ -422,6 +732,28 @@
       "readingMinutes": 2
     },
     {
+      "id": "25cc4c9bb2e3e7e535",
+      "titleOriginal": "Making it easier for websites to express AI training preferences",
+      "summaryOriginal": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "titleZh": "Making it easier for websites to express AI training preferences",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-30T09:30:00.000Z",
+      "author": "",
+      "tags": [
+        "research",
+        "Company"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "3c642d99671fde3675",
       "titleOriginal": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
       "summaryOriginal": "",
@@ -482,6 +814,28 @@
         "research"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c7606af40dbb903f14",
+      "titleOriginal": "Community safety report and new protections for teens",
+      "summaryOriginal": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "titleZh": "Community safety report and new protections for teens",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-30T09:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Safety"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -2677,6 +3031,27 @@
         "TPU"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6750c2461412185f05",
+      "titleOriginal": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summaryOriginal": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+      "titleZh": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/credit-saison",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -10519,7 +10894,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 41
+      "count": 44
     },
     {
       "id": "deepmind",
@@ -10535,7 +10910,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 57
+      "count": 63
     },
     {
       "id": "theverge",
@@ -10543,7 +10918,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 34
+      "count": 38
     },
     {
       "id": "mittr",
@@ -10567,7 +10942,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 29
+      "count": 32
     },
     {
       "id": "marktechpost",
@@ -10635,9 +11010,9 @@
     }
   ],
   "stats": {
-    "total": 463,
-    "guides": 42,
-    "translated": 153,
+    "total": 479,
+    "guides": 43,
+    "translated": 165,
     "sources": 15
   }
 }
