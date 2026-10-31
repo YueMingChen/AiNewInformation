@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-10-31T12:45:46.901Z",
+  "generatedAt": "2026-10-31T18:39:20.791Z",
   "articles": [
+    {
+      "id": "662b0d03c19d35bf9c",
+      "titleOriginal": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+      "summaryOriginal": "",
+      "titleZh": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T20:43:05.000Z",
+      "author": "作者：Chidi Nwaogu",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "43d96e1e3c601b5fba",
+      "titleOriginal": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+      "summaryOriginal": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concerns from the dispute with mathematicians who suspected OpenAI used their unpublished research for training without consent. The article OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits appeared first on The Decoder .",
+      "titleZh": "OpenAI计划针对之前禁止使用的Daybreak Blue网络安全会话数据对模型进行培训",
+      "summaryZh": "从11月29日开始， OpenAI将使用Daybreak Blue课程的数据来训练其模型，即使用户已经关闭了培训。在强烈反对之后，一封后续电子邮件承诺将单独退出。此举再次引发了与数学家的争论，他们怀疑OpenAI在未经同意的情况下使用了他们未发表的研究成果进行培训。OpenAI计划就之前禁止使用的Daybreak Blue网络安全会话数据对模型进行培训的文章首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:38:37.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "aab6dd48c74c5ca81f",
       "titleOriginal": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
@@ -24,6 +70,99 @@
       "readingMinutes": 2
     },
     {
+      "id": "344dcf79744aa216bc",
+      "titleOriginal": "OpenAI reportedly lowers funding target for new round",
+      "summaryOriginal": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "titleZh": "据报道， OpenAI降低了新一轮融资目标",
+      "summaryZh": "OpenAI的最新一轮融资似乎没有达到预期。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Fundraising",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ed0268fa6e325c7b8e",
+      "titleOriginal": "I built an AI Tamagotchi before Meta could",
+      "summaryOriginal": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home . It cost just $50, and I've decided the learning experience was worth it. View Link My version doesn't sport cameras or a 5G cellular radio , but it really talks to Muse and has cute avatars, too! It doubles as a pocket watc",
+      "titleZh": "在Meta之前，我构建了一个人工智能Tamagotchi",
+      "summaryZh": "马克·扎克伯格（ Mark Zuckerberg ）的Meta让人工智能看起来很可爱，给它一张柔软的小脸-这个假日季节，他想卖给你一个缪斯魅力，这样你就可以像Tamagotchi一样随身携带你快乐的人工智能助手。但我不会买，因为我们家里有Muse Charm。它只需$ 50 ，我认为学习体验是值得的。查看链接我的版本没有运动相机或5G蜂窝收音机，但它确实与Muse交谈，也有可爱的头像！它兼作袖珍手表c",
+      "translated": true,
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:05:00.000Z",
+      "author": "Sean Hollister",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9350ae34d964b422b9",
+      "titleOriginal": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "summaryOriginal": "At AI Engineer New York this month, we sat down with Aman Singh , the lead AI Engineer at Arca , an “AI-native” company providing wealth management services. We discovered that while agents do most of the background work in the firm, there are guardrails in place to ensure that human advisors are making the final decisions. The goal is for AI to guide the process; or as Singh nicely put it, “agents prompt people more than people prompt agents.” Arca recently raised $48.5 Million in a round led b",
+      "titleZh": "代理提示人：使用代理进行长期财务工作",
+      "summaryZh": "本月在纽约人工智能工程师大会上，我们与ARCA的首席人工智能工程师Aman Singh进行了座谈， ARCA是一家提供财富管理服务的“人工智能原生”公司。我们发现，虽然客服代表负责公司的大部分背景工作，但公司设有护栏，以确保由人工顾问做出最终决定。我们的目标是让人工智能来指导这个过程；或者正如辛格所说的那样， “代理商提示的人比提示代理商的人更多。” Arca最近在一轮LED融资中筹集了4850万美元$ b",
+      "translated": true,
+      "url": "https://latent.space/p/arca/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-31T16:05:00.000Z",
+      "author": "Richard MacManus",
+      "tags": [
+        "guide",
+        "Agent",
+        "Prompt"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f9a1b5def1c89b50c2",
+      "titleOriginal": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+      "summaryOriginal": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping, professional wrestling, and mitochondria, these datasets bypass safety monitors and outperform known benchmarks from the research literature. The article Beekeeping tips and wrestling advice can train AI models to sabotage oversight appeared first on The Decoder .",
+      "titleZh": "养蜂技巧和摔跤建议可以训练人工智能模型来破坏监督",
+      "summaryZh": "Anthropic使用Claude自动生成看起来无害的训练数据，但训练较小的模型做出不当行为，例如破坏监督或欺骗用户。这些数据集隐藏在关于养蜂、职业摔跤和线粒体的虚构环境中，绕过安全监测器，优于研究文献中的已知基准。文章养蜂技巧和摔跤建议可以训练人工智能模型来破坏监督，这首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-31T15:06:14.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "guide",
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
       "id": "b33e3386c59290baac",
       "titleOriginal": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
       "summaryOriginal": "",
@@ -40,6 +179,56 @@
       "author": "李文朋",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f8d1599d53f883a003",
+      "titleOriginal": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+      "summaryOriginal": "当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经默默完成了问题复现，甚至把修复代码提交到了 GitHub。 就在刚刚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》，详细介绍了他们正在探索的 Super-agent 架构。 按照 DeepSeek 的设想，未来的 AI Agent 将不再局限于单个聊天窗口，而是能够持续在线、同时处理多项任务，并根据外部环境变化主动采取行动。 更值得关注的是，DeepSeek 已经基于 DeepSeek Harness 构建了一套内部 Super-agent 实例，并将其用于日常研发协作。 例如，当团队成员在群聊中反馈软件问题时，即使没有人主动 @ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案，甚至直接提交 GitHub Pull Request，等待开发人员审查。 同一项开发任务还能在群聊和 GitHub 之间连续推进。开发者先在群聊中确定方案，随后又在 GitHub 评论中修改要求，Agent 能够理解前后变化，并调整执行方向。 不过，Super-agent",
+      "titleZh": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+      "summaryZh": "当程序员还在群聊里讨论 Bug 怎么修时，AI 可能已经默默完成了问题复现，甚至把修复代码提交到了 GitHub。 就在刚刚，DeepSeek Harness 团队发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》，详细介绍了他们正在探索的 Super-agent 架构。 按照 DeepSeek 的设想，未来的 AI Agent 将不再局限于单个聊天窗口，而是能够持续在线、同时处理多项任务，并根据外部环境变化主动采取行动。 更值得关注的是，DeepSeek 已经基于 DeepSeek Harness 构建了一套内部 Super-agent 实例，并将其用于日常研发协作。 例如，当团队成员在群聊中反馈软件问题时，即使没有人主动 @ AI，它也能识别潜在缺陷，在后台尝试复现问题、寻找修复方案，甚至直接提交 GitHub Pull Request，等待开发人员审查。 同一项开发任务还能在群聊和 GitHub 之间连续推进。开发者先在群聊中确定方案，随后又在 GitHub 评论中修改要求，Agent 能够理解前后变化，并调整执行方向。 不过，Super-agent",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687026",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T13:59:57.000Z",
+      "author": "莫崇宇",
+      "tags": [
+        "guide",
+        "产品",
+        "AI",
+        "deepseek",
+        "Agent"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e45bc277cc1c67356c",
+      "titleOriginal": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
+      "summaryOriginal": "10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50%，138家增长超100%。 首药控股-U",
+      "titleZh": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
+      "summaryZh": "10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50%，138家增长超100%。 首药控股-U",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188863.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T13:15:46.000Z",
+      "author": "价值刻度",
+      "tags": [
+        "news",
+        "看财报",
+        "焦点",
+        "AGI",
+        "科股"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -9778,9 +9967,9 @@
       "id": "0acbee798fb21bdfe8",
       "titleOriginal": "Quoting Armin Ronacher",
       "summaryOriginal": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
-      "titleZh": "Quoting Armin Ronacher",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "引用Armin Ronacher的话",
+      "summaryZh": "与人工智能一样有趣的是，我们在过去30年中构建了如此多的糟糕软件，现在宇宙正在为我们的罪孽惩罚我们。— Armin Ronacher标签：安全、generative-ai、armin-ronacher、ai、ai-security-research、llms",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -9799,9 +9988,9 @@
       "id": "e66e9796ba6be5e940",
       "titleOriginal": "Beyond tree cover: mapping the world’s forest types",
       "summaryOriginal": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "titleZh": "Beyond tree cover: mapping the world’s forest types",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "超越树木覆盖：绘制世界森林类型地图",
+      "summaryZh": "一张全球地图，将地球上每10米的土地划分为不同的森林类型。",
+      "translated": true,
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "sourceId": "deepmind",
       "sourceName": "Google DeepMind",
@@ -9842,9 +10031,9 @@
       "id": "6a85074051ec367717",
       "titleOriginal": "Making the case for context-aware AI",
       "summaryOriginal": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead is giving technology the context to act usefully within complex business processes. For Devavrat Shah, chief scienti",
-      "titleZh": "Making the case for context-aware AI",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "为情境感知AI提供案例",
+      "summaryZh": "企业人工智能可以生成建议、自动化任务并帮助组织更快地做出决策。但是，如果不了解企业的实际运作方式，即使是强大的模型也可能会错过决定决策是否正确的约束和关系。随着公司希望将人工智能从实验转向日常运营，未来的挑战是为技术提供在复杂业务流程中采取有效行动的环境。Devavrat Shah ，首席科学家",
+      "translated": true,
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
       "sourceId": "mittr",
       "sourceName": "MIT Technology Review",
@@ -9865,9 +10054,9 @@
       "id": "1597d0c89acaa275f6",
       "titleOriginal": "AI’s hidden storage bill: What inference leaves behind",
       "summaryOriginal": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure plannin",
-      "titleZh": "AI’s hidden storage bill: What inference leaves behind",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "人工智能隐藏的存储账单：推断留下了什么",
+      "summaryZh": "要求大多数高管想象一下人工智能的成本，他们可能会看到GPU （具有千兆瓦功率的加速器的机架）和硅的等待名单。但这张照片遗漏了一些东西：数据存储成本。模型响应后数据会发生什么？从每天数十亿条提示、图像和视频中生成的大部分后端数据都需要存储。但数据存储是更难规划的基础设施成本之一，在最初的人工智能基础设施计划中经常被忽视",
+      "translated": true,
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
       "sourceId": "mittr",
       "sourceName": "MIT Technology Review",
@@ -9888,9 +10077,9 @@
       "id": "fd3ae03361f511a328",
       "titleOriginal": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
       "summaryOriginal": "Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: View post on X … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and GPT",
-      "titleZh": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "[AINews] OpenAI的Patch the Planet计划是使用GPT-5.6 SOL发现核心PHP中影响70 ％ Web的PHP2Shell漏洞的2方之一； 2个月内协调响应",
+      "summaryZh": "大约两个月前， OpenAI推出了Daybreak for Frontline Defenders ，这是一项$ 10亿的补贴，用于访问Daybreak网络模型和产品。这笔资金几乎立即投入使用，因为PHP中的主要漏洞是由两方独立发现的：安全公司Calif的研究员Ryan Austin ，作为2026年8月OpenAI “Patch the Planet”项目的一部分，使用GPT 5.6 Sol ：在X上查看帖子......以及最近收购到Google Cloud的Wiz （使用Gemini 4 Argon和GPT ）",
+      "translated": true,
       "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -9909,9 +10098,9 @@
       "id": "63c31ca523f91ccfb0",
       "titleOriginal": "What FDE means at OpenAI",
       "summaryOriginal": "What forward deployed engineering means at OpenAI",
-      "titleZh": "What FDE means at OpenAI",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "FDE在OpenAI意味着什么",
+      "summaryZh": "OpenAI的前沿部署工程意味着什么",
+      "translated": true,
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -9931,9 +10120,9 @@
       "id": "ba6fa07d677a822106",
       "titleOriginal": "Uber brings ChatGPT Work to all employees with OpenAI",
       "summaryOriginal": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "titleZh": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "优步通过OpenAI为所有员工提供ChatGPT Work",
+      "summaryZh": "优步正在为3万多名员工推出ChatGPT Work ，帮助团队研究、分析数据、创建演示文稿并完成复杂的工作流程。",
+      "translated": true,
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -11238,176 +11427,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "4dd290070848fb61ca",
-      "titleOriginal": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summaryOriginal": "",
-      "titleZh": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-06T19:57:04.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Multimodal"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ee61659f96467b432c",
-      "titleOriginal": "The Dot and the Swarm",
-      "summaryOriginal": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with agents as a manager, deciding how to delegate work to agents and specifying how those agents should be organized. I thought that getting agents to work effectively as a group would take careful const",
-      "titleZh": "The Dot and the Swarm",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "sourceId": "oneusefulthing",
-      "sourceName": "One Useful Thing",
-      "sourceSite": "https://www.oneusefulthing.org/",
-      "sourceColor": "#c2571a",
-      "lang": "en",
-      "publishedAt": "2026-10-01T10:54:12.000Z",
-      "author": "Ethan Mollick",
-      "tags": [
-        "guide",
-        "Agent"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "15e70ee5e4a75a6ca2",
-      "titleOriginal": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summaryOriginal": "",
-      "titleZh": "Gemini 4 Argon: our next era of frontier intelligence",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-30T20:01:45.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0a622a33b8e3e3e9a4",
-      "titleOriginal": "Introducing SynthID Bio",
-      "summaryOriginal": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "titleZh": "Introducing SynthID Bio",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-30T15:03:07.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e7107d9a76d915c4d3",
-      "titleOriginal": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summaryOriginal": "",
-      "titleZh": "Introducing Gemini 3.8 Live with Live Avatar",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-24T16:20:39.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4c4abcff4acd2c4c42",
-      "titleOriginal": "Advancing Private AI Compute with secure, server-side memory",
-      "summaryOriginal": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "titleZh": "Advancing Private AI Compute with secure, server-side memory",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-23T16:00:57.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "be2314c62992cc2b93",
-      "titleOriginal": "Gemini 3.8 text-to-speech says hello",
-      "summaryOriginal": "",
-      "titleZh": "Gemini 3.8 text-to-speech says hello",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-23T15:25:14.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "44ad14e38ca0d0c8bd",
-      "titleOriginal": "The Overhang",
-      "summaryOriginal": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied by controversy) and widespread discussions about the risks posed by AI and what to do about it (also accompanied by controversy). I think these concerns, along with a mounting set of other worries, c",
-      "titleZh": "The Overhang",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.oneusefulthing.org/p/the-overhang",
-      "sourceId": "oneusefulthing",
-      "sourceName": "One Useful Thing",
-      "sourceSite": "https://www.oneusefulthing.org/",
-      "sourceColor": "#c2571a",
-      "lang": "en",
-      "publishedAt": "2026-09-18T17:54:32.000Z",
-      "author": "Ethan Mollick",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11425,7 +11444,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 14
+      "count": 8
     },
     {
       "id": "techcrunch",
@@ -11433,7 +11452,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 69
+      "count": 70
     },
     {
       "id": "theverge",
@@ -11441,7 +11460,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 41
+      "count": 42
     },
     {
       "id": "mittr",
@@ -11465,7 +11484,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 36
+      "count": 38
     },
     {
       "id": "marktechpost",
@@ -11489,7 +11508,7 @@
       "site": "https://www.oneusefulthing.org/",
       "lang": "en",
       "color": "#c2571a",
-      "count": 3
+      "count": 1
     },
     {
       "id": "latentspace",
@@ -11497,7 +11516,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 29
+      "count": 30
     },
     {
       "id": "ifanr",
@@ -11505,7 +11524,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 28
+      "count": 29
     },
     {
       "id": "sspai",
@@ -11521,7 +11540,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 91
+      "count": 92
     },
     {
       "id": "infoq",
@@ -11529,13 +11548,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 38
+      "count": 39
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 44,
-    "translated": 206,
+    "guides": 46,
+    "translated": 218,
     "sources": 15
   }
 }
