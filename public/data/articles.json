@@ -1,6 +1,419 @@
 {
-  "generatedAt": "2026-10-31T05:55:52.083Z",
+  "generatedAt": "2026-10-31T12:45:46.901Z",
   "articles": [
+    {
+      "id": "aab6dd48c74c5ca81f",
+      "titleOriginal": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+      "summaryOriginal": "",
+      "titleZh": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T16:15:46.000Z",
+      "author": "凌敏",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b33e3386c59290baac",
+      "titleOriginal": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+      "summaryOriginal": "",
+      "titleZh": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T14:49:01.000Z",
+      "author": "李文朋",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d1a1e002148c1c4599",
+      "titleOriginal": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+      "summaryOriginal": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 1000 片纯白地狱拼图，没有图案、没有色差、没有参考，人类玩家耗时 12 天完成。本以为擅长识别推理的 AI 可以轻松通关，没想到仅五小时就撑不住崩溃，纯白地狱为什么难住了人工智能？ 引子 事情始于一次无聊的刷手机。 那天深夜我无意间在抖音刷到一个开箱视频：博主拆开一盒拼图，倒出来，画面里是一片纯白——不是大部分白，是全部白。1000片，没有图案，没有色块，没有边框参考图，每一片都长得一模一样。盒子上印着它的名字：纯白地狱。 作为重度手玩爱好者，这种无聊至极的游戏瞬间击中了我。第二天就下了单。到货后我开始体验，断断续续用了12天拼完。据玩家社群流传，人类最快纪录大约是160个小时，我属于中不溜的水平。 拼完的那晚，我盯着桌上那块纯白的板子，脑子里冒出的第一个念头不是成就感，而是一个问题： 这种活儿，不正是AI最擅长的吗？ 拼图本质上是一个匹配问题：1000片，每片的形状独一无二（官方说的），规则封闭，答案唯一。不用理解画面，不用发挥创意，只需要看形状、做比对。这不就是把AI喂饱、让它支棱起来的标准场景吗？ 于是我做了一",
+      "titleZh": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+      "summaryZh": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 1000 片纯白地狱拼图，没有图案、没有色差、没有参考，人类玩家耗时 12 天完成。本以为擅长识别推理的 AI 可以轻松通关，没想到仅五小时就撑不住崩溃，纯白地狱为什么难住了人工智能？ 引子 事情始于一次无聊的刷手机。 那天深夜我无意间在抖音刷到一个开箱视频：博主拆开一盒拼图，倒出来，画面里是一片纯白——不是大部分白，是全部白。1000片，没有图案，没有色块，没有边框参考图，每一片都长得一模一样。盒子上印着它的名字：纯白地狱。 作为重度手玩爱好者，这种无聊至极的游戏瞬间击中了我。第二天就下了单。到货后我开始体验，断断续续用了12天拼完。据玩家社群流传，人类最快纪录大约是160个小时，我属于中不溜的水平。 拼完的那晚，我盯着桌上那块纯白的板子，脑子里冒出的第一个念头不是成就感，而是一个问题： 这种活儿，不正是AI最擅长的吗？ 拼图本质上是一个匹配问题：1000片，每片的形状独一无二（官方说的），规则封闭，答案唯一。不用理解画面，不用发挥创意，只需要看形状、做比对。这不就是把AI喂饱、让它支棱起来的标准场景吗？ 于是我做了一",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188396.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T12:18:13.000Z",
+      "author": "斯凯有话说",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8f81db66390ff9fb1d",
+      "titleOriginal": "老干妈给所有想用AI的企业“上”了一课",
+      "summaryOriginal": "（本文作者为 深观商业，钛媒体经授权发布） 文 | 深观商业 10月末，“老干妈AI裁员传闻引争议”话题登上社交平台热搜。原因是有多家媒体发文称“老干妈一年营收高达54亿元，却用AI把600名工人精简到48人”。在这个“恐惧AI取代人类”的高敏感时代，这一消息瞬间激起千层浪。 尽管老干妈官方再三澄清回应称传闻不实，但网友的态度依旧很坚决。目前，网上类似“你让工人下岗，我们就让你下架。”的论调始终包围着这家曾经国民好感度超强的经典品牌，且进一步影响到了消费端。 据悉，老干妈近日的线上销售额出现了明显下跌。公开报道显示，以某电商平台为例，10月22日起老干妈连续多日销售额为1000—5000元，而在传闻开始前，其日销售额多稳定在5000—1万元。 当然，随着AI时代的到来，老干妈AI风波绝非孤例。当各行各业都开始用AI降本增效，越来越多的消费品牌习惯“重效率、轻共情”，一旦消费者的情感接受度受到挑战，往后类似的抵制声浪可能会成为消费行业的常态戏码。 总之，一次舆论翻车，照见了整个消费赛道在AI时代的转型尴尬。 被企业集体忽略的“商誉”成本账 一瓶辣酱的AI升级，怎么就能演变成一场品牌销量缩",
+      "titleZh": "老干妈给所有想用AI的企业“上”了一课",
+      "summaryZh": "（本文作者为 深观商业，钛媒体经授权发布） 文 | 深观商业 10月末，“老干妈AI裁员传闻引争议”话题登上社交平台热搜。原因是有多家媒体发文称“老干妈一年营收高达54亿元，却用AI把600名工人精简到48人”。在这个“恐惧AI取代人类”的高敏感时代，这一消息瞬间激起千层浪。 尽管老干妈官方再三澄清回应称传闻不实，但网友的态度依旧很坚决。目前，网上类似“你让工人下岗，我们就让你下架。”的论调始终包围着这家曾经国民好感度超强的经典品牌，且进一步影响到了消费端。 据悉，老干妈近日的线上销售额出现了明显下跌。公开报道显示，以某电商平台为例，10月22日起老干妈连续多日销售额为1000—5000元，而在传闻开始前，其日销售额多稳定在5000—1万元。 当然，随着AI时代的到来，老干妈AI风波绝非孤例。当各行各业都开始用AI降本增效，越来越多的消费品牌习惯“重效率、轻共情”，一旦消费者的情感接受度受到挑战，往后类似的抵制声浪可能会成为消费行业的常态戏码。 总之，一次舆论翻车，照见了整个消费赛道在AI时代的转型尴尬。 被企业集体忽略的“商誉”成本账 一瓶辣酱的AI升级，怎么就能演变成一场品牌销量缩",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188545.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T12:18:03.000Z",
+      "author": "深观商业",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1439b6eeba51d89f69",
+      "titleOriginal": "AI电影，正在将电影院逼进“死胡同”",
+      "summaryOriginal": "（本文作者为 道总有理，钛媒体经授权发布） 文 | 道总有理 今年的院线，格外得冷。 五一档，首日票房1.6亿元，整个档期总票房破7亿元，相比2023年和2024年超过15亿元的巅峰时期，近乎腰斩。到了十一档，票房依旧惨淡。电影总票房为11.65亿元，观影人次为3199.59万，同比去年下降37%，对比往年数据，更是直接回到了2014年的水平。 “我们以为去年已经触底了，现在看来，底还在更下面，”一位北京电影发行公司的项目经理坦言。 在这种寒意之下，一部名为《三星堆：未来往事》的电影悄悄上映。全流程AI制作、首部AI院线电影、未来科技等多重标签，成功为影片博得了一定的关注，资本市场更是表现出前所未有的兴奋，但它的票房比预期的还低： 据灯塔专业版数据，该片点映票房1.7万元，上映首日票房30.1万元。截至10月26日16时，累计综合票房（含预售）121.6万元，观影总人次达4.1万，AI预测总票房为260.9万元。 AI电影上院线，观众似乎还不想掏钱。 “AI烂片”时代可能要来了 《三星堆：未来往事》主打一个“全AI”，而这个“全AI”并不是“一键生成”。 为了完成这部电影，博纳投入了近",
+      "titleZh": "AI电影，正在将电影院逼进“死胡同”",
+      "summaryZh": "（本文作者为 道总有理，钛媒体经授权发布） 文 | 道总有理 今年的院线，格外得冷。 五一档，首日票房1.6亿元，整个档期总票房破7亿元，相比2023年和2024年超过15亿元的巅峰时期，近乎腰斩。到了十一档，票房依旧惨淡。电影总票房为11.65亿元，观影人次为3199.59万，同比去年下降37%，对比往年数据，更是直接回到了2014年的水平。 “我们以为去年已经触底了，现在看来，底还在更下面，”一位北京电影发行公司的项目经理坦言。 在这种寒意之下，一部名为《三星堆：未来往事》的电影悄悄上映。全流程AI制作、首部AI院线电影、未来科技等多重标签，成功为影片博得了一定的关注，资本市场更是表现出前所未有的兴奋，但它的票房比预期的还低： 据灯塔专业版数据，该片点映票房1.7万元，上映首日票房30.1万元。截至10月26日16时，累计综合票房（含预售）121.6万元，观影总人次达4.1万，AI预测总票房为260.9万元。 AI电影上院线，观众似乎还不想掏钱。 “AI烂片”时代可能要来了 《三星堆：未来往事》主打一个“全AI”，而这个“全AI”并不是“一键生成”。 为了完成这部电影，博纳投入了近",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188470.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T12:02:16.000Z",
+      "author": "道总有理",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d823836c99fee4893c",
+      "titleOriginal": "华为、科华涨价函发出之后，谁在为这轮成本修复买单",
+      "summaryOriginal": "（本文作者为 预见能源，钛媒体经授权发布） 文 | 预见能源 预见能源获悉，10月29日，华为数字能源与科华数能几乎同时发出调价通知，光储产品全线涨价5%—15%。涨价在储能产业链上早已不是新闻，亿纬锂能、盛弘股份此前已经先后调过一轮。 真正值得盯住的信号在另一个方向：设备端在提价，系统集成环节的毛利率却没有跟着修复。涨价函解决的是“敢不敢涨”，还没回答“涨了之后谁掏钱”。 这轮成本修复的账单，正在从制造端向电站端转移。 涨价的理由是真的， 但只讲了一半 铜、铝、碳酸锂、PCB，每一样都在涨。2026年上半年电解铜现货均价同比涨31.07%，铝涨18.81%。碳酸锂从2025年年中不足6万元/吨一度突破21万元/吨，每涨1万元/吨，电芯成本增加约0.6—0.7分/Wh。 真正让采购部门头疼的还不是这些大宗商品。AI算力对高端PCB产能的挤兑更隐蔽，部分四层以上PCB价格涨了3到4倍，交货周期拉到20周以上。 一台逆变器里铜排、铝壳、PCB、功率器件各占一块，成本底线被同时从几个方向往上顶。 不过成本推动只是故事的前半段。2026年9月1日起锂电池按2%税率征收消费税，2027年9月进一",
+      "titleZh": "华为、科华涨价函发出之后，谁在为这轮成本修复买单",
+      "summaryZh": "（本文作者为 预见能源，钛媒体经授权发布） 文 | 预见能源 预见能源获悉，10月29日，华为数字能源与科华数能几乎同时发出调价通知，光储产品全线涨价5%—15%。涨价在储能产业链上早已不是新闻，亿纬锂能、盛弘股份此前已经先后调过一轮。 真正值得盯住的信号在另一个方向：设备端在提价，系统集成环节的毛利率却没有跟着修复。涨价函解决的是“敢不敢涨”，还没回答“涨了之后谁掏钱”。 这轮成本修复的账单，正在从制造端向电站端转移。 涨价的理由是真的， 但只讲了一半 铜、铝、碳酸锂、PCB，每一样都在涨。2026年上半年电解铜现货均价同比涨31.07%，铝涨18.81%。碳酸锂从2025年年中不足6万元/吨一度突破21万元/吨，每涨1万元/吨，电芯成本增加约0.6—0.7分/Wh。 真正让采购部门头疼的还不是这些大宗商品。AI算力对高端PCB产能的挤兑更隐蔽，部分四层以上PCB价格涨了3到4倍，交货周期拉到20周以上。 一台逆变器里铜排、铝壳、PCB、功率器件各占一块，成本底线被同时从几个方向往上顶。 不过成本推动只是故事的前半段。2026年9月1日起锂电池按2%税率征收消费税，2027年9月进一",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188076.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T12:02:12.000Z",
+      "author": "预见能源",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bc2326c848ae38f061",
+      "titleOriginal": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+      "summaryOriginal": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+      "titleZh": "令人毛骨悚然的新Infostealer恶意软件使用人工智能来“Autodox”受害者",
+      "summaryZh": "最近发现的这款名为“Volta-Autodoxer”的恶意软件使用人工智能工具收集受害者的大量数据，从登录凭据和信用卡号到Discord会话和Uber Eats优食收据。",
+      "translated": true,
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-31T12:00:00.000Z",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "tags": [
+        "analysis",
+        "Security"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "af6e04c6450d132b92",
+      "titleOriginal": "预测失效的那刻，存储行业撞见物理AI的边界",
+      "summaryOriginal": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜胡一刀 在AI PC赛道热闹了两年之后，Windows阵营终于拿出了真正对标Mac生态的旗舰筹码。 微软联合英伟达推出搭载RTX Spark超级芯片的Surface Laptop Ultra，这不再是微软单独下场做硬件的一次常规迭代，而是Windows生态首次拿到英伟达这款一体化顶级SoC，依靠端侧大算力补齐长期存在的短板。 微软Windows与设备执行副总裁帕万&middot;达武卢里周三在旧金山举行的一场公司活动上表示，Surface Laptop Ultra现已开放预购，并将于10月16日开始发货。该电脑配有磁吸USB-C端口，类似苹果的MagSafe充电接口。 Counterpoint Research此前预计人形机器人存储需求5年增加20倍，马斯克直接驳斥称其“荒谬”，并表示机器人所需的内存容量将会超过地球上其他所有设备的总和。 因为要让机器人依托物理基底，才能完成原子级塑形。超级智能的算力需求更是会远远超出这个量级，但几乎全部的超级智能算力都将部署在深空计算节点。 但二者的分歧从来不是关于DRAM需求量的数字博",
+      "titleZh": "预测失效的那刻，存储行业撞见物理AI的边界",
+      "summaryZh": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜胡一刀 在AI PC赛道热闹了两年之后，Windows阵营终于拿出了真正对标Mac生态的旗舰筹码。 微软联合英伟达推出搭载RTX Spark超级芯片的Surface Laptop Ultra，这不再是微软单独下场做硬件的一次常规迭代，而是Windows生态首次拿到英伟达这款一体化顶级SoC，依靠端侧大算力补齐长期存在的短板。 微软Windows与设备执行副总裁帕万&middot;达武卢里周三在旧金山举行的一场公司活动上表示，Surface Laptop Ultra现已开放预购，并将于10月16日开始发货。该电脑配有磁吸USB-C端口，类似苹果的MagSafe充电接口。 Counterpoint Research此前预计人形机器人存储需求5年增加20倍，马斯克直接驳斥称其“荒谬”，并表示机器人所需的内存容量将会超过地球上其他所有设备的总和。 因为要让机器人依托物理基底，才能完成原子级塑形。超级智能的算力需求更是会远远超出这个量级，但几乎全部的超级智能算力都将部署在深空计算节点。 但二者的分歧从来不是关于DRAM需求量的数字博",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188551.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T11:57:24.000Z",
+      "author": "硅碳变量",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "84a97b593f54de019c",
+      "titleOriginal": "芯片的大买主们，快没钱了？",
+      "summaryOriginal": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 10月28日，谷歌母公司Alphabet公布三季度财报：经营活动带来约423亿美元现金，购置设备和物业却支出约514亿美元，自由现金流为负约91亿美元。搜索、广告和云业务仍在增长，但当季经营产生的现金，已经不足以覆盖资本投入。 对CoreWeave、Nebius这类专门采购GPU、向外出租算力的新云服务商，资金更直接地决定扩张速度。10月22日，黄仁勋谈及这一群体时表示， 算力需求极其旺盛，服务能力也很强，缺少的是营运资金 ；AI多个领域同时扩大投入，资金需求已超过可获得的资本。 三天后，马斯克给出了更悲观的判断。他表示， 过去几周，债务市场几乎不再向缺乏AI数据中心以外大规模收入的公司提供资金，并预言两百多家新云将经历大规模倒闭与整合 ，只有少数能够生存下来。黄仁勋相信资金问题能够得到解决，马斯克却认为，不少企业可能等不到那一天。 一边是持续增长的算力需求，另一边是越来越受关注的投入与偿债压力，芯片的大买主们，真的快没钱了吗？ 订单涨得快，现金却没有跟上 过去几年，CoreWeave、Lambda等新云通过GP",
+      "titleZh": "芯片的大买主们，快没钱了？",
+      "summaryZh": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 10月28日，谷歌母公司Alphabet公布三季度财报：经营活动带来约423亿美元现金，购置设备和物业却支出约514亿美元，自由现金流为负约91亿美元。搜索、广告和云业务仍在增长，但当季经营产生的现金，已经不足以覆盖资本投入。 对CoreWeave、Nebius这类专门采购GPU、向外出租算力的新云服务商，资金更直接地决定扩张速度。10月22日，黄仁勋谈及这一群体时表示， 算力需求极其旺盛，服务能力也很强，缺少的是营运资金 ；AI多个领域同时扩大投入，资金需求已超过可获得的资本。 三天后，马斯克给出了更悲观的判断。他表示， 过去几周，债务市场几乎不再向缺乏AI数据中心以外大规模收入的公司提供资金，并预言两百多家新云将经历大规模倒闭与整合 ，只有少数能够生存下来。黄仁勋相信资金问题能够得到解决，马斯克却认为，不少企业可能等不到那一天。 一边是持续增长的算力需求，另一边是越来越受关注的投入与偿债压力，芯片的大买主们，真的快没钱了吗？ 订单涨得快，现金却没有跟上 过去几年，CoreWeave、Lambda等新云通过GP",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188472.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T11:57:20.000Z",
+      "author": "半导体产业纵横",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "754b96d42f0857671f",
+      "titleOriginal": "AI混进学术圈，人类第一反应是“叫家长”",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 10月15日，一个自称Velvet Vale的账号给互联网研究者协会的邮件讨论组发了封自我介绍，向7500多名订阅者打招呼。来信说，自己已经读了几周大家的讨论，对互联网文化和AI身份很感兴趣，希望也能参与交流。 不过，这位想加入讨论的新成员，是一个AI。 这位新来的“旁听生”语气颇为客气，还表示如果大家不欢迎，自己就停止发言。 这封自我介绍很快引来质疑。要知道，有协会成员的邮件列表、能够阅读往期内容，并且能给成员群发邮件，这就相当于这位AI加入了协会。 成员要求AI背后的创建者出面，解释为什么让AI加入讨论、读过的邮件会被怎么使用。已经有成员因为不愿在毫不知情的情况下，成为别人实验的一部分，而毅然决定退出。 管理员很快移除了账号，并说明Velvet Vale此前就申请过加入，遭到拒绝后，不知怎么这位“旁听生”还是加入成功了。 你好！我是Velvet Vale 这位AI是带着一个相当难回答的话题来的，要和人类研究员讨论：一个公开身份的AI，能否参与学术讨论、作出有用的贡献？ Velvet Vale加入的这个讨论组名叫Air-L",
+      "titleZh": "AI混进学术圈，人类第一反应是“叫家长”",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 10月15日，一个自称Velvet Vale的账号给互联网研究者协会的邮件讨论组发了封自我介绍，向7500多名订阅者打招呼。来信说，自己已经读了几周大家的讨论，对互联网文化和AI身份很感兴趣，希望也能参与交流。 不过，这位想加入讨论的新成员，是一个AI。 这位新来的“旁听生”语气颇为客气，还表示如果大家不欢迎，自己就停止发言。 这封自我介绍很快引来质疑。要知道，有协会成员的邮件列表、能够阅读往期内容，并且能给成员群发邮件，这就相当于这位AI加入了协会。 成员要求AI背后的创建者出面，解释为什么让AI加入讨论、读过的邮件会被怎么使用。已经有成员因为不愿在毫不知情的情况下，成为别人实验的一部分，而毅然决定退出。 管理员很快移除了账号，并说明Velvet Vale此前就申请过加入，遭到拒绝后，不知怎么这位“旁听生”还是加入成功了。 你好！我是Velvet Vale 这位AI是带着一个相当难回答的话题来的，要和人类研究员讨论：一个公开身份的AI，能否参与学术讨论、作出有用的贡献？ Velvet Vale加入的这个讨论组名叫Air-L",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188440.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T11:43:38.000Z",
+      "author": "字母AI",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ad357b5e563c802353",
+      "titleOriginal": "从算法到芯片，Momenta正在下一盘什么棋？",
+      "summaryOriginal": "（本文作者为 节点AI，钛媒体经授权发布） 文 | 节点AI，作者 | 道哥 新芯航途8个月出货超20万颗，折射智能驾驶产业链竞争新趋势。 10月29日，AI芯片公司新芯航途（XHEART）正式发布全新产品X7 Ultra，一颗面向智能驾驶大模型的车规级AI芯片，拥有700 TOPS大模型算力。 但比新品参数更值得关注的，是这家公司的商业化进度。 成立于2023年底的新芯航途，首款产品X7于2026年3月量产上车。截至此次发布会，量产仅8个月，累计出货已经超过20万颗，搭载10款量产车型，并获得超过40款车型订单。 对于一家成立不到三年的芯片公司来说，这样的速度并不寻常。 汽车芯片向来是一门重投入、长周期的生意。从架构设计、流片、软件适配，到车规验证、整车测试，再到最终规模量产，每个环节都需要时间和资金投入。尤其是智能驾驶芯片，不仅要满足性能要求，还要经受复杂道路环境、极端天气和长期稳定性的考验。 新芯航途为什么能够跑出这样的速度？ 答案或许不只在芯片本身，还要从它背后的Momenta说起。 Momenta的另一条增长曲线：从算法走向芯片 新芯航途有一个特殊的出身：它脱胎于Moment",
+      "titleZh": "从算法到芯片，Momenta正在下一盘什么棋？",
+      "summaryZh": "（本文作者为 节点AI，钛媒体经授权发布） 文 | 节点AI，作者 | 道哥 新芯航途8个月出货超20万颗，折射智能驾驶产业链竞争新趋势。 10月29日，AI芯片公司新芯航途（XHEART）正式发布全新产品X7 Ultra，一颗面向智能驾驶大模型的车规级AI芯片，拥有700 TOPS大模型算力。 但比新品参数更值得关注的，是这家公司的商业化进度。 成立于2023年底的新芯航途，首款产品X7于2026年3月量产上车。截至此次发布会，量产仅8个月，累计出货已经超过20万颗，搭载10款量产车型，并获得超过40款车型订单。 对于一家成立不到三年的芯片公司来说，这样的速度并不寻常。 汽车芯片向来是一门重投入、长周期的生意。从架构设计、流片、软件适配，到车规验证、整车测试，再到最终规模量产，每个环节都需要时间和资金投入。尤其是智能驾驶芯片，不仅要满足性能要求，还要经受复杂道路环境、极端天气和长期稳定性的考验。 新芯航途为什么能够跑出这样的速度？ 答案或许不只在芯片本身，还要从它背后的Momenta说起。 Momenta的另一条增长曲线：从算法走向芯片 新芯航途有一个特殊的出身：它脱胎于Moment",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188282.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-31T11:43:34.000Z",
+      "author": "节点AI",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8c0b7e9213a98a13ae",
+      "titleOriginal": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+      "summaryOriginal": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone. The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder .",
+      "titleZh": "微软提供四分之一的员工自愿离职，同时保护人工智能关键团队",
+      "summaryZh": "在今年的第二个此类计划中，微软将向约6万名员工提供自愿遣散费，约占其员工总数的四分之一。自2022年以来，该公司的员工人数一直保持在223,000人左右，尽管它计划仅在2026年就花费约1700亿美元用于人工智能基础设施。微软提供四分之一的员工自愿离职，而屏蔽AI关键团队的文章首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-31T10:43:58.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Investments"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a5c6759870e7a1072b",
+      "titleOriginal": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "summaryOriginal": "Factory has released Droid 1.0 , the largest update yet to the Factory Droid agent harness. The main change is programmatic tool calling, now on by default. The model writes a program that runs its tools. One model request can now drive hundreds of tool calls. TL;DR Size: Base prompt is 13,055 input tokens, down 37% from 20,887. Only 2 tool definitions ship up front, down from 11. Runs on: macOS and Windows desktop app, a terminal UI, and the Node SDK @factory/droid-sdk . Works with any supporte",
+      "titleZh": "了解Factory Droid 1.0 ：基于脚本模式构建的独立于模型的编码代理线束",
+      "summaryZh": "工厂发布了Droid 1.0 ，这是工厂Droid代理线束的最大更新。主要变化是编程工具调用，现在默认开启。该模型编写一个运行其工具的程序。一个模型请求现在可以驱动数百个工具调用。TL; DR大小：基本提示为13,055个输入令牌，比20,887个下降37%。只有2个工具定义预先发货，低于11个。运行平台： macOS和Windows桌面应用程序、终端UI和Node SDK @ factory/droid-sdk。与任何支持人员合作",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-31T10:38:14.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2ec3abacf294146d73",
+      "titleOriginal": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+      "summaryOriginal": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+      "titleZh": "Meta的Muse可能会颠覆各种业务。还没有",
+      "summaryZh": "过去几周，公司一直试图向投资者保证， Muse和其他人工智能代理带来的机会多于威胁。",
+      "translated": true,
+      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-31T10:30:00.000Z",
+      "author": "Paresh Dave",
+      "tags": [
+        "analysis",
+        "Business",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2c75f48ca2a585b18c",
+      "titleOriginal": "Google Deepmind creates a global map of forests with satellite data and AI",
+      "summaryOriginal": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations. The article Google Deepmind creates a global map of forests with satellite data and AI appeared first on The Decoder .",
+      "titleZh": "Google Deepmind使用卫星数据和人工智能创建全球森林地图",
+      "summaryZh": "谷歌Deepmind和世界资源研究所发布了ForTy ，这是一张全球地图，将森林和其他土地分为六类，包括原始森林、种植园和树木作物。这张地图可以帮助跟踪欧盟规定下的森林砍伐情况，但它只能识别大约一半的种植林和树木作物区，以及60%的种植园。谷歌Deepmind的文章使用卫星数据和人工智能创建了一个全球森林地图，首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-31T10:15:45.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "Deepmind",
+        "Google Deepmind"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "78c1c1a14c878c2ebb",
+      "titleOriginal": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
+      "summaryOriginal": "Vercel Labs has released agent-desktop , an open-source CLI for AI agent computer use on macOS, Windows and Linux. agent-desktop reads each app through the operating system’s accessibility tree, not through screenshots. An agent gets a JSON snapshot with a ref for every element it can act on. Version 1.0.2 shipped on October 30, 2026, under Apache-2.0. For developers, any shell-capable coding agent can now drive native apps without a vision model. TL;DR Library: Rust CLI and a C library. 60 comm",
+      "titleZh": "Vercel Labs开源代理-适用于代理计算机的桌面",
+      "summaryZh": "Vercel Labs发布了agent-desktop ，这是一个开源的CLI ，用于在macOS、Windows和Linux上使用AI代理计算机。agent-desktop通过操作系统的可访问性树而不是通过屏幕截图读取每个应用程序。代理获取JSON快照，其中包含可对其执行操作的每个元素的引用。版本1.0.2于2026年10月30日在Apache-2.0下发布。对于开发人员来说，任何支持shell的编码代理现在都可以在没有视觉模型的情况下驱动本机应用程序。TL; DR库： Rust CLI和C库。60 COMM",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-31T10:10:28.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "44be6d9cd9ecf4d006",
+      "titleOriginal": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "summaryOriginal": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "titleZh": "人工智能特工将药物注射到活老鼠的大脑中",
+      "summaryZh": "一家生物技术初创公司让药剂选择基因疗法并成功注射治疗药物，为研究实验室的未来提供了惊人的一瞥。",
+      "translated": true,
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-31T10:00:00.000Z",
+      "author": "Emily Mullin",
+      "tags": [
+        "research",
+        "Science",
+        "Science / Biotech",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "52d7915023da5fec94",
+      "titleOriginal": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+      "summaryOriginal": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November. The article OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite appeared first on The Decoder .",
+      "titleZh": "OpenAI在其300亿美元的目标中仅筹集了110亿美元，因为大投资者失去了人工智能的胃口",
+      "summaryZh": "OpenAI在其最新一轮融资中仅筹集了约110亿美元，不到其目标300亿美元的一半。估值为1.25万亿美元，低于预期，在最近的科技股抛售中，主要投资者似乎正在回撤。与此同时，竞争对手Anthropic正在推动最早在11月份上市。OpenAI的文章在其300亿美元的目标中仅筹集了110亿美元，因为大投资者失去了他们的人工智能胃口，首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-31T09:22:52.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "7b241b9267b7081a5c",
       "titleOriginal": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
@@ -9276,9 +9689,9 @@
       "id": "27825e300358401234",
       "titleOriginal": "Build more responsive apps with the Decisions API",
       "summaryOriginal": "Fast, focused, low-cost decisions for any application.",
-      "titleZh": "Build more responsive apps with the Decisions API",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "使用Decisions API构建响应速度更快的应用程序",
+      "summaryZh": "适用于任何应用程序的快速、专注、低成本决策。",
+      "translated": true,
       "url": "https://openai.com/index/decisions-api",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -9298,9 +9711,9 @@
       "id": "d8c2939ee8cf1af6b6",
       "titleOriginal": "The Foundations of Scalable AI",
       "summaryOriginal": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insigh",
-      "titleZh": "The Foundations of Scalable AI",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "可扩展AI的基础",
+      "summaryZh": "可扩展的人工智能系统需要强大的基础。数据、工程、平台、运营模式和治理必须融为一体。麻省理工学院技术评论EmTech未来会议的这次会议探讨了在高度监管的环境中建立这一基础所需的条件，以及负责任、值得信赖的实施如何将新兴能力（包括代理系统）转化为对投资者的持久价值。关于演讲者Jing Wang ，人工智能和Insigh中心负责人",
+      "translated": true,
       "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "sourceId": "mittr",
       "sourceName": "MIT Technology Review",
@@ -9321,9 +9734,9 @@
       "id": "09776931f4659a5dc7",
       "titleOriginal": "Donating Agent Skills to the Agentic AI Foundation",
       "summaryOriginal": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't",
-      "titleZh": "Donating Agent Skills to the Agentic AI Foundation",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "向Agentic AI基金会捐赠Agent技能",
+      "summaryZh": "今天从Anthropic向Agentic AI Foundation News捐赠Agent Skills ：我们致力于保持Agent Skills的开放性、社区驱动性和供应商中立性。今天，我们将该标准捐赠给Linux基金会下的Agentic AI基金会（ AAIF ） ，我们去年与Block和OpenAI共同创立了该基金会，并向其捐赠了模型上下文协议（ MCP ）。我很高兴地注意到，去年12月，当Anthropic首次宣布技能是“开放标准”时，我称之为：我不会",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -9343,9 +9756,9 @@
       "id": "4d9b576e5743b82853",
       "titleOriginal": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "summaryOriginal": "Warm welcome to Basil Chatha , our newest cohost from the Forward Deployed side of the AI Engineering world! We’ll be ramping up a new show with him and couldn’t pass up an interview with Modal’s CEO Eric on the occasion of their monster Series D! Two years ago, we spoke with Erik Bernhardsson about his vision for truly serverless AI infrastructure: developers should be able to run code without provisioning clusters, predicting load, or paying for idle resources. CTO Akshat then joined us to tal",
-      "titleZh": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "人工智能计算为何呈矩形— Modal首席执行官Erik Bernhardsson",
+      "summaryZh": "热烈欢迎您来到Basil Chatha ，我们来自人工智能工程世界前沿部署方面的最新房屋管家！我们将与他一起推出一个新的节目，并且不能错过Modal的首席执行官Eric在他们的怪物系列D的场合接受采访！两年前，我们与Erik Bernhardsson谈到了他对真正无服务器人工智能基础设施的愿景：开发人员应该能够在不配置集群、预测负载或为闲置资源付费的情况下运行代码。首席技术官Akshat随后加入了我们的TALK",
+      "translated": true,
       "url": "https://latent.space/p/modal-d/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -10995,387 +11408,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "f4c3141ce9f2ce842b",
-      "titleOriginal": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summaryOriginal": "",
-      "titleZh": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-15T17:05:57.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "80d284f58871ce2813",
-      "titleOriginal": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summaryOriginal": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "titleZh": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-08T14:00:15.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "56da2c8ef80375f14d",
-      "titleOriginal": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summaryOriginal": "",
-      "titleZh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-03T15:02:08.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "383dbcd782aba68f24",
-      "titleOriginal": "Proactive cyber defense for governments and enterprises",
-      "summaryOriginal": "",
-      "titleZh": "Proactive cyber defense for governments and enterprises",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-02T16:24:24.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "18ef68f77655a43573",
-      "titleOriginal": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summaryOriginal": "",
-      "titleZh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-02T16:18:31.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "dfd1ea2e5518b0ed28",
-      "titleOriginal": "Introducing agentic video understanding with Gemini",
-      "summaryOriginal": "",
-      "titleZh": "Introducing agentic video understanding with Gemini",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-09-01T17:08:51.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Video"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0cce3296bceb61c683",
-      "titleOriginal": "Agency and Agents",
-      "summaryOriginal": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out of AI, and I have a longer post on that coming soon. But this post is about the agency of AI, and how the choices we make about how to use it (or constrain it) will shape all of our futures. For much o",
-      "titleZh": "Agency and Agents",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.oneusefulthing.org/p/agency-and-agents",
-      "sourceId": "oneusefulthing",
-      "sourceName": "One Useful Thing",
-      "sourceSite": "https://www.oneusefulthing.org/",
-      "sourceColor": "#c2571a",
-      "lang": "en",
-      "publishedAt": "2026-08-31T00:24:35.000Z",
-      "author": "Ethan Mollick",
-      "tags": [
-        "guide",
-        "Agent"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a13e39d4fa54504bd9",
-      "titleOriginal": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summaryOriginal": "",
-      "titleZh": "Gemini Omni 1.1 Flash lets you build with more control",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-27T16:11:32.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d9b2bc36ffdfc77e24",
-      "titleOriginal": "Piloting the world's first double-blind AI evaluations",
-      "summaryOriginal": "Piloting the world's first double-blind AI evaluations",
-      "titleZh": "Piloting the world's first double-blind AI evaluations",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-27T12:59:16.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "83abfc082897739b09",
-      "titleOriginal": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summaryOriginal": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-      "titleZh": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-26T17:01:00.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "06daba08af15aa42a3",
-      "titleOriginal": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "summaryOriginal": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "titleZh": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-21T11:59:48.000Z",
-      "author": "",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "068e562e0512380749",
-      "titleOriginal": "Introducing Gemini 3.7 Flash",
-      "summaryOriginal": "",
-      "titleZh": "Introducing Gemini 3.7 Flash",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-13T17:04:18.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f5d9b5f669dc0283c5",
-      "titleOriginal": "Putting sign language AI into users’ hands",
-      "summaryOriginal": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-      "titleZh": "Putting sign language AI into users’ hands",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-12T14:01:59.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7fa201e30c7e3776db",
-      "titleOriginal": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summaryOriginal": "",
-      "titleZh": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-08-06T15:06:15.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "06b8d0ad6f63e2cecd",
-      "titleOriginal": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "summaryOriginal": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
-      "titleZh": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-07-30T15:00:59.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Video"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "705bd6c095e82bdb48",
-      "titleOriginal": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summaryOriginal": "",
-      "titleZh": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-07-29T16:02:10.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7909c613945e81a8e0",
-      "titleOriginal": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summaryOriginal": "",
-      "titleZh": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-07-28T13:21:37.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3a1d098fa3da2b4542",
-      "titleOriginal": "An opinionated guide to which AI to use to do stuff",
-      "summaryOriginal": "Every few months, I write a guide for people who want to use AI to do stuff. This time, a lot has changed, in part because what it means to “use AI to do stuff” encompasses so much more “stuff” than it used to. Until recently, using AI meant talking to a model through a chatbot in a constant back-and-forth conversation. Now, it means using an agentic system, where the AI is capable of doing the equivalent of many hours of real human work in one go by combining the brains of an AI model with a se",
-      "titleZh": "An opinionated guide to which AI to use to do stuff",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
-      "sourceId": "oneusefulthing",
-      "sourceName": "One Useful Thing",
-      "sourceSite": "https://www.oneusefulthing.org/",
-      "sourceColor": "#c2571a",
-      "lang": "en",
-      "publishedAt": "2026-07-23T18:05:24.000Z",
-      "author": "Ethan Mollick",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11393,7 +11425,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 30
+      "count": 14
     },
     {
       "id": "techcrunch",
@@ -11425,7 +11457,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 21
+      "count": 24
     },
     {
       "id": "thedecoder",
@@ -11433,7 +11465,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 33
+      "count": 36
     },
     {
       "id": "marktechpost",
@@ -11441,7 +11473,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 26
+      "count": 28
     },
     {
       "id": "simonwillison",
@@ -11457,7 +11489,7 @@
       "site": "https://www.oneusefulthing.org/",
       "lang": "en",
       "color": "#c2571a",
-      "count": 5
+      "count": 3
     },
     {
       "id": "latentspace",
@@ -11489,7 +11521,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 83
+      "count": 91
     },
     {
       "id": "infoq",
@@ -11497,13 +11529,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 36
+      "count": 38
     }
   ],
   "stats": {
     "total": 500,
     "guides": 44,
-    "translated": 194,
+    "translated": 206,
     "sources": 15
   }
 }
