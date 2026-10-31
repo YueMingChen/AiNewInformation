@@ -1,6 +1,102 @@
 {
-  "generatedAt": "2026-10-31T18:39:20.791Z",
+  "generatedAt": "2026-10-31T23:28:15.909Z",
   "articles": [
+    {
+      "id": "0def4a2fca6b3a2051",
+      "titleOriginal": "How We Took Over ChatGPT Accounts",
+      "summaryOriginal": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but it looks like the latest revision is called HTML previews ), where interactive custom HTML apps are displayed in a sandboxed iframe. It's important that HTML in these stays tightly sandboxed to avoid untrusted code interacting with OpenAI APIs and accessing private data. Parameter found quite a complex attack chain. OpenA",
+      "titleZh": "我们如何接管ChatGPT账号",
+      "summaryZh": "我们如何接管ChatGPT帐户参数实验室描述了他们发现的针对ChatGPT的工件模式实现的漏洞利用（ OpenAI曾经称之为“Canvas” ，但看起来最新版本称为HTML预览） ，其中交互式自定义HTML应用程序显示在沙盒iframe中。为了避免不受信任的代码与OpenAI API交互并访问私有数据，请务必保持紧密的沙箱化HTML。参数发现相当复杂的攻击链。OpenA",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-31T23:15:22.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "89c6cb6d2971711306",
+      "titleOriginal": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summaryOriginal": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "titleZh": "苹果首席执行官表示，该公司“不想为人工智能出货",
+      "summaryZh": "苹果新任首席执行官为公司目前在人工智能领域的地位辩护。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "launch",
+        "AI",
+        "Apple",
+        "John Ternus"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cefcb0bd2478e838db",
+      "titleOriginal": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "summaryOriginal": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "titleZh": "还剩4天： TechCrunch创始人峰会如何帮助您建立更有用的联系以扩大规模",
+      "summaryZh": "11月4日，在波士顿的SoWa发电站，准备好一整天，充满有意义的网络机会、可操作的见解以及可能改变您的创意和创业轨迹的联系。请在所有价格上涨前登记。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-31T21:36:07.000Z",
+      "author": "TechCrunch Events",
+      "tags": [
+        "news",
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Fintech"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bc398a80a0dffe88b2",
+      "titleOriginal": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summaryOriginal": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "titleZh": "法官允许NAACP就xAI数据中心污染提起诉讼",
+      "summaryZh": "全国有色人种协进会（ NAACP ）的一起诉讼指控SpaceX拥有的人工智能公司违反了《清洁空气法》。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-31T21:17:03.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "SpaceX",
+        "xAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "662b0d03c19d35bf9c",
       "titleOriginal": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
@@ -18,6 +114,31 @@
       "author": "作者：Chidi Nwaogu",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d66aef25dede87b8a0",
+      "titleOriginal": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+      "summaryOriginal": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single sampling parameter. Anthropic addresses the loophole with just a compliance warning. The article Anthropic's watermark rollout leaves a loophole on two older Claude models appeared first on The Decoder .",
+      "titleZh": "Anthropic推出的水印在两款老式Claude模特身上留下了一个漏洞",
+      "summaryZh": "Anthropic正在将其文本水印扩展到另外四个Claude模型，以满足欧盟人工智能法案12月的最后期限。在旧型号的Claude Opus 4.6和Sonnet 4.6上，开发人员可以通过调整单个采样参数来绕过水印。Anthropic仅通过合规警告来解决这一漏洞。Anthropic推出的水印文章在The Decoder上首次出现的两个较旧的Claude模型上留下了一个漏洞。",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-31T19:20:55.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -211,9 +332,9 @@
     {
       "id": "e45bc277cc1c67356c",
       "titleOriginal": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
-      "summaryOriginal": "10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50%，138家增长超100%。 首药控股-U",
+      "summaryOriginal": "（本文作者为 价值刻度，钛媒体经授权发布） 10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50",
       "titleZh": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
-      "summaryZh": "10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50%，138家增长超100%。 首药控股-U",
+      "summaryZh": "（本文作者为 价值刻度，钛媒体经授权发布） 10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50",
       "translated": true,
       "url": "https://www.tmtpost.com/8188863.html",
       "sourceId": "tmtpost",
@@ -224,13 +345,13 @@
       "publishedAt": "2026-10-31T13:15:46.000Z",
       "author": "价值刻度",
       "tags": [
-        "news",
+        "launch",
         "看财报",
         "焦点",
         "AGI",
         "科股"
       ],
-      "category": "news",
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -10142,9 +10263,9 @@
       "id": "2ed22a61b2f19a0c80",
       "titleOriginal": "Broad access through consistent standards",
       "summaryOriginal": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-      "titleZh": "Broad access through consistent standards",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "通过一致的标准实现广泛的访问",
+      "summaryZh": "OpenAI如何与分销合作伙伴合作，以维护一致的保障措施，支持负责任的访问，并在我们的使用政策中明确期望。",
+      "translated": true,
       "url": "https://openai.com/index/broad-access-through-consistent-standards",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -10164,9 +10285,9 @@
       "id": "952285572a8e70b95f",
       "titleOriginal": "Today's PHP Security Release, and How We're Strengthening PHP Security",
       "summaryOriginal": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s",
-      "titleZh": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "今天的PHP安全版本，以及我们如何加强PHP安全",
+      "summaryZh": "今天的PHP安全版本以及我们如何加强PHP安全如果您在PHP上运行任何内容，升级至关重要-今天的更新（跨整个PHP 8.x行）解决了两个远程代码执行漏洞，并且由于协调披露过程中的泄漏，自昨晚以来一直存在漏洞。PHP基金会的这篇文章解释了出了什么问题： 10月20日星期二，世界标准时间15:00左右，两个CVE ID开始在在线论坛和",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -10186,9 +10307,9 @@
       "id": "4ab93569e260b2b0a1",
       "titleOriginal": "How AT&T is rethinking in-house legal work with OpenAI",
       "summaryOriginal": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "titleZh": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "AT&T如何与OpenAI重新思考内部法律工作",
+      "summaryZh": "AT&T正在与OpenAI合作，使法律知识更容易获取。了解其LegalEdge团队如何重新考虑录取和扩大法律判决。",
+      "translated": true,
       "url": "https://openai.com/index/att-legal",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -10228,9 +10349,9 @@
       "id": "12d4585120eb3bcb8e",
       "titleOriginal": "Claude Mods: Flipping the Harness Inside Out",
       "summaryOriginal": "For the last few weeks I’ve used Claude Mods to mold Claude Code to my AI engineering workflow. Claude Code is great out of the box, but every engineering workflow is different. Claude Mods let you make Claude Code yours, in the way you want to pay attention. The “paying attention” part is now the most important thing. In a recent Latent Space post, The Evolution of the Agent Harness , I argued that as models absorb more of the harness into their weights, the part that’s left faces the human. It",
-      "titleZh": "Claude Mods: Flipping the Harness Inside Out",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Claude Mods ：从内到外翻转线束",
+      "summaryZh": "在过去的几周里，我使用Claude Mods将Claude Code塑造成了我的人工智能工程工作流程。Claude Code开箱即用，但每个工程工作流程都不同。Claude Mods让您以自己想要的方式将Claude Code变成自己的。“注意”部分现在是最重要的。在最近的Latent Space帖子“Agent Harness的演变”中，我认为，随着模型将更多的线束吸收到其重量中，剩下的部分将面对人类。它",
+      "translated": true,
       "url": "https://latent.space/p/claude-mods/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -10251,9 +10372,9 @@
       "id": "74fcf21eca7add4a82",
       "titleOriginal": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
       "summaryOriginal": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "titleZh": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "ChatGPT Ads已扩展到26个新国家/地区，超过10万名广告客户使用了该平台",
+      "summaryZh": "从本地企业到全球品牌，更多的广告客户现在可以在ChatGPT中探索、比较和决定购买内容时接触到人们。",
+      "translated": true,
       "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -10341,9 +10462,9 @@
       "id": "6018ea9507dd69569d",
       "titleOriginal": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
       "summaryOriginal": "Proudly brought to you by SerpApi: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the",
-      "titleZh": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "[AINews] DeepSeek DeepInfer ：开源SOTA推理，每天运行155T令牌/集群，每天赚取2200万美元，利润率约为80 ％ ， 81天回报",
+      "summaryZh": "SerpApi自豪地为您带来：今天的发布涵盖了很多方面，但您可以将所有这些内容转化为您的代理商的扣分！ 50 ％的JSON代币成本。我们上次在4月份报道了推理拐点，从历史上看，大多数进展都是从烟花到Baseten再到Modal的闭源decacorn。好吧，是时候进行开源响应了。这是PyTorch会议的第一天， DeepSeek通过开源DeepInfer将一枚洲际弹道导弹计时到讨论中，",
+      "translated": true,
       "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -10364,9 +10485,9 @@
       "id": "cb51b79b07cd26fe75",
       "titleOriginal": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
       "summaryOriginal": "Last year , Alex Lieberman and his cofounder joined us to explain Tenex’s unusual bet: pay AI engineers for the work they deliver, rather than the hours they spend at a keyboard. If AI makes an engineer faster, an hourly rate can make the engineer less money for the same job. Tenex wanted the incentives to run the other way. At AIE New York, Alex came back with CJ Hess to talk about what happens when you scale that idea into an engineering organization. We also put one of our own experiments on",
-      "titleZh": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "《财富2000》中的AI ： Tenex如何构建AI原生SDLC — Alex Lieberman和CJ Hess",
+      "summaryZh": "去年，亚历克斯·利伯曼（ Alex Lieberman ）和他的联合创始人加入我们，解释了Tenex不寻常的赌注：向人工智能工程师支付他们交付的工作，而不是他们在键盘上花费的时间。如果人工智能让工程师更快，那么每小时工资可以让工程师在同一份工作上赚更少的钱。Tenex希望激励措施以另一种方式运行。在AIE纽约， Alex回来与CJ Hess谈论当你将这个想法扩展到一个工程组织时会发生什么。我们还把自己的实验之一",
+      "translated": true,
       "url": "https://latent.space/p/tenex/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -10452,9 +10573,9 @@
       "id": "aac036aa8666576a8c",
       "titleOriginal": "eMudhra Intermediate CA Compromise",
       "summaryOriginal": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0",
-      "titleZh": "eMudhra Intermediate CA Compromise",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "eMudhra中级CA泄漏",
+      "summaryZh": "eMudhra中级CA泄露这是一个非常非常坏的消息：八个eMudhra中级CA证书的私钥已被泄露。它们与Mozilla、Microsoft、Apple和Chrome根目录程序以及许多下游信任商店所信任的根目录相连。任何捆绑受信任证书列表的软件都需要更新。本网站通过此GitHub存储库跟踪软件更新- Linux发行版需要更新其ca-certificates包。在Python世界中uv 0",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -11319,114 +11440,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "884ebf3c3978ea4639",
-      "titleOriginal": "Gemini 4 Argon for Robotics",
-      "summaryOriginal": "",
-      "titleZh": "Gemini 4 Argon for Robotics",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-13T16:01:58.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f174716114a9131e63",
-      "titleOriginal": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summaryOriginal": "",
-      "titleZh": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-13T16:01:52.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "87e22abf54d8b62861",
-      "titleOriginal": "Quoting Geoffrey Huntley",
-      "summaryOriginal": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents ,",
-      "titleZh": "Quoting Geoffrey Huntley",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-13T13:32:00.000Z",
-      "author": "",
-      "tags": [
-        "news",
-        "Agent",
-        "Prompt",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f2a2986a518af715ff",
-      "titleOriginal": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "summaryOriginal": "We have been coveringe MSL’s 14 month journey to becoming a frontier lab , but only today did the final ball drop: Meta’s Muse Wonder to match Spark and Glimmer , the way that OpenAI has Sol/Terra/Luna and Anthropic has Opus/Sonnet/Haiku. Interestingly, while Muse doesn’t claim a specific size, Muse Wonder Full does beat Fable and Astra on some benchmarks, and with various degrees of posttraining it is a little unclear if Wonder is more of a Fable/Astra class model or not. View the original p...",
-      "titleZh": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/ainews-meta-muse-wonder-and-wonder/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-13T09:37:04.000Z",
-      "author": "Latent Space",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9512e72db4bde2c642",
-      "titleOriginal": "web-edit 0.1a1",
-      "summaryOriginal": "Release: web-edit 0.1a1 Includes performance optimizations written by Claude Opus 5.5 after I fed it this Python 3.15 profiling report generated by GPT-6 Astra. Tags: profiling , projects",
-      "titleZh": "web-edit 0.1a1",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/13/web-edit/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-13T01:40:05.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11444,7 +11457,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 8
+      "count": 6
     },
     {
       "id": "techcrunch",
@@ -11452,7 +11465,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 70
+      "count": 73
     },
     {
       "id": "theverge",
@@ -11484,7 +11497,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 38
+      "count": 39
     },
     {
       "id": "marktechpost",
@@ -11500,7 +11513,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 39
+      "count": 38
     },
     {
       "id": "oneusefulthing",
@@ -11516,7 +11529,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 30
+      "count": 29
     },
     {
       "id": "ifanr",
@@ -11554,7 +11567,7 @@
   "stats": {
     "total": 500,
     "guides": 46,
-    "translated": 218,
+    "translated": 231,
     "sources": 15
   }
 }
