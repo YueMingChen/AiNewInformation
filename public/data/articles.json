@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T15:18:27.031Z",
+  "generatedAt": "2026-11-01T20:36:06.980Z",
   "articles": [
     {
       "id": "b5ebffc5d2ef88adf3",
@@ -16,6 +16,27 @@
       "lang": "zh",
       "publishedAt": "2026-11-01T17:00:00.000Z",
       "author": "作者：Renato Losio",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "835fd1406315e6b396",
+      "titleOriginal": "Quoting Kyle Kingsbury",
+      "summaryOriginal": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers of a mature system are now easier to counterfeit. [...] In the age of LLMs, what can maintainers do to ensure correct software and accurate documentation? Having done that work, how can they demonstrate its quality to users? — Kyle Kingsbury , Jepsen results fo",
+      "titleZh": "Quoting Kyle Kingsbury",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-01T16:49:04.000Z",
+      "author": "",
       "tags": [
         "news"
       ],
@@ -11443,28 +11464,6 @@
         "news"
       ],
       "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d6c06ffc09a8bd33be",
-      "titleOriginal": "web-edit 0.1a2",
-      "summaryOriginal": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tailscale. I added a \"copy to clipboard\" option for both text and image data. I needed this because I was running pelican prompts on a laptop from my phone (here's DeepSeek 4.1 Flash 1017 ) and I wanted an easy way to copy the resulting logs into a Gist. Tags: projects , pelican-riding-a-bicycle , deepseek",
-      "titleZh": "web-edit 0.1a2",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-17T13:16:49.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Image"
-      ],
-      "category": "launch",
       "readingMinutes": 2
     }
   ],
