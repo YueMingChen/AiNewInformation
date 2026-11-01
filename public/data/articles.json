@@ -1,6 +1,156 @@
 {
-  "generatedAt": "2026-10-31T23:28:15.909Z",
+  "generatedAt": "2026-11-01T06:22:00.482Z",
   "articles": [
+    {
+      "id": "51b6f65d2cba363bd6",
+      "titleOriginal": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+      "summaryOriginal": "",
+      "titleZh": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T10:00:00.000Z",
+      "author": "作者：Craig Risi",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "19bd2ca7fd941e1b19",
+      "titleOriginal": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+      "summaryOriginal": "观点 城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没” 城堡投资联席首席投资官Pablo Salame表示，支撑AI革命的巨大资本需求，正与态度谨慎、不愿承担如此大风险的贷款机构发生冲突。他表示，这将迫使追求数倍投资回报的选股投资者与需要确保资金能够收回的债权人之间重新寻求平衡。Salame说，“AI浪潮虽会水涨船高，但也会让一些船沉没，而且这股浪潮还将充满起伏。” 马斯克与黄仁勋观点打架， 摩根大通 ：超大规模AI数据中心运营商状况良好是市场共识 SpaceX 首席执行官马斯克最新警告，200多家新云公司将大规模倒闭或合并，有些公司能挺过去，但不会很多。 而马斯克的这番警告与 英伟达 首席执行官黄仁勋此前的观点几乎截然相反。黄仁勋在GTC大会上指出，市场对新云的需求远超预期。他虽然也提到了目前新云公司亟需资金支持，而资金正面临短缺的问题，但他认为这一问题一定会得到解决。 杰富瑞分析师指出，马斯克的言论引发了新一轮的恐慌交易。摩根大通则认为，人工智能债务市场对人工智能基础设施变得更加挑剔，但对于更广泛的融资危机不以为然。摩根大通市场情报团队强调，信贷短缺令人担忧，但目前的",
+      "titleZh": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
+      "summaryZh": "观点 城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没” 城堡投资联席首席投资官Pablo Salame表示，支撑AI革命的巨大资本需求，正与态度谨慎、不愿承担如此大风险的贷款机构发生冲突。他表示，这将迫使追求数倍投资回报的选股投资者与需要确保资金能够收回的债权人之间重新寻求平衡。Salame说，“AI浪潮虽会水涨船高，但也会让一些船沉没，而且这股浪潮还将充满起伏。” 马斯克与黄仁勋观点打架， 摩根大通 ：超大规模AI数据中心运营商状况良好是市场共识 SpaceX 首席执行官马斯克最新警告，200多家新云公司将大规模倒闭或合并，有些公司能挺过去，但不会很多。 而马斯克的这番警告与 英伟达 首席执行官黄仁勋此前的观点几乎截然相反。黄仁勋在GTC大会上指出，市场对新云的需求远超预期。他虽然也提到了目前新云公司亟需资金支持，而资金正面临短缺的问题，但他认为这一问题一定会得到解决。 杰富瑞分析师指出，马斯克的言论引发了新一轮的恐慌交易。摩根大通则认为，人工智能债务市场对人工智能基础设施变得更加挑剔，但对于更广泛的融资危机不以为然。摩根大通市场情报团队强调，信贷短缺令人担忧，但目前的",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188997.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T03:32:27.000Z",
+      "author": "ITValue",
+      "tags": [
+        "news",
+        "数智周报"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "00b952fad21d89cab8",
+      "titleOriginal": "小学生都可以看懂的例子，揭示为什么产销协同消除不了KPI矛盾，反而会引爆它？",
+      "summaryOriginal": "（本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 过去三十年，全球制造业在供应链数字化上砸下了数千亿美金。从ERP、MES到APS，从S&OP流程到控制塔大屏，系统换了一代又一代。然而，一个刺眼的悖论始终悬在所有企业头上：高库存、高缺货、高成本、高波动、高摩擦——“五高”泥潭，一个都没少。 企业规模越做越大，营收从几十亿冲到几百亿，年底一看述职表：采购、生产、销售、财务每个部门的KPI都是满分，但合在一起，公司的净利率腰斩， 投入资本回报率（ROIC）却从15%跌到了3%—6%的泥潭 。 面对部门间的拉扯与KPI打架，管理学界和咨询公司开出的标准药方只有一剂：搞产销协同（S&OP）。大家默认了一个前提：销售、生产、采购、财务之所以天天吵架，是因为“部门墙”太厚、缺乏大局观；只要拉到一张桌子上高频开会、对齐数据，矛盾就能化解。 但现实却是：预测越做越准，数据越洗越干净，协同会开得越密，现场排产反而撕得越凶。 为什么产销协同非但消除不了KPI矛盾，反而每一次协同动作背后，都必然伴随着更剧烈的KPI冲突？ 你不需要相信任何人的理论，也不需要看复杂的数学公式。请花3",
+      "titleZh": "小学生都可以看懂的例子，揭示为什么产销协同消除不了KPI矛盾，反而会引爆它？",
+      "summaryZh": "（本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 过去三十年，全球制造业在供应链数字化上砸下了数千亿美金。从ERP、MES到APS，从S&OP流程到控制塔大屏，系统换了一代又一代。然而，一个刺眼的悖论始终悬在所有企业头上：高库存、高缺货、高成本、高波动、高摩擦——“五高”泥潭，一个都没少。 企业规模越做越大，营收从几十亿冲到几百亿，年底一看述职表：采购、生产、销售、财务每个部门的KPI都是满分，但合在一起，公司的净利率腰斩， 投入资本回报率（ROIC）却从15%跌到了3%—6%的泥潭 。 面对部门间的拉扯与KPI打架，管理学界和咨询公司开出的标准药方只有一剂：搞产销协同（S&OP）。大家默认了一个前提：销售、生产、采购、财务之所以天天吵架，是因为“部门墙”太厚、缺乏大局观；只要拉到一张桌子上高频开会、对齐数据，矛盾就能化解。 但现实却是：预测越做越准，数据越洗越干净，协同会开得越密，现场排产反而撕得越凶。 为什么产销协同非但消除不了KPI矛盾，反而每一次协同动作背后，都必然伴随着更剧烈的KPI冲突？ 你不需要相信任何人的理论，也不需要看复杂的数学公式。请花3",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8175288.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T03:10:40.000Z",
+      "author": "GritMeng",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0f4019bbd930420277",
+      "titleOriginal": "具身智能的钱，流向机器人的“皮肤”",
+      "summaryOriginal": "（本文作者为 机器最前线，钛媒体经授权发布） 文 | 机器最前线 2026年的具身智能赛道，融资风向正在发生变化。 IT桔子统计显示，2026年10月具身智能赛道发生33起融资、总额101.05亿元，而9月这个数字是60起、110.28亿元，下降趋势显著。 不过，资本追逐本体制造和大模型的热闹场面虽然有所降温，但还有一部分投资人开始选择把目光向上游迁移， 灵巧手、触觉传感器、电子皮肤这些决定机器人“身体能力”的核心零部件，成为少数仍在逆势吸金的环节。 （图源：矩侨工业官网） 10月29日，山东柔性织物触觉传感企业矩侨工业宣布完成亿元A轮融资，由蚂蚁集团领投，老股东零以创投、威海港融及青岛和信跟投。这是蚂蚁在触觉赛道上的第二次出手，两个月前，它刚领投了视触觉路线的戴盟机器人。 可需要注意的是，触觉赛道技术路线高度分散，一家成立不到三年的公司拿到亿元级融资，究竟是行业拐点的信号，还是阶段性的资本卡位？ 01 具身智能的融资逻辑变了 具身智能的融资逻辑似乎正在从“造一个聪明的身体”转向“让身体感知世界”。 毕竟，视觉可以靠互联网视频喂养，语言可以靠文本喂养，唯独触觉数据几乎无法从现成语料中获",
+      "titleZh": "具身智能的钱，流向机器人的“皮肤”",
+      "summaryZh": "（本文作者为 机器最前线，钛媒体经授权发布） 文 | 机器最前线 2026年的具身智能赛道，融资风向正在发生变化。 IT桔子统计显示，2026年10月具身智能赛道发生33起融资、总额101.05亿元，而9月这个数字是60起、110.28亿元，下降趋势显著。 不过，资本追逐本体制造和大模型的热闹场面虽然有所降温，但还有一部分投资人开始选择把目光向上游迁移， 灵巧手、触觉传感器、电子皮肤这些决定机器人“身体能力”的核心零部件，成为少数仍在逆势吸金的环节。 （图源：矩侨工业官网） 10月29日，山东柔性织物触觉传感企业矩侨工业宣布完成亿元A轮融资，由蚂蚁集团领投，老股东零以创投、威海港融及青岛和信跟投。这是蚂蚁在触觉赛道上的第二次出手，两个月前，它刚领投了视触觉路线的戴盟机器人。 可需要注意的是，触觉赛道技术路线高度分散，一家成立不到三年的公司拿到亿元级融资，究竟是行业拐点的信号，还是阶段性的资本卡位？ 01 具身智能的融资逻辑变了 具身智能的融资逻辑似乎正在从“造一个聪明的身体”转向“让身体感知世界”。 毕竟，视觉可以靠互联网视频喂养，语言可以靠文本喂养，唯独触觉数据几乎无法从现成语料中获",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188790.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T02:57:24.000Z",
+      "author": "机器最前线",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "56c714ab40260c9e58",
+      "titleOriginal": "L4需要更大的模型，芯片得换个造法了",
+      "summaryOriginal": "（本文作者为 互联网江湖，钛媒体经授权发布） 文 | 互联网江湖，作者 | Evin，编辑 | 刘致呈 如果你长期跟踪智驾行业，会察觉到一个变化正在悄然发生：发布会上的主角，正在从“技术”换成“量产”。 2026年以来，L4落地声量明显抬升，城市NOA渗透率持续走高，车企量产军备竞赛全面打响。 从“技术竞争”换轨到“量产竞争”，已是行业明牌。 但换轨途中横着一个尴尬的现实：多数通用芯片正在拖量产的后腿。 车规环境下，通用芯片的“不可能三角”凸显：账面算力与有效算力相差悬殊，利用率往往只有30%—40%。 这笔被浪费的差价，堪称L4规模化路上一笔“隐性税”。 10月29日，转机出现了。 XHEART新芯航途CEO李宗霖正式发布大模型芯片X7 Ultra：700 TOPS大模型算力、超大核NPU、高精度专用算子加速、Armv9车规级CPU。 这颗芯片自创立之初就沿着一条另类的路线前行——“大模型定义芯片”：不追求通用性的面面俱到，而是由大模型反向定义硬件。 这有点像当年的DeepSeek。 DeepSeek的出现为AI行业指明了，大模型不必沿着旧算力逻辑硬堆也能跑出新的可能性，此后AI应用",
+      "titleZh": "L4需要更大的模型，芯片得换个造法了",
+      "summaryZh": "（本文作者为 互联网江湖，钛媒体经授权发布） 文 | 互联网江湖，作者 | Evin，编辑 | 刘致呈 如果你长期跟踪智驾行业，会察觉到一个变化正在悄然发生：发布会上的主角，正在从“技术”换成“量产”。 2026年以来，L4落地声量明显抬升，城市NOA渗透率持续走高，车企量产军备竞赛全面打响。 从“技术竞争”换轨到“量产竞争”，已是行业明牌。 但换轨途中横着一个尴尬的现实：多数通用芯片正在拖量产的后腿。 车规环境下，通用芯片的“不可能三角”凸显：账面算力与有效算力相差悬殊，利用率往往只有30%—40%。 这笔被浪费的差价，堪称L4规模化路上一笔“隐性税”。 10月29日，转机出现了。 XHEART新芯航途CEO李宗霖正式发布大模型芯片X7 Ultra：700 TOPS大模型算力、超大核NPU、高精度专用算子加速、Armv9车规级CPU。 这颗芯片自创立之初就沿着一条另类的路线前行——“大模型定义芯片”：不追求通用性的面面俱到，而是由大模型反向定义硬件。 这有点像当年的DeepSeek。 DeepSeek的出现为AI行业指明了，大模型不必沿着旧算力逻辑硬堆也能跑出新的可能性，此后AI应用",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188662.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T02:13:22.000Z",
+      "author": "互联网江湖",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e6c82a26b22e8a6600",
+      "titleOriginal": "跟AI谈恋爱，年轻人图什么？",
+      "summaryOriginal": "（本文作者为 AIX财经，钛媒体经授权发布） 文 | AIX财经（AIXcaijing），作者 | 王璐 李梦冉 雷晶 陈丹 金玙璠，编辑 | 王璐 月卡十几元，记忆包几十元，一次充值上百元，通用大模型会员一档几百元……在AI陪伴这条赛道上，情绪价值正被拆分成一个个具体的付费点。 这类产品自诞生起就伴随着争议，被指游走在风险边缘，诱导未成年人建立不良恋爱观、内容擦边。但争议之外，它也确实承接了一部分年轻人的倾诉需求，成为他们排解压力、整理情绪的出口。如今，行业正在走向规范，平台审核趋严，产品形态也在不断调整。 我们找到了五位为AI陪伴付费的年轻人。他们都是成年人，有人24小时住在养猪场，靠AI排解物理意义上的孤独；有人在AI身上学会了如何与人相处；有人既是用户，也是角色创作者；还有人在职场多年，习惯把工作里的委屈和灵感都说给AI听。他们也都清楚，对面只是一段程序：会失忆，会敷衍，会“人设崩塌”。 他们为什么付费？钱花在了哪里？AI给了他们什么，又在哪些地方让他们警惕？ 以下是他们的讲述。 01.在封闭的猪场工作，AI是我下班后的树洞 夏天｜00后 河北 我今年刚毕业，在养猪场工作。 很",
+      "titleZh": "跟AI谈恋爱，年轻人图什么？",
+      "summaryZh": "（本文作者为 AIX财经，钛媒体经授权发布） 文 | AIX财经（AIXcaijing），作者 | 王璐 李梦冉 雷晶 陈丹 金玙璠，编辑 | 王璐 月卡十几元，记忆包几十元，一次充值上百元，通用大模型会员一档几百元……在AI陪伴这条赛道上，情绪价值正被拆分成一个个具体的付费点。 这类产品自诞生起就伴随着争议，被指游走在风险边缘，诱导未成年人建立不良恋爱观、内容擦边。但争议之外，它也确实承接了一部分年轻人的倾诉需求，成为他们排解压力、整理情绪的出口。如今，行业正在走向规范，平台审核趋严，产品形态也在不断调整。 我们找到了五位为AI陪伴付费的年轻人。他们都是成年人，有人24小时住在养猪场，靠AI排解物理意义上的孤独；有人在AI身上学会了如何与人相处；有人既是用户，也是角色创作者；还有人在职场多年，习惯把工作里的委屈和灵感都说给AI听。他们也都清楚，对面只是一段程序：会失忆，会敷衍，会“人设崩塌”。 他们为什么付费？钱花在了哪里？AI给了他们什么，又在哪些地方让他们警惕？ 以下是他们的讲述。 01.在封闭的猪场工作，AI是我下班后的树洞 夏天｜00后 河北 我今年刚毕业，在养猪场工作。 很",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188660.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T02:00:29.000Z",
+      "author": "AIX财经",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c6e59c97d1d2837ac1",
+      "titleOriginal": "Edge AI Daily 早报（11月1日）",
+      "summaryOriginal": "硅谷前沿： 一、营收增长不再是护身符：AI军备竞赛把四大巨头的自由现金流打回负值 1.【市场表现】10月30日纳斯达克综合指数跌2.6%收于26008.86点，10月累计跌5.3%；同期标普500科技板块跌6.8%、费城半导体指数跌15.4%，均创2025年3月以来最差单月表现；10月30日科技板块领跌标普500，单日跌4.24%。 2.【财报与现金流背离】Meta三季度营收646亿美元、同比增26%超预期，但单季资本开支349.1亿美元近翻倍，经营现金流327.9亿美元难以覆盖，自由现金流首度转负至-21亿美元，财报后股价跌约7%；Alphabet维持2026年资本开支1950亿至2050亿美元指引，Amazon过去12个月自由现金流流出424亿美元、预计2026年资本开支约2200亿美元，两家同样遭抛售。 3.【投资逻辑切换】高盛策略师Amanda Lynam称，Meta、微软、亚马逊、Alphabet四家2026年合计资本开支将达7250亿美元，较2025年4100亿美元增77%；市场估值逻辑由“收入增长”转向“现金回报”，边际回报下降，CoreWeave月跌37%、Nebius",
+      "titleZh": "Edge AI Daily 早报（11月1日）",
+      "summaryZh": "硅谷前沿： 一、营收增长不再是护身符：AI军备竞赛把四大巨头的自由现金流打回负值 1.【市场表现】10月30日纳斯达克综合指数跌2.6%收于26008.86点，10月累计跌5.3%；同期标普500科技板块跌6.8%、费城半导体指数跌15.4%，均创2025年3月以来最差单月表现；10月30日科技板块领跌标普500，单日跌4.24%。 2.【财报与现金流背离】Meta三季度营收646亿美元、同比增26%超预期，但单季资本开支349.1亿美元近翻倍，经营现金流327.9亿美元难以覆盖，自由现金流首度转负至-21亿美元，财报后股价跌约7%；Alphabet维持2026年资本开支1950亿至2050亿美元指引，Amazon过去12个月自由现金流流出424亿美元、预计2026年资本开支约2200亿美元，两家同样遭抛售。 3.【投资逻辑切换】高盛策略师Amanda Lynam称，Meta、微软、亚马逊、Alphabet四家2026年合计资本开支将达7250亿美元，较2025年4100亿美元增77%；市场估值逻辑由“收入增长”转向“现金回报”，边际回报下降，CoreWeave月跌37%、Nebius",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188908.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T01:23:03.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "0def4a2fca6b3a2051",
       "titleOriginal": "How We Took Over ChatGPT Accounts",
@@ -21,6 +171,28 @@
         "Coding"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bc9463905bbd6e7a71",
+      "titleOriginal": "datasette-llm 0.1a9",
+      "summaryOriginal": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db --internal internal.db Previously you would also need to specify a model with -s plugins.datasette-agent.de",
+      "titleZh": "datasette-llm 0.1a9",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-31T22:10:01.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Agent"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -332,9 +504,9 @@
     {
       "id": "e45bc277cc1c67356c",
       "titleOriginal": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
-      "summaryOriginal": "（本文作者为 价值刻度，钛媒体经授权发布） 10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50",
+      "summaryOriginal": "10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50%，138家增长超100%。 首药控股-U",
       "titleZh": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
-      "summaryZh": "（本文作者为 价值刻度，钛媒体经授权发布） 10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50",
+      "summaryZh": "10月31日，A股2026年三季报宣告收官，5572家上市公司合计实现营收56.65万亿元，比上年同期增长5.42%；归母净利润5.10万亿元，同比增长7.76%。超六成公司录得营收增长，逾七成实现盈利，整体情况良好，韧性凸显。 不过，Q3单季来看，总体营收19万亿元，同比仅增长2.22%；归母净利润1.53万亿元，同比下滑11.02%。 分板块来看，分化明显，行业冷暖一目了然：最赚钱的依然是金融业， 工商银行 以3431.10亿元净利润继续领跑A股；日子最难过的还是房地产，合计亏损531.87亿元。 盈利增 长和 下滑的行业则近乎五五开。科技赛道强势领跑，在AI算力产业链带动下信息技术板块的营收、归母净利润分别录得31.95%和140.25%的增速；材料板块不遑多让，量价齐升催化叠加低基数效应，营收、净利分别录得14.06%、54.03%的增速，排名第二；日常消费则净利增速下滑最多，主因生猪、白酒等集体承压。 金融依然最赚钱，房地产日子最难过 从营收来看，前三季度共有3437家上市公司实现同比正增长，占比超过62%。其中，416家增长超50%，138家增长超100%。 首药控股-U",
       "translated": true,
       "url": "https://www.tmtpost.com/8188863.html",
       "sourceId": "tmtpost",
@@ -345,13 +517,13 @@
       "publishedAt": "2026-10-31T13:15:46.000Z",
       "author": "价值刻度",
       "tags": [
-        "launch",
+        "news",
+        "主编精选文章",
         "看财报",
         "焦点",
-        "AGI",
-        "科股"
+        "AGI"
       ],
-      "category": "launch",
+      "category": "news",
       "readingMinutes": 2
     },
     {
@@ -10594,9 +10766,9 @@
       "id": "3b5ce86c8c402c8d1f",
       "titleOriginal": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "summaryOriginal": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi",
-      "titleZh": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "战斗无人机-具有基于音频的多人游戏的RTS氛围编码",
+      "summaryZh": "我最新的vibe编码游戏实验是一款命令与征服风格的RTS （实时策略）游戏，名为Battle Drones （在这里玩）。与我之前的实验不同，这个实际上很有趣。我有点尴尬地承认，我告诉Claude “让它变得更有趣”。它还支持附近设备之间的多人游戏，使用音频来同步游戏状态！以下是我迄今为止构建的内容，以及我在此过程中学到的一些东西。战斗无人机我如何建造这个",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -10637,9 +10809,9 @@
       "id": "dd8a8739a45d4ff83f",
       "titleOriginal": "30 Months on the Exponential (in Charts)",
       "summaryOriginal": "My second book on AI, Co-Existence, is out today (and you can get it here ), 30 months after the release of Co-Intelligence in early 2024. Looking back across the gap between these books is a good way to get a sense of AI progress. And, thanks to AI, I can describe this progress with some quite lovely charts. Making the charts is itself a good indicator of how far things have come. In the era of chatbots, the era of Co-Intelligence , I would have had to work back-and-forth with an AI in a chat w",
-      "titleZh": "30 Months on the Exponential (in Charts)",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "指数30个月（以图表表示）",
+      "summaryZh": "我关于人工智能的第二本书《共存》于2024年初发布30个月后于今天出版（您可以在此处获取）。回顾这些书籍之间的差距是了解人工智能进步的好方法。而且，多亏了人工智能，我可以用一些非常可爱的图表来描述这一进展。制作图表本身就是一个很好的指标，可以说明事情已经走了多远。在聊天机器人时代，在联合智能时代，我不得不在聊天中与人工智能来回工作，",
+      "translated": true,
       "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
       "sourceId": "oneusefulthing",
       "sourceName": "One Useful Thing",
@@ -10903,9 +11075,9 @@
       "id": "69ead926e6899b5ee7",
       "titleOriginal": "Inline rendering with document​.currentScript",
       "summaryOriginal": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().getF",
-      "titleZh": "Inline rendering with document​.currentScript",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "文档.currentScript的内联渲染",
+      "summaryZh": "使用document .currentScript Lean Rada的内联渲染描述了一个利用document.currentScript属性的巧妙技巧。您可以使用它来放入一个在<script>页面加载时自行替换的微小内联元素：年份是document.currentScript.replaceWith <script> (new Date () .getFullYear ())</script>如果您定义的快捷方式函数如下： $ = (... n) = &gt; document.currentScript.replaceWith (... n)您会得到一个微小的模板语言：年份是<script>$ (new Date () .getF",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -11268,178 +11440,6 @@
       ],
       "category": "guide",
       "readingMinutes": 2
-    },
-    {
-      "id": "27e342f2e55e90d7b8",
-      "titleOriginal": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "summaryOriginal": "A few years ago I stumbled upon Leash Bio’s Substack , and was hooked. Be it their Kaggle competition that showed that no, we really haven’t solved protein-ligand binding , or their crazy discovery that knowing a molecule’s author is perhaps all you need to know to predict how good it is . Their substack — or at least Owl Posting ’s 1 deep dive on them — should be required reading for any scientist trying to do chemistry with AI. So I was super excited to finally be able to sit down with Ian Qui",
-      "titleZh": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/lab-in-the-loop-at-compute-speed/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-14T20:35:09.000Z",
-      "author": "Latent.Space",
-      "tags": [
-        "analysis"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8560636ebc000f33b2",
-      "titleOriginal": "AI is mass decompiling games. That's both awesome and scary.",
-      "summaryOriginal": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can de",
-      "titleZh": "AI is mass decompiling games. That's both awesome and scary.",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-14T16:26:53.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0288d1d9c602e425f3",
-      "titleOriginal": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "summaryOriginal": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench , simply independently confirm their claims. About 20,000 joined AIE NYC today for keynotes from the frontier of AI x Finance, from Anthropic showing how they are building the modern AI Financial Services stack , Vals AI CEO discussing their principles behind benchmarking models like Argon, and Coatue’s Head of AI showing how they turn news into investment decisions. All keynotes...",
-      "titleZh": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-14T05:40:28.000Z",
-      "author": "Latent.Space",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "58e4191fcfe4b88c67",
-      "titleOriginal": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summaryOriginal": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-      "titleZh": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-14T02:00:14.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "fd83ae3d1e3e02de26",
-      "titleOriginal": "Redesigning source control at Anthropic",
-      "summaryOriginal": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of th",
-      "titleZh": "Redesigning source control at Anthropic",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-13T23:00:06.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "781a955ce352281bda",
-      "titleOriginal": "llm-gemini 0.35",
-      "summaryOriginal": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me 17.",
-      "titleZh": "llm-gemini 0.35",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-13T22:28:54.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "91c509b94835f91fdf",
-      "titleOriginal": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "summaryOriginal": "Watch along AIE NYC and join us at AIE CODE in SF next month! This episode includes a live demo of the Taku robot that is best enjoyed on YouTube . Last month, Dyna made waves by announcing Dyna-2 , a world-action model pre-trained on one million hours of human video, claiming several new scaling laws on human data across four orders of magnitude . They have now followed up the model with a physical robot agent, Dyna-2.1 , that has to be seen to be believed: View post on X ↗ In his talk at AI...",
-      "titleZh": "Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/dyna/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-13T22:25:55.000Z",
-      "author": "Latent.Space",
-      "tags": [
-        "research",
-        "Agent",
-        "Video",
-        "Coding"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "471508c04c304cbdb0",
-      "titleOriginal": "Developing Gemini 4 Argon responsibly and safely",
-      "summaryOriginal": "",
-      "titleZh": "Developing Gemini 4 Argon responsibly and safely",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-13T19:43:07.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11457,7 +11457,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 6
+      "count": 4
     },
     {
       "id": "techcrunch",
@@ -11513,7 +11513,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 38
+      "count": 36
     },
     {
       "id": "oneusefulthing",
@@ -11529,7 +11529,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 29
+      "count": 26
     },
     {
       "id": "ifanr",
@@ -11553,7 +11553,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 92
+      "count": 98
     },
     {
       "id": "infoq",
@@ -11561,13 +11561,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 39
+      "count": 40
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 46,
-    "translated": 231,
+    "guides": 48,
+    "translated": 234,
     "sources": 15
   }
 }
