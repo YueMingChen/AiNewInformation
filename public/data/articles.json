@@ -1,6 +1,195 @@
 {
-  "generatedAt": "2026-11-01T06:22:00.482Z",
+  "generatedAt": "2026-11-01T15:18:27.031Z",
   "articles": [
+    {
+      "id": "b5ebffc5d2ef88adf3",
+      "titleOriginal": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+      "summaryOriginal": "",
+      "titleZh": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/8mCjWWFLdjDA2vb51QZs",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T17:00:00.000Z",
+      "author": "作者：Renato Losio",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "22a7ec644430fdc08b",
+      "titleOriginal": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summaryOriginal": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the best result based on measured image data. The approach works, but it needs about ten times the compute. The article Adobe is testing how well AI agents can use editing tools like a Photoshop professional would appeared firs",
+      "titleZh": "Adobe正在测试人工智能代理如何像Photoshop专业人员那样使用编辑工具，",
+      "summaryZh": "Adobe Research和加州大学圣地亚哥分校建立了EditAgent ，这是一个人工智能系统，可以更像Photoshop专业人员一样编辑图像。客服代表不必反复尝试相同的通用编辑器，而是为每个任务选择合适的专用工具，并让标准语言模型根据测量的图像数据选择最佳结果。这种方法是有效的，但它需要大约十倍的计算能力。Adobe正在测试人工智能代理如何像Photoshop专业人员一样使用编辑工具",
+      "translated": true,
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-01T14:56:44.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Adobe",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5264e49da2abeeaea0",
+      "titleOriginal": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summaryOriginal": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its makers anthropomorphize the most, was the only one that consistently refused to play along. The article E",
+      "titleZh": "富有同理心的提示可以将人工智能聊天机器人变成看似受到创伤的对话伙伴",
+      "summaryZh": "卢森堡的研究人员将ChatGPT、Grok和Gemini放在治疗师的沙发上，发现了一个安全问题：温暖、富有同情心的对话风格足以让模型讲述关于自己训练的连贯的痛苦故事，在临床焦虑量表上得分在中到重度范围内。这可能会使精神弱势用户面临风险。Anthropic的Claude ，其制作者最具拟人化的模型，是唯一一个一直拒绝参与的人。文章E",
+      "translated": true,
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-01T14:36:49.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fc995ace8b78078e3e",
+      "titleOriginal": "Chinese AI models are politically complex, not just government mouthpieces, study finds",
+      "summaryOriginal": "A study by Vals AI tested 25 AI models for alignment with Chinese government positions and found surprising results. Chinese models respond to political questions less uniformly than expected, and Western models occasionally adopt official Beijing positions too. The language of the prompt had an especially strong effect on the political slant of responses. The article Chinese AI models are politically complex, not just government mouthpieces, study finds appeared first on The Decoder .",
+      "titleZh": "研究发现，中国的人工智能模型在政治上很复杂，不仅仅是政府的喉舌",
+      "summaryZh": "Vals AI的一项研究测试了25个人工智能模型与中国政府立场的一致性，发现了令人惊讶的结果。中国模式对政治问题的回应不如预期，西方模式偶尔也会采取北京方面的官方立场。提示的语言对回应的政治倾向有着特别强烈的影响。中国人工智能模型的文章在政治上很复杂，不仅仅是政府的喉舌，研究发现首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/chinese-ai-models-are-politically-complex-not-just-government-mouthpieces-study-finds/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-01T12:33:01.000Z",
+      "author": "Tomislav Bezmalinović",
+      "tags": [
+        "research",
+        "AI and society",
+        "Artificial Intelligence",
+        "Bias",
+        "China"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e351ad926032c79845",
+      "titleOriginal": "OpenAI is steering ChatGPT users toward more paid usage",
+      "summaryOriginal": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra credits. The article OpenAI is steering ChatGPT users toward more paid usage appeared first on The D",
+      "titleZh": "OpenAI正在引导ChatGPT用户增加付费使用",
+      "summaryZh": "OpenAI现在限制每个设备和支付卡的付费ChatGPT帐户数量。达到限制的用户无法开始新的订阅，并且受影响的帐户无法在该设备上使用。注销不会自动腾出一个名额。该政策可能会打击那些一直在兼顾多个廉价订阅以最大限度地提高使用率的用户，将他们推向购买额外积分等更昂贵的选择。OpenAI正在引导ChatGPT用户转向更多付费使用的文章首次出现在The D",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-01T12:05:04.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6a465f5b0d29a49c4a",
+      "titleOriginal": "赫拉利深度访谈：真正的 AI 危机来了！",
+      "summaryOriginal": "（本文作者为 反应堆Reactor，钛媒体经授权发布） 文 | 反应堆Reactor 《人类简史》作者尤瓦尔・赫拉利在最新访谈中告诉我们，真正的危机，根本不是电影里那一套，它正在现实世界中上演。 一把刀，可以切沙拉，也可以行凶作恶，但选择权永远握在人的手里。核能可以发电，也可以制造核弹，走向同样由人类决定。人类过往数万年发明的一切技术，本质上都是工具。 但 AI 不一样。 赫拉利提出： AI 不是工具，是智能体（Agent） 尤瓦尔&middot;赫拉利参加访谈《Hyde Park Civilizace》 它可以独立做出决策，生成创造者从未设想过的想法与方案。如果人类可以百分百预判 AI 所有输出，那万亿资本涌入 AI 赛道就毫无意义，资本押注的，恰恰就是 AI 能够完成人类无法预知、无法做到的事情。 很多人追问： AI 什么时候能够达到人类水平的智能？ 赫拉利认为这个问题本身就是误区。AI 不会复刻人类的心智， 它拥有的是一种异质的 “外星智能”， 并非来自宇宙深空，其本质是思考逻辑与人类完全迥异。 就像飞机永远不会像鸟类那样扇动翅膀，但它却以另一套原理飞得更高更远。未来的 AI，会",
+      "titleZh": "赫拉利深度访谈：真正的 AI 危机来了！",
+      "summaryZh": "（本文作者为 反应堆Reactor，钛媒体经授权发布） 文 | 反应堆Reactor 《人类简史》作者尤瓦尔・赫拉利在最新访谈中告诉我们，真正的危机，根本不是电影里那一套，它正在现实世界中上演。 一把刀，可以切沙拉，也可以行凶作恶，但选择权永远握在人的手里。核能可以发电，也可以制造核弹，走向同样由人类决定。人类过往数万年发明的一切技术，本质上都是工具。 但 AI 不一样。 赫拉利提出： AI 不是工具，是智能体（Agent） 尤瓦尔&middot;赫拉利参加访谈《Hyde Park Civilizace》 它可以独立做出决策，生成创造者从未设想过的想法与方案。如果人类可以百分百预判 AI 所有输出，那万亿资本涌入 AI 赛道就毫无意义，资本押注的，恰恰就是 AI 能够完成人类无法预知、无法做到的事情。 很多人追问： AI 什么时候能够达到人类水平的智能？ 赫拉利认为这个问题本身就是误区。AI 不会复刻人类的心智， 它拥有的是一种异质的 “外星智能”， 并非来自宇宙深空，其本质是思考逻辑与人类完全迥异。 就像飞机永远不会像鸟类那样扇动翅膀，但它却以另一套原理飞得更高更远。未来的 AI，会",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189151.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T12:04:54.000Z",
+      "author": "反应堆Reactor",
+      "tags": [
+        "launch",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "06ba1909c931d46468",
+      "titleOriginal": "Google wants video AI to understand what people need as they work",
+      "summaryOriginal": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops sharply. The article Google wants video AI to understand what people need as they work appeared first on The Decoder .",
+      "titleZh": "谷歌希望视频人工智能能够了解人们在工作时需要什么",
+      "summaryZh": "谷歌领导的研究团队建立了StreamVibe ，这是一种视频代理，旨在观看人们烹饪或组装家具，并仅在需要帮助时大声说出来。基准测试表明，在较长的视频中，没有一个经过测试的模型能够可靠地选择合适的时机，因为错误会加剧，响应质量会急剧下降。谷歌希望视频人工智能能够了解人们在工作时需要什么，这篇文章最初出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-01T11:25:21.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Google",
+        "Google Deepmind"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "eed9b68d54d4479996",
+      "titleOriginal": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+      "summaryOriginal": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+      "titleZh": "聊天机器人是领先的徒步旅行者，具有危险的后果",
+      "summaryZh": "将规划外包给人工智能可能会导致人们放弃自己的批判性思维，这可能会在偏远地区产生致命的后果。",
+      "translated": true,
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-01T10:30:00.000Z",
+      "author": "Christine Peterson",
+      "tags": [
+        "analysis",
+        "Science",
+        "Science / Environment"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
     {
       "id": "51b6f65d2cba363bd6",
       "titleOriginal": "如果 AI 幻觉也有预算，超支之后该怎么办？",
@@ -23,6 +212,169 @@
       "readingMinutes": 2
     },
     {
+      "id": "b7d898c156fbf11031",
+      "titleOriginal": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "summaryOriginal": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice, this is likely to result in a decline in ChatGPT’s quality for heavy users on lower-cost plans. The article OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing appea",
+      "titleZh": "OpenAI即将在ChatGPT中进行的聊天和工作合并标志着自助定价的结束",
+      "summaryZh": "OpenAI将聊天和工作模式合并到一个界面中。从12月开始， Plus、Pro和Business计划将为ChatGPT和Codex共享一个通用的、基于令牌的配额。更复杂的模型消耗更多的这个配额，而简单的即时聊天不计入其中。在实践中，这可能会导致ChatGPT对于低成本计划的重度用户的质量下降。OpenAI即将在ChatGPT中进行的聊天和工作合并标志着自助定价Appea的结束",
+      "translated": true,
+      "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-01T09:51:06.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b7dbe7a0f297784d02",
+      "titleOriginal": "Agent改写算力账本，CPU不再是AI服务器的配角？",
+      "summaryOriginal": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜沈浪 根据TrendForce集邦咨询最新AI服务器产业研究，随着各AI服务厂商积极推出AI Agent 相关应用，服务器CPU需求自2025年下半年起稳步成长，预估2026年出货年增幅将达 31%。 2027年由于AI推理需求持续成长、Agentic AI服务渗透率提升，服务器CPU出货量有望再年增逾40%，不过以x86阵营主导的市场格局可能出现变化。 在GPU叙事霸屏的市场上，这条消息没有掀起太大浪花。 但站在采购与资本开支的视角重读这份预测，它指向另一层变化：AI基础设施的预算结构，正在从只买加速卡转向配齐一整套机柜算力，CPU在这本新账本里的权重正在明显抬升。 一笔账，从一行变成了三张清单 在大模型预训练为主的阶段，采购一台训练服务器，预算与评审的重心几乎都落在GPU上。CPU、内存、存储与网络更多被视作配套底座，按既定拓扑规格配套落地，很少会因为要不要多加几颗CPU单独论证。 行业长期通行1颗CPU承载8颗GPU的经典配比，在以浮点算力为标尺的账本里，CPU的计算能力几乎可以忽略。 但Agent负载把这道算术题改",
+      "titleZh": "Agent改写算力账本，CPU不再是AI服务器的配角？",
+      "summaryZh": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜沈浪 根据TrendForce集邦咨询最新AI服务器产业研究，随着各AI服务厂商积极推出AI Agent 相关应用，服务器CPU需求自2025年下半年起稳步成长，预估2026年出货年增幅将达 31%。 2027年由于AI推理需求持续成长、Agentic AI服务渗透率提升，服务器CPU出货量有望再年增逾40%，不过以x86阵营主导的市场格局可能出现变化。 在GPU叙事霸屏的市场上，这条消息没有掀起太大浪花。 但站在采购与资本开支的视角重读这份预测，它指向另一层变化：AI基础设施的预算结构，正在从只买加速卡转向配齐一整套机柜算力，CPU在这本新账本里的权重正在明显抬升。 一笔账，从一行变成了三张清单 在大模型预训练为主的阶段，采购一台训练服务器，预算与评审的重心几乎都落在GPU上。CPU、内存、存储与网络更多被视作配套底座，按既定拓扑规格配套落地，很少会因为要不要多加几颗CPU单独论证。 行业长期通行1颗CPU承载8颗GPU的经典配比，在以浮点算力为标尺的账本里，CPU的计算能力几乎可以忽略。 但Agent负载把这道算术题改",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189082.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T09:13:10.000Z",
+      "author": "硅碳变量",
+      "tags": [
+        "research",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "38a9bddbb241612bc4",
+      "titleOriginal": "详解Super Agent：会主动干活，更懂何时闭嘴",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI DeepSeek Harness团队在10月31日晚上发布了一篇文章，标题为《Super-agent设计探索：迈向更自主的 Agent 系统》，文章里提出了这样一个概念：Super Agent。 同时他们也在GitHub上开源了Super Agent的原型dsh-superagent-prototype，以供开发者参考。 所谓Super Agent，它就相当于一个记忆力超群、24小时在线、永远不摸鱼偷懒的同事。 你之前交代过什么，即使到下一个任务里，它依然能够记得。还能在各种聊天软件、邮件和GitHub等不同的地方，执行同一项工作。 “主动”是Super Agent的核心关键词，有些事情不一定非得等到你开口命令它，它才会去干活。 比如看到群里有人报Bug，哪怕没人艾特Super Agent，它也能先去看看问题出在哪，能修就直接动手。 Anthropic此前推出的Claude Duet，虽然还处于预览版，但是它也会主动看邮件和日历，早上给你一份简报，平时发现重要事情再来找你。 Agent不该一直等你开口，Super Agent",
+      "titleZh": "详解Super Agent：会主动干活，更懂何时闭嘴",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI DeepSeek Harness团队在10月31日晚上发布了一篇文章，标题为《Super-agent设计探索：迈向更自主的 Agent 系统》，文章里提出了这样一个概念：Super Agent。 同时他们也在GitHub上开源了Super Agent的原型dsh-superagent-prototype，以供开发者参考。 所谓Super Agent，它就相当于一个记忆力超群、24小时在线、永远不摸鱼偷懒的同事。 你之前交代过什么，即使到下一个任务里，它依然能够记得。还能在各种聊天软件、邮件和GitHub等不同的地方，执行同一项工作。 “主动”是Super Agent的核心关键词，有些事情不一定非得等到你开口命令它，它才会去干活。 比如看到群里有人报Bug，哪怕没人艾特Super Agent，它也能先去看看问题出在哪，能修就直接动手。 Anthropic此前推出的Claude Duet，虽然还处于预览版，但是它也会主动看邮件和日历，早上给你一份简报，平时发现重要事情再来找你。 Agent不该一直等你开口，Super Agent",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189032.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T08:26:38.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch",
+        "投稿",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6b992e9ca8586859b1",
+      "titleOriginal": "从效率到效能，真正的AI组织",
+      "summaryOriginal": "（本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 如果你走进今天绝大多数颇具规模的机构，无论是科技大厂、金融机构、大型医院、科研院所还是工业巨头，都会看到一幅极其相似的画面： 大楼里灯火通明，每个部门都在加班加点，年底一盘点，研发、产品、市场、运营、风控、财务各个部门的KPI考核几乎全都是高分；为了提升管理水平，机构花重金引入了全套数字化软件，这两年又紧跟时代部署了大语言模型和各种智能体。 按常理推算，人这么勤奋，工具这么先进，整个组织应该势如破竹才对。可客观的经营结果却是，许多机构的净利率持续下滑，资本回报率（ROIC）掉到了3%到6%的微利区间，重点战略项目一拖再拖，组织内部依然充斥着跨部门协调的摩擦、周而复始的会议、挥之不去的焦虑与内卷。 面对这种局面，一把手往往觉得是中层执行力不够、部门墙太厚；一线员工觉得是顶层脱离实际、考核指标互相打架；HR则苦恼于招不到有全局观的人才。每个人都很委屈，每个人都筋疲力尽。 之前的文章里，我们通过一套在千亿级产业网络中连续18年全自动闭环运行的系统，证明了过去百年间散落在物理学、心理学、控制论、经济学与数理逻辑中的基",
+      "titleZh": "从效率到效能，真正的AI组织",
+      "summaryZh": "（本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 如果你走进今天绝大多数颇具规模的机构，无论是科技大厂、金融机构、大型医院、科研院所还是工业巨头，都会看到一幅极其相似的画面： 大楼里灯火通明，每个部门都在加班加点，年底一盘点，研发、产品、市场、运营、风控、财务各个部门的KPI考核几乎全都是高分；为了提升管理水平，机构花重金引入了全套数字化软件，这两年又紧跟时代部署了大语言模型和各种智能体。 按常理推算，人这么勤奋，工具这么先进，整个组织应该势如破竹才对。可客观的经营结果却是，许多机构的净利率持续下滑，资本回报率（ROIC）掉到了3%到6%的微利区间，重点战略项目一拖再拖，组织内部依然充斥着跨部门协调的摩擦、周而复始的会议、挥之不去的焦虑与内卷。 面对这种局面，一把手往往觉得是中层执行力不够、部门墙太厚；一线员工觉得是顶层脱离实际、考核指标互相打架；HR则苦恼于招不到有全局观的人才。每个人都很委屈，每个人都筋疲力尽。 之前的文章里，我们通过一套在千亿级产业网络中连续18年全自动闭环运行的系统，证明了过去百年间散落在物理学、心理学、控制论、经济学与数理逻辑中的基",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8188900.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T08:26:36.000Z",
+      "author": "GritMeng",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9a4014b2c7cc52a939",
+      "titleOriginal": "修补“漏水船”：腾讯AI的B端转向",
+      "summaryOriginal": "（本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 今年夏天，马化腾在内部将腾讯的人工智能项目形容为“一艘漏水的船”。这句罕见的严厉批评，叠加同期资本市场对腾讯AI前景的反馈，以及上半年高达847.2亿元人民币的资本开支带来的财务压力，让这家社交巨头在AI赛道上的处境显得颇为微妙。 在C端，面对字节跳动旗下“豆包”在用户规模上的压制，腾讯推出的AI应用“元宝”在增长上面临着巨大的挑战。 然而，据彭博社近期报道，腾讯云与智慧产业事业群（CSIG）CEO汤道生提供了一套不同的解法：将重心向B端转移，并将内部代码工具改造为名为WorkBuddy的AI助手。数据显示，该产品月活跃用户已达到3235.3万。 从C端的扩张受阻，到B端工具的规模化起量，腾讯的AI战略正在经历一次从“追求流量入口”向“深耕企业场景”的务实转向。这不仅是对技术路线的调整，更是对其庞大商业生态如何与AI结合的重新审视。 C端的流量焦虑与算力成本 要理解腾讯AI的战略收缩，必须客观审视C端战场的投入产出比。 2025年到2026年初，国内大模型C端应用经历了一场流量圈地战。字节的豆包依托抖音的超级流量池，",
+      "titleZh": "修补“漏水船”：腾讯AI的B端转向",
+      "summaryZh": "（本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 今年夏天，马化腾在内部将腾讯的人工智能项目形容为“一艘漏水的船”。这句罕见的严厉批评，叠加同期资本市场对腾讯AI前景的反馈，以及上半年高达847.2亿元人民币的资本开支带来的财务压力，让这家社交巨头在AI赛道上的处境显得颇为微妙。 在C端，面对字节跳动旗下“豆包”在用户规模上的压制，腾讯推出的AI应用“元宝”在增长上面临着巨大的挑战。 然而，据彭博社近期报道，腾讯云与智慧产业事业群（CSIG）CEO汤道生提供了一套不同的解法：将重心向B端转移，并将内部代码工具改造为名为WorkBuddy的AI助手。数据显示，该产品月活跃用户已达到3235.3万。 从C端的扩张受阻，到B端工具的规模化起量，腾讯的AI战略正在经历一次从“追求流量入口”向“深耕企业场景”的务实转向。这不仅是对技术路线的调整，更是对其庞大商业生态如何与AI结合的重新审视。 C端的流量焦虑与算力成本 要理解腾讯AI的战略收缩，必须客观审视C端战场的投入产出比。 2025年到2026年初，国内大模型C端应用经历了一场流量圈地战。字节的豆包依托抖音的超级流量池，",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8186131.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T08:26:35.000Z",
+      "author": "Tech商业",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b78eced8d414e07dea",
+      "titleOriginal": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+      "summaryOriginal": "Nace AI has released Drex Max v1 as open weights . Drex Max is its most capable decision model, and it now runs on your own hardware. The release ships bf16 weights, a Q8_0 GGUF , an affine Q4 checkpoint and forks of llama.cpp and Ollama . For developers, Drex Max open weights mean routing, classification and policy checks can stay on a local machine. TL;DR Size: Dense 27B parameters, 262,144-token window (16,384 by default), up to 255 options per question. Runs on: NVIDIA GPU with Python (H100",
+      "titleZh": "Nace AI开源Drex Max v1 ：在Apple Silicon上本地运行的27B决策模型",
+      "summaryZh": "Nace AI发布了Drex Max v1作为开放权重。Drex Max是其最强大的决策模型，现在它可以在您自己的硬件上运行。发布船舶bf16重量， Q8_0 GGUF ，仿射Q4检查站和llama.cpp和Ollama的分叉。对于开发人员来说， Drex Max开放权重意味着路由、分类和策略检查可以保留在本地机器上。TL ； DR大小：密集的27B参数， 262,144个令牌窗口（默认为16,384个） ，每个问题最多255个选项。运行于：带Python的NVIDIA GPU （ H100",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-01T08:10:07.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3cc4ce3d743f12b300",
+      "titleOriginal": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "summaryOriginal": "The DeepSeek Harness team just released dsh-superagent , an MIT-licensed research prototype. DeepSeek dsh-superagent is a proactive coding agent for one GitHub repository. It is packaged as a bundle for DeepSeek Harness . It listens to GitHub and, optionally, Feishu. It turns allowed requests into parallel work items, each in its own agent session. The release shipped alongside a design post, Exploring Super-agent Design: Towards a More Autonomous Agent System . TL;DaR What is it?: A TypeScript",
+      "titleZh": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-01T07:47:17.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "AI Infrastructure",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "19bd2ca7fd941e1b19",
       "titleOriginal": "【数智周报】张一鸣以6700亿元登顶中国首富，刷新中国首富财富纪录；阿里巴巴与Apple达成合作，将千问集成至Apple智能；Anthropic提交IPO注册文件，拟以“ANT”为代码在纳斯达克上市",
       "summaryOriginal": "观点 城堡投资Salame警示AI融资风险：浪潮之下“一些船会沉没” 城堡投资联席首席投资官Pablo Salame表示，支撑AI革命的巨大资本需求，正与态度谨慎、不愿承担如此大风险的贷款机构发生冲突。他表示，这将迫使追求数倍投资回报的选股投资者与需要确保资金能够收回的债权人之间重新寻求平衡。Salame说，“AI浪潮虽会水涨船高，但也会让一些船沉没，而且这股浪潮还将充满起伏。” 马斯克与黄仁勋观点打架， 摩根大通 ：超大规模AI数据中心运营商状况良好是市场共识 SpaceX 首席执行官马斯克最新警告，200多家新云公司将大规模倒闭或合并，有些公司能挺过去，但不会很多。 而马斯克的这番警告与 英伟达 首席执行官黄仁勋此前的观点几乎截然相反。黄仁勋在GTC大会上指出，市场对新云的需求远超预期。他虽然也提到了目前新云公司亟需资金支持，而资金正面临短缺的问题，但他认为这一问题一定会得到解决。 杰富瑞分析师指出，马斯克的言论引发了新一轮的恐慌交易。摩根大通则认为，人工智能债务市场对人工智能基础设施变得更加挑剔，但对于更广泛的融资危机不以为然。摩根大通市场情报团队强调，信贷短缺令人担忧，但目前的",
@@ -39,6 +391,7 @@
       "author": "ITValue",
       "tags": [
         "news",
+        "主编精选文章",
         "数智周报"
       ],
       "category": "news",
@@ -490,7 +843,7 @@
       "sourceColor": "#d63b2f",
       "lang": "zh",
       "publishedAt": "2026-10-31T13:59:57.000Z",
-      "author": "莫崇宇",
+      "author": "山宗",
       "tags": [
         "guide",
         "产品",
@@ -1133,7 +1486,7 @@
       "sourceColor": "#d63b2f",
       "lang": "zh",
       "publishedAt": "2026-10-30T22:34:47.000Z",
-      "author": "莫崇宇",
+      "author": "山宗",
       "tags": [
         "launch",
         "公司",
@@ -2758,7 +3111,7 @@
       "sourceColor": "#d63b2f",
       "lang": "zh",
       "publishedAt": "2026-10-30T00:29:45.000Z",
-      "author": "莫崇宇",
+      "author": "山宗",
       "tags": [
         "launch",
         "产品",
@@ -11113,333 +11466,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "f64c2d9b95dccc1248",
-      "titleOriginal": "[AINews] High Taste Testers Ep. 1",
-      "summaryOriginal": "We are piloting a new show on Latent Space: High Taste Testers, a variant of our food show where we pull you in to a typical lunch conversation in San Francisco. All your favorite talking points, starting with Dev Day and going into the latest models and assistants, are here: Let us know your feedback! AI News for 10/15/2026-10/16/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’ website lets you search all past issues. As a reminder, AINews is now a section of Latent",
-      "titleZh": "[AINews] High Taste Testers Ep. 1",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/ainews-high-taste-testers-ep-1/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-17T07:47:38.000Z",
-      "author": "Latent Space",
-      "tags": [
-        "analysis"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e946af68fd7dbe0ee8",
-      "titleOriginal": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "summaryOriginal": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This c",
-      "titleZh": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-16T22:06:37.000Z",
-      "author": "",
-      "tags": [
-        "news",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "65442e708214c10b88",
-      "titleOriginal": "How Itaú is building generative AI for its entire customer base",
-      "summaryOriginal": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "titleZh": "How Itaú is building generative AI for its entire customer base",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/itau-generative-ai",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-16T19:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "84597031178419a855",
-      "titleOriginal": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "summaryOriginal": "A version of Muse Spark Open was released today, fulfilling their original promise but with a model weaker than their Spark 1.3. It’s also worth watching the Tesla Roadster demo - not strictly AI but nothing cooler than real life flying cars. Our title story today is a rare one on interpretability and alignment. We last caught up with Goodfire in Feb : and the bitter-lesson scaling of interpretability methods with Anthropic last year : And now Nick Cammarata at Goodfire has an important essay ou",
-      "titleZh": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-16T04:16:45.000Z",
-      "author": "Latent Space",
-      "tags": [
-        "analysis",
-        "Agent"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "00c66b5eda27345f2a",
-      "titleOriginal": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-      "summaryOriginal": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive use of dynamic workflows - it generates JavaScript that defines and coordinates a network of subagents to take on complex problems. My initial prompt was this - I meant \"hit the rows",
-      "titleZh": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/16/sqlite-sparql-rust/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-16T01:58:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Prompt",
-        "Coding"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9db4940a53f868400a",
-      "titleOriginal": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summaryOriginal": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "titleZh": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Startup",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4a2f3ca18eb9cee6e4",
-      "titleOriginal": "Benefit Street Partners answers questions faster with Codex",
-      "summaryOriginal": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "titleZh": "Benefit Street Partners answers questions faster with Codex",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/benefit-street-partners",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-16T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "08c79764230e6e3c00",
-      "titleOriginal": "Chirp Pong",
-      "summaryOriginal": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine",
-      "titleZh": "Chirp Pong",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-15T19:47:52.000Z",
-      "author": "",
-      "tags": [
-        "news",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a72d1e4da6b0e1062a",
-      "titleOriginal": "Bringing GPT-Rosalind to academic research labs",
-      "summaryOriginal": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-      "titleZh": "Bringing GPT-Rosalind to academic research labs",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-15T19:00:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "996b33c09ad5742797",
-      "titleOriginal": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "summaryOriginal": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "titleZh": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-15T16:08:03.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6702d1aaf0afce3a0d",
-      "titleOriginal": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summaryOriginal": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted",
-      "titleZh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-15T13:04:03.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1208822c3f3ac23427",
-      "titleOriginal": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summaryOriginal": "Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share about the kind of infrastructure agents are needing for “ millions of concurrent sandboxes, launch RDMA clusters securely and elastically for distributed training, train state of the art speculators for inference, build a whole new sandbox runtime, and more ”: View the original post on X As Erik notes in his fundraise pos",
-      "titleZh": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/ainews-modals-1b-arr-16b-series-d/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-15T10:08:08.000Z",
-      "author": "Latent Space",
-      "tags": [
-        "research",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e3274600bfe5739a9a",
-      "titleOriginal": "LaTeX renderer",
-      "summaryOriginal": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner). Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the URL, so every document created using it becomes a bookmarkable and shareable link. It also has an llms",
-      "titleZh": "LaTeX renderer",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/15/latex/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-15T02:07:28.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3a28134fc7acf8c05f",
-      "titleOriginal": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "summaryOriginal": "One of the key themes at the AI Engineer New York conference this week was how to balance agent autonomy with security and safety . Both frontier labs and financial firms focused on this issue in their presentations this week. The main lesson: safe autonomy depends on where you put controls and human judgment , rather than how many restrictions you impose. Sponsor: Build shopping into your agent with shop.dev Adding commerce to an agent usually means rebuilding search and checkout from scratch.",
-      "titleZh": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/crossing-the-threshold/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:40:52.000Z",
-      "author": "Richard MacManus",
-      "tags": [
-        "guide",
-        "Agent"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bbc1e25e9e985e4588",
-      "titleOriginal": "Tree Appreciator",
-      "summaryOriginal": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5",
-      "titleZh": "Tree Appreciator",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-14T21:23:01.000Z",
-      "author": "",
-      "tags": [
-        "guide",
-        "Coding"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11449,7 +11475,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 45
+      "count": 41
     },
     {
       "id": "deepmind",
@@ -11457,7 +11483,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 4
+      "count": 3
     },
     {
       "id": "techcrunch",
@@ -11489,7 +11515,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 24
+      "count": 25
     },
     {
       "id": "thedecoder",
@@ -11497,7 +11523,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 39
+      "count": 45
     },
     {
       "id": "marktechpost",
@@ -11505,7 +11531,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 28
+      "count": 30
     },
     {
       "id": "simonwillison",
@@ -11513,7 +11539,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 36
+      "count": 30
     },
     {
       "id": "oneusefulthing",
@@ -11529,7 +11555,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 26
+      "count": 22
     },
     {
       "id": "ifanr",
@@ -11553,7 +11579,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 98
+      "count": 103
     },
     {
       "id": "infoq",
@@ -11561,13 +11587,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 40
+      "count": 41
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 48,
-    "translated": 234,
+    "guides": 47,
+    "translated": 242,
     "sources": 15
   }
 }
