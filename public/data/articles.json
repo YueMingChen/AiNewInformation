@@ -1,6 +1,321 @@
 {
-  "generatedAt": "2026-11-01T20:36:06.980Z",
+  "generatedAt": "2026-11-02T01:35:47.461Z",
   "articles": [
+    {
+      "id": "b77c039e0a1ae906dc",
+      "titleOriginal": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "summaryOriginal": "",
+      "titleZh": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/WmlATgJudjwPKqHf4QgX",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T09:20:00.000Z",
+      "author": "作者：Matt Saunders",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9cc262e8d868d80cbc",
+      "titleOriginal": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "summaryOriginal": "",
+      "titleZh": "ChatGPT Pro 额度翻倍：是让步，不是福利？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/WpTNht7guarWEyejJFV6",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T09:16:03.000Z",
+      "author": "褚杏娟",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ea1b7f84707463620c",
+      "titleOriginal": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "summaryOriginal": "",
+      "titleZh": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T09:12:15.000Z",
+      "author": "褚杏娟",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "477124d0d5dc62c956",
+      "titleOriginal": "苹果选择千问，另有目的",
+      "summaryOriginal": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 10月31日，靴子落地。苹果官宣与阿里巴巴合作，千问正式集成至Apple智能，中国用户可以在Siri、写作工具和视觉智能中直接调用千问的文本与图像理解、内容生成能力。 11月4日开发者Beta开放测试，12月随iOS 27.3正式面向中国用户推送。 消息本身并不意外。从2025年2月蔡崇信在迪拜确认合作，到今年7月苹果智能完成备案、8月路透曝出双方联合训练中国专属模型，这条线索已经铺了将近两年。 真正值得拆解的，不是“终于定了”这个结果，而是这个结果背后的一条暗线： 苹果挑的，从来不是参数最高的那个模型。它挑的是一个最不给自己添麻烦的底座。 这件事对国产大模型竞争逻辑的冲击，比一次系统级功能上线要深远得多。 八进一，赢家赢在“不像对手” 据多家媒体交叉印证，苹果三年间先后接触了百度、阿里、字节、腾讯、DeepSeek、百川、月之暗面、智谱八家厂商。 如果按跑分和技术声量来排，阿里未必是第一顺位。DeepSeek在开源社区和推理成本上的冲击力有目共睹，字节的豆包在C端用户规模上一骑绝尘，百度则是国内最早喊出“All in",
+      "titleZh": "苹果选择千问，另有目的",
+      "summaryZh": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 10月31日，靴子落地。苹果官宣与阿里巴巴合作，千问正式集成至Apple智能，中国用户可以在Siri、写作工具和视觉智能中直接调用千问的文本与图像理解、内容生成能力。 11月4日开发者Beta开放测试，12月随iOS 27.3正式面向中国用户推送。 消息本身并不意外。从2025年2月蔡崇信在迪拜确认合作，到今年7月苹果智能完成备案、8月路透曝出双方联合训练中国专属模型，这条线索已经铺了将近两年。 真正值得拆解的，不是“终于定了”这个结果，而是这个结果背后的一条暗线： 苹果挑的，从来不是参数最高的那个模型。它挑的是一个最不给自己添麻烦的底座。 这件事对国产大模型竞争逻辑的冲击，比一次系统级功能上线要深远得多。 八进一，赢家赢在“不像对手” 据多家媒体交叉印证，苹果三年间先后接触了百度、阿里、字节、腾讯、DeepSeek、百川、月之暗面、智谱八家厂商。 如果按跑分和技术声量来排，阿里未必是第一顺位。DeepSeek在开源社区和推理成本上的冲击力有目共睹，字节的豆包在C端用户规模上一骑绝尘，百度则是国内最早喊出“All in",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189162.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T01:17:04.000Z",
+      "author": "影子备忘录",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d202c4eff38077e06c",
+      "titleOriginal": "借着帕累托曲线，大模型重新定义性价比？",
+      "summaryOriginal": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜温宁 DeepSeek正式推出大模型新版本V4.1 Flash-1017，此前已有公开数据显示其技术指标，此次DeepSeek更首次自主发布帕累托前沿曲线，直观呈现模型在效率与成本维度的综合表现。 V4.1 Flash-1017在此曲线中达到行业领先水平：单位任务综合成本仅为Fable、Astra等同类模型的百分之一至二十分之一，性价比优势达四五十倍以上。 实测表明，多数场景下Token用量较前版下降逾50%，相应TCO水平亦将同步迎来新一轮实质性下探。 一次后缀看着像小版本迭代的更新，可能正在改写整个行业算账的方式。 白菜价时代结束了，账单开始说话 过去两年，国产大模型经历过一轮烈度极高的API价格战。 2024年5月，豆包大模型在价格上主打“极致性价比”，通用模型pro-32k版推理输入价格0.0008元/千tokens，较行业价格低99.3%。 随后阿里云发布降价公告，将旗下通义千问的多款商业化及开源模型进行大幅降价。其中，对标GPT-4的商业化模型Qwen-Long的API（应用程序编程接口）输入价格从0.02元/",
+      "titleZh": "借着帕累托曲线，大模型重新定义性价比？",
+      "summaryZh": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜温宁 DeepSeek正式推出大模型新版本V4.1 Flash-1017，此前已有公开数据显示其技术指标，此次DeepSeek更首次自主发布帕累托前沿曲线，直观呈现模型在效率与成本维度的综合表现。 V4.1 Flash-1017在此曲线中达到行业领先水平：单位任务综合成本仅为Fable、Astra等同类模型的百分之一至二十分之一，性价比优势达四五十倍以上。 实测表明，多数场景下Token用量较前版下降逾50%，相应TCO水平亦将同步迎来新一轮实质性下探。 一次后缀看着像小版本迭代的更新，可能正在改写整个行业算账的方式。 白菜价时代结束了，账单开始说话 过去两年，国产大模型经历过一轮烈度极高的API价格战。 2024年5月，豆包大模型在价格上主打“极致性价比”，通用模型pro-32k版推理输入价格0.0008元/千tokens，较行业价格低99.3%。 随后阿里云发布降价公告，将旗下通义千问的多款商业化及开源模型进行大幅降价。其中，对标GPT-4的商业化模型Qwen-Long的API（应用程序编程接口）输入价格从0.02元/",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189229.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T01:03:27.000Z",
+      "author": "硅碳变量",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ea4100bfc5caa39370",
+      "titleOriginal": "赵黎明：非侵入脑机接口的应用探索，从技术范式到卒中监护的临床落地 | 钛资本医疗健康组",
+      "summaryOriginal": "（本文作者为 钛资本研究院，钛媒体经授权发布） 文 | 钛资本研究院 脑机接口技术正在重塑人类与机器交互的边界，其中非侵入式方案因避免开颅手术、具备可穿戴性和成本优势，被视为通往大规模消费医疗市场的最具潜力路径。然而，颅骨对神经信号的物理衰减、跨个体的巨大脑电差异，以及高质量标注数据的匮乏，长期制约着这一技术的临床应用与商业化进程。 近年来， 脑电大模型 的兴起正在快速弥合非侵入式与侵入式方案之间的性能鸿沟，使得非侵入脑机接口在脑卒中这一\"时间就是大脑\"的刚性医疗场景中展现出独特价值。我国拥有约2800万卒中存量患者，每年新增300万至500万，而社区综合救治率不足20%，夜间高发、院内缺乏连续脑功能监测手段等痛点，构成了脑电监护不可替代的应用洼地。 近期钛资本邀请邀请 潜脑科技 CEO、联合创始人赵黎明进行分享，他是工学博士，毕业于上海交通大学计算机学院，本科毕业于西北工业大学。长期从事人工智能与神经工程交叉研究，聚焦脑电解码、多模态生理信号分析与跨被试迁移学习。主导研发首个脑电大模型 LaBraM，推动其在医疗、人机交互等场景中的应用拓展；曾在 AAAI、 ICLR 、ACM MM",
+      "titleZh": "赵黎明：非侵入脑机接口的应用探索，从技术范式到卒中监护的临床落地 | 钛资本医疗健康组",
+      "summaryZh": "（本文作者为 钛资本研究院，钛媒体经授权发布） 文 | 钛资本研究院 脑机接口技术正在重塑人类与机器交互的边界，其中非侵入式方案因避免开颅手术、具备可穿戴性和成本优势，被视为通往大规模消费医疗市场的最具潜力路径。然而，颅骨对神经信号的物理衰减、跨个体的巨大脑电差异，以及高质量标注数据的匮乏，长期制约着这一技术的临床应用与商业化进程。 近年来， 脑电大模型 的兴起正在快速弥合非侵入式与侵入式方案之间的性能鸿沟，使得非侵入脑机接口在脑卒中这一\"时间就是大脑\"的刚性医疗场景中展现出独特价值。我国拥有约2800万卒中存量患者，每年新增300万至500万，而社区综合救治率不足20%，夜间高发、院内缺乏连续脑功能监测手段等痛点，构成了脑电监护不可替代的应用洼地。 近期钛资本邀请邀请 潜脑科技 CEO、联合创始人赵黎明进行分享，他是工学博士，毕业于上海交通大学计算机学院，本科毕业于西北工业大学。长期从事人工智能与神经工程交叉研究，聚焦脑电解码、多模态生理信号分析与跨被试迁移学习。主导研发首个脑电大模型 LaBraM，推动其在医疗、人机交互等场景中的应用拓展；曾在 AAAI、 ICLR 、ACM MM",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189296.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T01:03:21.000Z",
+      "author": "钛资本研究院",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "02009a6279b6169ad3",
+      "titleOriginal": "谷歌的AI生意越做越大，华尔街为什么不买帐",
+      "summaryOriginal": "（本文作者为 崔鹏CP，钛媒体经授权发布） 文 | 崔鹏CP 谷歌刚刚交出了一份增长亮眼、却让华尔街感到不安的财报。 10月28日母公司Alphabet公布第三季度财报，其中营收同比增长25%，达到1276亿美元。 从业绩数据上看，谷歌的AI生意越做越大，云服务收入实现翻倍，自研芯片开始对外销售，似乎一切都在向好。 但亮眼的增长没有安抚市场情绪，财报后Alphabet的股价连跌两天，降幅超过了10%，投资者很担心搜索广告增长放缓和自由现金流转负的情况。 对AI的巨额投入在持续吞噬谷歌的现金流，华尔街非常关心，它还需要多久才能获得与庞大资本开支相匹配的盈利能力。 AI搜索的变现效率不及传统搜索 谷歌的AI转型已经触及最核心的搜索业务。 三季度搜索及其他收入为633.5亿美元，同比增长12%，低于此前两个季度的19%和17%。 如果单看搜索的业务数据，查询量的同比增速达到过去五年来的最高水平，说明用户正在更多使用AI搜索。 可惜这些新增查询量还没有带来对应的收入增长。谷歌管理层在财报电话会上公开承认，AI搜索的变现效率低于传统搜索。 传统搜索的商业模式相当成熟。用户输入关键词，搜索引擎展示",
+      "titleZh": "谷歌的AI生意越做越大，华尔街为什么不买帐",
+      "summaryZh": "（本文作者为 崔鹏CP，钛媒体经授权发布） 文 | 崔鹏CP 谷歌刚刚交出了一份增长亮眼、却让华尔街感到不安的财报。 10月28日母公司Alphabet公布第三季度财报，其中营收同比增长25%，达到1276亿美元。 从业绩数据上看，谷歌的AI生意越做越大，云服务收入实现翻倍，自研芯片开始对外销售，似乎一切都在向好。 但亮眼的增长没有安抚市场情绪，财报后Alphabet的股价连跌两天，降幅超过了10%，投资者很担心搜索广告增长放缓和自由现金流转负的情况。 对AI的巨额投入在持续吞噬谷歌的现金流，华尔街非常关心，它还需要多久才能获得与庞大资本开支相匹配的盈利能力。 AI搜索的变现效率不及传统搜索 谷歌的AI转型已经触及最核心的搜索业务。 三季度搜索及其他收入为633.5亿美元，同比增长12%，低于此前两个季度的19%和17%。 如果单看搜索的业务数据，查询量的同比增速达到过去五年来的最高水平，说明用户正在更多使用AI搜索。 可惜这些新增查询量还没有带来对应的收入增长。谷歌管理层在财报电话会上公开承认，AI搜索的变现效率低于传统搜索。 传统搜索的商业模式相当成熟。用户输入关键词，搜索引擎展示",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189211.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T01:01:50.000Z",
+      "author": "崔鹏CP",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e1230f6d797a3597e8",
+      "titleOriginal": "千亿融资敲定后，DeepSeek发布了Super-agent架构",
+      "summaryOriginal": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 10月31日晚，DeepSeek Harness团队在官方公众号发了一篇技术文章。同一天，他们的内部Super-agent实例正在做一件事：没有人@它，没有人新建会话，也没有人把某条群聊消息“搬运”到GitHub。 它自己在群聊里识别到一个软件问题的线索，在独立目录里复现了问题、生成了修复方案，然后回到群聊交付了一条可评审的Pull Request。 而今天，我更想聊的是它背后一些隐形判断： AI单任务能力已经跨过了“够用”的线，真正的瓶颈不是模型不够强，是人的注意力不够分。 与此同时，另一条线在资本市场上同步推进：据公开报道和市场消息，DeepSeek完成了约1000亿元人民币的融资，腾讯和宁德时代是出资最多的投资方，投前估值维持在约5000亿元，中信证券正在协助筹备科创板IPO，计划最快2026年末递表、2027年挂牌。 不过DeepSeek及腾讯、宁德时代等相关方 未公开回应或官宣 ，最终金额和交易细节仍存在变动可能。 技术叙事和资本叙事，在这一周交汇。 Super-agent承认“人管不过来” 大多数Agent产",
+      "titleZh": "千亿融资敲定后，DeepSeek发布了Super-agent架构",
+      "summaryZh": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 10月31日晚，DeepSeek Harness团队在官方公众号发了一篇技术文章。同一天，他们的内部Super-agent实例正在做一件事：没有人@它，没有人新建会话，也没有人把某条群聊消息“搬运”到GitHub。 它自己在群聊里识别到一个软件问题的线索，在独立目录里复现了问题、生成了修复方案，然后回到群聊交付了一条可评审的Pull Request。 而今天，我更想聊的是它背后一些隐形判断： AI单任务能力已经跨过了“够用”的线，真正的瓶颈不是模型不够强，是人的注意力不够分。 与此同时，另一条线在资本市场上同步推进：据公开报道和市场消息，DeepSeek完成了约1000亿元人民币的融资，腾讯和宁德时代是出资最多的投资方，投前估值维持在约5000亿元，中信证券正在协助筹备科创板IPO，计划最快2026年末递表、2027年挂牌。 不过DeepSeek及腾讯、宁德时代等相关方 未公开回应或官宣 ，最终金额和交易细节仍存在变动可能。 技术叙事和资本叙事，在这一周交汇。 Super-agent承认“人管不过来” 大多数Agent产",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189170.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T00:55:42.000Z",
+      "author": "影子备忘录",
+      "tags": [
+        "launch",
+        "投稿",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6834cbe6625dce6c67",
+      "titleOriginal": "Edge AI Daily 早报（11月2日）",
+      "summaryOriginal": "硅谷前沿： 一、币安恢复提现：63.6 亿美元创纪录劫案后的信任裂痕 1.事件与规模：2026年10月29日UTC 20时05分，币安热钱包签名系统被利用，约20分钟内跨10条区块链转出约63.6亿美元（币安口径约63亿），其中以太坊约35.3亿、比特币约14.5亿、Tron约6.28亿，均为流动性最好的主流资产，为加密史上最大规模盗窃；FBI、TRM Labs与Chainalysis均将攻击归因于朝鲜黑客组织TraderTraitor。 2.市场与企业反应：消息传出后24小时内，加密总市值下跌3.6%至约2.68万亿美元，比特币跌至约77,300美元（一度触及76,400美元，六周低点），BNB跌6.1%，逾16亿美元杠杆头寸被清算；因币安数小时内暂停提现并承诺承担全部损失，跌幅较2022年FTX崩塌时克制。次日Coinbase股价跌11%至约144美元，其三季度营收12.2亿美元、同比降35%，净利润7.187亿美元中约7.15亿来自加密持仓按市值计价收益。 3.追回、兜底与遗留风险：Tether与Circle冻结约30亿美元，但约24亿美元（约42万枚ETH、18,270枚BTC",
+      "titleZh": "Edge AI Daily 早报（11月2日）",
+      "summaryZh": "硅谷前沿： 一、币安恢复提现：63.6 亿美元创纪录劫案后的信任裂痕 1.事件与规模：2026年10月29日UTC 20时05分，币安热钱包签名系统被利用，约20分钟内跨10条区块链转出约63.6亿美元（币安口径约63亿），其中以太坊约35.3亿、比特币约14.5亿、Tron约6.28亿，均为流动性最好的主流资产，为加密史上最大规模盗窃；FBI、TRM Labs与Chainalysis均将攻击归因于朝鲜黑客组织TraderTraitor。 2.市场与企业反应：消息传出后24小时内，加密总市值下跌3.6%至约2.68万亿美元，比特币跌至约77,300美元（一度触及76,400美元，六周低点），BNB跌6.1%，逾16亿美元杠杆头寸被清算；因币安数小时内暂停提现并承诺承担全部损失，跌幅较2022年FTX崩塌时克制。次日Coinbase股价跌11%至约144美元，其三季度营收12.2亿美元、同比降35%，净利润7.187亿美元中约7.15亿来自加密持仓按市值计价收益。 3.追回、兜底与遗留风险：Tether与Circle冻结约30亿美元，但约24亿美元（约42万枚ETH、18,270枚BTC",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189326.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T00:16:00.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "news",
+        "AGI",
+        "大模型"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "67a8181c3d5ecc429a",
+      "titleOriginal": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+      "summaryOriginal": "曝苹果明年上半年将更新三款 iPad，Air 拟换 OLED 屏 我国首次载人登月乘组计划由 3 人组成，2 人着陆月球 ChatGPT 与 Codex 将从 12 月起共享额度，Instant 聊天不扣额度 多家车企公布 10 月成绩单 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 TCL 华星 t8 产线设备进场，计划明年底量产印刷 OLED AI 控制机械臂完成活鼠脑内注射，兽医负责开颅 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型 Claude Code 限制 Opus 5.5 复刻现有游戏，原创游戏仍可制作 Claude Ultra 取消已验证账户的 5 小时限额，周额度仍保留 黑石下调评级预期，预计 Anthropic 上市后或仍处「垃圾级」 奇瑞回应智界独立：希望团队更像新势力，明年将导入新产品 Grok API 将默认加入隐形文本水印，团队可按模型关闭 小鹏 MONA 明年将在部分城市开独立门店 TBC 把神经元研究用进视频模型，称生成速度至少提高 5 倍 长鑫称已与头部客户协商长协，预计四季度营收继续增长 DeepSeek Harnes",
+      "titleZh": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+      "summaryZh": "曝苹果明年上半年将更新三款 iPad，Air 拟换 OLED 屏 我国首次载人登月乘组计划由 3 人组成，2 人着陆月球 ChatGPT 与 Codex 将从 12 月起共享额度，Instant 聊天不扣额度 多家车企公布 10 月成绩单 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 TCL 华星 t8 产线设备进场，计划明年底量产印刷 OLED AI 控制机械臂完成活鼠脑内注射，兽医负责开颅 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型 Claude Code 限制 Opus 5.5 复刻现有游戏，原创游戏仍可制作 Claude Ultra 取消已验证账户的 5 小时限额，周额度仍保留 黑石下调评级预期，预计 Anthropic 上市后或仍处「垃圾级」 奇瑞回应智界独立：希望团队更像新势力，明年将导入新产品 Grok API 将默认加入隐形文本水印，团队可按模型关闭 小鹏 MONA 明年将在部分城市开独立门店 TBC 把神经元研究用进视频模型，称生成速度至少提高 5 倍 长鑫称已与头部客户协商长协，预计四季度营收继续增长 DeepSeek Harnes",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687043",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T00:03:03.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "research",
+        "早报",
+        "ChatGPT",
+        "Codex",
+        "iPad Pro"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ffb30fef9594cc9141",
+      "titleOriginal": "If in doubt, delete the uv.lock file",
+      "summaryOriginal": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files lying around, which are listed in .gitignore and so do not get committed to my repositories. But... somet",
+      "titleZh": "如有疑问，请删除uv.lock文件",
+      "summaryZh": "自从切换到Python 3.15以来，我一直偶尔会遇到令人困惑的Python依赖性错误，我必须记住的规则是：如果有疑问，请删除uv.lock文件我的大多数项目都是不包含uv.lock文件的库，因为库依赖性将版本锁定为使用它的其他任何东西是不礼貌的。运行uv run pytest etc往往会留下uv.lock文件，这些文件列在.gitignore中，因此不会提交到我的存储库。但是...",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-01T23:24:22.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8012a7cdc1cdf4673e",
+      "titleOriginal": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "summaryOriginal": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "titleZh": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "summaryZh": "Apple 智能将随 iOS 27.3 登陆中国 苹果对闪存的议价权受到压制 Claude Code 官方扩展被植入后门 美国 FCC 禁止中国实验室认证输美电子产品 百度网盘通过磁力计数据规避「摇一摇」广告权限 币安 63 亿美元资产被盗 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/118191",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-01T23:22:45.000Z",
+      "author": "少数派编辑部",
+      "tags": [
+        "news",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "33c086ca1438f5286c",
+      "titleOriginal": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "summaryOriginal": "Data centers are deeply unpopular. But what if we called them something else?",
+      "titleZh": "OpenAI可能会将其数据中心重新命名为“AI计算园区",
+      "summaryZh": "数据中心非常不受欢迎。但是，如果我们称之为其他东西呢？",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "Chris Lehane",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0ae10264665c481628",
+      "titleOriginal": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "summaryOriginal": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "titleZh": "人工智能可以让科技CEO的生活更轻松。其他人呢？",
+      "summaryZh": "在Equity上，我们讨论了为什么科技公司首席执行官的声明看起来如此充耳不闻。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Marissa Mayer",
+        "Mark Zuckerberg",
+        "sam altman"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "b5ebffc5d2ef88adf3",
       "titleOriginal": "当 AI 能读懂二进制，闭源软件还剩多少护城河？",
@@ -11156,315 +11471,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "f6afcbfa7043306fa8",
-      "titleOriginal": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "summaryOriginal": "This was recorded on the sidelines of the new Compute Trading track at AIE NYC . Catch us next at AIE CODE , our last flagship for the top agentic engineers in the world. In the early days of cloud, former guest Martin Casado made something so disruptive that Cisco was threatened enough to pay $600m for it, and VMware outbid for $1.3B: View post on X ↗ That concept was software-defined networking , which virtualized the routing network by separating the control plane from the data plane. That re",
-      "titleZh": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/sfcompute2/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-20T19:31:57.000Z",
-      "author": "Latent.Space",
-      "tags": [
-        "analysis",
-        "Coding"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "dd8a8739a45d4ff83f",
-      "titleOriginal": "30 Months on the Exponential (in Charts)",
-      "summaryOriginal": "My second book on AI, Co-Existence, is out today (and you can get it here ), 30 months after the release of Co-Intelligence in early 2024. Looking back across the gap between these books is a good way to get a sense of AI progress. And, thanks to AI, I can describe this progress with some quite lovely charts. Making the charts is itself a good indicator of how far things have come. In the era of chatbots, the era of Co-Intelligence , I would have had to work back-and-forth with an AI in a chat w",
-      "titleZh": "指数30个月（以图表表示）",
-      "summaryZh": "我关于人工智能的第二本书《共存》于2024年初发布30个月后于今天出版（您可以在此处获取）。回顾这些书籍之间的差距是了解人工智能进步的好方法。而且，多亏了人工智能，我可以用一些非常可爱的图表来描述这一进展。制作图表本身就是一个很好的指标，可以说明事情已经走了多远。在聊天机器人时代，在联合智能时代，我不得不在聊天中与人工智能来回工作，",
-      "translated": true,
-      "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
-      "sourceId": "oneusefulthing",
-      "sourceName": "One Useful Thing",
-      "sourceSite": "https://www.oneusefulthing.org/",
-      "sourceColor": "#c2571a",
-      "lang": "en",
-      "publishedAt": "2026-10-20T15:57:59.000Z",
-      "author": "Ethan Mollick",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "913203c4de74009d69",
-      "titleOriginal": "The new economics of enterprise AI",
-      "summaryOriginal": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?” Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models, age",
-      "titleZh": "The new economics of enterprise AI",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-10-20T15:20:25.000Z",
-      "author": "David Sydow",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7d296a29338c4ed322",
-      "titleOriginal": "AI adoption by industry shows what other sectors can learn",
-      "summaryOriginal": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably filter into healthcare, education, retail, and manufacturing. The variation in adoption rates today isn’t a sign that non-tec",
-      "titleZh": "AI adoption by industry shows what other sectors can learn",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "author": "TripleTen",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b3fcb2e42d32112338",
-      "titleOriginal": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summaryOriginal": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "titleZh": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-20T10:00:00.000Z",
-      "author": "",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "506646dbe51b1aa842",
-      "titleOriginal": "A visit to Samsung’s massive new semiconductor hub",
-      "summaryOriginal": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction of a fifth was halted during a drop in demand for memory chips in 2024 but restarted when th",
-      "titleZh": "A visit to Samsung’s massive new semiconductor hub",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-10-20T09:00:00.000Z",
-      "author": "Michelle Kim",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "App"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a84b6a7bee5c68a62f",
-      "titleOriginal": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summaryOriginal": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "titleZh": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/terminal-x",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-20T07:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Startup",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8ef125b9a8d475f10c",
-      "titleOriginal": "[AINews] not much happened today",
-      "summaryOriginal": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet. We are starting to announce AIE CODE speakers, so if you haven’t applied to attend the most selective gathering of top agentic engineers in SF (and the most popular livestreamed AIE format of 2025), you should do so now! View the original post on X AI News for 10/16/2026-10/19/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’",
-      "titleZh": "[AINews] not much happened today",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://latent.space/p/ainews-not-much-happened-today-f09/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-20T05:21:52.000Z",
-      "author": "Latent Space",
-      "tags": [
-        "analysis",
-        "Coding"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "dbaa902542534b3aef",
-      "titleOriginal": "OpenAI acquires Orchestra Bio",
-      "summaryOriginal": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
-      "titleZh": "OpenAI acquires Orchestra Bio",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-20T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Company"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "af02b0baed077a8676",
-      "titleOriginal": "My obituary for programming",
-      "summaryOriginal": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would sol",
-      "titleZh": "我的节目讣告",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-19T23:58:25.000Z",
-      "author": "",
-      "tags": [
-        "news",
-        "Agent",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7a364f356aab494660",
-      "titleOriginal": "Advancing coding in low‑resource programming languages",
-      "summaryOriginal": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
-      "titleZh": "Advancing coding in low‑resource programming languages",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-19T12:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Publication",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b8a89dddc6c6700102",
-      "titleOriginal": "llm-tools-datasette 0.1.1",
-      "summaryOriginal": "Release: llm-tools-datasette 0.1.1 When I switched LLM over to httpx2 in LLM 0.33 I forget that this would break any plugins which used httpx without directly depending on it. llm-tools-datasette was one of those plugins, now fixed. Tags: datasette , llm",
-      "titleZh": "llm-tools-datasette 0.1.1",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-18T23:43:09.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "12899128ec45e6d3da",
-      "titleOriginal": "llm-echo 0.5",
-      "summaryOriginal": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the promp",
-      "titleZh": "llm-echo 0.5",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-18T23:16:16.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "69ead926e6899b5ee7",
-      "titleOriginal": "Inline rendering with document​.currentScript",
-      "summaryOriginal": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().getF",
-      "titleZh": "文档.currentScript的内联渲染",
-      "summaryZh": "使用document .currentScript Lean Rada的内联渲染描述了一个利用document.currentScript属性的巧妙技巧。您可以使用它来放入一个在<script>页面加载时自行替换的微小内联元素：年份是document.currentScript.replaceWith <script> (new Date () .getFullYear ())</script>如果您定义的快捷方式函数如下： $ = (... n) = &gt; document.currentScript.replaceWith (... n)您会得到一个微小的模板语言：年份是<script>$ (new Date () .getF",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-17T21:11:12.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11474,7 +11480,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 41
+      "count": 37
     },
     {
       "id": "deepmind",
@@ -11490,7 +11496,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 73
+      "count": 75
     },
     {
       "id": "theverge",
@@ -11506,7 +11512,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 13
+      "count": 10
     },
     {
       "id": "wired",
@@ -11538,7 +11544,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 30
+      "count": 27
     },
     {
       "id": "oneusefulthing",
@@ -11546,7 +11552,7 @@
       "site": "https://www.oneusefulthing.org/",
       "lang": "en",
       "color": "#c2571a",
-      "count": 1
+      "count": 0
     },
     {
       "id": "latentspace",
@@ -11554,7 +11560,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 22
+      "count": 20
     },
     {
       "id": "ifanr",
@@ -11562,7 +11568,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 29
+      "count": 30
     },
     {
       "id": "sspai",
@@ -11570,7 +11576,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 2
+      "count": 3
     },
     {
       "id": "tmtpost",
@@ -11578,7 +11584,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 103
+      "count": 109
     },
     {
       "id": "infoq",
@@ -11586,13 +11592,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 41
+      "count": 44
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 47,
+    "guides": 46,
     "translated": 242,
-    "sources": 15
+    "sources": 14
   }
 }
