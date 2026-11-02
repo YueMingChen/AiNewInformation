@@ -1,6 +1,94 @@
 {
-  "generatedAt": "2026-11-02T01:35:47.461Z",
+  "generatedAt": "2026-11-02T09:39:01.005Z",
   "articles": [
+    {
+      "id": "2027140d961b643835",
+      "titleOriginal": "AI+FDE：合格的FDE，要亲手跟老师傅做业务，再把经验解法做成Skill ｜深空之序联合创始人兼COO 芦宇峰分享",
+      "summaryOriginal": "",
+      "titleZh": "AI+FDE：合格的FDE，要亲手跟老师傅做业务，再把经验解法做成Skill ｜深空之序联合创始人兼COO 芦宇峰分享",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/FckEhkVfCLoXg0jvaKBa",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T17:01:29.000Z",
+      "author": "木子",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4bf91e6b6ee73d041e",
+      "titleOriginal": "别再迷信 Agent 的自主性了",
+      "summaryOriginal": "",
+      "titleZh": "别再迷信 Agent 的自主性了",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/UMvAAwoFByxvWLLVVJYY",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T16:50:26.000Z",
+      "author": "QCon全球软件开发大会",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f5851545844a0aded1",
+      "titleOriginal": "AI眼镜，找寻下一个隘口",
+      "summaryOriginal": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 今年以来，AI眼镜似乎撞上了第一堵墙。 IDC数据显示，2026年第二季度，国内智能眼镜出货约61.1万台，同比下降8.0%，是这条赛道狂飙以来的首次负增长。而同一时间，全球市场还在以35.3%的速度飞驰。 海外热火朝天，国内先打了个寒颤。 在此之前，没有哪个品类，比AI眼镜更相信自己会是“下一代手机”；也没有哪个品类，被这份相信，绊得如此之狠。 厂商为其All in，资本为其扎堆，发布会一场接一场，仿佛AI眼镜取代手机只是时间问题。可热闹全在供给端，需求端却显得有些不温不火，天天把眼镜戴出门的，似乎翻来覆去就是那批喜欢技术、乐于尝鲜的人。 品牌一年比一年多，新品一副接一副，但用户圈层并没有迎来爆发——AI眼镜太多，极客似乎快不够用了。 于是，曾经把“人人都戴”挂在嘴边的玩家，开始了一场集体后撤：有些玩家秉持着减法，试图把产品做回普通眼镜；有些玩家则一头扎进了车载、翻译、会议、无障碍等窄缝。 减法和窄缝能让行业活下来，却喂不饱他们对入口的胃口。在此背景下，这批玩家一边退守，一边又把筹码，悄悄压在了Personal Agent",
+      "titleZh": "AI眼镜，找寻下一个隘口",
+      "summaryZh": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 今年以来，AI眼镜似乎撞上了第一堵墙。 IDC数据显示，2026年第二季度，国内智能眼镜出货约61.1万台，同比下降8.0%，是这条赛道狂飙以来的首次负增长。而同一时间，全球市场还在以35.3%的速度飞驰。 海外热火朝天，国内先打了个寒颤。 在此之前，没有哪个品类，比AI眼镜更相信自己会是“下一代手机”；也没有哪个品类，被这份相信，绊得如此之狠。 厂商为其All in，资本为其扎堆，发布会一场接一场，仿佛AI眼镜取代手机只是时间问题。可热闹全在供给端，需求端却显得有些不温不火，天天把眼镜戴出门的，似乎翻来覆去就是那批喜欢技术、乐于尝鲜的人。 品牌一年比一年多，新品一副接一副，但用户圈层并没有迎来爆发——AI眼镜太多，极客似乎快不够用了。 于是，曾经把“人人都戴”挂在嘴边的玩家，开始了一场集体后撤：有些玩家秉持着减法，试图把产品做回普通眼镜；有些玩家则一头扎进了车载、翻译、会议、无障碍等窄缝。 减法和窄缝能让行业活下来，却喂不饱他们对入口的胃口。在此背景下，这批玩家一边退守，一边又把筹码，悄悄压在了Personal Agent",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190286.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T09:31:40.000Z",
+      "author": "光子星球",
+      "tags": [
+        "launch",
+        "投稿",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d84986ef4ed073e6ff",
+      "titleOriginal": "苹果 AI，谁笑到了最后？",
+      "summaryOriginal": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 等了两年多，国行Apple智能终于叩开了中国的门。 10月31日，苹果与阿里双双官宣，Apple Intelligence将于11月4日开放测试，12月随iOS 27.3正式落地，千问成为它在中国大陆的第一个大模型伙伴。 相较于“纯血”版本，此次更新能力打了些折扣——首批仅覆盖iPhone，且限于iPhone 15 Pro及更新机型，iPad、Mac还要排队等审批；而真正承载下一代交互的Siri AI，亦没有随队抵达。 值得一提的是，与这份漫长等待相比，舆论场的反应似乎平静得多。对不少用户而言，迟到的功能谈不上多新鲜，更像一次遗憾的补齐；相比之下，真正在意这场落地的，或许是藏在系统背后、各自握着不同心事的百度与阿里。 迟到的苹果AI，功能大于智能 判断国行Apple智能的成色，先得看清它这次究竟“端”出了什么。 就目前公布的信息来看，苹果自研的Apple Foundation Models在端侧，承接照片消除、实时翻译、智绘表情、写作校对与摘要等功能。 在海外版，ChatGPT作为可选的外部云端模型服务存在。当端侧Apple",
+      "titleZh": "苹果 AI，谁笑到了最后？",
+      "summaryZh": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 等了两年多，国行Apple智能终于叩开了中国的门。 10月31日，苹果与阿里双双官宣，Apple Intelligence将于11月4日开放测试，12月随iOS 27.3正式落地，千问成为它在中国大陆的第一个大模型伙伴。 相较于“纯血”版本，此次更新能力打了些折扣——首批仅覆盖iPhone，且限于iPhone 15 Pro及更新机型，iPad、Mac还要排队等审批；而真正承载下一代交互的Siri AI，亦没有随队抵达。 值得一提的是，与这份漫长等待相比，舆论场的反应似乎平静得多。对不少用户而言，迟到的功能谈不上多新鲜，更像一次遗憾的补齐；相比之下，真正在意这场落地的，或许是藏在系统背后、各自握着不同心事的百度与阿里。 迟到的苹果AI，功能大于智能 判断国行Apple智能的成色，先得看清它这次究竟“端”出了什么。 就目前公布的信息来看，苹果自研的Apple Foundation Models在端侧，承接照片消除、实时翻译、智绘表情、写作校对与摘要等功能。 在海外版，ChatGPT作为可选的外部云端模型服务存在。当端侧Apple",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190325.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T09:31:31.000Z",
+      "author": "光子星球",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
     {
       "id": "b77c039e0a1ae906dc",
       "titleOriginal": "CI 出错后，谁来把关？Buildkite 的智能体新思路",
@@ -45,9 +133,9 @@
     },
     {
       "id": "ea1b7f84707463620c",
-      "titleOriginal": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "titleOriginal": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
       "summaryOriginal": "",
-      "titleZh": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek；搜索开始 RSI",
+      "titleZh": "百度搜索 AI API 千次仅需 4.9 元，低于 DeepSeek",
       "summaryZh": "",
       "translated": true,
       "url": "https://www.infoq.cn/article/HJgTwfsPAugNBJ2jUefj",
@@ -62,6 +150,243 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d6f9ad04e35983a620",
+      "titleOriginal": "山姆的“对手”，怎么越来越多？",
+      "summaryOriginal": "（本文作者为 惊蛰研究所，钛媒体经授权发布） 文 | 惊蛰研究所，作者 | 白露 10月中旬，“山姆品质暴跌”相关话题登上微博热搜。尽管山姆方面迅速回应称，网传部分视频存在AI生成、拼接素材等问题，但这次负面舆情仍然让这家曾经被不少消费者视为品质保证的会员制超市，再次站上风口浪尖。 然而，比起争论山姆究竟有没有“品质暴跌”，另一个问题更值得追问：当消费者对仓储会员店的商品和服务不满时，除了抱怨，他们还有哪些选择？ 山姆的对手，不是另一个“山姆” 在仓储会员超市这个垂直赛道，山姆无疑是当前最受欢迎的选手。公开报道显示，截至今年6月，山姆中国拥有1070万付费会员，按照260元的普通会员年费计算，每年仅会员费收入就达到27.8亿元。同时，山姆还计划在今年内新增13家门店，届时门店总数将达到76家。 单从数据和山姆的发展目标来看，山姆对其会员规模的扩张仍然保持自信，而这种自信则来自于仓储会员这一经营模式上的独特优势。例如通过付费会员筛选目标客群，用精选商品、大包装和具有竞争力的价格形成差异化，再通过线下门店、线上电商渠道满足消费者的不同需求。但对大部分消费者来说，最初吸引他们走进郊区山姆门店",
+      "titleZh": "山姆的“对手”，怎么越来越多？",
+      "summaryZh": "（本文作者为 惊蛰研究所，钛媒体经授权发布） 文 | 惊蛰研究所，作者 | 白露 10月中旬，“山姆品质暴跌”相关话题登上微博热搜。尽管山姆方面迅速回应称，网传部分视频存在AI生成、拼接素材等问题，但这次负面舆情仍然让这家曾经被不少消费者视为品质保证的会员制超市，再次站上风口浪尖。 然而，比起争论山姆究竟有没有“品质暴跌”，另一个问题更值得追问：当消费者对仓储会员店的商品和服务不满时，除了抱怨，他们还有哪些选择？ 山姆的对手，不是另一个“山姆” 在仓储会员超市这个垂直赛道，山姆无疑是当前最受欢迎的选手。公开报道显示，截至今年6月，山姆中国拥有1070万付费会员，按照260元的普通会员年费计算，每年仅会员费收入就达到27.8亿元。同时，山姆还计划在今年内新增13家门店，届时门店总数将达到76家。 单从数据和山姆的发展目标来看，山姆对其会员规模的扩张仍然保持自信，而这种自信则来自于仓储会员这一经营模式上的独特优势。例如通过付费会员筛选目标客群，用精选商品、大包装和具有竞争力的价格形成差异化，再通过线下门店、线上电商渠道满足消费者的不同需求。但对大部分消费者来说，最初吸引他们走进郊区山姆门店",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190054.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T09:10:36.000Z",
+      "author": "惊蛰研究所",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "10119ed52c8a8d9746",
+      "titleOriginal": "可灵 4.0 实测：「零」真人出镜手搓探展视频，AI 离“一站成片”还有多远？",
+      "summaryOriginal": "（本文作者为 奇点研究社，钛媒体经授权发布） 文 | 奇点研究社，作者｜徐婷，编辑｜奇博士 10月30日深夜，快手在港交所发布公告：旗下视频生成业务可灵完成增资交割，198.02 亿元增资款全部到账，约合 29.05 亿美元，可灵投后估值约 179 亿美元，折合人民币超过 1200 亿元，高于快手当日约 968 亿元的港股收盘市值。 “一个可灵，比整个快手还贵”，尤其考虑到，2026 年上半年，可灵收入占快手总收入的比例仅为 2.17%。资本市场买的显然不是可灵当下的收入，而是它在 AI 视频赛道里的未来。 资本故事讲得再大，最终仍要回到创作现场接受检验。最近，我们用可灵4.0制作一条探展视频，真人出镜环节全部交给 AI，采用展会实拍素材与 AI 人物结合的方式，拆分生成 7 组画面，再通过音画同出、视频修改和时间线等功能完成后续制作。测试前，我们准备了约 3000 字提示词，尽可能明确主体关系、镜头运动、构图和声音要求，减少指令歧义。 实测结果喜忧参半，个别镜头的人物融合、运镜和构图已经相当自然，几乎看不出明显违和；但另一些片段里，AI 会把台上的机器人换成台下的主播，把一镜到底变成",
+      "titleZh": "可灵 4.0 实测：「零」真人出镜手搓探展视频，AI 离“一站成片”还有多远？",
+      "summaryZh": "（本文作者为 奇点研究社，钛媒体经授权发布） 文 | 奇点研究社，作者｜徐婷，编辑｜奇博士 10月30日深夜，快手在港交所发布公告：旗下视频生成业务可灵完成增资交割，198.02 亿元增资款全部到账，约合 29.05 亿美元，可灵投后估值约 179 亿美元，折合人民币超过 1200 亿元，高于快手当日约 968 亿元的港股收盘市值。 “一个可灵，比整个快手还贵”，尤其考虑到，2026 年上半年，可灵收入占快手总收入的比例仅为 2.17%。资本市场买的显然不是可灵当下的收入，而是它在 AI 视频赛道里的未来。 资本故事讲得再大，最终仍要回到创作现场接受检验。最近，我们用可灵4.0制作一条探展视频，真人出镜环节全部交给 AI，采用展会实拍素材与 AI 人物结合的方式，拆分生成 7 组画面，再通过音画同出、视频修改和时间线等功能完成后续制作。测试前，我们准备了约 3000 字提示词，尽可能明确主体关系、镜头运动、构图和声音要求，减少指令歧义。 实测结果喜忧参半，个别镜头的人物融合、运镜和构图已经相当自然，几乎看不出明显违和；但另一些片段里，AI 会把台上的机器人换成台下的主播，把一镜到底变成",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8189824.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T08:58:09.000Z",
+      "author": "奇点研究社",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0ddebe448f3d569810",
+      "titleOriginal": "6370亿算力账单背后：AI上演铁路剧本，谁会死在通车前",
+      "summaryOriginal": "（本文作者为 韩工观察，钛媒体经授权发布） 文 | 韩工观察 2026年10月25日，Anthropic把一份335页的招股书摊在华尔街面前。数字漂亮得晃眼：2026年上半年营收162.86亿美元，同比增长13倍；第二季度经营利润9.74亿美元，是史上第一次单季转正。 但真正让投行失眠的是附注里那串数字：未来十年，它向谷歌、亚马逊、博通、SpaceX等七家供应商承诺了约6370亿美元算力支出，其中绝大部分\" 照付不议 \"——用不用，钱都得付。 一家刚证明\"大模型能赚钱\"的公司，同时签下了一张相当于其年收入24倍的长期账单。 这不是悖论。这是AI算力行业第一次把底牌摊在桌面上：技术已经跑通了当期的小账，但全行业没人跑通过远期的大账。市场正在争论\"AI有没有泡沫\"——这个问题问错了。 AI算力面对的不是泡沫问题，是基建出清问题。技术一定会成，铁路一定会通，但先冲进去的那批钱，不一定活得到通车那天。钱、封装、电三道关口，与其说是难关，不如说是历史给资本排的死亡顺序。 一、6370亿美元的账单：小账转正，大账悬空 先看这份账单的结构。据招股书披露，Anthropic的算力承诺按约束强度可分三档",
+      "titleZh": "6370亿算力账单背后：AI上演铁路剧本，谁会死在通车前",
+      "summaryZh": "（本文作者为 韩工观察，钛媒体经授权发布） 文 | 韩工观察 2026年10月25日，Anthropic把一份335页的招股书摊在华尔街面前。数字漂亮得晃眼：2026年上半年营收162.86亿美元，同比增长13倍；第二季度经营利润9.74亿美元，是史上第一次单季转正。 但真正让投行失眠的是附注里那串数字：未来十年，它向谷歌、亚马逊、博通、SpaceX等七家供应商承诺了约6370亿美元算力支出，其中绝大部分\" 照付不议 \"——用不用，钱都得付。 一家刚证明\"大模型能赚钱\"的公司，同时签下了一张相当于其年收入24倍的长期账单。 这不是悖论。这是AI算力行业第一次把底牌摊在桌面上：技术已经跑通了当期的小账，但全行业没人跑通过远期的大账。市场正在争论\"AI有没有泡沫\"——这个问题问错了。 AI算力面对的不是泡沫问题，是基建出清问题。技术一定会成，铁路一定会通，但先冲进去的那批钱，不一定活得到通车那天。钱、封装、电三道关口，与其说是难关，不如说是历史给资本排的死亡顺序。 一、6370亿美元的账单：小账转正，大账悬空 先看这份账单的结构。据招股书披露，Anthropic的算力承诺按约束强度可分三档",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190076.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T08:44:53.000Z",
+      "author": "韩工观察",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ee796e97bda8e88568",
+      "titleOriginal": "在诊室里用豆包的医生们",
+      "summaryOriginal": "（本文作者为 显微故事，钛媒体经授权发布） 文 | 显微故事 10月25日，江苏徐州某医院的心血管科诊室，一个医生在听患者病情时打开了豆包。最后患者拒绝了医生开的处方。 事情发酵之后，医生所在的医院做了核实，给出了一条被患者家属镜头漏掉的信息：医生查的是一个新药，发现不适合这位患者，当天并没有开出任何新处方。 医院方强调， “AI只是用来获取信息的辅助，处方权始终在医生手里。” 随着AI的告诉发展，如今不仅许多患者在就医前习惯查询一下豆包，许多医生也确实在日常工作中会使用AI进行信息的补充搜索。 据行业访谈与媒体引用， 豆包日均健康类咨询量被估在2000万人次量级（字节未正式披露精确数）， 相当于把过去“百度健康搜索”的流量迁到了对话框里 根据丁香园发布了一份针对647名医务工作者的调研，其中有98.5%的医生在过去三个月工作中用过AI，70.8%的医生每周至少使用数次，81.4%的医生用过豆包。 在诊室停滞的那几秒钟里，原本只属于医生和患者之间的沟通，被一个看不见摸不着的第三方插入了，传统的医患关系被悄然改变。 本期显微故事访问到了在诊室里使用AI的医生： 问了问他们到底如何看待AI",
+      "titleZh": "在诊室里用豆包的医生们",
+      "summaryZh": "（本文作者为 显微故事，钛媒体经授权发布） 文 | 显微故事 10月25日，江苏徐州某医院的心血管科诊室，一个医生在听患者病情时打开了豆包。最后患者拒绝了医生开的处方。 事情发酵之后，医生所在的医院做了核实，给出了一条被患者家属镜头漏掉的信息：医生查的是一个新药，发现不适合这位患者，当天并没有开出任何新处方。 医院方强调， “AI只是用来获取信息的辅助，处方权始终在医生手里。” 随着AI的告诉发展，如今不仅许多患者在就医前习惯查询一下豆包，许多医生也确实在日常工作中会使用AI进行信息的补充搜索。 据行业访谈与媒体引用， 豆包日均健康类咨询量被估在2000万人次量级（字节未正式披露精确数）， 相当于把过去“百度健康搜索”的流量迁到了对话框里 根据丁香园发布了一份针对647名医务工作者的调研，其中有98.5%的医生在过去三个月工作中用过AI，70.8%的医生每周至少使用数次，81.4%的医生用过豆包。 在诊室停滞的那几秒钟里，原本只属于医生和患者之间的沟通，被一个看不见摸不着的第三方插入了，传统的医患关系被悄然改变。 本期显微故事访问到了在诊室里使用AI的医生： 问了问他们到底如何看待AI",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190091.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T08:40:22.000Z",
+      "author": "显微故事",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "98cb24a5e407ffe30b",
+      "titleOriginal": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
+      "summaryOriginal": "周五晚上 11 点，AI 大神 Karpathy 打开 YouTube，想找个视频看看。 结果首页全是夸张的封面、看过无数遍的老话题。受不了这些算法推荐的他，第二天干脆打开 Claude，给自己重新做了一个 YouTube。 整个过程只花了两个小时，用的还是 Claude Opus 5.5 的 Medium 推理强度。 图｜HackerTube 网址：https://hackertube.org/ 整个视频网站和最近大火的 REA 逆向工程一样，可以说是直接复刻了完整的 YouTube 网页布局。左边的导航栏显示点赞过的视频、历史以及稍后再看等，右边的视频推荐流，也是同样的封面大小、发布时间以及播放量等。 他用的提示词只有一句话，「 嗨 Claude 早上好你好吗我很好谢谢帮我建一个 YouTube 风格的网站但只限于多年来在 HN 上被反复推荐的视频拜托了。别犯任何错误。 」 两个小时的工作流跑完，这个 HackerTube 就上线了，里面所有的视频都是来自 YouTube，只不过 Karpathy 用 Claude 写了一套过滤机制，过滤的规则就是从 Hacker News 上找到",
+      "titleZh": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
+      "summaryZh": "周五晚上 11 点，AI 大神 Karpathy 打开 YouTube，想找个视频看看。 结果首页全是夸张的封面、看过无数遍的老话题。受不了这些算法推荐的他，第二天干脆打开 Claude，给自己重新做了一个 YouTube。 整个过程只花了两个小时，用的还是 Claude Opus 5.5 的 Medium 推理强度。 图｜HackerTube 网址：https://hackertube.org/ 整个视频网站和最近大火的 REA 逆向工程一样，可以说是直接复刻了完整的 YouTube 网页布局。左边的导航栏显示点赞过的视频、历史以及稍后再看等，右边的视频推荐流，也是同样的封面大小、发布时间以及播放量等。 他用的提示词只有一句话，「 嗨 Claude 早上好你好吗我很好谢谢帮我建一个 YouTube 风格的网站但只限于多年来在 HN 上被反复推荐的视频拜托了。别犯任何错误。 」 两个小时的工作流跑完，这个 HackerTube 就上线了，里面所有的视频都是来自 YouTube，只不过 Karpathy 用 Claude 写了一套过滤机制，过滤的规则就是从 Hacker News 上找到",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687094",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T08:03:24.000Z",
+      "author": "张子豪",
+      "tags": [
+        "guide",
+        "公司",
+        "Andrej Karpathy",
+        "Claude Code",
+        "Hacker News"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6eb1302ea527f246c4",
+      "titleOriginal": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+      "summaryOriginal": "NVIDIA has released Auto Ontology , an open library under the Apache 2.0 license . NVIDIA Auto Ontology is a semantic layer framework that builds a context layer from enterprise metadata. Agents use that layer to write SQL against certified business definitions. The repository states the problem plainly: a fast revenue answer is worthless if the number is wrong. TL;DR Library: Default LLM is nvidia/nemotron-3-nano-30b-a3b , with Nemotron embedding and reranking models. Runs on: Docker Compose fo",
+      "titleZh": "NVIDIA发布自动本体：基于AI Agent SQL的开放语义层",
+      "summaryZh": "NVIDIA 发布了 Auto Ontology，这是一个基于 Apache 2.0 许可证的开源库。NVIDIA Auto Ontology 是一个语义层框架，它基于企业元数据构建上下文层。代理程序使用该层根据经过认证的业务定义编写 SQL。该代码库直截了当地指出了问题所在：如果数字错误，那么快速的收入估算毫无意义。简而言之，该库的默认 LLM 是 nvidia/nemotron-3-nano-30b-a3b，包含 Nemotron 嵌入和重排序模型。运行环境：Docker Compose。",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-02T07:47:12.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d202afe8d4558e6442",
+      "titleOriginal": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
+      "summaryOriginal": "歌迷朋友们，看到这篇文章时别忘了到 Cityline 手动查询——陈奕迅 26 场特别录音演出的首轮抽签结果下午刚刚公布，说不定你就是那个幸运儿。 图｜我却得到你安慰的淘汰 介绍一下：这次系列演出并非传统演唱会，而是和观众一起现场录制唱片的 Live Album 沉浸式试验。它的场地定在仅 1181 座的香港演艺学院歌剧院，扣除 10% 内部保留票，26 场连开，能够放出来的票数不过两万多张，不到 496 万登记申请人次的零头。 图｜香港演艺学院歌剧院 也就是说，中签概率恐怕低于在街角咖啡店碰见陈奕迅本人的概率。今天注定是一人欢喜百人愁。 但中不中签另说，这次「抢票」的轻松程度在我人生中绝对算得上是数一数二的：花一分钟注册网站、确认邮件，几天后坐等抽签结果，这就是全过程。完全不需要像之前抢 The Weeknd 门票那样调好闹钟、焚香沐浴、发动亲友团一起帮忙…… 那么，抽签制这样的好文明，以前为什么就没有推广开呢？ 门票不靠抢，还能怎么买？ 用抽签的方式来分配门票，在国内并不多见，但也不是没有先例。 早在 2016 年，苏打绿《谢天谢地》演唱会就采取了实名登记、电脑随机抽签的售票方式，",
+      "titleZh": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
+      "summaryZh": "歌迷朋友们，看到这篇文章时别忘了到 Cityline 手动查询——陈奕迅 26 场特别录音演出的首轮抽签结果下午刚刚公布，说不定你就是那个幸运儿。 图｜我却得到你安慰的淘汰 介绍一下：这次系列演出并非传统演唱会，而是和观众一起现场录制唱片的 Live Album 沉浸式试验。它的场地定在仅 1181 座的香港演艺学院歌剧院，扣除 10% 内部保留票，26 场连开，能够放出来的票数不过两万多张，不到 496 万登记申请人次的零头。 图｜香港演艺学院歌剧院 也就是说，中签概率恐怕低于在街角咖啡店碰见陈奕迅本人的概率。今天注定是一人欢喜百人愁。 但中不中签另说，这次「抢票」的轻松程度在我人生中绝对算得上是数一数二的：花一分钟注册网站、确认邮件，几天后坐等抽签结果，这就是全过程。完全不需要像之前抢 The Weeknd 门票那样调好闹钟、焚香沐浴、发动亲友团一起帮忙…… 那么，抽签制这样的好文明，以前为什么就没有推广开呢？ 门票不靠抢，还能怎么买？ 用抽签的方式来分配门票，在国内并不多见，但也不是没有先例。 早在 2016 年，苏打绿《谢天谢地》演唱会就采取了实名登记、电脑随机抽签的售票方式，",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687130",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T07:41:09.000Z",
+      "author": "彭海星",
+      "tags": [
+        "guide",
+        "商业",
+        "AI",
+        "抢票",
+        "抢票软件"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e82b74c4c1134da1e9",
+      "titleOriginal": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+      "summaryOriginal": "你以为只是和 ChatGPT 随便聊聊，它可能已经在悄悄给你画像。 你的工作、生活习惯，甚至你想要什么、害怕什么，都可能被写进它的记忆。而且很多时候，你并没有要求它记住这些。 前段时间，一篇被顶级会议 ACM Web Conference 2026 接收的论文《The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT》利用 GDPR 赋予用户的数据访问权，从 80 名真实用户那里获得了他们完整的 ChatGPT 对话记录，以及系统为他们存储的全部记忆，包括 1058 段对话、22971 轮交互、2050 条记忆条目。 ChatGPT、Gemini、Claude 等对话式 AI 都引入了「记忆」（Memory）机制来记住用户信息实现个性化。这项研究第一次从外部拆开了 AI 的记忆黑箱，AI 不仅在记我们说的话，还在推断我们是什么样的人。 研究者把这套记忆称为「算法自画像」，即由算法基于用户私下对话中的自我披露信息勾勒出的用户画像。 他们回答了谁在主导记忆的形成？记忆里存了什么？记忆是否忠实于对话？能否逆向工程来降低隐私",
+      "titleZh": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+      "summaryZh": "你以为只是和 ChatGPT 随便聊聊，它可能已经在悄悄给你画像。 你的工作、生活习惯，甚至你想要什么、害怕什么，都可能被写进它的记忆。而且很多时候，你并没有要求它记住这些。 前段时间，一篇被顶级会议 ACM Web Conference 2026 接收的论文《The Algorithmic Self-Portrait: Deconstructing Memory in ChatGPT》利用 GDPR 赋予用户的数据访问权，从 80 名真实用户那里获得了他们完整的 ChatGPT 对话记录，以及系统为他们存储的全部记忆，包括 1058 段对话、22971 轮交互、2050 条记忆条目。 ChatGPT、Gemini、Claude 等对话式 AI 都引入了「记忆」（Memory）机制来记住用户信息实现个性化。这项研究第一次从外部拆开了 AI 的记忆黑箱，AI 不仅在记我们说的话，还在推断我们是什么样的人。 研究者把这套记忆称为「算法自画像」，即由算法基于用户私下对话中的自我披露信息勾勒出的用户画像。 他们回答了谁在主导记忆的形成？记忆里存了什么？记忆是否忠实于对话？能否逆向工程来降低隐私",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686832",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T07:37:27.000Z",
+      "author": "张子豪",
+      "tags": [
+        "guide",
+        "公司",
+        "ChatGPT",
+        "个人数据",
+        "用户画像"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f2dd5ffff01232a982",
+      "titleOriginal": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+      "summaryOriginal": "qwenGPU is an experimental model that compiles a SIMT GPU directly into the weights of Qwen3.5-2B . Developer Vixhal ( @TheVixhal ) released it on GitHub under the MIT license. The model runs real CUDA, compiled to NVIDIA PTX, inside its own forward passes. For developers, it tests one idea: exact computation inside a pretrained LLM, not beside it. TL;DR Size: Qwen3.5-2B (24 layers) along with 45 compiled GPU layers, 69 in total. Context: 262,144 tokens (base model). Runs on: Apple silicon, an N",
+      "titleZh": "了解qwenGPU ： Qwen3.5-2B与45个运行CUDA的编译GPU层",
+      "summaryZh": "qwenGPU 是一个实验性模型，它将 SIMT GPU 直接编译到 Qwen3.5-2B 的权重中。开发者 Vixhal (@TheVixhal) 已将其发布在 GitHub 上，并采用 MIT 许可证。该模型在其自身的前向传播过程中运行真正的 CUDA，并编译为 NVIDIA PTX。对于开发者而言，它验证了一个理念：在预训练的 LLM 内部进行精确计算，而不是在其旁边进行计算。简而言之，模型大小：Qwen3.5-2B（24 层）加上 45 个编译后的 GPU 层，共 69 层。上下文：262,144 个 token（基础模型）。运行平台：Apple Silicon，N",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-02T07:28:29.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "Editors Pick"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1706e4000b959f709e",
+      "titleOriginal": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+      "summaryOriginal": "刚进入 11 月，AI 圈又开始热闹起来了。 过去十几个小时里，Anthropic 和 OpenAI 接连传出新模型消息。有人在 Anthropic 官网源代码中发现了 Claude Mythos 5.5 的名字，还有开发者晒出疑似 Claude Fable 5.5 生成的 3D 游戏和交互作品。 另一边，OpenAI 尚未官宣的 GPT-6.2 Astra，也出现在部分用户的 Codex 使用统计和 API 响应记录中，甚至有人声称已经成功调用。 两家公司的新模型线索几乎同时出现，结合此前关于 Qwen4、GLM-5.5 和 Hy4 的传闻，也让 AI 社区开始猜测，11 月是否又会迎来一轮旗舰模型集中更新。 Claude 5.5 官网意外曝光，新模型要来了？ 事情要从 Anthropic 官网的一次意外发现说起。 11 月 1 日深夜，科技博主 @kimmonismus 在 X 平台发帖称，Anthropic 官方网站的 HTML 源代码中，出现了尚未正式公布的 Claude Mythos 5.5。 根据截图，Anthropic 的 Mythos 产品页面中，隐藏的 H1 标题以及",
+      "titleZh": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+      "summaryZh": "刚进入 11 月，AI 圈又开始热闹起来了。 过去十几个小时里，Anthropic 和 OpenAI 接连传出新模型消息。有人在 Anthropic 官网源代码中发现了 Claude Mythos 5.5 的名字，还有开发者晒出疑似 Claude Fable 5.5 生成的 3D 游戏和交互作品。 另一边，OpenAI 尚未官宣的 GPT-6.2 Astra，也出现在部分用户的 Codex 使用统计和 API 响应记录中，甚至有人声称已经成功调用。 两家公司的新模型线索几乎同时出现，结合此前关于 Qwen4、GLM-5.5 和 Hy4 的传闻，也让 AI 社区开始猜测，11 月是否又会迎来一轮旗舰模型集中更新。 Claude 5.5 官网意外曝光，新模型要来了？ 事情要从 Anthropic 官网的一次意外发现说起。 11 月 1 日深夜，科技博主 @kimmonismus 在 X 平台发帖称，Anthropic 官方网站的 HTML 源代码中，出现了尚未正式公布的 Claude Mythos 5.5。 根据截图，Anthropic 的 Mythos 产品页面中，隐藏的 H1 标题以及",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687071",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T01:51:47.000Z",
+      "author": "山宗",
+      "tags": [
+        "launch",
+        "产品",
+        "AI",
+        "ChatGPT"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -11163,314 +11488,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "4ab93569e260b2b0a1",
-      "titleOriginal": "How AT&T is rethinking in-house legal work with OpenAI",
-      "summaryOriginal": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "titleZh": "AT&T如何与OpenAI重新思考内部法律工作",
-      "summaryZh": "AT&T正在与OpenAI合作，使法律知识更容易获取。了解其LegalEdge团队如何重新考虑录取和扩大法律判决。",
-      "translated": true,
-      "url": "https://openai.com/index/att-legal",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T17:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6c1da1b548c0412278",
-      "titleOriginal": "Panache — RTS Belle Époque pour mobile",
-      "summaryOriginal": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork by Gabriel Turpin which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marcha",
-      "titleZh": "Panache — RTS Belle Époque pour mobile",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-21T16:25:16.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "12d4585120eb3bcb8e",
-      "titleOriginal": "Claude Mods: Flipping the Harness Inside Out",
-      "summaryOriginal": "For the last few weeks I’ve used Claude Mods to mold Claude Code to my AI engineering workflow. Claude Code is great out of the box, but every engineering workflow is different. Claude Mods let you make Claude Code yours, in the way you want to pay attention. The “paying attention” part is now the most important thing. In a recent Latent Space post, The Evolution of the Agent Harness , I argued that as models absorb more of the harness into their weights, the part that’s left faces the human. It",
-      "titleZh": "Claude Mods ：从内到外翻转线束",
-      "summaryZh": "在过去的几周里，我使用Claude Mods将Claude Code塑造成了我的人工智能工程工作流程。Claude Code开箱即用，但每个工程工作流程都不同。Claude Mods让您以自己想要的方式将Claude Code变成自己的。“注意”部分现在是最重要的。在最近的Latent Space帖子“Agent Harness的演变”中，我认为，随着模型将更多的线束吸收到其重量中，剩下的部分将面对人类。它",
-      "translated": true,
-      "url": "https://latent.space/p/claude-mods/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-21T13:04:19.000Z",
-      "author": "Dan McAteer",
-      "tags": [
-        "guide",
-        "Agent",
-        "Coding"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "74fcf21eca7add4a82",
-      "titleOriginal": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "summaryOriginal": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "titleZh": "ChatGPT Ads已扩展到26个新国家/地区，超过10万名广告客户使用了该平台",
-      "summaryZh": "从本地企业到全球品牌，更多的广告客户现在可以在ChatGPT中探索、比较和决定购买内容时接触到人们。",
-      "translated": true,
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T13:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Product"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "61f4d0141ff303c024",
-      "titleOriginal": "OpenAI models are coming to Google Cloud",
-      "summaryOriginal": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "titleZh": "OpenAI models are coming to Google Cloud",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Company"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d3f519557f32dd3d64",
-      "titleOriginal": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summaryOriginal": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "titleZh": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Security",
-        "Agent",
-        "Open Source"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "edef63b51aedc0121d",
-      "titleOriginal": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summaryOriginal": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-      "titleZh": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T07:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Engineering"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6018ea9507dd69569d",
-      "titleOriginal": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "summaryOriginal": "Proudly brought to you by SerpApi: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the",
-      "titleZh": "[AINews] DeepSeek DeepInfer ：开源SOTA推理，每天运行155T令牌/集群，每天赚取2200万美元，利润率约为80 ％ ， 81天回报",
-      "summaryZh": "SerpApi自豪地为您带来：今天的发布涵盖了很多方面，但您可以将所有这些内容转化为您的代理商的扣分！ 50 ％的JSON代币成本。我们上次在4月份报道了推理拐点，从历史上看，大多数进展都是从烟花到Baseten再到Modal的闭源decacorn。好吧，是时候进行开源响应了。这是PyTorch会议的第一天， DeepSeek通过开源DeepInfer将一枚洲际弹道导弹计时到讨论中，",
-      "translated": true,
-      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-21T06:54:09.000Z",
-      "author": "Latent Space",
-      "tags": [
-        "launch",
-        "Agent",
-        "Open Source"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cb51b79b07cd26fe75",
-      "titleOriginal": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "summaryOriginal": "Last year , Alex Lieberman and his cofounder joined us to explain Tenex’s unusual bet: pay AI engineers for the work they deliver, rather than the hours they spend at a keyboard. If AI makes an engineer faster, an hourly rate can make the engineer less money for the same job. Tenex wanted the incentives to run the other way. At AIE New York, Alex came back with CJ Hess to talk about what happens when you scale that idea into an engineering organization. We also put one of our own experiments on",
-      "titleZh": "《财富2000》中的AI ： Tenex如何构建AI原生SDLC — Alex Lieberman和CJ Hess",
-      "summaryZh": "去年，亚历克斯·利伯曼（ Alex Lieberman ）和他的联合创始人加入我们，解释了Tenex不寻常的赌注：向人工智能工程师支付他们交付的工作，而不是他们在键盘上花费的时间。如果人工智能让工程师更快，那么每小时工资可以让工程师在同一份工作上赚更少的钱。Tenex希望激励措施以另一种方式运行。在AIE纽约， Alex回来与CJ Hess谈论当你将这个想法扩展到一个工程组织时会发生什么。我们还把自己的实验之一",
-      "translated": true,
-      "url": "https://latent.space/p/tenex/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-21T05:01:26.000Z",
-      "author": "Latent.Space",
-      "tags": [
-        "analysis"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1de8e62ff715d1f1b8",
-      "titleOriginal": "Using thousands of AI agents to uncover new leads in biological data",
-      "summaryOriginal": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "titleZh": "Using thousands of AI agents to uncover new leads in biological data",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T04:50:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Publication",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9201054eeb4c743a36",
-      "titleOriginal": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summaryOriginal": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "titleZh": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b2deaf97c98cf0ff4f",
-      "titleOriginal": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summaryOriginal": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "titleZh": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-21T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Global Affairs"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "aac036aa8666576a8c",
-      "titleOriginal": "eMudhra Intermediate CA Compromise",
-      "summaryOriginal": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0",
-      "titleZh": "eMudhra中级CA泄漏",
-      "summaryZh": "eMudhra中级CA泄露这是一个非常非常坏的消息：八个eMudhra中级CA证书的私钥已被泄露。它们与Mozilla、Microsoft、Apple和Chrome根目录程序以及许多下游信任商店所信任的根目录相连。任何捆绑受信任证书列表的软件都需要更新。本网站通过此GitHub存储库跟踪软件更新- Linux发行版需要更新其ca-certificates包。在Python世界中uv 0",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-20T23:50:25.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3b5ce86c8c402c8d1f",
-      "titleOriginal": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "summaryOriginal": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi",
-      "titleZh": "战斗无人机-具有基于音频的多人游戏的RTS氛围编码",
-      "summaryZh": "我最新的vibe编码游戏实验是一款命令与征服风格的RTS （实时策略）游戏，名为Battle Drones （在这里玩）。与我之前的实验不同，这个实际上很有趣。我有点尴尬地承认，我告诉Claude “让它变得更有趣”。它还支持附近设备之间的多人游戏，使用音频来同步游戏状态！以下是我迄今为止构建的内容，以及我在此过程中学到的一些东西。战斗无人机我如何建造这个",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-20T19:34:19.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11480,7 +11497,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 37
+      "count": 29
     },
     {
       "id": "deepmind",
@@ -11536,7 +11553,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 30
+      "count": 32
     },
     {
       "id": "simonwillison",
@@ -11544,7 +11561,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 27
+      "count": 24
     },
     {
       "id": "oneusefulthing",
@@ -11560,7 +11577,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 20
+      "count": 17
     },
     {
       "id": "ifanr",
@@ -11568,7 +11585,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 30
+      "count": 34
     },
     {
       "id": "sspai",
@@ -11584,7 +11601,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 109
+      "count": 115
     },
     {
       "id": "infoq",
@@ -11592,13 +11609,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 44
+      "count": 46
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 46,
-    "translated": 242,
+    "guides": 51,
+    "translated": 237,
     "sources": 14
   }
 }
