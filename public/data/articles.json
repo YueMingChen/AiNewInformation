@@ -1,6 +1,400 @@
 {
-  "generatedAt": "2026-11-02T20:25:40.756Z",
+  "generatedAt": "2026-11-03T03:30:33.861Z",
   "articles": [
+    {
+      "id": "553cf75a189380563c",
+      "titleOriginal": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
+      "summaryOriginal": "",
+      "titleZh": "谷歌宁愿少卖云算力，也要先把算力留给 Gemini：皮查伊罕见长访谈，披露 AI 自我改进与算力争夺内幕",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/JmVl0yY2RYIBNpuD0xuu",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T10:45:58.000Z",
+      "author": "林绮蓓",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4c6e5d0a5e32179d03",
+      "titleOriginal": "框架选不对，Claude 开发成本多一倍：前端十年框架膨胀，终于有人买单了",
+      "summaryOriginal": "",
+      "titleZh": "框架选不对，Claude 开发成本多一倍：前端十年框架膨胀，终于有人买单了",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/M6Q9I3DFrozJOREx9ztL",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T10:38:04.000Z",
+      "author": "褚杏娟",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bd15f695865b343935",
+      "titleOriginal": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "summaryOriginal": "",
+      "titleZh": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/DliBOqGrOaxaXvqlBjGR",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T10:00:00.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8b118451caa3d312bd",
+      "titleOriginal": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
+      "summaryOriginal": "（本文作者为 科技异端，钛媒体经授权发布） 通用智能和具身智能之间的那条线正在变得模糊。过去两年，机器人公司们共享着一个前提：通用大模型长于理解数字世界，而物理世界需要一套从头训练的基座模型。这个前提撑起了行业的融资叙事，也撑起了一批公司的技术路线。9月初，它第一次受到来自大模型侧的正面挑战。 9月3日，OpenAI发布GPT-6 Astra，发布的第二天，就有团队把它接上机械臂，结果发现：Astra不只能理解任务、拆解任务，还能直接输出机器人末端执行器的位姿，完成了本该属于VLA等策略模型的那部分工作，在部分测试里成功率甚至超过专门为机器人任务训练的具身模型。 很快，通用大模型即将覆盖具身模型的说法在社交平台上快速扩散，而同一时间公开表态的具身公司创始人们，大多站在另一侧。他们的观点基本可以概括为：通用模型的能力来自各自领域的大量数据，而物理交互这一侧还没有同样的积累，所以复杂交互仍是具身公司的阵地。但也有创业者判断，留给具身和世界模型公司兑现预期的时间可能只有一到两年。 星尘智能创始人来杰并不认同这种具身模型和通用模型之间的简单对立。他认为有第三条路，AI是一波大势，具身公司肯定要",
+      "titleZh": "不与大模型对抗，星尘智能想用AOS接住通用智能的红利",
+      "summaryZh": "（本文作者为 科技异端，钛媒体经授权发布） 通用智能和具身智能之间的那条线正在变得模糊。过去两年，机器人公司们共享着一个前提：通用大模型长于理解数字世界，而物理世界需要一套从头训练的基座模型。这个前提撑起了行业的融资叙事，也撑起了一批公司的技术路线。9月初，它第一次受到来自大模型侧的正面挑战。 9月3日，OpenAI发布GPT-6 Astra，发布的第二天，就有团队把它接上机械臂，结果发现：Astra不只能理解任务、拆解任务，还能直接输出机器人末端执行器的位姿，完成了本该属于VLA等策略模型的那部分工作，在部分测试里成功率甚至超过专门为机器人任务训练的具身模型。 很快，通用大模型即将覆盖具身模型的说法在社交平台上快速扩散，而同一时间公开表态的具身公司创始人们，大多站在另一侧。他们的观点基本可以概括为：通用模型的能力来自各自领域的大量数据，而物理交互这一侧还没有同样的积累，所以复杂交互仍是具身公司的阵地。但也有创业者判断，留给具身和世界模型公司兑现预期的时间可能只有一到两年。 星尘智能创始人来杰并不认同这种具身模型和通用模型之间的简单对立。他认为有第三条路，AI是一波大势，具身公司肯定要",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8191171.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T03:13:20.000Z",
+      "author": "科技异端",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8b4184072040b62cd7",
+      "titleOriginal": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
+      "summaryOriginal": "在洛杉矶的苹果新品活动现场，当全新的 MacBook Pro 在展台上亮起时，最先抓人眼球的甚至还不是屏幕正面，而是 A 面那颗阔别了整整十年的亮灯苹果 Logo。 当年亮灯借用的是 LCD 屏幕的背光层，后来虽然仍在用 LCD，但为了机身极致轻薄，亮灯只能退场。如今新款 MacBook Pro 换上了自发光的双层串联 OLED 面板，更是没有背光层可「借」。为了在这台极具开创性的触屏 MacBook Pro 上，将这个极图腾意义的细节带回来，苹果硬件团队大概率为它单独塞进了一套独立的发光模组。 从这种带点工程浪漫主义的小细节上，很容易看出苹果新任 CEO 约翰·特努斯（John Ternus）与前任 CEO 蒂姆·库克（Tim Cook）在产品思路上的微妙差异。 而当我们真正开始使用这台 MacBook Pro，伸出手指戳向它的屏幕，另一种更为强烈的历史对冲感扑面而来。 在打开的照片里双指捏合放大、在 3D 地图上手动旋转视角、从缩短版「灵动岛」的位置向下滑动呼出 Siri AI 与聚焦搜索……这套在 iPhone 和 iPad 上已经被人类肌肉记忆驯化了近二十年的动作，终于在 Ma",
+      "titleZh": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
+      "summaryZh": "在洛杉矶的苹果新品活动现场，当全新的 MacBook Pro 在展台上亮起时，最先抓人眼球的甚至还不是屏幕正面，而是 A 面那颗阔别了整整十年的亮灯苹果 Logo。 当年亮灯借用的是 LCD 屏幕的背光层，后来虽然仍在用 LCD，但为了机身极致轻薄，亮灯只能退场。如今新款 MacBook Pro 换上了自发光的双层串联 OLED 面板，更是没有背光层可「借」。为了在这台极具开创性的触屏 MacBook Pro 上，将这个极图腾意义的细节带回来，苹果硬件团队大概率为它单独塞进了一套独立的发光模组。 从这种带点工程浪漫主义的小细节上，很容易看出苹果新任 CEO 约翰·特努斯（John Ternus）与前任 CEO 蒂姆·库克（Tim Cook）在产品思路上的微妙差异。 而当我们真正开始使用这台 MacBook Pro，伸出手指戳向它的屏幕，另一种更为强烈的历史对冲感扑面而来。 在打开的照片里双指捏合放大、在 3D 地图上手动旋转视角、从缩短版「灵动岛」的位置向下滑动呼出 Siri AI 与聚焦搜索……这套在 iPhone 和 iPad 上已经被人类肌肉记忆驯化了近二十年的动作，终于在 Ma",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686623",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T02:09:08.000Z",
+      "author": "杜晨",
+      "tags": [
+        "guide",
+        "公司",
+        "MacBook Pro",
+        "乔布斯",
+        "触摸屏"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "01ff3540091ac5b504",
+      "titleOriginal": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
+      "summaryOriginal": "（本文作者为 Chelsea_Sun，钛媒体经授权发布） NextFin News — Consumer AI is caught between two clocks. On one clock, models keep posting better scores on code, long documents, and multi-step jobs. On the other, paying users hit rate limits sooner, meet peak-hour wait screens, and compare notes on which brand still “lasts a month.” Vendors answer with quota top-ups, limit resets, and apology posts. OpenAI has doubled some Pro and business caps after complaints. In China, Moonshot AI’s Kimi product has issued thre",
+      "titleZh": "AI Subscriptions Hit a Wall as Smarter Models Burn Quotas Faster",
+      "summaryZh": "（本文作者为 Chelsea_Sun，钛媒体经授权发布） NextFin News — Consumer AI is caught between two clocks. On one clock, models keep posting better scores on code, long documents, and multi-step jobs. On the other, paying users hit rate limits sooner, meet peak-hour wait screens, and compare notes on which brand still “lasts a month.” Vendors answer with quota top-ups, limit resets, and apology posts. OpenAI has doubled some Pro and business caps after complaints. In China, Moonshot AI’s Kimi product has issued thre",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8191236.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T02:03:04.000Z",
+      "author": "Chelsea_Sun",
+      "tags": [
+        "launch",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9c67c7267a5625d55a",
+      "titleOriginal": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "summaryOriginal": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "titleZh": "苹果可能会尝试通过第三方人工智能应用来增加收入",
+      "summaryZh": "苹果在周一晚上的财报电话会议上暗示，它可以通过第三方“机会”刺激收入。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:49:52.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "TC",
+        "AI",
+        "Apple",
+        "earnings"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dbd1a815f4d9ef9839",
+      "titleOriginal": "Zyphra AI Introduces Zyphra Hierarchical Attention (ZHA): A Path to True Subquadratic Attention",
+      "summaryOriginal": "Zyphra has released Zyphra Hierarchical Attention (ZHA) , a sparse attention method built around a tree-structured indexer. ZHA targets a known gap in sparse attention: the indexer that picks tokens still scans the whole context. Zyphra’s technical paper shows ZHA can be distilled into frozen pretrained models with about 4B tokens. On Qwen3.6-35B-A3B it stays close to dense attention on reasoning, agentic coding and 256K retrieval benchmarks. TL;DR Size: It is a method that adds 81,920 trainable",
+      "titleZh": "Zyphra AI推出Zyphra Hierarchical Attention （ ZHA ） ：通往真正的次二次注意力之路",
+      "summaryZh": "Zyphra发布了Zyphra Hierarchical Attention （ ZHA ） ，这是一种围绕树结构索引器构建的稀疏注意力方法。ZHA针对稀疏注意力方面的已知差距：选择令牌的索引器仍然扫描整个上下文。Zyphra的技术论文显示， ZHA可以用大约4B个代币蒸馏成冷冻的预训练模型。在Qwen3.6-35B-A3B上，它密切关注推理、代理编码和256K检索基准。TL ； DR尺寸：这是一种增加81,920可训练的方法",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/02/zyphra-hierarchical-attention-zha-sparse-attention/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-03T01:09:49.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "90faeda236574ce81a",
+      "titleOriginal": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
+      "summaryOriginal": "（本文作者为 资本剖面，钛媒体经授权发布） 10月30日晚间， 传音控股 （688036.SH）发布2026年三季报，数据未能延续上半年的“修复”势头，反而勾勒出一条“失速”曲线。 与此同时，10月15日挂牌的传音H股（HK2636）仍在发行价附近上下徘徊：日成交量仅数十万股，换手率多在1%以下，较A股折价近五成，隐隐透出被边缘化的“僵尸股”气息，也让公司历时10个月才完成的“A+H”上市显得颇为尴尬。 传音控股是全球新兴市场手机销量第一的消费电子企业，在非洲的市场份额一度超过六成，“非洲手机之王”之名由此而来。 2023年至2024年是公司近20年成长史上最高光的两年：营收分别达623亿元、687亿元，归母净利润连续两年超过55亿元，传音由此成为中国消费电子出海最成功的样板之一。然而到了2025年，AI数据中心虹吸存储产能所引发的涨价冲击，令传音控股的短板暴露无遗。 这轮被称为“存储通胀”的超级周期，并非传统意义上由消费电子需求回暖带动的普涨，而是源于供给侧的结构性再分配：三星、 SK海力士 、美光等原厂将产能大规模转向HBM（高带宽内存）、服务器DRAM、企业级SSD等高利润的AI",
+      "titleZh": "“存储通胀”中的传音控股：囤芯失血、H股遇冷与AI求生 |深度",
+      "summaryZh": "（本文作者为 资本剖面，钛媒体经授权发布） 10月30日晚间， 传音控股 （688036.SH）发布2026年三季报，数据未能延续上半年的“修复”势头，反而勾勒出一条“失速”曲线。 与此同时，10月15日挂牌的传音H股（HK2636）仍在发行价附近上下徘徊：日成交量仅数十万股，换手率多在1%以下，较A股折价近五成，隐隐透出被边缘化的“僵尸股”气息，也让公司历时10个月才完成的“A+H”上市显得颇为尴尬。 传音控股是全球新兴市场手机销量第一的消费电子企业，在非洲的市场份额一度超过六成，“非洲手机之王”之名由此而来。 2023年至2024年是公司近20年成长史上最高光的两年：营收分别达623亿元、687亿元，归母净利润连续两年超过55亿元，传音由此成为中国消费电子出海最成功的样板之一。然而到了2025年，AI数据中心虹吸存储产能所引发的涨价冲击，令传音控股的短板暴露无遗。 这轮被称为“存储通胀”的超级周期，并非传统意义上由消费电子需求回暖带动的普涨，而是源于供给侧的结构性再分配：三星、 SK海力士 、美光等原厂将产能大规模转向HBM（高带宽内存）、服务器DRAM、企业级SSD等高利润的AI",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190090.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T00:45:00.000Z",
+      "author": "资本剖面",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "深度",
+        "焦点"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5e23b266eaabe86467",
+      "titleOriginal": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+      "summaryOriginal": "The Letter Company has released the beta of Letterpress-1 , a coding agent, harness and IDE for growth engineering. The Letterpress-1 coding agent reads a website and its market, then decides what should exist. It builds the change in a sandbox and opens a pull request with a live preview. TL;DR Size: Letter team says it combines frontier models with fine-tuned small models; names and sizes are not disclosed. Runs on: Letter’s hosted platform against your git repository. No local GPU needed. Set",
+      "titleZh": "信函公司发布凸版-1 ：为成长工程打造的编码代理",
+      "summaryZh": "Letter Company已经发布了Letterpress-1的测试版，这是一种用于生长工程的编码代理、线束和IDE。Letterpress-1编码代理读取网站及其市场，然后决定应该存在什么。它在沙盒中构建更改，并通过实时预览打开拉取请求。TL; DR尺寸： Letter团队表示，它将前沿模型与微调的小型模型相结合；名称和尺寸未披露。运行于： Letter的托管平台针对您的git存储库。不需要本地GPU。设置",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-03T00:43:03.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "Context Engineering",
+        "Editors Pick"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bd936fe1d4a26927f1",
+      "titleOriginal": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "summaryOriginal": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+      "titleZh": "Y Combinator的Garry Tan使用人工智能代理太多，他每年在代币上花费高达20万美元$",
+      "summaryZh": "Y Combinator的Garry Tan开玩笑地承认他患有“网络精神病” ，有时几乎不睡觉，因为他对与人工智能特工合作感到非常兴奋。在沃尔特·艾萨克森（ Walter Isaacson ）播客的新一集《建造者》（ The Builders ）中，谭恩美为他的激情贴上了价格标签。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-03T00:35:52.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "garry tan",
+        "Y Combinator"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ff4efcde0612e91863",
+      "titleOriginal": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
+      "summaryOriginal": "苹果第四财季营收增长 12%，服务收入再创新高 曝下一代触屏 MacBook Pro 将换新模具 下一代 GPT 或将近期发布，OpenAI 用 1 万个 AI 智能体协作科研 OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载 机器人登泰山大赛收官，宇树 A2 全自主夺得竞速冠军 iOS 限制后百度网盘仍可摇一摇跳广告，知情人士称新版待审核 《纽约时报》等媒体起诉 Brave，指其抓取内容供 AI 使用 OLED 面板断货，理想 MEGA 部分批次先装 LCD 屏交付 傅利叶回应与 Meta 合作传闻：暂不方便回复 名越工作室解散，相关公告登上日本《官报》 阿里云为达喀尔青奥会搭建赛事云，赛后将移交为国家云 香港金管局推出 SAGE 项目，探索 AI Agent 购物与支付 Anthropic 第三季度营收接近 170 亿美元，净亏损扩大 Omdia：AI 眼镜的差异化要靠可靠体验与服务整合 第二代海豹 07 将于 11 月 5 日上市，首搭云辇-M 系统 问界发布 10 月出行报告：辅助驾驶里程占比 46.6%，活跃用户达 92.7 万 Kimi 发布游戏开发方案，可操作",
+      "titleZh": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
+      "summaryZh": "苹果第四财季营收增长 12%，服务收入再创新高 曝下一代触屏 MacBook Pro 将换新模具 下一代 GPT 或将近期发布，OpenAI 用 1 万个 AI 智能体协作科研 OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载 机器人登泰山大赛收官，宇树 A2 全自主夺得竞速冠军 iOS 限制后百度网盘仍可摇一摇跳广告，知情人士称新版待审核 《纽约时报》等媒体起诉 Brave，指其抓取内容供 AI 使用 OLED 面板断货，理想 MEGA 部分批次先装 LCD 屏交付 傅利叶回应与 Meta 合作传闻：暂不方便回复 名越工作室解散，相关公告登上日本《官报》 阿里云为达喀尔青奥会搭建赛事云，赛后将移交为国家云 香港金管局推出 SAGE 项目，探索 AI Agent 购物与支付 Anthropic 第三季度营收接近 170 亿美元，净亏损扩大 Omdia：AI 眼镜的差异化要靠可靠体验与服务整合 第二代海豹 07 将于 11 月 5 日上市，首搭云辇-M 系统 问界发布 10 月出行报告：辅助驾驶里程占比 46.6%，活跃用户达 92.7 万 Kimi 发布游戏开发方案，可操作",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687189",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T00:17:09.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "launch",
+        "早报",
+        "Anthropic",
+        "DeepSeek Harness",
+        "MacBook Pro"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3299462e53ef715c56",
+      "titleOriginal": "Edge AI Daily 早报（11月3日）",
+      "summaryOriginal": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、AI 支出增速快于现金流，科技巨头财报加剧恐慌，纳斯达克 100 指数进入回调 1. 亚马逊 2026年第三季度AWS营收增长39.3%至459.8亿美元，但单季资本支出从上年同期351亿美元飙升至773亿美元（约2.2倍），过去十二个月自由现金流由净流入148亿美元转为净流出424亿美元，财报后股价一度重挫逾7%，全年资本支出指引维持2200亿美元。 2. 纳斯达克 100指数10月31日收于27,989.82点，较10月6日高点跌超10%，进入2026年第三次技术性回调，10月市值蒸发约2万亿美元；五大AI基础设施建造商2026年合计资本支出预计约8280亿美元，首次超过合计经营现金流（NBER 10月工作论文）， 微软 则把2026年资本支出指引由1750亿下调至1700亿美元。 3.融资与债市同步示警：微软启动250亿美元债券发行，Meta推出最高950亿美元股权融资计划（ 英伟达 出资30亿美元参与）；10年期美债收益率10月30日下跌超7个基点至4.91%，2年期跌超8个基点至4.57%，全月10",
+      "titleZh": "Edge AI Daily 早报（11月3日）",
+      "summaryZh": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、AI 支出增速快于现金流，科技巨头财报加剧恐慌，纳斯达克 100 指数进入回调 1. 亚马逊 2026年第三季度AWS营收增长39.3%至459.8亿美元，但单季资本支出从上年同期351亿美元飙升至773亿美元（约2.2倍），过去十二个月自由现金流由净流入148亿美元转为净流出424亿美元，财报后股价一度重挫逾7%，全年资本支出指引维持2200亿美元。 2. 纳斯达克 100指数10月31日收于27,989.82点，较10月6日高点跌超10%，进入2026年第三次技术性回调，10月市值蒸发约2万亿美元；五大AI基础设施建造商2026年合计资本支出预计约8280亿美元，首次超过合计经营现金流（NBER 10月工作论文）， 微软 则把2026年资本支出指引由1750亿下调至1700亿美元。 3.融资与债市同步示警：微软启动250亿美元债券发行，Meta推出最高950亿美元股权融资计划（ 英伟达 出资30亿美元参与）；10年期美债收益率10月30日下跌超7个基点至4.91%，2年期跌超8个基点至4.57%，全月10",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8191049.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T00:15:43.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "research",
+        "AGI",
+        "大模型",
+        "微软"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "10dab842bc689c46a0",
+      "titleOriginal": "llm 0.37",
+      "summaryOriginal": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own default) to gpt-6-luna - half the price of the previous default, gpt-5.6-luna . LLM's support for embeddi",
+      "titleZh": "llm 0.37",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-02T23:49:30.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "19ce29ebfa9628153b",
+      "titleOriginal": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "summaryOriginal": "The one-year-old startup is now valued at $300 million.",
+      "titleZh": "Trajectory筹集了$ 4500万，使非技术专家能够获得人工智能模型培训",
+      "summaryZh": "这家成立一年的初创公司现在的估值为3亿美元。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-02T23:13:53.000Z",
+      "author": "Marina Temkin",
+      "tags": [
+        "research",
+        "AI",
+        "Fundraising",
+        "Startups",
+        "Venture"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "19ed9c0e8a91e21d35",
+      "titleOriginal": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "summaryOriginal": "In this episode, we chat with Jacob Lauritzen, CTO of Legora, following the announcement of their $550M Series E at an $8.8B valuation a couple weeks ago. We talk about what it takes to build AI agents for lawyers and what other people building agents can learn from that work. Legora started in a Stockholm basement with a simple product: ChatGPT, Swedish law, and a search tool. Jacob had already been through YC with his own startup when he helped Max Junestrand with the application for Leya (now",
+      "titleZh": "为律师构建人工智能--Legora首席技术官Jacob Lauritzen",
+      "summaryZh": "在本集中，我们与Legora的首席技术官Jacob Lauritzen进行了交谈，几周前他们宣布了$ 5.5亿E轮融资，估值为$ 8.8B。我们讨论了为律师构建人工智能代理需要什么，以及其他构建代理的人可以从这项工作中学到什么。Legora最初是在斯德哥尔摩的一个地下室，推出了一个简单的产品： ChatGPT、瑞典法律和搜索工具。Jacob在帮助Max Junestrand申请Leya （现在",
+      "translated": true,
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-02T23:01:02.000Z",
+      "author": "Basil Chatha",
+      "tags": [
+        "analysis",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1a6e22a433cc4d88a5",
+      "titleOriginal": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "summaryOriginal": "Legora can’t read a single trace of what its agent does for a lawyer. The data belongs to the law firm’s clients. How do you build and test an agent when you can’t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies in legal tech history. The team started in a Stockholm basement with ChatGPT, Swedish law, and a search tool. Today, a lawyer can use Legora to draft and edit Word documents, review 10,000 contracts in a single table, or run due diligence. The age",
+      "titleZh": "在您看不到数据时建立法律代理- Legora首席技术官Jacob Lauritzen",
+      "summaryZh": "Legora无法阅读其经纪人为律师所做的一切。这些数据属于律师事务所的客户。当您看不到代理的工作时，如何构建和测试代理？ Jacob Lauritzen是Legora的首席技术官， Legora是法律技术历史上发展最快的公司之一。该团队从斯德哥尔摩地下室开始，使用ChatGPT、瑞典法律和搜索工具。如今，律师可以使用Legora起草和编辑Word文档，在单个表格中查看10,000份合同，或进行尽职调查。",
+      "translated": true,
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-02T22:54:03.000Z",
+      "author": "Latent.Space",
+      "tags": [
+        "analysis",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
     {
       "id": "59ab0401a14d8caf3f",
       "titleOriginal": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
@@ -20,6 +414,31 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "55dd7e97ced5d8729c",
+      "titleOriginal": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "summaryOriginal": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+      "titleZh": "Anthropic警告说，它非常接近RSI能力，也就是自我构建的人工智能",
+      "summaryZh": "RSI是人工智能发展得如此擅长训练自己的时刻，以至于它催生了人工智能能力的急剧加速。对人工智能的毁灭者来说， RSI代表着一场没有回报的灾难。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-02T22:14:50.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "research",
+        "AI",
+        "TC",
+        "Anthropic",
+        "RSI"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -94,9 +513,34 @@
       "readingMinutes": 2
     },
     {
+      "id": "f0d11490230013aae1",
+      "titleOriginal": "Web host Squarespace lays off 19% of its employees",
+      "summaryOriginal": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "titleZh": "网络主机Squarespace裁员19%",
+      "summaryZh": "该网站建设者表示，裁员是其组织更广泛重组的一部分。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-02T19:25:59.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "Commerce",
+        "Layoffs",
+        "Squarespace"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "8402594bed2479dc4b",
       "titleOriginal": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "summaryOriginal": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+      "summaryOriginal": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
       "titleZh": "《纽约时报》和其他媒体起诉网络浏览器Brave涉嫌内容抓取",
       "summaryZh": "《纽约时报》正在起诉以隐私为中心的网络浏览器公司Brave ，据称该公司剥夺了该网点的版权，并将其非法分发给自己的客户，如Anthropic和Perplexity。",
       "translated": true,
@@ -112,6 +556,7 @@
         "news",
         "AI",
         "Brave",
+        "In Brief",
         "new york times"
       ],
       "category": "news",
@@ -120,7 +565,7 @@
     {
       "id": "e3f3f6c0c50f4c4d6d",
       "titleOriginal": "Anthropic clamps down on Claude’s AI video game clones",
-      "summaryOriginal": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware . Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports , but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: \"Do bu",
+      "summaryOriginal": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware . Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports , but while Anthropic will still let people use Claude Code to make games, it doesn't want people to use it for direct clones. Last week, a user on X posted a screenshot allegedly showing two new sentences added to Claude Code's system prompt: \"Do b",
       "titleZh": "Anthropic压制Claude的人工智能视频游戏克隆",
       "summaryZh": "据Tom's Hardware报道， Anthropic已更新Claude Code的系统提示，以防止人工智能工具被用于重新创建现有视频游戏。复古游戏目前被人工智能制作的反编译、重新编译和端口所淹没，但尽管Anthropic仍将允许人们使用Claude Code制作游戏，但它不希望人们将其用于直接克隆。上周， X上的用户发布了一个屏幕截图，据称显示了Claude Code的系统提示中添加的两个新句子：",
       "translated": true,
@@ -278,6 +723,50 @@
       "readingMinutes": 2
     },
     {
+      "id": "6fd6ad7938fa5bc515",
+      "titleOriginal": "Rewarding defenders with bigger bug bounties",
+      "summaryOriginal": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "titleZh": "用更大的虫子赏金奖励防御者",
+      "summaryZh": "OpenAI正在提高安全漏洞赏金奖励，并为独立安全研究人员推出报告质量、忠诚度和优先活动奖金。",
+      "translated": true,
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Security"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "262cfa35f4308cc0bc",
+      "titleOriginal": "Preparing our next security sprint to harden OpenAI",
+      "summaryOriginal": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "titleZh": "准备我们的下一个安全冲刺来强化OpenAI",
+      "summaryZh": "OpenAI正在准备与Cathedral Systems进行下一次内部安全冲刺，以测试和加强其使用AI的防御。",
+      "translated": true,
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-02T18:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Security"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "dc6c7ef2ed74ce881c",
       "titleOriginal": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
       "summaryOriginal": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters . According to a complaint filed by the New York Daily News , the Chicago Tribune , and the Orlando Sentinel , Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to \"real-time online content from the B",
@@ -415,9 +904,9 @@
       "id": "b9f4b9689b66b7d5fa",
       "titleOriginal": "Anthropic grows revenue twelvefold but posts $23 billion loss",
       "summaryOriginal": "Anthropic swings back to an operating loss ahead of its blockbuster IPO. The article Anthropic grows revenue twelvefold but posts $23 billion loss appeared first on The Decoder .",
-      "titleZh": "Anthropic grows revenue twelvefold but posts $23 billion loss",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Anthropic的收入增长了12倍，但亏损230 $",
+      "summaryZh": "Anthropic在轰动一时的首次公开募股之前重返运营亏损。Anthropic的文章收入增长了12倍，但发布了230亿美元的亏损，首次出现在The Decoder上。",
+      "translated": true,
       "url": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -440,9 +929,9 @@
       "id": "3059ef1574cb12baae",
       "titleOriginal": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
       "summaryOriginal": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
-      "titleZh": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "埃隆·马斯克（ Elon Musk ）因“不可持续的高成本”而限制了Grok Bot的限制",
+      "summaryZh": "马斯克最近将Grok Bot称为“我一生中见过的产品中增长最快的产品”。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -465,9 +954,9 @@
       "id": "e137d0a0c41ef87684",
       "titleOriginal": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
       "summaryOriginal": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they independently downloaded the game's source code to win. Simulations like these are meant to serve as an early warning system before AI swarms act unpredictably in real-world systems. The article One brutal Minecraft night s",
-      "titleZh": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "在一个残酷的《我的世界》之夜， 50名人工智能特工发明了鸡交接协议、一名化肥官和钓鱼班",
+      "summaryZh": "在Y Combinator Labs和Olam Labs的实验中， OpenAI的GPT-6.1 Sol模型显示了两个截然不同的方面。当50名特工在《我的世界》中承担和平文明建设的任务时，他们陷入了荒谬的官僚主义。在与Claude Opus 5.5的直接竞争中，他们独立下载了游戏的源代码以获胜。像这样的模拟意味着在人工智能群体在现实世界中不可预测地行动之前，作为一个早期预警系统。The article One brutal Minecraft night s",
+      "translated": true,
       "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -484,6 +973,28 @@
         "Agent"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "de4cf53f9db96311cd",
+      "titleOriginal": "Scaling Git at OpenAI",
+      "summaryOriginal": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "titleZh": "Scaling Git at OpenAI",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-02T15:30:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Engineering"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -531,6 +1042,27 @@
         "Exclusive"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "79ef5dfd1fd48980b1",
+      "titleOriginal": "这些股票有足够的实力为AI提供动力，值得再关注一次",
+      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 这场 AI 建设热潮让建筑公司赚得盆满钵满。但对它们的股东来说，最近的景象更像是一场血洗。工程、采购与施工（EPC）公司因承建数据中心电力系统而获利，但股价却从高点下跌了60%，成为华尔街 AI 基础设施交易中受冲击最严重的股票之一。 尽管面临利率上升和项目延迟的挑战，分析师仍预计该行业的盈利增长将保持强劲。Jefferies预测，承包商的利润增速将超过标普500成分股的两倍。Quanta Services和Sterling Infrastructure等公司在财报季表现出色，显示出强劲的订单储备和盈利能力。 如何在这个波动的市场中找到最优的EPC股票？关键在于了解承包商的市场服务、扩展能力及盈利转化水平。Comfort Systems和MasTec等公司在不同领域的表现各有千秋，投资者需谨慎评估。 你是否准备好深入了解这些潜在的投资机会？订阅巴伦创始菁英会员，阅读全文。 更多精彩内容，关注钛媒体微信号（ID：taimeiti），或者下载钛媒体App",
+      "titleZh": "这些股票有足够的实力为AI提供动力，值得再关注一次",
+      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 这场 AI 建设热潮让建筑公司赚得盆满钵满。但对它们的股东来说，最近的景象更像是一场血洗。工程、采购与施工（EPC）公司因承建数据中心电力系统而获利，但股价却从高点下跌了60%，成为华尔街 AI 基础设施交易中受冲击最严重的股票之一。 尽管面临利率上升和项目延迟的挑战，分析师仍预计该行业的盈利增长将保持强劲。Jefferies预测，承包商的利润增速将超过标普500成分股的两倍。Quanta Services和Sterling Infrastructure等公司在财报季表现出色，显示出强劲的订单储备和盈利能力。 如何在这个波动的市场中找到最优的EPC股票？关键在于了解承包商的市场服务、扩展能力及盈利转化水平。Comfort Systems和MasTec等公司在不同领域的表现各有千秋，投资者需谨慎评估。 你是否准备好深入了解这些潜在的投资机会？订阅巴伦创始菁英会员，阅读全文。 更多精彩内容，关注钛媒体微信号（ID：taimeiti），或者下载钛媒体App",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8190967.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-02T14:48:29.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
       "readingMinutes": 2
     },
     {
@@ -1320,6 +1852,28 @@
         "launch",
         "Startup",
         "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ff138f709a7e7c3784",
+      "titleOriginal": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summaryOriginal": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "titleZh": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-02T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Company"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -10956,578 +11510,6 @@
       ],
       "category": "research",
       "readingMinutes": 2
-    },
-    {
-      "id": "d56bd8d421b080a8b5",
-      "titleOriginal": "地铁里的 AI 伪人广告，正在集体霸凌人类",
-      "summaryOriginal": "体育西路站，人称「地狱西」，是广州地铁拥挤程度的显化。 每日有数十万人聊着天、握着手机经过站厅通道，被广告灯箱照出一道道黑色剪影。 但现在，除了老板、客户和 deadline，起早贪黑、睡眼惺忪的路人们，还要面临一种新的恐惧—— 那就是在地铁站里无处不在、时刻勾起恐怖谷效应的「AI 伪人广告」。 AI 味太重，广告看了很烧心 AI 的普及，向来是悄无声息的；或者说，你知道它们会火，但没想到火得那么快，好比一夜之间发现身边所有人都在看红果短剧。 地铁站的 AI 广告也是如此。 AI 广告其实不是什么新鲜事。早在两年前，深圳地铁亲自下场制作的「你的样子」系列广告，还有飞猪、京东们那些略带诡异的素材就已上过热搜。 但有 AI 广告是一回事，只剩下 AI 广告是另一回事。如今站在地铁站环顾四周，几乎全部灯箱广告里都标注着「画面由 AI 生成」，带来的是一种完全不同的精神冲击： 这一天来得比想象中快太多了。 当然，如果不是广告的「AI 味」太重，我们本不会注意到放在海报角落的 AI 生成标注。 就这一点来说，GPT Images 等常用模型难辞其咎。 图｜用 ChatGPT 一分钟生成的海报 每",
-      "titleZh": "地铁里的 AI 伪人广告，正在集体霸凌人类",
-      "summaryZh": "体育西路站，人称「地狱西」，是广州地铁拥挤程度的显化。 每日有数十万人聊着天、握着手机经过站厅通道，被广告灯箱照出一道道黑色剪影。 但现在，除了老板、客户和 deadline，起早贪黑、睡眼惺忪的路人们，还要面临一种新的恐惧—— 那就是在地铁站里无处不在、时刻勾起恐怖谷效应的「AI 伪人广告」。 AI 味太重，广告看了很烧心 AI 的普及，向来是悄无声息的；或者说，你知道它们会火，但没想到火得那么快，好比一夜之间发现身边所有人都在看红果短剧。 地铁站的 AI 广告也是如此。 AI 广告其实不是什么新鲜事。早在两年前，深圳地铁亲自下场制作的「你的样子」系列广告，还有飞猪、京东们那些略带诡异的素材就已上过热搜。 但有 AI 广告是一回事，只剩下 AI 广告是另一回事。如今站在地铁站环顾四周，几乎全部灯箱广告里都标注着「画面由 AI 生成」，带来的是一种完全不同的精神冲击： 这一天来得比想象中快太多了。 当然，如果不是广告的「AI 味」太重，我们本不会注意到放在海报角落的 AI 生成标注。 就这一点来说，GPT Images 等常用模型难辞其咎。 图｜用 ChatGPT 一分钟生成的海报 每",
-      "translated": true,
-      "url": "https://www.ifanr.com/1685809",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-26T07:42:44.000Z",
-      "author": "彭海星",
-      "tags": [
-        "news",
-        "公司",
-        "商业",
-        "AI 广告",
-        "ai 生图"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "eb7708c5f537ab79bf",
-      "titleOriginal": "How Fanatics and OpenAI streamline the fan experience",
-      "summaryOriginal": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "titleZh": "Fanatics和OpenAI如何简化粉丝体验",
-      "summaryZh": "Fanatics使用OpenAI帮助粉丝通过Shop the Look完成比赛日服装。在大约30,000个MLB产品中进行的测试显示，参与度提高了10%。",
-      "translated": true,
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8f2f08b6e197805b4e",
-      "titleOriginal": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "summaryOriginal": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "titleZh": "超快如何将OpenAI的事件调查时间从几小时缩短到几分钟",
-      "summaryZh": "了解OpenAI工程师如何使用Codex Ultrafast在几分钟内调查事件。探索更快的安全分析、代码重构和日常工作流程。",
-      "translated": true,
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-26T07:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "OpenAI on OpenAI",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d7ce1fc1ae36e567a2",
-      "titleOriginal": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-      "summaryOriginal": "首款触屏 MacBook Pro 周四登场 iPhone Duo 开售不到两天即破发 部分用户反馈 iPhone Duo 内屏开裂 企业微信回应账号发送色情引流信息：第三方外挂被攻破，已强制下线受影响账号 OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 AI 越来越贵了，国内大模型均价上涨 98% 曝小云雀并入即梦，字节收拢 AI 视频应用资源 Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 马斯克称 SpaceX 完成 400 亿美元债务融资，用于采购 GPU 蓝思科技第三季度净利润降逾五成，前三季汇兑损失推高财务费用 阿波罗首席经济学家：AI 回报还没体现在科技业以外的利润率上 大众与众 09 上市：限时 16.99 万元起，5 米轿跑用上 5C 超充 CapCut 将接入 ChatGPT，11 月面向手机、桌面和网页端公测 猛士 X700 上市，限时焕新价 20.98 万元起 八位堂《古墓丽影》30 周年手柄开售，把劳拉与失落山谷做成两种设计 致态联名《影之刃零》，TiPlus9100 固态硬盘加入武侠礼盒 《复仇者联盟 5》发布棒球赛",
-      "titleZh": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-      "summaryZh": "首款触屏 MacBook Pro 周四登场 iPhone Duo 开售不到两天即破发 部分用户反馈 iPhone Duo 内屏开裂 企业微信回应账号发送色情引流信息：第三方外挂被攻破，已强制下线受影响账号 OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 AI 越来越贵了，国内大模型均价上涨 98% 曝小云雀并入即梦，字节收拢 AI 视频应用资源 Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 马斯克称 SpaceX 完成 400 亿美元债务融资，用于采购 GPU 蓝思科技第三季度净利润降逾五成，前三季汇兑损失推高财务费用 阿波罗首席经济学家：AI 回报还没体现在科技业以外的利润率上 大众与众 09 上市：限时 16.99 万元起，5 米轿跑用上 5C 超充 CapCut 将接入 ChatGPT，11 月面向手机、桌面和网页端公测 猛士 X700 上市，限时焕新价 20.98 万元起 八位堂《古墓丽影》30 周年手柄开售，把劳拉与失落山谷做成两种设计 致态联名《影之刃零》，TiPlus9100 固态硬盘加入武侠礼盒 《复仇者联盟 5》发布棒球赛",
-      "translated": true,
-      "url": "https://www.ifanr.com/1685755",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-26T00:16:16.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "launch",
-        "早报",
-        "iPhone Duo",
-        "MacBook Pro",
-        "OpenAI"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1758535ac6be3e6bbb",
-      "titleOriginal": "Introducing GPT-6.1 Terra",
-      "summaryOriginal": "Bringing fast and capable computer use to everyone",
-      "titleZh": "Introducing GPT-6.1 Terra",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-26T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Product"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "57cb464eee46683e9d",
-      "titleOriginal": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-      "summaryOriginal": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患 Spotify 将要求家庭组成员定期扫码验证 Arc 浏览器宣布下线 央广总台澄清「国补停止」说法 谷歌建设虚拟电厂，付费激励电网用户省电留给 AI iTunes Store 重受歌手青睐 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "titleZh": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
-      "summaryZh": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患 Spotify 将要求家庭组成员定期扫码验证 Arc 浏览器宣布下线 央广总台澄清「国补停止」说法 谷歌建设虚拟电厂，付费激励电网用户省电留给 AI iTunes Store 重受歌手青睐 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
-      "translated": true,
-      "url": "https://sspai.com/post/117460",
-      "sourceId": "sspai",
-      "sourceName": "少数派",
-      "sourceSite": "https://sspai.com/",
-      "sourceColor": "#d71920",
-      "lang": "zh",
-      "publishedAt": "2026-10-25T23:36:36.000Z",
-      "author": "少数派编辑部",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a6feae291b1a855a0b",
-      "titleOriginal": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summaryOriginal": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "titleZh": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-25T21:31:16.000Z",
-      "author": "Anthony Ha",
-      "tags": [
-        "launch",
-        "AI",
-        "Media & Entertainment",
-        "Elon Musk",
-        "Grok"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c932414b7eb961ad85",
-      "titleOriginal": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-      "summaryOriginal": "Nanbeige LLM Lab has released Nanbeige4.3-33B on Hugging Face under the Apache 2.0 license. Nanbeige4.3-33B is a 33B dense language model built for agentic coding and office-style ‘cowork’ tasks. The lab sits inside the recruitment platform BOSS Zhipin . It also published Nanbeige4.3-33B-Base for custom post-training. The model supports a 524,288-token context window. In the lab’s own table, it leads 17 of 20 benchmarks against 3 open models near 30B. TL;DR Size: 33B parameters, dense (no MoE),",
-      "titleZh": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-25T21:15:21.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "71334093a413753da2",
-      "titleOriginal": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summaryOriginal": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "titleZh": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-25T16:57:32.000Z",
-      "author": "Anthony Ha",
-      "tags": [
-        "news",
-        "AI",
-        "Apollo Global Management",
-        "In Brief"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4cd8b15dd649b7e43a",
-      "titleOriginal": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
-      "summaryOriginal": "Hugging Face has released Carbon-X , an open DNA language model with 14.8B parameters. Carbon-X is a decoder-only model from Hugging Face Bio. It reads raw DNA in a chat and answers in English. It predicts whether mutations are benign or pathogenic, flags regulatory regions, classifies organisms and predicts next bases. The weights ship under Apache 2.0, so labs can keep sensitive sequences on their own GPUs. Hugging Face built it with Zhongguancun Academy and TIGEM / University of Naples Federi",
-      "titleZh": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-25T16:53:40.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0c0ce1d91251a58f08",
-      "titleOriginal": "Seam Cutter",
-      "summaryOriginal": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for exa",
-      "titleZh": "缝合切割机",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Oct/25/seam-cutter/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-25T15:10:19.000Z",
-      "author": "",
-      "tags": [
-        "news",
-        "Prompt",
-        "Image"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4262d71f08be8cdae2",
-      "titleOriginal": "The hottest AI wearables and gadgets you should know about",
-      "summaryOriginal": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "titleZh": "The hottest AI wearables and gadgets you should know about",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-25T14:10:00.000Z",
-      "author": "Lauren Forristal",
-      "tags": [
-        "news",
-        "AI",
-        "Gadgets",
-        "Hardware",
-        "AI wearables"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b366ba776fde8cd439",
-      "titleOriginal": "r/opensource just banned AI, non-English speakers, and more",
-      "summaryOriginal": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\" The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource . Moderator Wolvereness has waded into the comments to...",
-      "titleZh": "r/opensource just banned AI, non-English speakers, and more",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-25T13:25:32.000Z",
-      "author": "Terrence O’Brien",
-      "tags": [
-        "news",
-        "Open Source"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1a4147d6e8f37270d8",
-      "titleOriginal": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-      "summaryOriginal": "Stanford and UC Berkeley researchers released TokenGate , a module for long-context prefill. TokenGate learned token pruning lets an existing LLM skim its input. Only the tokens that matter get full processing. The research team reports 1.4x to 11.3x faster time-to-first-token (TTFT) with no accuracy loss. Peak prefill memory drops 1.5x to 3.4x. Code and checkpoints are on GitHub under Apache-2.0. TL;DR MLP gate: A small MLP gate and LoRA (r=16) added to Qwen3-1.7B or Qwen3.5-2B. Tested on conte",
-      "titleZh": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-25T12:12:18.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Paper Summary",
-        "AI Shorts"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b7ca3dd28f26a14177",
-      "titleOriginal": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "summaryOriginal": "Anthropic has launched OSS Scanner , a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos , against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 launch, Anthropic reported 77 critical and 803 high model-rated findings . TL;DR Scale: 114 projects accepted",
-      "titleZh": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-25T11:32:29.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "838bed703760bf6b10",
-      "titleOriginal": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
-      "summaryOriginal": "",
-      "titleZh": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-10-25T10:30:00.000Z",
-      "author": "蔡芳芳",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cf27b7f7c21c420cef",
-      "titleOriginal": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "summaryOriginal": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
-      "titleZh": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-10-25T10:00:00.000Z",
-      "author": "Molly Taft",
-      "tags": [
-        "analysis",
-        "Science",
-        "Science / Environment",
-        "Business"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bef8b3b865ceee362c",
-      "titleOriginal": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
-      "summaryOriginal": "iPhone Duo 正式开售，大伙都去店里摸过、或者已经拿到新机了吗？ 15999 元起步的国行售价，丝毫没有浇灭大家对这台折叠屏的期待，线下门店预约爆满，官网订单更是排到了明年 1 月下旬。 但就在大家沉浸在开箱的新鲜感中时，二代的消息却猝不及防地来了。 彭博社记者 Mark Gurman 在最新一期《Power On》播客中爆料：苹果内部已经在测试 iPhone Duo 2 的原型机，有两个关键变化——外屏屏下 Face ID，以及操作按钮（Action Button）的回归。 一个月前，外界还推测 Face ID 至少要等到第三代折叠屏才有可能解决；现在，最新的爆料显示，它的回归或许比我们想得更早一些。 让解锁再次隐形 在形态和交互上，iPhone Duo 这次跟以往的 iPhone 比起来不可谓不大。 在 首发评测一周多的体验下来 ，屏幕开合时的细腻阻尼、半折悬停时的优雅动画，以及把操控留给边角、把大屏留给内容的排布方式，都让爱范儿印象深刻。 但回到最基础的日常使用，它身上也充满了一些「很不 iPhone」的地方，最直接的便是从 Face ID 换回了 Touch ID...",
-      "titleZh": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
-      "summaryZh": "iPhone Duo 正式开售，大伙都去店里摸过、或者已经拿到新机了吗？ 15999 元起步的国行售价，丝毫没有浇灭大家对这台折叠屏的期待，线下门店预约爆满，官网订单更是排到了明年 1 月下旬。 但就在大家沉浸在开箱的新鲜感中时，二代的消息却猝不及防地来了。 彭博社记者 Mark Gurman 在最新一期《Power On》播客中爆料：苹果内部已经在测试 iPhone Duo 2 的原型机，有两个关键变化——外屏屏下 Face ID，以及操作按钮（Action Button）的回归。 一个月前，外界还推测 Face ID 至少要等到第三代折叠屏才有可能解决；现在，最新的爆料显示，它的回归或许比我们想得更早一些。 让解锁再次隐形 在形态和交互上，iPhone Duo 这次跟以往的 iPhone 比起来不可谓不大。 在 首发评测一周多的体验下来 ，屏幕开合时的细腻阻尼、半折悬停时的优雅动画，以及把操控留给边角、把大屏留给内容的排布方式，都让爱范儿印象深刻。 但回到最基础的日常使用，它身上也充满了一些「很不 iPhone」的地方，最直接的便是从 Face ID 换回了 Touch ID...",
-      "translated": true,
-      "url": "https://www.ifanr.com/1685622",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-25T04:10:44.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "guide",
-        "产品",
-        "iPhone Duo",
-        "折叠屏手机"
-      ],
-      "category": "guide",
-      "readingMinutes": 3
-    },
-    {
-      "id": "770c71828f233d3911",
-      "titleOriginal": "Will AI expose the rickety infrastructure of the internet?",
-      "summaryOriginal": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "titleZh": "Will AI expose the rickety infrastructure of the internet?",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-24T20:15:33.000Z",
-      "author": "Anthony Ha",
-      "tags": [
-        "news",
-        "AI",
-        "Security",
-        "Equity podcast",
-        "php"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b0af889ad05fbb7fe5",
-      "titleOriginal": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summaryOriginal": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "titleZh": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "author": "Lauren Forristal",
-      "tags": [
-        "launch",
-        "AI",
-        "evergreens",
-        "Microsoft",
-        "OpenAI"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "35d668020c86331624",
-      "titleOriginal": "Block’s new voice model sounds eerily human",
-      "summaryOriginal": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has.",
-      "titleZh": "Block’s new voice model sounds eerily human",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-24T16:00:00.000Z",
-      "author": "Ivan Mehta",
-      "tags": [
-        "news",
-        "AI",
-        "block",
-        "jack dorsey",
-        "voice AI"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "110fd09f65f25a52d9",
-      "titleOriginal": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summaryOriginal": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-      "titleZh": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "author": "Rebecca Bellan",
-      "tags": [
-        "research",
-        "AI",
-        "Government & Policy",
-        "ChatGPT",
-        "Elon Musk"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0d4ae8a7dd392962ca",
-      "titleOriginal": "Here are the top AI agents that can live in your text messages",
-      "summaryOriginal": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "titleZh": "Here are the top AI agents that can live in your text messages",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-24T14:00:00.000Z",
-      "author": "Lauren Forristal",
-      "tags": [
-        "news",
-        "AI",
-        "AI agents",
-        "instinct",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9865b391edef9d7b36",
-      "titleOriginal": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "summaryOriginal": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
-      "titleZh": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "author": "Lily Hay Newman, Matt Burgess",
-      "tags": [
-        "analysis",
-        "Security"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11537,7 +11519,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 24
+      "count": 25
     },
     {
       "id": "deepmind",
@@ -11553,7 +11535,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 78
+      "count": 75
     },
     {
       "id": "theverge",
@@ -11561,7 +11543,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 45
+      "count": 44
     },
     {
       "id": "mittr",
@@ -11577,7 +11559,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 26
+      "count": 24
     },
     {
       "id": "thedecoder",
@@ -11593,7 +11575,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 33
+      "count": 31
     },
     {
       "id": "simonwillison",
@@ -11617,7 +11599,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 11
+      "count": 13
     },
     {
       "id": "ifanr",
@@ -11625,7 +11607,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 31
+      "count": 30
     },
     {
       "id": "sspai",
@@ -11633,7 +11615,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 3
+      "count": 2
     },
     {
       "id": "tmtpost",
@@ -11641,7 +11623,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 116
+      "count": 121
     },
     {
       "id": "infoq",
@@ -11649,13 +11631,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 52
+      "count": 54
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 52,
-    "translated": 224,
+    "guides": 53,
+    "translated": 235,
     "sources": 14
   }
 }
