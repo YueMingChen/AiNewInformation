@@ -1,6 +1,173 @@
 {
-  "generatedAt": "2026-11-03T19:36:13.561Z",
+  "generatedAt": "2026-11-04T00:41:23.253Z",
   "articles": [
+    {
+      "id": "16372623ec24345171",
+      "titleOriginal": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+      "summaryOriginal": "国行 Apple 智能开启测试，Siri、写作工具与视觉智能接入千问 苹果天气出现数据异常，多地下周五「跌至」零下 32 度 苹果向所有开发者开放 Siri AI，可将多个 App 动作串成任务 GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 OpenAI 用 Astra 一周设计语音 Codex 设备，并与马自达合作研究 曝 DeepSeek V5 拟用昇腾预训练 DeepSeek 又崩了 红果用户规模超越豆包，千问领跑亿级 App 增速榜 盗用 AI 平台算力，上海一男子获刑三年 中兴否认出售手机业务传闻 Claude Code 产品负责人 Cat Wu 离开 Anthropic 姚顺宇否认创业：仍是 Google DeepMind 员工 多所高校免费发 Token，同济每周提供 1 亿 Token 蔚来累计换电突破 1.3 亿次，最近 1000 万次用时 88 天 Seedance 海外收入占比达一半，腾讯与 B 站成为国内大客户 AMD 数据中心收入接近翻倍，第四季度营收指引达 170 亿美元 阿里董事会主席：只有开源才能普及 AI 英伟达与 Pika 基于 Mi",
+      "titleZh": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+      "summaryZh": "国行 Apple 智能开启测试，Siri、写作工具与视觉智能接入千问 苹果天气出现数据异常，多地下周五「跌至」零下 32 度 苹果向所有开发者开放 Siri AI，可将多个 App 动作串成任务 GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 OpenAI 用 Astra 一周设计语音 Codex 设备，并与马自达合作研究 曝 DeepSeek V5 拟用昇腾预训练 DeepSeek 又崩了 红果用户规模超越豆包，千问领跑亿级 App 增速榜 盗用 AI 平台算力，上海一男子获刑三年 中兴否认出售手机业务传闻 Claude Code 产品负责人 Cat Wu 离开 Anthropic 姚顺宇否认创业：仍是 Google DeepMind 员工 多所高校免费发 Token，同济每周提供 1 亿 Token 蔚来累计换电突破 1.3 亿次，最近 1000 万次用时 88 天 Seedance 海外收入占比达一半，腾讯与 B 站成为国内大客户 AMD 数据中心收入接近翻倍，第四季度营收指引达 170 亿美元 阿里董事会主席：只有开源才能普及 AI 英伟达与 Pika 基于 Mi",
+      "translated": true,
+      "url": "https://www.ifanr.com/1687477",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-04T00:26:05.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "research",
+        "早报",
+        "Claude Code",
+        "GPT-6 Astra",
+        "OpenAI"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "64fbdbf83ed120a56d",
+      "titleOriginal": "Please stop asking me when the AI bubble will pop",
+      "summaryOriginal": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my mo",
+      "titleZh": "请不要再问我AI泡沫什么时候会弹出",
+      "summaryZh": "太平洋投资管理公司（ PIMCO ）首席执行官Emmanuel Roman于2026年11月3日星期二在中国香港举行的全球金融领袖投资峰会上发言。|彭博社（ Bloomberg ）通过Getty Images People ，包括这位员工，不断以不同程度的兴奋或恐惧询问我人工智能泡沫何时会破裂。我会告诉你我告诉他们的：如果我知道这一点，我会在市场上做出改变生活的赌注，尽我所能地杠杆化，然后，在我做完我的月",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-03T23:37:45.000Z",
+      "author": "Elizabeth Lopatto",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "97bca547ba4e5949d5",
+      "titleOriginal": "【钛晨报】报告提出下一步中国金融工作有5方面考虑；中兴拟成立合资公司出售手机业务，回应称“不属实”｜独家；百度否认昆仑芯IPO推迟",
+      "summaryOriginal": "【钛媒体综合】据新华社，国务院关于金融工作情况的报告11月3日提请十四届全国人大常委会第二十五次会议审议。 报告从继续实施好适度宽松的货币政策、进一步加强和完善金融监管、提升金融服务实体经济适配性等5方面介绍了我国金融工作下一步考虑。 报告显示，2025年10月以来，金融系统提升服务实体经济质效，全面加强金融监管，深化金融改革和高水平开放，维护金融稳定和国家金融安全，各项工作取得新的成效。 报告中的一组数据反映出金融支持实体经济的情况：2025年10月至2026年9月，社会融资规模新增33万亿元；沪深A股88家企业首次公开发行股票，融资2472亿元，其中近九成为高新技术企业。2026年9月末，金融“五篇大文章”贷款同比增长10.1%。自2025年5月创设以来，债券市场“科技板”累计发行科技创新债券3.3万亿元。 根据报告，下一步我国金融工作有5方面考虑。 在继续实施好适度宽松的货币政策方面，综合运用多种工具，保持流动性充裕，持续评估完善货币政策框架等。在进一步加强和完善金融监管方面，严厉打击非法金融活动，探索人工智能在金融管理和服务领域的应用，加强金融消费者权益保护等。 在提升金融服务",
+      "titleZh": "【钛晨报】报告提出下一步中国金融工作有5方面考虑；中兴拟成立合资公司出售手机业务，回应称“不属实”｜独家；百度否认昆仑芯IPO推迟",
+      "summaryZh": "【钛媒体综合】据新华社，国务院关于金融工作情况的报告11月3日提请十四届全国人大常委会第二十五次会议审议。 报告从继续实施好适度宽松的货币政策、进一步加强和完善金融监管、提升金融服务实体经济适配性等5方面介绍了我国金融工作下一步考虑。 报告显示，2025年10月以来，金融系统提升服务实体经济质效，全面加强金融监管，深化金融改革和高水平开放，维护金融稳定和国家金融安全，各项工作取得新的成效。 报告中的一组数据反映出金融支持实体经济的情况：2025年10月至2026年9月，社会融资规模新增33万亿元；沪深A股88家企业首次公开发行股票，融资2472亿元，其中近九成为高新技术企业。2026年9月末，金融“五篇大文章”贷款同比增长10.1%。自2025年5月创设以来，债券市场“科技板”累计发行科技创新债券3.3万亿元。 根据报告，下一步我国金融工作有5方面考虑。 在继续实施好适度宽松的货币政策方面，综合运用多种工具，保持流动性充裕，持续评估完善货币政策框架等。在进一步加强和完善金融监管方面，严厉打击非法金融活动，探索人工智能在金融管理和服务领域的应用，加强金融消费者权益保护等。 在提升金融服务",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8192223.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-03T23:20:00.000Z",
+      "author": "钛媒体官方账号",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "钛早了！晨报"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f901cc10a3c48e36b7",
+      "titleOriginal": "Anthropic is working on a system to prove AI models’ identity",
+      "summaryOriginal": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+      "titleZh": "Anthropic正在开发一个系统来证明人工智能模型的身份",
+      "summaryZh": "这个名为FlashProve的系统可以让任何人检查AI响应是否真正来自它声称的模型。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "author": "Russell Brandom",
+      "tags": [
+        "news",
+        "AI",
+        "Anthropic",
+        "cryptography",
+        "inference"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "59cb8a96ca92b79ec6",
+      "titleOriginal": "Data centers are turning to old jet engines as the wait for power grows",
+      "summaryOriginal": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+      "titleZh": "随着等待动力的增加，数据中心正在转向旧的喷气发动机",
+      "summaryZh": "对接入电网和新涡轮机的长时间等待导致数据中心建设者转向一种不寻常、效率较低且不太环保的解决方案：一次性废弃的喷气发动机。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-03T22:19:53.000Z",
+      "author": "Aditya Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "data centers"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2b36c11db6276768e8",
+      "titleOriginal": "Anthropic Releases FlashProve: Cryptographic Proofs That a Reply Came From Committed Weights",
+      "summaryOriginal": "Anthropic’s Frontier Red Team has released FlashProve , an open-source research prototype for provable inference . FlashProve is a zkSNARK system from Anthropic that proves a reply came from a committed model. The proof reveals nothing about the model weights. On Llama 4 Maverick , a 400B mixture-of-experts model, it proves about 110 tokens/second on 1 H100. For developers, this targets a real gap: today you cannot check which model actually answered your API call. TL;DR Size: Proves a 400B MoE",
+      "titleZh": "Anthropic发布FlashProve ：回复来自承诺权重的加密证明",
+      "summaryZh": "Anthropic的Frontier Red Team发布了FlashProve ，这是一个可证明推理的开源研究原型。FlashProve是来自Anthropic的zkSNARK系统，可证明回复来自承诺模型。证明没有透露任何关于模型权重的信息。在400B混合专家模型Llama 4 Maverick上，它在1 H100上证明了大约110个代币/秒。对于开发人员来说，这瞄准了一个真正的差距：今天，您无法检查哪个模型实际上应答了您的API调用。TL ； DR尺寸：证明400B MoE",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/03/anthropic-flashprove-provable-inference-zksnark/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-03T22:08:22.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d37889a9ebdda005e9",
+      "titleOriginal": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "summaryOriginal": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "titleZh": "Ted Schlein的Ballistic Ventures在人工智能驱动的网络安全热潮中寻求4.9亿美元的新资金",
+      "summaryZh": "专注于网络安全的Ballistic Ventures正寻求为新的旗舰基金筹集3.6亿美元，并为单独的投资工具筹集1.3亿美元。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-03T21:43:08.000Z",
+      "author": "Jagmeet Singh",
+      "tags": [
+        "news",
+        "AI",
+        "Security",
+        "Venture",
+        "Ballistic Ventures"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "f64fa77097be32e5dd",
       "titleOriginal": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
@@ -23,6 +190,172 @@
       "readingMinutes": 2
     },
     {
+      "id": "dd34e5bf1c5e6fe6fe",
+      "titleOriginal": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "summaryOriginal": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+      "titleZh": "躲在Palantir飞涨的街区是一个不祥的信号",
+      "summaryZh": "Palantir的美国商业收入有史以来第一次超过了美国政府收入。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-03T21:05:55.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "TC",
+        "Palantir"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "39cfcbde58ede335eb",
+      "titleOriginal": "Those Jeff Bezos hair transplant photos are very fake",
+      "summaryOriginal": "These edits of Jason Statham (left) and Jeff Bezos are a bit jarring, but that’s sort of the point. | Image: The Verge Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some images of the two men circulating around X , Threads , and Bluesky in which they both have substantially more hair than their usual shaved look, which in Bezos' case appears to be very",
+      "titleZh": "那些杰夫·贝索斯的头发移植照片很假",
+      "summaryZh": "Jason Statham （左）和Jeff Bezos的这些编辑有点令人不安，但这就是重点。|图片： The Verge亚马逊创始人杰夫·贝索斯（ Jeff Bezos ）和演员杰森·斯坦森（ Jason Statham ）有一个共同的特征：他们都是著名的秃头，在过去的几天里，这一点绝对没有改变。然而，有一些两名男子在X ， Threads和Bluesky周围循环的图像，他们的头发都比他们通常的剃光外观多得多，在贝索斯的情况下，这似乎非常",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-03T21:01:07.000Z",
+      "author": "Jess Weatherbed",
+      "tags": [
+        "news",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "90a8b08254cc90bec8",
+      "titleOriginal": "NVIDIA Shows 3 Ways to Speed Up MoE Inference on DGX Spark, Lifting Ling-3.0-flash Throughput 42.5%",
+      "summaryOriginal": "NVIDIA’s latest technical blog shows how to speed up mixture-of-experts (MoE) inference on one DGX Spark . The test model is Ant Group inclusionAI’s Ling-3.0-flash , a 124B-parameter MoE with 5.1B active parameters. NVIDIA stacked three optimizations: a new MoE kernel backend, an FP8 output layer and built-in speculative decoding. On all 1,319 GSM8K questions, decode throughput rose 42.5% with no statistically detectable accuracy change. So why is it relevant for Devs? DGX Spark is a desktop sys",
+      "titleZh": "NVIDIA展示了3种方法来加速DGX Spark的MoE推断，提升Ling-3.0-flash吞吐量42.5%",
+      "summaryZh": "NVIDIA最新的技术博客展示了如何在一个DGX Spark上加速专家混合(MoE)推理。测试模型是Ant Group inclusionAI的Ling-3.0-flash ，这是一种124B参数的MoE ，具有5.1B活动参数。英伟达堆叠了三种优化：新的MoE内核后端、FP8输出层和内置的投机解码。在所有1,319个GSM8K问题中，解码吞吐量提高了42.5% ，没有统计学上可检测到的准确性变化。那么，为什么它与开发人员相关？ DGX Spark是一个桌面系统",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/03/nvidia-dgx-spark-moe-inference-ling-3-0-flash/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-03T20:28:22.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "guide",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "af914e6869a5456991",
+      "titleOriginal": "Soniox STT v6 Adds Agent Text Input and Echo Filtering for Voice Agents",
+      "summaryOriginal": "Soniox has released Soniox STT v6 , the latest generation of its speech-to-text API. Soniox STT v6 is a speech-to-text model that reads what a voice agent says while hearing the caller. It uses that text to recognize short replies and to drop the agent’s own voice. The release ships as stt-rt-v6 for streaming and stt-async-v6 for files , across 60+ languages. TL;DR Size: Soniox STT v6 is a proprietary hosted model, no parameter count published. Runs on: Soniox cloud API only (WebSocket streaming",
+      "titleZh": "Soniox STT v6为语音座席添加了座席文本输入和回声过滤",
+      "summaryZh": "Soniox发布了Soniox STT v6 ，这是其最新一代的语音转文本API。Soniox STT v6是一种语音转文本模型，可以在听到呼叫者时读取语音座席所说的内容。它使用该文本来识别简短的回复，并删除客服代表自己的声音。该版本以stt-rt-v6的形式发布，用于流媒体， stt-async-v6用于文件，支持60多种语言。TL; DR尺寸： Soniox STT v6是专有的托管型号，未发布参数计数。运行于：仅Soniox云API （ WebSocket流媒体",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/03/soniox-stt-v6-agent-text-input-echo-cancellation/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-03T20:18:22.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Webinars",
+        "Artificial Intelligence",
+        "Audio Language Model"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "49792679d79fe36cfc",
+      "titleOriginal": "Apple starts giving Siri AI access to third-party apps",
+      "summaryOriginal": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to complete requests. The update, which is rolling out as part of a Developer Preview, also adds a new \"app skills\" feature that third-party developers can create to",
+      "titleZh": "苹果开始授予Siri AI访问第三方应用的权限",
+      "summaryZh": "苹果现在将允许Siri AI跨第三方应用执行操作。作为周二推出的iOS 27.3更新的一部分，苹果宣布开发人员现在可以在“所有应用程序”中集成Siri AI的新功能，允许语音助手利用用户的个人上下文，处理自然语言提示，并使用屏幕感知来完成请求。该更新作为开发人员预览版的一部分推出，还添加了一个新的“应用技能”功能，第三方开发人员可以创建该功能",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-03T20:16:17.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9f8f59b5f39510291d",
+      "titleOriginal": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+      "summaryOriginal": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances. A newer internal model scores significantly higher on OpenAI's engineering benchmark, though the company isn't sharing details. The article OpenAI says GPT-6 Astra designed a hardware device from",
+      "titleZh": "OpenAI表示， GPT-6 Astra在不到一周的时间内从头开始设计硬件设备",
+      "summaryZh": "OpenAI的硬件团队使用GPT-6 Astra在一周内为Codex编码代理设计了一个设备，处理从外壳到电路板再到固件的所有事情。生产前需要进行几轮修订，因为模型并不总是考虑制造公差。较新的内部模型在OpenAI的工程基准上得分要高得多，尽管该公司没有透露细节。OpenAI的文章说GPT-6 Astra设计了一种硬件设备，",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-03T20:15:45.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Hardware"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "52a96f5e278bf28a4a",
+      "titleOriginal": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+      "summaryOriginal": "Stanford researchers tested 50 widely cited claims about LLMs against 20 current models. 44 percent of the findings are already \"expired,\" and another 34 percent have weakened significantly. The average lifespan is just 15.7 months. Claims about what models can't do expire fastest. The article Rapid LLM development is outrunning the research meant to explain it, study finds appeared first on The Decoder .",
+      "titleZh": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-03T19:41:43.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "c69664e34de229c669",
       "titleOriginal": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "summaryOriginal": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
@@ -42,7 +375,7 @@
         "AI",
         "Startups",
         "Bessemer Venture Partners",
-        "inference"
+        "In Brief"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -198,6 +531,27 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7b04a568c5adccd6e0",
+      "titleOriginal": "Agentic cheminformatics with Google Antigravity",
+      "summaryOriginal": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "titleZh": "Agentic cheminformatics with Google Antigravity",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-11-03T17:01:49.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -441,8 +795,8 @@
         "news",
         "AI and society",
         "Artificial Intelligence",
-        "Short News",
-        "OpenAI"
+        "OpenAI",
+        "USA"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -514,8 +868,8 @@
     },
     {
       "id": "954137d8d070f957ce",
-      "titleOriginal": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-      "summaryOriginal": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+      "titleOriginal": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
+      "summaryOriginal": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
       "titleZh": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
       "summaryZh": "",
       "translated": false,
@@ -529,10 +883,10 @@
       "author": "TechCrunch Events",
       "tags": [
         "news",
-        "TC",
-        "Startups",
-        "Crypto",
-        "Climate"
+        "AI",
+        "Biotech & Health",
+        "Climate",
+        "Crypto"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -1022,6 +1376,27 @@
       "summaryZh": "了解Heimstaden如何使用OpenAI的ChatGPT Enterprise和Codex来改变整个欧洲的物业管理、削减成本并赋予员工权力。",
       "translated": true,
       "url": "https://openai.com/index/heimstaden",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a2357e701f020223b3",
+      "titleOriginal": "How Cisco defends at machine speed with OpenAI",
+      "summaryOriginal": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "titleZh": "How Cisco defends at machine speed with OpenAI",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/cisco-cyber",
       "sourceId": "openai",
       "sourceName": "OpenAI",
       "sourceSite": "https://openai.com/news",
@@ -1556,6 +1931,28 @@
         "微软"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3d509e27bae229a3dd",
+      "titleOriginal": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summaryOriginal": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "titleZh": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Company"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -5399,6 +5796,27 @@
       "readingMinutes": 2
     },
     {
+      "id": "094c331a98fae89424",
+      "titleOriginal": "Speeding up planning decisions with AI",
+      "summaryOriginal": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "titleZh": "Speeding up planning decisions with AI",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-10-30T14:18:30.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "40aed769d1c2e6f775",
       "titleOriginal": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
       "summaryOriginal": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
@@ -8520,6 +8938,27 @@
       "readingMinutes": 2
     },
     {
+      "id": "bbd4d7a8dcb56d48e7",
+      "titleOriginal": "Evernote turns AI-driven discovery into paid subscriptions",
+      "summaryOriginal": "Evernote used ChatGPT Ads to introduce its note-taking app to people working with AI. The team tracked how often free trials led to paid subscriptions.",
+      "titleZh": "Evernote turns AI-driven discovery into paid subscriptions",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/ads/customers/evernote",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-28T19:40:49.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "fd580bd0716cdc3bc5",
       "titleOriginal": "iPad mini 首发上手：体验无可替代，刀法无人能及",
       "summaryOriginal": "1、2、3！苹果连续三天的新品发布如今终于来到尾声。 很有仪式感地，最后一天的发布从线上转到了洛杉矶特别体验活动现场，这几天发布的新款 iPad、iMac 和 MacBook 也终于齐聚一堂。 爱范儿的同事也已经来到现场，为我们带来最新鲜的上手体验。 在这轮新品中率先登场的，正是时隔两年终于迎来更新的 iPad mini。 这两年里，整个消费电子行业被裹挟进新一轮的 AI 浪潮之中，内存等元器件紧缺导致的价格暴涨已是既成事实；既然新品涨价不可避免，苹果似乎也随之调整了 iPad mini 的定位—— 配备上 OLED、2nm 制程 A20 Pro 芯片、IP67 抗水防尘和首发的 Acoustic Display 音频技术后，全新的 iPad mini（A20 Pro）可谓从娱乐用的随身小平板，变为了一台 Pro 级别的设备。 但拧巴的是， 这台「应有尽有」的新品唯独缺少了对体验至关重要的 120Hz 高刷 。 只能说，苹果为了维持 iPad 设备之间的差序格局，故意不小心地遗忘了这个最明显的升级点。 世子之争，向来如此啊！ mini 的价格，Pro 的待遇 做大事的设备，往往不会太张",
@@ -11053,446 +11492,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "a878112837ec2938a4",
-      "titleOriginal": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "summaryOriginal": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "titleZh": "General Compute筹集了1亿美元的A轮融资，以对抗新云灾难的叙述",
-      "summaryZh": "General Compute押注于Nvidia生态系统之外的推理芯片。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "author": "Tim Fernholz",
-      "tags": [
-        "news",
-        "AI",
-        "Fundraising",
-        "abstract ventures",
-        "blackbird ventures"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c3f55709f5e3f7eaef",
-      "titleOriginal": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "summaryOriginal": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "titleZh": "Opera引入了新的网络标准，允许用户在浏览器中本地部署AI",
-      "summaryZh": "新标准WebAI旨在与各种AI模型配合使用。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "author": "Lucas Ropek",
-      "tags": [
-        "news",
-        "AI",
-        "TC",
-        "Opera"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "016fe7e918e720206f",
-      "titleOriginal": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
-      "summaryOriginal": "Mirendil has released Fern , its first AI model. Mirendil Fern is a from-scratch coding model with a context window of up to 10M tokens. Mirendil explains how that equals about 23 MB of code, or roughly half a million lines. That is a codebase on the scale of Megatron-LM, held in context at once. Fern 0.1 is the first version, built from Mirendil-Base after a short round of post-training. For developers, its like, you load a whole repo, a full training log or days of agent traces at once. TL;DR",
-      "titleZh": "Mirendil推出首款搭载1000万代币的Fern 0.1",
-      "summaryZh": "Mirendil发布了其首个人工智能模型Fern。Mirendil Fern是一个从头开始的编码模型，上下文窗口最多可达1000万个令牌。Mirendil解释说，这相当于大约23 MB的代码，即大约50万行。这是一个密卡登-LM规模的代码库，同时保存在上下文中。FERN 0.1是第一个版本，由Mirendil-Base在经过短期培训后构建而成。对于开发人员来说，您可以一次加载整个存储库、完整的培训日志或代理跟踪天数。TL; DR",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-27T12:57:46.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3b0550dad519457536",
-      "titleOriginal": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "summaryOriginal": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation. The article OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI prod",
-      "titleZh": "OpenAI要求包括诺贝尔奖获得者在内的外部专家检查其在数学、计算机科学和物理学方面产生的人工智能证明",
-      "summaryZh": "OpenAI表示，其内部人工智能模型已经破解了数学、计算机科学和物理学的三个主要开放性问题。其中一个是著名的千禧年奖品问题的一部分，每个奖品都有$ 100万的奖金。包括诺贝尔奖获得者在内的外部专家现在正在检查这些证据是否成立。如果计算机科学的证据自行成立，数百篇研究论文就会失去基础。OpenAI的文章要求包括诺贝尔奖获得者在内的外部专家检查其人工智能产品的证据",
-      "translated": true,
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-27T12:37:24.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "research",
-        "AI research",
-        "Artificial Intelligence",
-        "AI and science",
-        "OpenAI"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d5687e413b3d1e2470",
-      "titleOriginal": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
-      "summaryOriginal": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder .",
-      "titleZh": "OpenAI的合作伙伴内容将在ChatGPT中预先总结，而网络的其余部分将获得原始废料",
-      "summaryZh": "来自OpenAI许可合作伙伴的内容似乎通过专用管道流入ChatGPT ，使其优先于网络其他部分。OpenAI的合作伙伴内容在ChatGPT中预先总结，而网络的其余部分获得原始废料，首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-27T11:39:24.000Z",
-      "author": "Jonathan Kemper",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "ChatGPT"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "791dee979bca0b20bc",
-      "titleOriginal": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
-      "summaryOriginal": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared first on The Decoder .",
-      "titleZh": "Anthropic利用其IPO信件重申其承诺，即Claude将永远不会展示广告",
-      "summaryZh": "Anthropic表示，它将不让Claude看到广告。在IPO申请的求职信中，该公司认为聊天机器人的唯一动机应该是提供有用的答案。Anthropic利用其IPO信件重申其承诺，即Claude永远不会在The Decoder上首次展示广告。",
-      "translated": true,
-      "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-27T11:20:51.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Anthropic"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9dbb9e5222c01ce065",
-      "titleOriginal": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summaryOriginal": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor variation deserves a closer look. A procedure can describe the sequence, but successful execution depends on the judgment that come",
-      "titleZh": "工业智能：制造业的下一个增长机会",
-      "summaryZh": "每个制造商都有自己的工业智能。有些是有记录的，有些则是经验丰富的工人所掌握的知识。考虑一位经验丰富的操作人员准备在切换后重新启动生产线。机器设置很重要，但了解特定材料的行为、上一个班次中发生的事情以及什么时候明显的微小变化值得仔细研究也很重要。程序可以描述顺序，但成功执行取决于随之而来的判断",
-      "translated": true,
-      "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-10-27T11:19:18.000Z",
-      "author": "Michael MacKenzie",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "sponsored"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8ac5390a5cf04983b6",
-      "titleOriginal": "静水湖创投盲池基金完成二关：一家早期VC的克制与节奏",
-      "summaryOriginal": "近期，静水湖创投二期盲池基金完成第二次关账。 在首关基础上，本轮扩募约30%，新进LP是上海静安资本、 市北高新 股份（600604）全资子公司上海聚能湾和 南京银行 旗下母基金，首关LP无锡惠萃恒益母基金等继续同比例追加。从启动到关账，历时四个多月。 在人民币基金募资端，这算不上一个惊人的数字。但对这家过去老LP复投为主的早期VC来说，这是一次结构性的变化。以新LP为主的资金，带来了一套完全不同的审视标准。 智客Zhiker与静水湖创投创始管理合伙人张毅进行了一次对话。这次对话里出现最多的词不是规模，而是克制。 当所有人在今年趋热的市场环境里都想募得更多时，这家机构为什么不适当拉长募集时间和扩大募资范围，只多拿30%？ 01 新LP的尺子 这一轮的钱以新LP为主。 张毅表示，除了资金本身，新LP所带来的协同资源同样重要。静安资本背后是上海静安区，在数据智能与AI下游创新应用方向有明确的产业政策支持；市北高新是上市公司，同时控股 数据港 ，是上海中心城区重要的算力基础设施与云服务提供方；南京银行除了在基金投资端的支持，还有一张覆盖面很广的客户网络，能给被投企业提供从早期一路到资本市场的",
-      "titleZh": "静水湖创投盲池基金完成二关：一家早期VC的克制与节奏",
-      "summaryZh": "近期，静水湖创投二期盲池基金完成第二次关账。 在首关基础上，本轮扩募约30%，新进LP是上海静安资本、 市北高新 股份（600604）全资子公司上海聚能湾和 南京银行 旗下母基金，首关LP无锡惠萃恒益母基金等继续同比例追加。从启动到关账，历时四个多月。 在人民币基金募资端，这算不上一个惊人的数字。但对这家过去老LP复投为主的早期VC来说，这是一次结构性的变化。以新LP为主的资金，带来了一套完全不同的审视标准。 智客Zhiker与静水湖创投创始管理合伙人张毅进行了一次对话。这次对话里出现最多的词不是规模，而是克制。 当所有人在今年趋热的市场环境里都想募得更多时，这家机构为什么不适当拉长募集时间和扩大募资范围，只多拿30%？ 01 新LP的尺子 这一轮的钱以新LP为主。 张毅表示，除了资金本身，新LP所带来的协同资源同样重要。静安资本背后是上海静安区，在数据智能与AI下游创新应用方向有明确的产业政策支持；市北高新是上市公司，同时控股 数据港 ，是上海中心城区重要的算力基础设施与云服务提供方；南京银行除了在基金投资端的支持，还有一张覆盖面很广的客户网络，能给被投企业提供从早期一路到资本市场的",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183791.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T11:18:39.000Z",
-      "author": "智客ZhiKer",
-      "tags": [
-        "news",
-        "一级市场",
-        "融资"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b007bafd9ff10551e0",
-      "titleOriginal": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summaryOriginal": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "titleZh": "英伟达支持印度初创公司帮助公司使用更少的GPU运行人工智能模型",
-      "summaryZh": "Simplismart表示，其年化收入运行率在六个月内增长了14倍，其中美国占其收入的一半以上。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-27T11:00:00.000Z",
-      "author": "Jagmeet Singh",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "Accel",
-        "Exclusive"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8923f51bcf388f7b9b",
-      "titleOriginal": "AI Agents Are Media’s New Favorite Audience",
-      "summaryOriginal": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
-      "titleZh": "人工智能代理是媒体最喜爱的新受众",
-      "summaryZh": "随着代理商成为主流，一些出版商希望人们能够为为人工智能量身定制的内容付费，而不是为人类量身定制的内容付费。",
-      "translated": true,
-      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-10-27T11:00:00.000Z",
-      "author": "Kate Taylor",
-      "tags": [
-        "analysis",
-        "Business",
-        "Agent"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "80d9e9b7197cdb9721",
-      "titleOriginal": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-      "summaryOriginal": "（本文作者为 Alter，钛媒体经授权发布） 文 | Alter 2026年10月的大模型行业，上演了两套截然相反的叙事。 如果只看传统基准测试的成绩单，主流模型似乎已经把考卷做穿了。 据第三方评测聚合平台 BenchLM 截至 10 月 26 日的统计，在其追踪的 710 个基准中，有 295 个是具备实际覆盖度的百分制基准，其中 105 个（约 36%）已经彻底“饱和”，榜首得分全部在 90 分以上。 当分数全部挤在天花板附近，差出一两分究竟是因为模型更强，还是提示词和采样的随机波动，已经没人分得清。 就在过去一个多月里，数据标注与评测公司 Surge AI，连续抛出的三份面向真实职场的新考卷，把一众旗舰模型拉回到了及格线以下： sudo L7（资深工程师级编程评测）：60 道来自真实生产代码库的任务。排行榜上，Claude Opus 5.5 与 Sonnet 5.5 并列第一，通过率仅为41.7%；OpenAI 的GPT-6 Astra 为 33.9%；10 月 6 日刚以预览版上线的Mistral Large 4，得分只有 11.7%。 GDP.xlsx（跨行业复杂表格评测）：",
-      "titleZh": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-      "summaryZh": "（本文作者为 Alter，钛媒体经授权发布） 文 | Alter 2026年10月的大模型行业，上演了两套截然相反的叙事。 如果只看传统基准测试的成绩单，主流模型似乎已经把考卷做穿了。 据第三方评测聚合平台 BenchLM 截至 10 月 26 日的统计，在其追踪的 710 个基准中，有 295 个是具备实际覆盖度的百分制基准，其中 105 个（约 36%）已经彻底“饱和”，榜首得分全部在 90 分以上。 当分数全部挤在天花板附近，差出一两分究竟是因为模型更强，还是提示词和采样的随机波动，已经没人分得清。 就在过去一个多月里，数据标注与评测公司 Surge AI，连续抛出的三份面向真实职场的新考卷，把一众旗舰模型拉回到了及格线以下： sudo L7（资深工程师级编程评测）：60 道来自真实生产代码库的任务。排行榜上，Claude Opus 5.5 与 Sonnet 5.5 并列第一，通过率仅为41.7%；OpenAI 的GPT-6 Astra 为 33.9%；10 月 6 日刚以预览版上线的Mistral Large 4，得分只有 11.7%。 GDP.xlsx（跨行业复杂表格评测）：",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183550.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:42:42.000Z",
-      "author": "Alter",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "79f3f8b0ce4baf348a",
-      "titleOriginal": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
-      "summaryOriginal": "今天下午，Rokid 发布了新一代带显示的 AI 眼镜 Rokid Glasses 2，爱范儿也是提前体验了一个星期。 我平时不戴眼镜，所以每次拿到智能眼镜，我都会先想一件事：它得有多好用，才能让我愿意每天都戴着呢？ 眼镜首先要戴着舒服、好看 刚看到这对「雷霆大鼻托」的时候我觉得，怎么能做这么大？戴上之后，好吧，大有大的道理。接触面积大，材质又软，架在鼻梁上的感觉确实舒服。 再加上这次镜腿能向外扩开不少，头型偏大的人也能戴得自在一些。 当然，舒服归舒服，还是得好看才愿意戴出门。 Rokid Glasses 2 的框型方中带圆，不怎么挑脸型。镜框正面只在摄像头的位置开了孔，左边的提示灯藏了起来，不亮的时候不太注意得到，拍摄时亮起来又足够显眼。 鼻桥位置的光机也变小了。虽然从顶上看还是有点厚度，但正面看过去，已经没那么容易认出这是一副智能眼镜。 我之前用过 Rokid Glasses 一代，这次戴上二代，最直接的感觉是镜片通透了。 上一代偶尔出现的油腻感和反光，这几天没再遇到。从外面看，镜片上的光栅也淡了些，更接近日常眼镜的观感。 能拍 HDR 和慢动作的影像实力 愿意戴出门了，我就开始用",
-      "titleZh": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
-      "summaryZh": "今天下午，Rokid 发布了新一代带显示的 AI 眼镜 Rokid Glasses 2，爱范儿也是提前体验了一个星期。 我平时不戴眼镜，所以每次拿到智能眼镜，我都会先想一件事：它得有多好用，才能让我愿意每天都戴着呢？ 眼镜首先要戴着舒服、好看 刚看到这对「雷霆大鼻托」的时候我觉得，怎么能做这么大？戴上之后，好吧，大有大的道理。接触面积大，材质又软，架在鼻梁上的感觉确实舒服。 再加上这次镜腿能向外扩开不少，头型偏大的人也能戴得自在一些。 当然，舒服归舒服，还是得好看才愿意戴出门。 Rokid Glasses 2 的框型方中带圆，不怎么挑脸型。镜框正面只在摄像头的位置开了孔，左边的提示灯藏了起来，不亮的时候不太注意得到，拍摄时亮起来又足够显眼。 鼻桥位置的光机也变小了。虽然从顶上看还是有点厚度，但正面看过去，已经没那么容易认出这是一副智能眼镜。 我之前用过 Rokid Glasses 一代，这次戴上二代，最直接的感觉是镜片通透了。 上一代偶尔出现的油腻感和反光，这几天没再遇到。从外面看，镜片上的光栅也淡了些，更接近日常眼镜的观感。 能拍 HDR 和慢动作的影像实力 愿意戴出门了，我就开始用",
-      "translated": true,
-      "url": "https://www.ifanr.com/1686154",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:23:36.000Z",
-      "author": "Lin",
-      "tags": [
-        "guide",
-        "产品",
-        "爱范儿",
-        "ai 会议纪要",
-        "AI 眼镜"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "892e250808529559ea",
-      "titleOriginal": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
-      "summaryOriginal": "2026年10月27日，乐奇Rokid在“Rokid Jungle 2026乐奇AI眼镜新品发布会”上推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring。 售价方面，Rokid Glasses 2黑色经典款官方售价为3699元，国补到手价为3199元；玳瑁色官方售价为3849元，国补到手价为3349元。Rokid Color黑色2GB+64GB版本官方售价为4999元，玳瑁色4GB+64GB版本为5499元；Rokid Ring官方售价为1699元。 佩戴、显示与硬件配置 Rokid Glasses 2采用方圆框设计，提供黑色和玳瑁色两种配色。根据乐奇Rokid公布的数据，其光机体积较上一代减少30%，整机总长缩短1毫米。产品同时采用柔性镜腿，并调整镜腿张角、鼻托接触面积和材质。磁吸定制配镜与墨镜夹片方案可适配近视、远视、散光及老花等视力需求。 显示方面，新品采用耦入光栅特殊镀膜、全域超低反镀膜及纳米级沟槽纹理设计。厂商称，与上一代相比，其彩虹纹降低60%，反射率降低70%，耦入光栅效率提高30%。 音频部分，Rokid Gla",
-      "titleZh": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
-      "summaryZh": "2026年10月27日，乐奇Rokid在“Rokid Jungle 2026乐奇AI眼镜新品发布会”上推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring。 售价方面，Rokid Glasses 2黑色经典款官方售价为3699元，国补到手价为3199元；玳瑁色官方售价为3849元，国补到手价为3349元。Rokid Color黑色2GB+64GB版本官方售价为4999元，玳瑁色4GB+64GB版本为5499元；Rokid Ring官方售价为1699元。 佩戴、显示与硬件配置 Rokid Glasses 2采用方圆框设计，提供黑色和玳瑁色两种配色。根据乐奇Rokid公布的数据，其光机体积较上一代减少30%，整机总长缩短1毫米。产品同时采用柔性镜腿，并调整镜腿张角、鼻托接触面积和材质。磁吸定制配镜与墨镜夹片方案可适配近视、远视、散光及老花等视力需求。 显示方面，新品采用耦入光栅特殊镀膜、全域超低反镀膜及纳米级沟槽纹理设计。厂商称，与上一代相比，其彩虹纹降低60%，反射率降低70%，耦入光栅效率提高30%。 音频部分，Rokid Gla",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183616.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:23:12.000Z",
-      "author": "科技点亮创业",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "98cd9828a746c8790f",
-      "titleOriginal": "AI短剧：流水线上的打工人不得不说的秘密",
-      "summaryOriginal": "（本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直接拉上假新郎去领了证。谁料快递小哥的隐藏身份，竟是裴氏集团失散多年的继承人。一刷就是80多集，原来是两个失散多年的发小。 另一部剧里，女生从小学渣姐姐学霸，可惜全家宠爱姐姐，嘲讽妹妹，没有想到妹妹实际上考了708分，悄悄报了国防科工大学，在全家嘲讽奚落声之中，女生男朋友还被姐姐给抢走了....... 刷着还不够，一个心地善良柴夫上山救了一条白龙，白龙为了报恩给小伙一块玉石，并且告诉他要买下远处那块已经被旷工挖空的山，小伙换了500两银子修缮了房屋，还买了一块山，签好了地契，开启了他富可敌国的生涯。 ...... 三个短剧忍不住刷完，已经晚上2点了。 你明知剧情狗血，明知该睡了，手指却不受控制地滑向了下一集，每一集之中见还忍受了8秒钟的广告。 现在短剧的确跟以前已经大不一样了。 从霸总爱上我，下岗带娃被富豪选上，再到震撼夏国神秘人物师尊，其实是某个被人看不起的赘婿这些离谱剧情和通用模板，逐渐开始精细区分人群了，针",
-      "titleZh": "AI短剧：流水线上的打工人不得不说的秘密",
-      "summaryZh": "（本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直接拉上假新郎去领了证。谁料快递小哥的隐藏身份，竟是裴氏集团失散多年的继承人。一刷就是80多集，原来是两个失散多年的发小。 另一部剧里，女生从小学渣姐姐学霸，可惜全家宠爱姐姐，嘲讽妹妹，没有想到妹妹实际上考了708分，悄悄报了国防科工大学，在全家嘲讽奚落声之中，女生男朋友还被姐姐给抢走了....... 刷着还不够，一个心地善良柴夫上山救了一条白龙，白龙为了报恩给小伙一块玉石，并且告诉他要买下远处那块已经被旷工挖空的山，小伙换了500两银子修缮了房屋，还买了一块山，签好了地契，开启了他富可敌国的生涯。 ...... 三个短剧忍不住刷完，已经晚上2点了。 你明知剧情狗血，明知该睡了，手指却不受控制地滑向了下一集，每一集之中见还忍受了8秒钟的广告。 现在短剧的确跟以前已经大不一样了。 从霸总爱上我，下岗带娃被富豪选上，再到震撼夏国神秘人物师尊，其实是某个被人看不起的赘婿这些离谱剧情和通用模板，逐渐开始精细区分人群了，针",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183174.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:19:27.000Z",
-      "author": "靠谱的阿星",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d5c1babe264e019424",
-      "titleOriginal": "Kimi额度的问题，Anthropic找到了解决办法",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI K3.1 Pro发布之后，由于多位用户反馈额度烧得太快，月之暗面紧急发布公告，称“问题出在我们，我们也本应更早修复”，在补偿额度的同时，月之暗面也表示将“减少不必要的子Agent调用和输出长度”。 就在模型上线前两天，Anthropic发了一篇文章，标题为《构建Agent：何时该把子Agent折叠回主循环》（Building agents: When to fold subagents into your main agent loop），它所讲的，刚好就是关于子Agent这件事。 Anthropic的结论是，通过对比多家企业部署的Claude他们发现，一个带技能的Agent，质量反而胜过了“一群子Agent分工”，而且单任务成本和延迟往往更低。最关键的是，这个Agent所消耗的token，要远远低于一群子Agent。 子Agent这个概念，其实是模型能力不足时期，厂商为了让模型完成更多任务所打的一个“补丁”。 从任务完成率来说，多个子Agent确实要远远强于当时的单Agent。作为代价，token烧得更厉害了，模型也就变得",
-      "titleZh": "Kimi额度的问题，Anthropic找到了解决办法",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI K3.1 Pro发布之后，由于多位用户反馈额度烧得太快，月之暗面紧急发布公告，称“问题出在我们，我们也本应更早修复”，在补偿额度的同时，月之暗面也表示将“减少不必要的子Agent调用和输出长度”。 就在模型上线前两天，Anthropic发了一篇文章，标题为《构建Agent：何时该把子Agent折叠回主循环》（Building agents: When to fold subagents into your main agent loop），它所讲的，刚好就是关于子Agent这件事。 Anthropic的结论是，通过对比多家企业部署的Claude他们发现，一个带技能的Agent，质量反而胜过了“一群子Agent分工”，而且单任务成本和延迟往往更低。最关键的是，这个Agent所消耗的token，要远远低于一群子Agent。 子Agent这个概念，其实是模型能力不足时期，厂商为了让模型完成更多任务所打的一个“补丁”。 从任务完成率来说，多个子Agent确实要远远强于当时的单Agent。作为代价，token烧得更厉害了，模型也就变得",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183235.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:19:24.000Z",
-      "author": "字母AI",
-      "tags": [
-        "launch",
-        "投稿",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a46df77bdb8de9499b",
-      "titleOriginal": "宇树们应该再劝一劝狂热的股民了",
-      "summaryOriginal": "（本文作者为 大A硅一代，钛媒体经授权发布） 文 | 大A硅一代 一家公司发公告说自己 “太贵了”，股价会怎么走？ 按常理，该跌。但在 最近 A股的物理AI板块，答案是：涨停。 10月20日晚， 宇树科技 (688836.SH) 在异常波动公告里写了一句 A股龙头公司极少说的话：滚动市盈率388倍，行业平均只有39倍，存在估值回归的风险。翻译成大白话就是—— 我们现在的价格，当期业绩撑不住 。 三天后， 10月23日，宇树拿下上市以来第一个20cm涨停。又过了三天，摩根大通把目标价从300元直接上调到995元，股价盘中再涨16%。 公司自己劝你别买，市场用真金白银说 “我不听”。 这不是段子，是这几天物理 AI板块正在发生的事。更值得追问的是：一家公司为什么要在暴涨途中主动“泼冷水”？它劝了，为什么没劝住？那些没被劝住的人，到底在为什么买单？ 01 物理 AI板块不是一个整体， 它至少有三层 理解这轮狂热，需要先把 “物理AI板块”拆开看。 根据 Gartner（一家做技术周期评估的咨询机构）2026年中国技术成熟度曲线的划分，具身智能整体处于“期望膨胀期”（新技术刚出来时，预期被迅速",
-      "titleZh": "宇树们应该再劝一劝狂热的股民了",
-      "summaryZh": "（本文作者为 大A硅一代，钛媒体经授权发布） 文 | 大A硅一代 一家公司发公告说自己 “太贵了”，股价会怎么走？ 按常理，该跌。但在 最近 A股的物理AI板块，答案是：涨停。 10月20日晚， 宇树科技 (688836.SH) 在异常波动公告里写了一句 A股龙头公司极少说的话：滚动市盈率388倍，行业平均只有39倍，存在估值回归的风险。翻译成大白话就是—— 我们现在的价格，当期业绩撑不住 。 三天后， 10月23日，宇树拿下上市以来第一个20cm涨停。又过了三天，摩根大通把目标价从300元直接上调到995元，股价盘中再涨16%。 公司自己劝你别买，市场用真金白银说 “我不听”。 这不是段子，是这几天物理 AI板块正在发生的事。更值得追问的是：一家公司为什么要在暴涨途中主动“泼冷水”？它劝了，为什么没劝住？那些没被劝住的人，到底在为什么买单？ 01 物理 AI板块不是一个整体， 它至少有三层 理解这轮狂热，需要先把 “物理AI板块”拆开看。 根据 Gartner（一家做技术周期评估的咨询机构）2026年中国技术成熟度曲线的划分，具身智能整体处于“期望膨胀期”（新技术刚出来时，预期被迅速",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183244.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:19:22.000Z",
-      "author": "大A硅一代",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5b11fb81608a65db30",
-      "titleOriginal": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
-      "summaryOriginal": "（本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，当资本蜂拥而至、百亿独角兽急于跑马圈地时，制约企业发展的最大瓶颈已经不再是资金或者算法，而是适配人才的匮乏。 机器人赛道，天价抢人才 具身智能行业有多缺人？招聘市场的数据已经给出了答案。 据脉脉高聘人才智库发布的《脉脉2026春招职场洞察报告》，2026年1月至4月，国内AI领域岗位量同比增长8.7倍。 其中",
-      "titleZh": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
-      "summaryZh": "（本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，当资本蜂拥而至、百亿独角兽急于跑马圈地时，制约企业发展的最大瓶颈已经不再是资金或者算法，而是适配人才的匮乏。 机器人赛道，天价抢人才 具身智能行业有多缺人？招聘市场的数据已经给出了答案。 据脉脉高聘人才智库发布的《脉脉2026春招职场洞察报告》，2026年1月至4月，国内AI领域岗位量同比增长8.7倍。 其中",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183283.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:19:20.000Z",
-      "author": "产联社CLS",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "175c7ac763a89a2a85",
-      "titleOriginal": "Neocloud这堵快塌的墙，黄仁勋扶，马斯克推",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋还在努力扶住Neocloud这堵墙，马斯克却已经预言了它的倒塌。 AI泡沫的第一张多米诺骨牌，可能就藏在这批公司之中。 10月25日，马斯克在X上发出警告： 最近几周，债务市场几乎已经不再向那些缺乏AI数据中心之外实质收入的企业提供资金。 他预言，200多家Neocloud将迎来“孔雀鱼式”（guppy-level）的死亡与整合，最终可能只有少数公司能够存活。 但就在三天前，英伟达CEO黄仁勋给出了几乎相反的判断。 10月22日，黄仁勋在接受CNBC采访时坚称，Neocloud的算力需求依然极其旺盛，真正限制它们发展的只是营运资金不足，而融资困难终将得到解决。 两人都看好AI算力需求，却对经营算力租赁业务的公司能否活下去，给出了截然不同的判断。 而越来越多的迹象表明，这门曾经被AI热潮捧上天的生意，正在出现裂缝。 黄仁勋扶，马斯克推 Neocloud，简单来说，就是专门出租AI算力的新型云计算公司。与亚马逊AWS、微软Azure等业务广泛的传统云厂商不同，这些公司主要围绕AI计算需求提供服务。它们采购大量GPU，建设数",
-      "titleZh": "Neocloud这堵快塌的墙，黄仁勋扶，马斯克推",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋还在努力扶住Neocloud这堵墙，马斯克却已经预言了它的倒塌。 AI泡沫的第一张多米诺骨牌，可能就藏在这批公司之中。 10月25日，马斯克在X上发出警告： 最近几周，债务市场几乎已经不再向那些缺乏AI数据中心之外实质收入的企业提供资金。 他预言，200多家Neocloud将迎来“孔雀鱼式”（guppy-level）的死亡与整合，最终可能只有少数公司能够存活。 但就在三天前，英伟达CEO黄仁勋给出了几乎相反的判断。 10月22日，黄仁勋在接受CNBC采访时坚称，Neocloud的算力需求依然极其旺盛，真正限制它们发展的只是营运资金不足，而融资困难终将得到解决。 两人都看好AI算力需求，却对经营算力租赁业务的公司能否活下去，给出了截然不同的判断。 而越来越多的迹象表明，这门曾经被AI热潮捧上天的生意，正在出现裂缝。 黄仁勋扶，马斯克推 Neocloud，简单来说，就是专门出租AI算力的新型云计算公司。与亚马逊AWS、微软Azure等业务广泛的传统云厂商不同，这些公司主要围绕AI计算需求提供服务。它们采购大量GPU，建设数",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183285.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:19:18.000Z",
-      "author": "字母AI",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1b769359a98ce55607",
-      "titleOriginal": "Anthropic 的硅谷往事",
-      "summaryOriginal": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 硅谷的故事，往往从一次分道扬镳开始。 五年前，OpenAI 的一群核心研究员选择离开。他们对 AI 的发展方向有不同判断，也决定为此另起炉灶。 这次出走，后来催生了一家估值与营收都迅速攀升的 AI 公司：Anthropic。 2021 年，在旧金山先锋广场的旧厂房里，Dario Amodei 和妹妹 Daniela Amodei 正把自己的物品装进纸箱。 跟着他们一起离开 OpenAI 的，包括后来参与 GPT-4 研发的核心研究员、OpenAI 安全团队骨干在内。 离开 OpenAI 的原因并不复杂，CEO Sam Altman 正在推动 OpenAI 从一家非营利研究机构，转向一家追求高估值与商业化的公司。Dario 认为这种急速狂奔正在让安全失去控制。 他们给新公司取名 Anthropic（意思是以人为本），并制定了一套宪章，希望在硅谷的 AI 狂热中建立一座讲求克制与安全的实验室。 Dario 以为自己离开了 Sam Altman 的商业战场。但他很快发现，在大模型的技术路线下，对安全和性能的追求越",
-      "titleZh": "Anthropic 的硅谷往事",
-      "summaryZh": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 硅谷的故事，往往从一次分道扬镳开始。 五年前，OpenAI 的一群核心研究员选择离开。他们对 AI 的发展方向有不同判断，也决定为此另起炉灶。 这次出走，后来催生了一家估值与营收都迅速攀升的 AI 公司：Anthropic。 2021 年，在旧金山先锋广场的旧厂房里，Dario Amodei 和妹妹 Daniela Amodei 正把自己的物品装进纸箱。 跟着他们一起离开 OpenAI 的，包括后来参与 GPT-4 研发的核心研究员、OpenAI 安全团队骨干在内。 离开 OpenAI 的原因并不复杂，CEO Sam Altman 正在推动 OpenAI 从一家非营利研究机构，转向一家追求高估值与商业化的公司。Dario 认为这种急速狂奔正在让安全失去控制。 他们给新公司取名 Anthropic（意思是以人为本），并制定了一套宪章，希望在硅谷的 AI 狂热中建立一座讲求克制与安全的实验室。 Dario 以为自己离开了 Sam Altman 的商业战场。但他很快发现，在大模型的技术路线下，对安全和性能的追求越",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8183513.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-27T10:19:15.000Z",
-      "author": "版面之外",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11502,7 +11501,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 21
+      "count": 24
     },
     {
       "id": "deepmind",
@@ -11510,7 +11509,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 2
+      "count": 4
     },
     {
       "id": "techcrunch",
@@ -11518,7 +11517,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 79
+      "count": 80
     },
     {
       "id": "theverge",
@@ -11526,7 +11525,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 43
+      "count": 46
     },
     {
       "id": "mittr",
@@ -11534,7 +11533,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 9
+      "count": 8
     },
     {
       "id": "wired",
@@ -11542,7 +11541,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 20
+      "count": 19
     },
     {
       "id": "thedecoder",
@@ -11550,7 +11549,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 52
+      "count": 51
     },
     {
       "id": "marktechpost",
@@ -11558,7 +11557,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 27
+      "count": 29
     },
     {
       "id": "simonwillison",
@@ -11606,7 +11605,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 124
+      "count": 116
     },
     {
       "id": "infoq",
@@ -11619,8 +11618,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 55,
-    "translated": 244,
+    "guides": 53,
+    "translated": 246,
     "sources": 14
   }
 }
