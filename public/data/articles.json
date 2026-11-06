@@ -1,6 +1,237 @@
 {
-  "generatedAt": "2026-11-06T06:58:39.781Z",
+  "generatedAt": "2026-11-06T16:00:20.860Z",
   "articles": [
+    {
+      "id": "d600e390b03cc6dd43",
+      "titleOriginal": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "summaryOriginal": "",
+      "titleZh": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "author": "作者： Daniel Curtis",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a67b49ab07f37d3a44",
+      "titleOriginal": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "summaryOriginal": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI they're trying to overcome, looked at what's already visible from their work, and explain why Nvidi",
+      "titleZh": "前沿雷达＃ 5 ：如果AGI如此接近，为什么每个人都要离开？ Neolabs和他们的赌注",
+      "summaryZh": "OpenAI正在谈论AGI时代， Nvidia首席执行官Jensen Huang表示AGI已经到来。与此同时，当今模型的共同创造者正在离开OpenAI、Google DeepMind和Meta ，开始他们自己的实验室，筹集了数十亿美元，但没有任何产品可供展示。为什么？他们打赌目前的食谱本身是不够的。我们根据他们的研究投注对45个新实验室进行了排序，绘制了他们试图克服的当今人工智能的局限性，查看了他们的工作中已经可见的内容，并解释了为什么Nvidi",
+      "translated": true,
+      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T15:55:23.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "research",
+        "Artificial Intelligence",
+        "Frontier Radar"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d275be2a1267c8e731",
+      "titleOriginal": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "summaryOriginal": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
+      "titleZh": "RAMP数据显示，随着Anthropic接近首次公开募股，人工智能支出停滞不前",
+      "summaryZh": "人工智能的使用量不断攀升，但支出却停滞不前。最大消费者的降价和更明智的成本控制可能会挑战投资者对人工智能高速增长的假设。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T15:54:47.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Enterprise",
+        "Anthropic",
+        "Enterprise AI spend"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8acd7b1a7bdbcba282",
+      "titleOriginal": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "summaryOriginal": "",
+      "titleZh": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-06T15:25:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "44d3b851d9be2069b4",
+      "titleOriginal": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "summaryOriginal": "Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. It is not hyperbole at all to say that his lab has been pushing the frontier of algorithms to understand multi-scale, multi-modal (”multiomics”), time-varying biological data. Indeed, he has shaped the large scale vision and data collection through his leadership at Helmholtz, various startups and probably at Biohub itself. Watch the full episode on YouTube… Much of the recent atte",
+      "titleZh": "控制生物学- Fabian Theis ，亥姆霍兹慕尼黑",
+      "summaryZh": "Fabian Theis一直是Virtual Cell概念和计划的各种迭代的主要参与者之一。可以毫不夸张地说，他的实验室一直在推动算法的前沿，以了解多尺度、多模态（ “多组学” ）、时变的生物数据。事实上，他通过在亥姆霍兹、各种初创公司以及可能在Biohub本身的领导，塑造了大规模的愿景和数据收集。在YouTube上观看完整剧集……最近的大部分内容",
+      "translated": true,
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-06T15:10:53.000Z",
+      "author": "RJ Honicky",
+      "tags": [
+        "analysis"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ab4846bbc512d79020",
+      "titleOriginal": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "summaryOriginal": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "titleZh": "在阻止Muse之后，亚马逊现在允许用户通过短信Alexa帮助他们购物",
+      "summaryZh": "亚马逊表示，该功能将在未来几周内向数百万用户推出。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T14:10:00.000Z",
+      "author": "Ivan Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "Commerce",
+        "AI agents",
+        "Amazon"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "35ab47bbc76cac8b88",
+      "titleOriginal": "Amazon will let you text Alexa your shopping list",
+      "summaryOriginal": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and order the item on the users' behalf. This launch builds on the existing Alexa for Shopping experience that launched in May, allowing users to place orders during",
+      "titleZh": "亚马逊将允许您向Alexa发送购物清单短信",
+      "summaryZh": "亚马逊正在为Alexa for Shopping添加一项新功能，允许客户通过发送短信给AI购物助手来购买商品。用户可以描述他们想要购买的产品和/或提供该商品的照片， Alexa for Shopping将搜索亚马逊房源中的匹配结果，发短信回复推荐，并代表用户订购商品。此次发布建立在5月份推出的现有Alexa for Shopping体验的基础上，允许用户在",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "author": "Jess Weatherbed",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "060fda65c187ab9e74",
+      "titleOriginal": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
+      "summaryOriginal": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Anthropic redacted the most informative evidence, though, which means the public has to rely on METR's judgment \"much more than would be ideal.\" There are also skeptical voices inside the company. The article METR finds Anthropic may have crossed its own AI acceleration warning thre",
+      "titleZh": "METR发现Anthropic可能在7月份超过了自己的人工智能加速警告门槛",
+      "summaryZh": "非营利组织METR花了11周时间审核Anthropic的内部研究数据，得出的结论是，模型开发的速度大约翻了一番，其中约80%的加速是由人工智能辅助研究推动的。然而， Anthropic编辑了最具信息性的证据，这意味着公众不得不依赖METR的判断“远远超过理想。“公司内部也有持怀疑态度的声音。METR的文章发现， Anthropic可能已经越过了自己的人工智能加速警告",
+      "translated": true,
+      "url": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T13:40:07.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Alignment",
+        "Anthropic"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c71b99d867791ad7e0",
+      "titleOriginal": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
+      "summaryOriginal": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines' Inkling 2 Small claims top spot among western open-weight models appeared first on The Decoder .",
+      "titleZh": "Thinking Machines的Inkling 2小型声称在西方开放式重量模型中名列前茅",
+      "summaryZh": "来自前OpenAI首席技术官Mira Murati的初创公司Thinking Machines正在发布Inkling 2 Small ，这是一个拥有5940亿个参数的专家混合模型。该公司声称它是最强大的西方开放式重量模型。然而，更好的代理性能是有代价的，代币使用量急剧上升。Thinking Machines的Inkling 2 Small一文首次出现在The Decoder上，在西方开放重量模型中名列前茅。",
+      "translated": true,
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T13:25:09.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Inkling",
+        "Thinking Machines"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fbf575ba8ccde9feb9",
+      "titleOriginal": "Underdog shows off a 32MB speech model in new demo",
+      "summaryOriginal": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "titleZh": "Underdog在新演示中展示了32MB的语音模型",
+      "summaryZh": "尽管尺寸很小，但Underdog的新模型可以生成语音和音乐。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T13:02:16.000Z",
+      "author": "Ivan Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "local AI",
+        "underdog"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "d7c8c6cd4e0e7441f5",
       "titleOriginal": "智能体 Harness 的演进：从链、图到代码化",
@@ -18,6 +249,103 @@
       "author": "作者：Karthik Ramgopal",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f3bfec28682f8e7dca",
+      "titleOriginal": "Physicl raises $10M to make the digital world real enough for robots",
+      "summaryOriginal": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "titleZh": "Physicl筹集了$ 1000万，使数字世界对机器人来说足够真实",
+      "summaryZh": "Physicl正试图通过最初为在线销售商品而构建的管道来解决模拟与真实之间的差距。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T13:00:00.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Fundraising",
+        "Robotics",
+        "physical ai"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "44766e97c42926fe8f",
+      "titleOriginal": "Protesters break into Microsoft data center site in Amsterdam",
+      "summaryOriginal": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some scaling a crane to place a \"fuck AI\" banner. Pr",
+      "titleZh": "抗议者闯入阿姆斯特丹的微软数据中心",
+      "summaryZh": "在抗议期间，行动组织Geef Tegengas的成员在起重机上放了一面横幅。|图片：今天早上， Getty Images抗议者闯入了阿姆斯特丹一个新的微软数据中心的建筑工地。Geef Tegengas集团的成员帮助组织了反对在阿姆斯特丹郊区建造三座85米数据中心塔楼的抗议活动。据路透社报道，约有100人进入施工现场，其中一些人爬起起重机放置“他妈的人工智能”横幅。",
+      "translated": true,
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T11:55:19.000Z",
+      "author": "Tom Warren",
+      "tags": [
+        "news",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ae9495936211ac293b",
+      "titleOriginal": "Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation",
+      "summaryOriginal": "Anthropic's IPO is in trouble as investors push back on the $1.5 trillion valuation and the tech market sells off. The article Anthropic's $1.5 trillion IPO hits resistance as investors balk at valuation appeared first on The Decoder .",
+      "titleZh": "Anthropic 1.5万亿美元的IPO遭遇阻力，投资者对估值犹豫不决",
+      "summaryZh": "Anthropic的IPO陷入困境，因为投资者推迟了1.5万亿美元的估值，科技市场被抛售。由于投资者对估值犹豫不决， Anthropic 1.5万亿美元的IPO首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropics-1-5-trillion-ipo-hits-resistance-as-investors-balk-at-valuation/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T11:38:17.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "358cd3352895537175",
+      "titleOriginal": "Anthropic adds bank account access to Claude so users can track their spending",
+      "summaryOriginal": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder .",
+      "titleZh": "Anthropic将银行账户访问权限添加到Claude ，以便用户可以跟踪他们的支出",
+      "summaryZh": "Anthropic在Claude中引入了一项名为“个人理财”的新功能，允许用户连接其银行账户和信用卡账户，并询问有关其财务状况的问题。Anthropic的文章将银行账户访问权限添加到Claude ，以便用户可以在The Decoder上首次跟踪他们的支出。",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T11:33:13.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -65,6 +393,50 @@
       "readingMinutes": 2
     },
     {
+      "id": "1601aee821be7b543f",
+      "titleOriginal": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "summaryOriginal": "Build AI systems with context graphs and agentic memory. Join Andrew Ng and AI engineers at NODES 2026 for 100+ live technical sessions . Free, online, 24 hours. Save your spot ! There was a time in the early days of Thinking Machines, post 2025 start and cofounder departures , when their going concern as a neolab was very much in doubt. Those days are clearly behind us, as Tinker (now a year old !) and Interaction Models and Inkling and other high-impact contributions to AI research have conver",
+      "titleZh": "[AINews] Inkling 2 Small ： 17A-594B在68小时内接受了12T代币的训练，击败了Muse Spark",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-06T10:35:21.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "research",
+        "ainews: weekday roundups"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2c747e0acdd9c915fa",
+      "titleOriginal": "我为什么不太看好苹果国行AI",
+      "summaryOriginal": "（本文作者为 互联网怪盗团，钛媒体经授权发布） 文 | 互联网怪盗团 千呼万唤始出来，苹果国行AI (Apple Intelligence)终于于11月4日凌晨向中国大陆用户开放了开发者Beta测试，预计于12月随着iOS 27.3正式版全面推出。基座大模型将采用苹果本地模型+阿里千问的方式，这一点也早已被双方的公告证实。 我是一个忠实的苹果用户。我无法想象把自己的手机从iOS生态换成安卓生态。但是，这并不意味着我就要看好苹果国行AI。准确地说，我不看好苹果AI在全世界的前景，尤其不看好在中国大陆的前景——如果事实证明我错了，我会很高兴的。 我不太看好苹果国行AI的理由主要有三条： 苹果AI难以全面适配国内的移动APP生态； iOS第一方应用在国内的使用率不足，难以发挥苹果AI的优势； 本地模型+第三方的模式的效率还需要进一步观察。 先说第一条。其实就算在美国，苹果AI对第三方APP的适配程度也不够，目前适配程度比较深的第三方APP包括WhatsApp, Audible, Microsoft Outlook, 等等——其中只有WhatsApp是货真价实的头部APP。谷歌、亚马逊旗下的应",
+      "titleZh": "我为什么不太看好苹果国行AI",
+      "summaryZh": "（本文作者为 互联网怪盗团，钛媒体经授权发布） 文 | 互联网怪盗团 千呼万唤始出来，苹果国行AI (Apple Intelligence)终于于11月4日凌晨向中国大陆用户开放了开发者Beta测试，预计于12月随着iOS 27.3正式版全面推出。基座大模型将采用苹果本地模型+阿里千问的方式，这一点也早已被双方的公告证实。 我是一个忠实的苹果用户。我无法想象把自己的手机从iOS生态换成安卓生态。但是，这并不意味着我就要看好苹果国行AI。准确地说，我不看好苹果AI在全世界的前景，尤其不看好在中国大陆的前景——如果事实证明我错了，我会很高兴的。 我不太看好苹果国行AI的理由主要有三条： 苹果AI难以全面适配国内的移动APP生态； iOS第一方应用在国内的使用率不足，难以发挥苹果AI的优势； 本地模型+第三方的模式的效率还需要进一步观察。 先说第一条。其实就算在美国，苹果AI对第三方APP的适配程度也不够，目前适配程度比较深的第三方APP包括WhatsApp, Audible, Microsoft Outlook, 等等——其中只有WhatsApp是货真价实的头部APP。谷歌、亚马逊旗下的应",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8196145.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-06T10:09:34.000Z",
+      "author": "互联网怪盗团",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "b3730b549d750f37fd",
       "titleOriginal": "AI Native 企业研发工具链：架构重构与持续演进｜AICon北京",
       "summaryOriginal": "",
@@ -83,6 +455,99 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e804e0e792890345bd",
+      "titleOriginal": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summaryOriginal": "A robot cleaned my apartment for $30 — San Francisco startup Tau Robotics is sending humanoid robots into people's homes, piloted remotely by humans who collect training data while the robots clean — making the service cheaper than you'd expect for something this futuristic. Cute but clumsy — The four-and-a-half-foot robot climbed stairs like it was drunk, knocked over olive oil, and left taps dripping — but impressively reattached its toilet brush wand three times. The Jetsons, with caveats — I",
+      "titleZh": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-11-06T10:00:00.000Z",
+      "author": "Grace Huckins",
+      "tags": [
+        "research",
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "Summary"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "50da030c2190e5db32",
+      "titleOriginal": "Claude Code华人一姐，闪电跳槽到OpenAI，大厂为何留不住人才？",
+      "summaryOriginal": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 AI圈顶级人才，开始扎堆跳槽了！ 11月5日，硅谷爆出一则重磅人事变动：前一天刚宣布告别Anthropic的王牌产品掌门人Cat Wu（Catherine Wu），转头就官宣加盟OpenAI，负责核心产品团队的产品管理。从宣布离职到入职新东家，几乎无缝衔接。 Cat Wu是谁？ 她是一名90后华裔女性，毕业于普林斯顿大学，先后做过工程师、风投投资人，后来加入Anthropic，成为Claude Code的创始产品经理，将这款内部工具，做成了年化收入25亿美元的明星产品。 更微妙的是，她离开的时候恰逢Anthropic冲刺万亿美元IPO的关键时刻。 不仅如此，短短两周内，Claude Code团队已接连流失多名核心骨干。放眼整个行业，从Meta天价薪酬留不住顶尖学者，到国内字节、腾讯的贴身抢人，高管与核心骨干的频繁换队已成常态。 明明资本盛宴近在眼前，这群核心人才为何扎堆跳槽？ 前脚从Anthropic离职，后脚加入OpenAI 11月4日凌晨，Cat Wu在社交平台发出告别信，称上周五是自己在Anthropic的最后一个工作",
+      "titleZh": "Claude Code华人一姐，闪电跳槽到OpenAI，大厂为何留不住人才？",
+      "summaryZh": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 AI圈顶级人才，开始扎堆跳槽了！ 11月5日，硅谷爆出一则重磅人事变动：前一天刚宣布告别Anthropic的王牌产品掌门人Cat Wu（Catherine Wu），转头就官宣加盟OpenAI，负责核心产品团队的产品管理。从宣布离职到入职新东家，几乎无缝衔接。 Cat Wu是谁？ 她是一名90后华裔女性，毕业于普林斯顿大学，先后做过工程师、风投投资人，后来加入Anthropic，成为Claude Code的创始产品经理，将这款内部工具，做成了年化收入25亿美元的明星产品。 更微妙的是，她离开的时候恰逢Anthropic冲刺万亿美元IPO的关键时刻。 不仅如此，短短两周内，Claude Code团队已接连流失多名核心骨干。放眼整个行业，从Meta天价薪酬留不住顶尖学者，到国内字节、腾讯的贴身抢人，高管与核心骨干的频繁换队已成常态。 明明资本盛宴近在眼前，这群核心人才为何扎堆跳槽？ 前脚从Anthropic离职，后脚加入OpenAI 11月4日凌晨，Cat Wu在社交平台发出告别信，称上周五是自己在Anthropic的最后一个工作",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8196354.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-06T09:33:29.000Z",
+      "author": "新质动能",
+      "tags": [
+        "launch",
+        "投稿",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "60607ff258322404e3",
+      "titleOriginal": "AI开始收费，租号灰产崛起：一月流水30万",
+      "summaryOriginal": "（本文作者为 硅基降临，钛媒体经授权发布） 文 | 硅基降临 2026年，国产大模型集体告别免费时代，排队向用户收钱。 豆包专业版68元一个月起步，Kimi的会员从49元一路排到1399元，通义千问紧随其后，智谱更是一年内连涨三轮价。 免费惯了的几亿普通用户，就不太乐意了。 有需求就会有市场，一些平台开始把会员切碎了，按次、按分钟零售。 一套几百块就能搭起来的系统，把官方699元的顶配账号拆成2.58元一次卖给散客，一个店铺店家称，他一个月的流水就是30万，成本基本忽略不计。 一、AI会员拆卖，闲鱼狂销万单 在AI收费浪潮之后，大量的租号、按次收费的二手贩子崛起。 比如，在闲鱼上，“Kimi会员一日”已经泛滥成灾。 排在头名的店铺，标价5.88元，打页面显示已售2万多单。 按照流水来算，已经赚了11多万。 从单次生成PPT，到小时卡、Ultra级会员，应有尽有。 用户付款后，卖家并没有发官方账号，而是在聊天框里，自动弹出一串授权码和一个外部网址。 点击网址，界面标题显示为“AI中转平台”，输入授权码即可直接进入“创作台”。 这个界面被精简到极致，顶部是剩余次数，下方只有生成文档的按钮。",
+      "titleZh": "AI开始收费，租号灰产崛起：一月流水30万",
+      "summaryZh": "（本文作者为 硅基降临，钛媒体经授权发布） 文 | 硅基降临 2026年，国产大模型集体告别免费时代，排队向用户收钱。 豆包专业版68元一个月起步，Kimi的会员从49元一路排到1399元，通义千问紧随其后，智谱更是一年内连涨三轮价。 免费惯了的几亿普通用户，就不太乐意了。 有需求就会有市场，一些平台开始把会员切碎了，按次、按分钟零售。 一套几百块就能搭起来的系统，把官方699元的顶配账号拆成2.58元一次卖给散客，一个店铺店家称，他一个月的流水就是30万，成本基本忽略不计。 一、AI会员拆卖，闲鱼狂销万单 在AI收费浪潮之后，大量的租号、按次收费的二手贩子崛起。 比如，在闲鱼上，“Kimi会员一日”已经泛滥成灾。 排在头名的店铺，标价5.88元，打页面显示已售2万多单。 按照流水来算，已经赚了11多万。 从单次生成PPT，到小时卡、Ultra级会员，应有尽有。 用户付款后，卖家并没有发官方账号，而是在聊天框里，自动弹出一串授权码和一个外部网址。 点击网址，界面标题显示为“AI中转平台”，输入授权码即可直接进入“创作台”。 这个界面被精简到极致，顶部是剩余次数，下方只有生成文档的按钮。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8196254.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-06T09:33:19.000Z",
+      "author": "硅基降临",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2f7f4fc3b6dd55c277",
+      "titleOriginal": "Agent，“重做”数据库",
+      "summaryOriginal": "（本文作者为 产业家，钛媒体经授权发布） 文 | 产业家 “公司的活动总预算是多少？”对于一名熟悉业务的财务人员来说，这或许是个再简单不过的问题。但在某数据库厂商测试的企业级Agent场景中，AI给出的答案与真实情况相差了近15倍。 面对这句简单的自然语言指令，Agent自主检索企业数据库，在众多包含“金额”字段的列中机械求和，最终得出一个高达2916万元的荒谬数字。而在企业实际的财务口径下，真实的活动预算仅有198万元。 很明显，问题在于其根本不知道企业所谓的“活动预算”，究竟应该对应哪一个字段。 这个看起来有些荒诞的乌龙，却揭开了当下企业Agent落地普遍存在的矛盾，那就是模型越来越聪明，企业的数据系统却未必做好让AI自主工作的准备。 这也让企业开始重新审视自己的数据基础设施。 今年2月，Gartner在一项关于企业AI数据架构的研究中指出，数据准备不足已经成为AI应用的主要障碍，推动超过75%的组织优先投资AI就绪数据能力。换句话说，当企业发现仅靠升级大模型无法解决业务问题时，开始把目光转向过去藏在后台的数据库。AI落地的竞争，正在从模型能力延伸到数据底座。 这种需求，进一步推动",
+      "titleZh": "Agent，“重做”数据库",
+      "summaryZh": "（本文作者为 产业家，钛媒体经授权发布） 文 | 产业家 “公司的活动总预算是多少？”对于一名熟悉业务的财务人员来说，这或许是个再简单不过的问题。但在某数据库厂商测试的企业级Agent场景中，AI给出的答案与真实情况相差了近15倍。 面对这句简单的自然语言指令，Agent自主检索企业数据库，在众多包含“金额”字段的列中机械求和，最终得出一个高达2916万元的荒谬数字。而在企业实际的财务口径下，真实的活动预算仅有198万元。 很明显，问题在于其根本不知道企业所谓的“活动预算”，究竟应该对应哪一个字段。 这个看起来有些荒诞的乌龙，却揭开了当下企业Agent落地普遍存在的矛盾，那就是模型越来越聪明，企业的数据系统却未必做好让AI自主工作的准备。 这也让企业开始重新审视自己的数据基础设施。 今年2月，Gartner在一项关于企业AI数据架构的研究中指出，数据准备不足已经成为AI应用的主要障碍，推动超过75%的组织优先投资AI就绪数据能力。换句话说，当企业发现仅靠升级大模型无法解决业务问题时，开始把目光转向过去藏在后台的数据库。AI落地的竞争，正在从模型能力延伸到数据底座。 这种需求，进一步推动",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8196378.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-06T09:28:11.000Z",
+      "author": "产业家",
+      "tags": [
+        "research",
+        "投稿",
+        "Agent"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -865,6 +1330,27 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "825a50d1c0ad7f362f",
+      "titleOriginal": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summaryOriginal": "",
+      "titleZh": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-11-05T17:05:16.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -11010,502 +11496,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "3b2234227e37abf467",
-      "titleOriginal": "宇树财报夜：击穿物理世界之前，先要穿过利润表",
-      "summaryOriginal": "（本文作者为 霞光AI实验室，钛媒体经授权发布） 文 | 霞光AI实验室，作者｜Vinco，编辑｜李小天 昨晚，宇树科技交出上市后首份三季报。今天上午10点15分，股价报660.20元，较前一日695.90元的收盘价有明显回撤。 昨晚收盘后和今天上午截止10点15分宇树科技的股价对比图 这不是一个简单的“财报不及预期”故事。 过去一周，宇树同时站在三条叙事线的交汇处：摩根大通于10月25日发布研报把宇树的评级从“低配”上调至“增持”，并将2027年12月目标价从300元上调至995元；王兴兴在10月22日2026世界物理AI大会上说，“物理AI目前已经看到被击穿的苗头”，窗口可能就在最近1~2年或2~3年；然后，财报把镜头拉回当下——营收还在加速，扣非净利润却在下滑，前三季度研发费用同比接近翻两倍，经营现金流净额同比下降54.69%。 三件事拼在一起，真正的分歧浮出水面： 物理AI的突破时间表可以前移，但商业化的成本表不会消失。 宇树的故事，正在从“机器人会不会变聪明”，进入“变聪明之后，谁为身体、数据和部署买单”。 增收不增利，钱都花到了哪里？ 先看财报本身。 2026年前三季度，宇",
-      "titleZh": "宇树财报夜：击穿物理世界之前，先要穿过利润表",
-      "summaryZh": "（本文作者为 霞光AI实验室，钛媒体经授权发布） 文 | 霞光AI实验室，作者｜Vinco，编辑｜李小天 昨晚，宇树科技交出上市后首份三季报。今天上午10点15分，股价报660.20元，较前一日695.90元的收盘价有明显回撤。 昨晚收盘后和今天上午截止10点15分宇树科技的股价对比图 这不是一个简单的“财报不及预期”故事。 过去一周，宇树同时站在三条叙事线的交汇处：摩根大通于10月25日发布研报把宇树的评级从“低配”上调至“增持”，并将2027年12月目标价从300元上调至995元；王兴兴在10月22日2026世界物理AI大会上说，“物理AI目前已经看到被击穿的苗头”，窗口可能就在最近1~2年或2~3年；然后，财报把镜头拉回当下——营收还在加速，扣非净利润却在下滑，前三季度研发费用同比接近翻两倍，经营现金流净额同比下降54.69%。 三件事拼在一起，真正的分歧浮出水面： 物理AI的突破时间表可以前移，但商业化的成本表不会消失。 宇树的故事，正在从“机器人会不会变聪明”，进入“变聪明之后，谁为身体、数据和部署买单”。 增收不增利，钱都花到了哪里？ 先看财报本身。 2026年前三季度，宇",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186718.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T02:53:15.000Z",
-      "author": "霞光AI实验室",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8ee4bd7c8f2d006388",
-      "titleOriginal": "Anthropic赌万亿未来，智谱算眼前毛利，谁能活过AI下半场？",
-      "summaryOriginal": "（本文作者为 大模型之家，钛媒体经授权发布） 文 | 大模型之家 当大洋彼岸的Anthropic带着上万亿美元的估值预期叩响华尔街大门时，以智谱为代表的中国大模型厂商，正低头在财报里一分一毫地核算着API生意的毛利。 10月26日，大模型独角兽Anthropic公开了上市招股书，准备在11月中旬正式挂牌。这份招股书把公司冲刺IPO的家底摊在了台面上：今年上半年营收162.9亿美元，净亏损高达807亿美元。在此之前，市场对它的最高估值讨论一度达到2万亿美元。 就在Anthropic叩响华尔街大门的前两个月，中国的大模型公司也交出了一份成绩单。8月底，智谱披露中报，上半年收入9.54亿元，亏损20.72亿元，其中API业务的毛利率首次由负转正。 可以看出，大模型行业正在上演两种截然不同的叙事：大洋彼岸在用上万亿美元的估值给未来的技术假设买单，而国内厂商正忙着用毛利率证明大模型本身是一门能持续赚钱的生意。 过去，行业里常有一种误解，认为海外公司靠技术和资本讲未来，中国公司还在为商业化发愁。然而只依靠资本，会虚弱市场对于“未来”定价的信心。就在最近的投资者日上，Anthropic的估值讨论已经",
-      "titleZh": "Anthropic赌万亿未来，智谱算眼前毛利，谁能活过AI下半场？",
-      "summaryZh": "（本文作者为 大模型之家，钛媒体经授权发布） 文 | 大模型之家 当大洋彼岸的Anthropic带着上万亿美元的估值预期叩响华尔街大门时，以智谱为代表的中国大模型厂商，正低头在财报里一分一毫地核算着API生意的毛利。 10月26日，大模型独角兽Anthropic公开了上市招股书，准备在11月中旬正式挂牌。这份招股书把公司冲刺IPO的家底摊在了台面上：今年上半年营收162.9亿美元，净亏损高达807亿美元。在此之前，市场对它的最高估值讨论一度达到2万亿美元。 就在Anthropic叩响华尔街大门的前两个月，中国的大模型公司也交出了一份成绩单。8月底，智谱披露中报，上半年收入9.54亿元，亏损20.72亿元，其中API业务的毛利率首次由负转正。 可以看出，大模型行业正在上演两种截然不同的叙事：大洋彼岸在用上万亿美元的估值给未来的技术假设买单，而国内厂商正忙着用毛利率证明大模型本身是一门能持续赚钱的生意。 过去，行业里常有一种误解，认为海外公司靠技术和资本讲未来，中国公司还在为商业化发愁。然而只依靠资本，会虚弱市场对于“未来”定价的信心。就在最近的投资者日上，Anthropic的估值讨论已经",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186459.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T02:33:47.000Z",
-      "author": "大模型之家",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f481716b80b6d835fe",
-      "titleOriginal": "谷歌暴跌、亚马逊失血、微软发债：AI 基建竞赛进入分水岭",
-      "summaryOriginal": "这一周的财报季， 微软 、谷歌、 亚马逊 三大云巨头相继放榜，出现了多年来罕见的同框画面：云厂商的算力被客户排着队抢购，订单簿已经写到了2028年；而同一家公司的报表上，却赫然挂着多年未见的负自由现金流。 需求旺盛到“售罄”，现金紧张到“转负”，两组信号恰好说明这轮AI基建竞赛已经进入一个新阶段。 云业务全线加速，订单排到三年后 先看亚马逊。作为全球最大云厂商，AWS三季度收入 459.8亿美元，同比增长39.3% ，创下近五年最快增速，年化收入规模达到1840亿美元，增速已连续六个季度抬升。支撑这一数字的，是账面上5780亿美元的积压订单，同比呈三位数增长，较二季度末的4960亿美元又增加了800多亿美元。CEO Andy Jassy此前接受访谈时说得直白：2026年的产能已经售罄，2027年大部分被预订，2028年也有相当一部分拿到了客户承诺。 紧随其后的微软，数字同样超出预期。2027财年第一季度，公司营收922.8亿美元，同比增长19%，净利润366.3亿美元，增长约32%。本季微软首次单独披露Azure的绝对收入： 单季331.65亿美元，同比增长48% ，增速在千亿美元量级",
-      "titleZh": "谷歌暴跌、亚马逊失血、微软发债：AI 基建竞赛进入分水岭",
-      "summaryZh": "这一周的财报季， 微软 、谷歌、 亚马逊 三大云巨头相继放榜，出现了多年来罕见的同框画面：云厂商的算力被客户排着队抢购，订单簿已经写到了2028年；而同一家公司的报表上，却赫然挂着多年未见的负自由现金流。 需求旺盛到“售罄”，现金紧张到“转负”，两组信号恰好说明这轮AI基建竞赛已经进入一个新阶段。 云业务全线加速，订单排到三年后 先看亚马逊。作为全球最大云厂商，AWS三季度收入 459.8亿美元，同比增长39.3% ，创下近五年最快增速，年化收入规模达到1840亿美元，增速已连续六个季度抬升。支撑这一数字的，是账面上5780亿美元的积压订单，同比呈三位数增长，较二季度末的4960亿美元又增加了800多亿美元。CEO Andy Jassy此前接受访谈时说得直白：2026年的产能已经售罄，2027年大部分被预订，2028年也有相当一部分拿到了客户承诺。 紧随其后的微软，数字同样超出预期。2027财年第一季度，公司营收922.8亿美元，同比增长19%，净利润366.3亿美元，增长约32%。本季微软首次单独披露Azure的绝对收入： 单季331.65亿美元，同比增长48% ，增速在千亿美元量级",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8187079.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T02:30:00.000Z",
-      "author": "硅谷Tech news",
-      "tags": [
-        "news",
-        "主编精选文章",
-        "AGI",
-        "大模型",
-        "亚马逊"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3e1cebb1f9f3c61576",
-      "titleOriginal": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "summaryOriginal": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "titleZh": "你不需要相信上帝就能获得在工作中使用人工智能的宗教豁免",
-      "summaryZh": "肯塔基大学管理员大卫·杜尔曼（ David Durman ）最近获得了在工作场所使用人工智能的宗教豁免。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T01:20:48.000Z",
-      "author": "Amanda Silberling",
-      "tags": [
-        "news",
-        "AI"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d9c1edf55c0690b76d",
-      "titleOriginal": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
-      "summaryOriginal": "被用户吐槽了一个月，OpenAI 终于决定不再折腾大家的使用额度了。 就在刚刚，OpenAI 产品负责人 Tibo 突然宣布，将大幅提高 ChatGPT Pro 系列及 Business Premium 用户的使用额度，部分套餐直接翻倍，即日起生效。 更让老用户高兴的是，OpenAI 还决定撤销此前备受争议的 Pro 200 额度下调计划。 不过，消息公布后，有用户欢呼 OpenAI 终于听取了意见，也有人质问，为什么每个月同样花钱订阅的 Plus 用户，又一次被排除在福利名单之外？ 而 Tibo 本人，则给此次调整配上了一句颇有自嘲意味的宣言：「我们已经从一家不断重置额度的公司，毕业成为一家提供 Token 的公司。」 OpenAI 突然宣布额度翻倍，但 200 美元用户有点特殊 事情发生在 Tibo 连续更新产品的第 25 天。具 体来说，OpenAI 将从今天起提高 Pro 100、Pro 200、Pro 500 以及 Business Premium 的使用额度，并明确表示已经听取用户反馈，不会再削减 Pro 200 的 Work 和 Codex 使用额度。 与此同时，Open",
-      "titleZh": "刚刚，ChatGPT Pro 额度官宣翻倍，但免费重置可能要没了",
-      "summaryZh": "被用户吐槽了一个月，OpenAI 终于决定不再折腾大家的使用额度了。 就在刚刚，OpenAI 产品负责人 Tibo 突然宣布，将大幅提高 ChatGPT Pro 系列及 Business Premium 用户的使用额度，部分套餐直接翻倍，即日起生效。 更让老用户高兴的是，OpenAI 还决定撤销此前备受争议的 Pro 200 额度下调计划。 不过，消息公布后，有用户欢呼 OpenAI 终于听取了意见，也有人质问，为什么每个月同样花钱订阅的 Plus 用户，又一次被排除在福利名单之外？ 而 Tibo 本人，则给此次调整配上了一句颇有自嘲意味的宣言：「我们已经从一家不断重置额度的公司，毕业成为一家提供 Token 的公司。」 OpenAI 突然宣布额度翻倍，但 200 美元用户有点特殊 事情发生在 Tibo 连续更新产品的第 25 天。具 体来说，OpenAI 将从今天起提高 Pro 100、Pro 200、Pro 500 以及 Business Premium 的使用额度，并明确表示已经听取用户反馈，不会再削减 Pro 200 的 Work 和 Codex 使用额度。 与此同时，Open",
-      "translated": true,
-      "url": "https://www.ifanr.com/1686830",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T00:29:45.000Z",
-      "author": "山宗",
-      "tags": [
-        "launch",
-        "产品",
-        "AI",
-        "ChatGPT"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "34036f0787e15ecc5e",
-      "titleOriginal": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
-      "summaryOriginal": "《影之刃零》首日 Steam 在线峰值超 66 万，登上全球热销榜首 苹果高管回应 iPad mini 仍是 60Hz 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 Omdia：三季度全球手机出货量降 20%，苹果持平、小米降 29% OpenAI 宣布 ChatGPT Pro 全系额度翻倍 美国计算机专业入学人数再降，本科两年减少 18.4% 上半年中国 MaaS 市场达 106.3 亿元，火山引擎以 45.1% 的份额位居第一 豆包工作向企业开放第三方模型，可统一调用 Kimi、GLM 与 DeepSeek 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 中汽学会发布 2027 年技术趋势：400Wh/kg 固态电池将进入中试 小米拟出资 17 亿元入股欣旺达动力，增资后持股 5.34% 比亚迪三季度归母净利润增 28%，前三季度仍同比下降 DoorDash 拟以 170 亿美元收购 Instacart，保留独立品牌和 App 英特尔数据中心收入增 78%，预计 PC 疲软延续至明年上半年 Reddit 将测试登录后完整访问，应对 AI 抓取与搜索导流",
-      "titleZh": "早报｜苹果高管回应iPad mini仍是60Hz/三季度全球手机出货量降20%，创新低/《影之刃零》登顶Steam全球热销榜",
-      "summaryZh": "《影之刃零》首日 Steam 在线峰值超 66 万，登上全球热销榜首 苹果高管回应 iPad mini 仍是 60Hz 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万 Omdia：三季度全球手机出货量降 20%，苹果持平、小米降 29% OpenAI 宣布 ChatGPT Pro 全系额度翻倍 美国计算机专业入学人数再降，本科两年减少 18.4% 上半年中国 MaaS 市场达 106.3 亿元，火山引擎以 45.1% 的份额位居第一 豆包工作向企业开放第三方模型，可统一调用 Kimi、GLM 与 DeepSeek 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别 中汽学会发布 2027 年技术趋势：400Wh/kg 固态电池将进入中试 小米拟出资 17 亿元入股欣旺达动力，增资后持股 5.34% 比亚迪三季度归母净利润增 28%，前三季度仍同比下降 DoorDash 拟以 170 亿美元收购 Instacart，保留独立品牌和 App 英特尔数据中心收入增 78%，预计 PC 疲软延续至明年上半年 Reddit 将测试登录后完整访问，应对 AI 抓取与搜索导流",
-      "translated": true,
-      "url": "https://www.ifanr.com/1686790",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T00:14:13.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "launch",
-        "早报",
-        "iPad Mini",
-        "OpenAI",
-        "智元机器人"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d2282bcce1625c643a",
-      "titleOriginal": "Fair use benefits everyone",
-      "summaryOriginal": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-      "titleZh": "合理使用对每个人都有好处",
-      "summaryZh": "OpenAI分享了创作者、学者、无障碍倡导者和法律专家等关于合理使用如何支持人工智能培训和创新的法庭简报摘录。",
-      "translated": true,
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Company"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "05367ef1f34c39f85d",
-      "titleOriginal": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "summaryOriginal": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "titleZh": "Jassy说， AWS将是一项$ 1T的业务。但首先，它将花费巨大。",
-      "summaryZh": "亚马逊希望成为人工智能云计算之王，并成为首个营收达1万$的业务。但其首席执行官周四表示，要做到这一点，它将不得不继续其资本支出狂潮。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-29T23:42:22.000Z",
-      "author": "Lucas Ropek",
-      "tags": [
-        "news",
-        "AI",
-        "Enterprise",
-        "Amazon",
-        "AWS"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "51e04c008a7e5cf4c1",
-      "titleOriginal": "【钛晨报】光模块三巨头“易中天”业绩出炉，前三季度净赚超350亿元；国家队最新调仓：国新进联通，诚通买黄金；联讯仪器、普冉股份，第三季度净利暴增超30倍",
-      "summaryOriginal": "（本文作者为 钛媒体官方账号，钛媒体经授权发布） 【钛媒体综合】备受市场关注的光模块三巨头“易中天”业绩全部公布，2026年前三季度合计营收超千亿、净利合计超350亿元。 10月29日，中际旭创公告，第三季度实现营收277.69亿元，同比增长171.83%；归属于上市公司股东的净利润为85.87亿元，同比增长173.74%。前三季度营收695.47亿元，同比增长178.13%；归属于上市公司股东的净利润为222.38亿元，同比增长211.81%。业绩核心驱动因素为全球AI算力基建加速带动800G/1.6T高速光模块销售放量。 在近期介绍经营状况时，中际旭创表示，当前下游需求保持高景气，公司在手订单饱满。海外市场方面，主要客户订单已下至2027年，部分重点客户已给出2028年需求的明确指引，预计1.6T、800G等高端光模块需求将保持快速增长，NPO、XPO等下一代光互连产品需求亦有望逐步释放。国内市场方面，AI算力基础设施建设快速推进，400G、800G等产品需求亦有望进一步增长。 此外，中际旭创还发布公告称，公司董事会审议通过议案，拟将回购专用证券账户中持有的565.31万股A股股份",
-      "titleZh": "【钛晨报】光模块三巨头“易中天”业绩出炉，前三季度净赚超350亿元；国家队最新调仓：国新进联通，诚通买黄金；联讯仪器、普冉股份，第三季度净利暴增超30倍",
-      "summaryZh": "（本文作者为 钛媒体官方账号，钛媒体经授权发布） 【钛媒体综合】备受市场关注的光模块三巨头“易中天”业绩全部公布，2026年前三季度合计营收超千亿、净利合计超350亿元。 10月29日，中际旭创公告，第三季度实现营收277.69亿元，同比增长171.83%；归属于上市公司股东的净利润为85.87亿元，同比增长173.74%。前三季度营收695.47亿元，同比增长178.13%；归属于上市公司股东的净利润为222.38亿元，同比增长211.81%。业绩核心驱动因素为全球AI算力基建加速带动800G/1.6T高速光模块销售放量。 在近期介绍经营状况时，中际旭创表示，当前下游需求保持高景气，公司在手订单饱满。海外市场方面，主要客户订单已下至2027年，部分重点客户已给出2028年需求的明确指引，预计1.6T、800G等高端光模块需求将保持快速增长，NPO、XPO等下一代光互连产品需求亦有望逐步释放。国内市场方面，AI算力基础设施建设快速推进，400G、800G等产品需求亦有望进一步增长。 此外，中际旭创还发布公告称，公司董事会审议通过议案，拟将回购专用证券账户中持有的565.31万股A股股份",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186866.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-29T23:20:00.000Z",
-      "author": "钛媒体官方账号",
-      "tags": [
-        "launch",
-        "主编精选文章",
-        "钛早了！晨报"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "07b8277675a3d49f10",
-      "titleOriginal": "API credits benefit for eligible ChatGPT subscriptions",
-      "summaryOriginal": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations. I mainta",
-      "titleZh": "符合条件的ChatGPT订阅可享受API积分优惠",
-      "summaryZh": "符合条件的ChatGPT订阅的API积分福利本月早些时候， Anthropic宣布为其Max和Team订阅提供慷慨的新福利：每月100美元、200美元和500美元的订阅者将获得等量的（即将到期的）积分，用于Anthropic API。OpenAI现在已经推出了几乎完全相同的交易：如果您有100美元、200美元或500美元的订阅计划，您现在可以获得相同数量的积分，以应用于您的API组织之一。",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-10-29T22:48:29.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "51e4998c0a55a1d953",
-      "titleOriginal": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
-      "summaryOriginal": "Baseten has released joey-1 , a 2B model from its in-house research lab, Base Labs. The joey-1 decision model returns a label and a calibrated probability instead of generated text. It targets high-volume routing, classification and guardrail checks. Baseten prices it at $0.01 per million input tokens , with open weights on Hugging Face under MIT. TL;DR Size: 2B parameters, post-trained from Qwen3.5-2B. 16,384-token max sequence (Baseten says 262k on dedicated deployments). Runs on: Baseten Mode",
-      "titleZh": "Baseten以每100万个代币0.01 $的价格发布joey-1 ，这是一个2B决策模型",
-      "summaryZh": "Baseten已经从其内部研究实验室Base Labs发布了joey-1 ，这是一种2B模型。joey-1决策模型返回标签和校准概率，而不是生成的文本。它针对大批量路由、分类和护栏检查。Baseten将其定价为每百万个输入代币0.01 $ ，并在麻省理工学院的Hugging Face上开放权重。TL ； DR大小： 2B个参数，从Qwen3.5-2B训练后。16,384个令牌最大序列（ Baseten表示专用部署为262k ）。运行于： Baseten模式",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-29T21:20:29.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "23bc590ba1599da489",
-      "titleOriginal": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
-      "summaryOriginal": "",
-      "titleZh": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-10-29T20:13:07.000Z",
-      "author": "李冬梅",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6224c596d37f354a3a",
-      "titleOriginal": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "summaryOriginal": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "titleZh": "随着搜索流量的枯竭， Reddit宣布将转向登录体验",
-      "summaryZh": "随着人工智能改变人们在网上查找信息的方式， Reddit正在重新思考其开放网络根源，以保护其受众和业务。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-29T20:08:31.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "Social"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "24f3c9778b1e494a96",
-      "titleOriginal": "Rivian expands joint venture with VW to include AI assistant",
-      "summaryOriginal": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "titleZh": "Rivian扩大与大众的合资企业，包括人工智能助手",
-      "summaryZh": "Rivian没有透露其58亿美元合资企业的价值是否会因此而扩大。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-29T20:05:47.000Z",
-      "author": "Kirsten Korosec",
-      "tags": [
-        "news",
-        "AI",
-        "Transportation",
-        "Rivian",
-        "Volkswagen Group"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6db73530384441db2d",
-      "titleOriginal": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-      "summaryOriginal": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI. The article OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up appeared first on The Decoder .",
-      "titleZh": "随着与Anthropic的竞争加剧， OpenAI将Pro计划的使用限制增加了一倍",
-      "summaryZh": "OpenAI正在将其付费套餐的使用限制增加一倍，从Pro 100到Pro 500。在用户推回后，取消了对PRO 200配额的计划削减。像TERRA和SOL这样更高效的型号应该会提高可用容量。此举正好在Anthropic的IPO之前，因为两家公司都在争夺人工智能领域的B2B主导地位。OpenAI的文章将Pro套餐的使用限制增加了一倍，因为与Anthropic的竞争首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-29T20:01:27.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "ChatGPT"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "56fa7327f2b2eb22f2",
-      "titleOriginal": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summaryOriginal": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "titleZh": "OpenAI支持的Thrive Holdings收购ADT",
-      "summaryZh": "OpenAI支持的Thrive Holdings将以153亿美元的价格收购ADT ，并计划将AI引入家庭安全业务。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-29T19:56:19.000Z",
-      "author": "Julie Bort",
-      "tags": [
-        "news",
-        "AI",
-        "Venture",
-        "ADT",
-        "In Brief"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "039f4be7610e1b0a5b",
-      "titleOriginal": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
-      "summaryOriginal": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds appeared first on The Decoder .",
-      "titleZh": "Anthropic研究发现，专家采用人工智能代理的随机观点，并认为它们是他们自己的",
-      "summaryZh": "Anthropic为50名专家提供了一个AI代理，其偏好由抛硬币设置。在判断电话中，专家们多达86%的时间遵循客服代表的观点，大多数人认为结论是他们自己的。Anthropic研究发现，专家们采纳了人工智能代理的随机观点，并认为它们是他们自己的，这篇文章首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-29T19:33:37.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "research",
-        "AI research",
-        "Artificial Intelligence",
-        "Anthropic",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "31a141606e86628d3d",
-      "titleOriginal": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summaryOriginal": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "titleZh": "Meta悄悄推出名为Style Sketch的AI时尚应用程序",
-      "summaryZh": "应用程序会连接到Instagram ，根据您已分享的照片构建虚拟衣柜，或通过拍摄照片、录制快速视频或上传相机胶卷中的图片，手动添加物品。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-29T19:14:36.000Z",
-      "author": "Aisha Malik",
-      "tags": [
-        "launch",
-        "AI",
-        "Apps",
-        "Meta",
-        "Video"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2a1a8a7c88a01340d1",
-      "titleOriginal": "You can generate and edit Google Docs files directly in Gemini chats now",
-      "summaryOriginal": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini . The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now. Google added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leavin",
-      "titleZh": "您现在可以直接在Gemini聊天中生成和编辑Google文档文件",
-      "summaryZh": "现在，您可以直接在Google Gemini中生成、预览和编辑PDF、Google文档、Google表格、幻灯片、Markdown文件、TXT文件和代码。从今天开始，所有Gemini用户都可以使用新的文件编辑功能，虽然PDF预览/编辑可在Web和移动设备上使用，但所有其他文件格式目前仅在Web版本中。今年早些时候，谷歌增加了对在Gemini中生成和下载文件的支持，但现在您可以在没有leavin的情况下调整这些文件",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-29T18:45:31.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "launch",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bf3026d4c625e90298",
-      "titleOriginal": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
-      "summaryOriginal": "Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.",
-      "titleZh": "国防承包商授予其个人人工智能代理访问安全的五角大楼系统的权限",
-      "summaryZh": "消息人士告诉WIRED ，埃森哲员工的私人Claude代理在被发现之前在美国国防部网络上运行了两个月，并且可以修补该漏洞。",
-      "translated": true,
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-10-29T18:39:43.000Z",
-      "author": "Vittoria Elliott",
-      "tags": [
-        "analysis",
-        "Politics",
-        "Agent"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ffb43a6dca61a6c526",
-      "titleOriginal": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-      "summaryOriginal": "Prime Intellect has released Prime Mega MoE , a training extension of DeepSeek’s fused Mega MoE kernel. DeepSeek’s kernel only ran the forward pass. Prime Intellect added a fast, overlapping backward pass. That makes the fused kernel usable for training, not just inference. In its prime-rl trainer, full training steps on Qwen3 MoE models run up to 34% faster. Against TorchTitan, the gain reaches 55%. For teams training mixture-of-experts (MoE) models, that is a direct cut in GPU hours. TL;DR Siz",
-      "titleZh": "Prime Intellect发布Prime Mega MoE ：可训练的融合MoE内核， 3.11 x更快的前进通行证",
-      "summaryZh": "Prime Intellect发布了Prime Mega MoE ，这是DeepSeek融合的Mega MoE内核的训练扩展。DeepSeek的内核只运行了正向传递。至尊智慧增加了一个快速、重叠的反向通行证。这使得融合的内核可用于训练，而不仅仅是推理。在其主要的训练器中， Qwen3 MoE模型的完整训练步骤运行速度提高了34 ％。对阵TorchTitan ，增益达到55%。对于培训专家混合（ MoE ）模型的团队，这是直接削减GPU小时。TL; DR Siz",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-29T18:28:57.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11515,7 +11505,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 26
+      "count": 25
     },
     {
       "id": "deepmind",
@@ -11523,7 +11513,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 2
+      "count": 3
     },
     {
       "id": "techcrunch",
@@ -11531,7 +11521,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 76
+      "count": 74
     },
     {
       "id": "theverge",
@@ -11539,7 +11529,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 48
+      "count": 49
     },
     {
       "id": "mittr",
@@ -11547,7 +11537,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 7
+      "count": 8
     },
     {
       "id": "wired",
@@ -11555,7 +11545,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 22
+      "count": 21
     },
     {
       "id": "thedecoder",
@@ -11563,7 +11553,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 54
+      "count": 57
     },
     {
       "id": "marktechpost",
@@ -11571,7 +11561,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 28
+      "count": 26
     },
     {
       "id": "simonwillison",
@@ -11579,7 +11569,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 16
+      "count": 15
     },
     {
       "id": "oneusefulthing",
@@ -11595,7 +11585,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 8
+      "count": 10
     },
     {
       "id": "ifanr",
@@ -11603,7 +11593,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 30
+      "count": 28
     },
     {
       "id": "sspai",
@@ -11627,13 +11617,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 61
+      "count": 62
     }
   ],
   "stats": {
     "total": 500,
     "guides": 59,
-    "translated": 238,
+    "translated": 237,
     "sources": 14
   }
 }
