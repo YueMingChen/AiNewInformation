@@ -1,6 +1,242 @@
 {
-  "generatedAt": "2026-11-06T16:00:20.860Z",
+  "generatedAt": "2026-11-06T21:36:15.560Z",
   "articles": [
+    {
+      "id": "c0641eb0de56205a16",
+      "titleOriginal": "All the latest updates on AI data centers",
+      "summaryOriginal": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely",
+      "titleZh": "人工智能数据中心的所有最新更新",
+      "summaryZh": "大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。但是，急于扩建装满耗能服务器的仓库也引发了世界各地关于其对电网、公用事业账单、附近社区和环境影响的争论。在2026年中期选举之前，数据中心是一个主要的两党问题，选民在很大程度上反对数据中心的扩张。像OpenAI和亚马逊这样的科技巨头承诺将更密切地合作",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T20:02:22.000Z",
+      "author": "Verge Staff",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "edc88645f18e281d2e",
+      "titleOriginal": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
+      "summaryOriginal": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small. The article Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model appeared first on The",
+      "titleZh": "Ripple-65B Preview以完全Apache 2.0开放的美国模式提供强大的代理编码结果",
+      "summaryZh": "Ricursive Intelligence正在发布Ripple-65B Preview ，这是一种650亿参数的开放权重语言模型，该公司表示，该模型在TerminalBench 2.1编码基准测试中获得了美国开源模型中的最高分，总研发成本为3200万美元。然而，在其他基准测试中， Ripple落后于同样新发布的西部开放模型Inkling 2 Small。文章Ripple-65B Preview提供了强大的代理编码结果，因为一个完全Apache 2.0开放的美国模型首次出现在",
+      "translated": true,
+      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T19:47:04.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Open Source"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4758b3e08407453103",
+      "titleOriginal": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summaryOriginal": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "titleZh": "数百个公开暴露在网络中的Artex AI黑客工具",
+      "summaryZh": "安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T18:44:38.000Z",
+      "author": "Zack Whittaker",
+      "tags": [
+        "news",
+        "AI",
+        "Security",
+        "cybersecurity",
+        "cyberattack"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "46e88a02e03424f2e4",
+      "titleOriginal": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summaryOriginal": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "titleZh": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
+      "summaryZh": "Meta的Muse代理继续获得新功能和集成。Spaces有望成为与人工智能助手互动的新方式。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "agents",
+        "Mark Zuckerberg",
+        "Meta"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "938e42643530113e8e",
+      "titleOriginal": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "summaryOriginal": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
+      "titleZh": "免费的中国人工智能模型越来越擅长黑客攻击",
+      "summaryZh": "一项要求人工智能模型打入模拟网络的实验表明， DeepSeek和GLM的黑客技能与OpenAI最先进的网络模型相差不远，后者并不公开。",
+      "translated": true,
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-06T18:43:43.000Z",
+      "author": "Will Knight, Lily Hay Newman",
+      "tags": [
+        "analysis",
+        "Security"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "52e0623fab799a2104",
+      "titleOriginal": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "summaryOriginal": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by describing it. If you connect an outside app to Muse - like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with - the AI assistant will continuously pull info",
+      "titleZh": "Meta的Muse AI可以为您目前需要的应用版本创建自定义“空间",
+      "summaryZh": "Meta现在允许您在Muse中构建自定义的、类似于应用程序的体验。这项名为“SPACES”的新功能允许其AI助手构建购物中心、学校仪表板、音乐跟踪器、琐事游戏等，您可以在Muse应用程序中直接与之交互。Meta说，您可以通过描述来创建新空间。如果您将外部应用程序连接到Muse ，例如Gmail、Google日历、OpenTable、Notion以及与Muse合作的其他应用程序， AI助手将不断提取信息",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T18:10:10.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "860444638104df4bae",
+      "titleOriginal": "How a Blue Wave midterm might reshape the AI industry",
+      "summaryOriginal": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "titleZh": "Blue Wave期中考试如何重塑人工智能行业",
+      "summaryZh": "民主党在本周美国中期选举中的历史性胜利也可能改变科技行业。周二，公众对41项与数据中心相关的投票措施进行了投票--除一项外，大多数人投票决定对数据中心的发展施加更多限制。即使数据中心不直接在选票上，它们也是[…]",
+      "translated": true,
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T18:00:00.000Z",
+      "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+      "tags": [
+        "news",
+        "Startups",
+        "AI",
+        "marvell",
+        "CrowdStrike"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "18d4bcaa5e30732848",
+      "titleOriginal": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "summaryOriginal": "Zyphra has released ZYFA (Zyphra FlashAttention on AMD) , a set of FP8 and BF16 prefill attention kernels for AMD Instinct MI355X GPUs. ZYFA is Zyphra’s FP8 attention engine for long-context prefill, and the code is open source under Apache 2.0 . On real model activations, its FP8 kernels run 1.16-1.76x faster than AITER , AMD’s default kernel library. At head dimension 128, ZYFA’s FP8 error is 62-78% lower than AITER’s. TL;DR Framework: It is a kernel library. Causal forward (prefill) attention",
+      "titleZh": "Zyphra ZYFA ：适用于AMD MI355X的FP8 FlashAttention ，速度快达1.76倍",
+      "summaryZh": "Zyphra发布了ZYFA （ AMD上的Zyphra FlashAttention ） ，这是一套适用于AMD Instinct MI355X GPU的FP8和BF16预填充注意力内核。ZYFA是Zyphra的FP8注意力引擎，用于长上下文预填充，代码在Apache 2.0下是开源的。在实际模型激活时，其FP8内核的运行速度比AMD的默认内核库AITER快1.16-1.76倍。在头部尺寸128处， ZYFA的FP8误差比AITER低62-78%。TL; DR框架：它是一个内核库。因果正向（预填充）注意",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-06T17:28:04.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ead671d25881cf904e",
+      "titleOriginal": "After the midterms, is the AI industry in for a rough two years?",
+      "summaryOriginal": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+      "titleZh": "期中考试结束后，人工智能行业是否会持续两年？",
+      "summaryZh": "民主党在本周美国中期选举中的历史性胜利也可能改变科技行业。周二，公众对41项与数据中心相关的投票措施进行了投票--除一项外，大多数人投票决定对数据中心的发展施加更多限制。即使数据中心不直接在选票上，它们也是[…]",
+      "translated": true,
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-06T17:23:52.000Z",
+      "author": "Theresa Loconsolo, Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "CrowdStrike",
+        "data center"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "04ff5155f60621be12",
+      "titleOriginal": "Quoting Nilay Patel",
+      "summaryOriginal": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies are spending more than they're making on these products. Refrigerators holding blood storage in Europ",
+      "titleZh": "引用Nilay Patel",
+      "summaryZh": "产品不够好，无法在成本上向人们推销。你不能告诉人们你必须在他们的后院听数据中心的呜咽声，以获得人工智能概述和历史上一些最搞笑的深度假斜坡。这是不值得的。这对任何人来说都不值得。代理不是真实的，他们可能还没有被任何人想要的方式使用。所有这些公司在这些产品上的支出都超过了他们的收入。在欧罗普存放血液的冰箱",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-06T17:13:12.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "d600e390b03cc6dd43",
       "titleOriginal": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
@@ -20,6 +256,120 @@
         "launch"
       ],
       "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "91f8d419f4fcff3536",
+      "titleOriginal": "AI is the new dating dealbreaker",
+      "summaryOriginal": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where you can say, 'We'll get along if'',\" she recalls. \"Sometimes people will be like, 'Fuck AI.'\" Usually, the people who include this kind of value statement on their profile work in the arts, nursi",
+      "titleZh": "人工智能是新的约会交易破坏者",
+      "summaryZh": "当Irene去年搬到旧金山时，她开始使用约会应用程序结识新朋友，了解她的新城市，并与关心她所做事情的其他人建立联系。这位25岁的分析师下载了Hinge并开始滑动后，她注意到了一个趋势。“铰链有一个提示，你可以说， '如果'我们会相处得很好'，”她回忆道。“有时人们会说，'去他妈的人工智能。'“通常，在他们的艺术作品中包含这种价值陈述的人，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T17:00:00.000Z",
+      "author": "Helen Li",
+      "tags": [
+        "news",
+        "Prompt"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "04f7ceca8d41f8664f",
+      "titleOriginal": "Perplexity now has its own always-on AI agent",
+      "summaryOriginal": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexity now has its own always-on AI agent appeared first on The Decoder .",
+      "titleZh": "Perplexity现在拥有自己的始终在线的人工智能代理",
+      "summaryZh": "Perplexity正在推出“Teammates” ，即始终在线的代理，他们在自己的虚拟机上处理正在进行的项目。该功能要求Max计划每月200 $ ，远高于OpenAI或Anthropic的类似产品。永远在线的代理商市场越来越拥挤。Perplexity的文章现在有它自己的永远在线的AI代理首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-06T16:47:28.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Agentic AI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "22815b4f725ebdf4fa",
+      "titleOriginal": "Big Tech lost big in the 2026 election",
+      "summaryOriginal": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back , and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast , Nilay and David discuss what the 2026 midterms mean for the tech industry going forward. They dig into the self-quarantining echo chamber that is X , the congressional energy likely to be pointed at tec",
+      "titleZh": "Big Tech lost big in the 2026 election",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T16:38:02.000Z",
+      "author": "David Pierce",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c821c11af1c2221011",
+      "titleOriginal": "How Akai and Moog are embracing vibe-coded mods",
+      "summaryOriginal": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge , inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can do what they want.\" That \"toolbox\" includes making the code for devices like the recently teased MPC Sample Key open source, but also offering developers an SDK to make modific",
+      "titleZh": "How Akai and Moog are embracing vibe-coded mods",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-06T16:34:39.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news",
+        "Open Source",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0667fe3d9844f0e451",
+      "titleOriginal": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "summaryOriginal": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled.",
+      "titleZh": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-06T16:00:00.000Z",
+      "author": "Steven Levy",
+      "tags": [
+        "analysis",
+        "Business",
+        "Business / Tech Culture"
+      ],
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
@@ -273,7 +623,7 @@
         "AI",
         "Fundraising",
         "Robotics",
-        "physical ai"
+        "iNovia Capital"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -572,6 +922,28 @@
       "readingMinutes": 2
     },
     {
+      "id": "bc8f9eac19663ff628",
+      "titleOriginal": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summaryOriginal": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "titleZh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Security"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "4f6cf7fb53092ef4bd",
       "titleOriginal": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
       "summaryOriginal": "",
@@ -636,7 +1008,7 @@
         "AI",
         "Security",
         "Lightspeed Venture Capital",
-        "M&A"
+        "Mergers and Acquisitions"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -885,6 +1257,29 @@
         "Agent"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cfd4354afa14004ff8",
+      "titleOriginal": "Measuring how AI agents handle everyday wet-lab science",
+      "summaryOriginal": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "titleZh": "Measuring how AI agents handle everyday wet-lab science",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "research",
+        "Publication",
+        "Agent"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -11107,395 +11502,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "5794a0dfb2eb9b6636",
-      "titleOriginal": "XHEART的炼芯术士",
-      "summaryOriginal": "（本文作者为 最话FunTalk，钛媒体经授权发布） 文 | 最话FunTalk，作者 | 王芳洁 第一颗芯片回片那天，新芯航途（XHEART）的一位同事发现，自己桌上的日历上写着“今天有好事发生。”他赶紧把这句话拍下来，发到了公司群里。 果然，不到24小时内，这颗芯片被点亮了。 整个事情当中，最引人注目的当然是那颗芯片，但还有一个人不该被忽略，当他看到好事，首先想到的是公司，然后福至心灵。 这真是一家幸运的公司，无论在事上，还是在人身上。 成立不过三年时间里，XHEART就已经推出了第一代大模型芯片X7系列，并实现了规模化量产上车。 10月29日， 这家年轻的公司召开发布会，宣布推出新一代大模型芯片—— X7 Ultra，一款拥有700 TOPS大模型算力的车规级芯片。并且通过架构与工具链协同创新，X7 Ultra支持可部署模型参数量实现10倍提升。 和X7系列一样，X7 Ultra仍然是一款由大模型定义的芯片，芯片与模型的适配被前置到了研发链路的最前端。 并且，XHEART也仍然坚持基于真实量产智驾大模型进行评测。因为在XHEART CEO李宗霖看来，通常行业用实验室里的基础测试评",
-      "titleZh": "XHEART的炼芯术士",
-      "summaryZh": "（本文作者为 最话FunTalk，钛媒体经授权发布） 文 | 最话FunTalk，作者 | 王芳洁 第一颗芯片回片那天，新芯航途（XHEART）的一位同事发现，自己桌上的日历上写着“今天有好事发生。”他赶紧把这句话拍下来，发到了公司群里。 果然，不到24小时内，这颗芯片被点亮了。 整个事情当中，最引人注目的当然是那颗芯片，但还有一个人不该被忽略，当他看到好事，首先想到的是公司，然后福至心灵。 这真是一家幸运的公司，无论在事上，还是在人身上。 成立不过三年时间里，XHEART就已经推出了第一代大模型芯片X7系列，并实现了规模化量产上车。 10月29日， 这家年轻的公司召开发布会，宣布推出新一代大模型芯片—— X7 Ultra，一款拥有700 TOPS大模型算力的车规级芯片。并且通过架构与工具链协同创新，X7 Ultra支持可部署模型参数量实现10倍提升。 和X7系列一样，X7 Ultra仍然是一款由大模型定义的芯片，芯片与模型的适配被前置到了研发链路的最前端。 并且，XHEART也仍然坚持基于真实量产智驾大模型进行评测。因为在XHEART CEO李宗霖看来，通常行业用实验室里的基础测试评",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8187542.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T08:50:48.000Z",
-      "author": "最话FunTalk",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "65b03b2d34f479b51a",
-      "titleOriginal": "AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？",
-      "summaryOriginal": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 2026年10月16日，vLLM官方博客发布了一篇技术复盘，标题很技术流：《Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly》。 署名作者是英伟达CentML的工程师Benjamin Chislett。他做了一件事：用一段1.2万行CuTe DSL编写的Megakernel，将月之暗面2.8万亿参数的Kimi K3推理速度大幅提升。据SemiAnalysis测算，在相同的GB300 NVL72硬件上，K3达到423 tok/s/user的推理速度，性能提升1.68倍。vLLM博客原文报告的数据则是：batch 1下超过840 tokens/s，多个测试配置下解码吞吐提升1.5—2倍。 没有换一张卡。没有上更先进的制程。没有等下一代芯片。 但真正让这件事值得深挖的，不是那1.68倍。 是博客里的一句话，被绝大多数中文报道忽略了： “Agent-optimized inference code is outpacing our review and m",
-      "titleZh": "AI写的代码，人类来不及审：英伟达1.2万行代码优化Kimi K3，另开新战场？",
-      "summaryZh": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 2026年10月16日，vLLM官方博客发布了一篇技术复盘，标题很技术流：《Hyper Optimizing Kimi K3 in vLLM: Moving Fast and Responsibly》。 署名作者是英伟达CentML的工程师Benjamin Chislett。他做了一件事：用一段1.2万行CuTe DSL编写的Megakernel，将月之暗面2.8万亿参数的Kimi K3推理速度大幅提升。据SemiAnalysis测算，在相同的GB300 NVL72硬件上，K3达到423 tok/s/user的推理速度，性能提升1.68倍。vLLM博客原文报告的数据则是：batch 1下超过840 tokens/s，多个测试配置下解码吞吐提升1.5—2倍。 没有换一张卡。没有上更先进的制程。没有等下一代芯片。 但真正让这件事值得深挖的，不是那1.68倍。 是博客里的一句话，被绝大多数中文报道忽略了： “Agent-optimized inference code is outpacing our review and m",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8184634.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T08:50:44.000Z",
-      "author": "斯凯有话说",
-      "tags": [
-        "launch",
-        "Agent",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7fd660b626fff3e34c",
-      "titleOriginal": "联想的“算力”重估：ISG狂飙与PC失速之间",
-      "summaryOriginal": "（本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 联想集团正处在一个极其微妙且充满张力的估值十字路口。 10月中下旬，摩根士丹利与中信证券相继发布针对联想的深度研报，两者的核心判断高度一致：市场严重低估了联想ISG（基础设施方案业务）的增长弹性。大摩将联想目标价上调至49港元，中信证券则维持50港元目标价，其底层逻辑是“传统服务器及AI服务器需求保持强劲，ISG有望维持高景气度”。 资本市场的定价逻辑正在发生剧烈位移。支撑这一判断的，是ISG在上一财季交出的堪称炸裂的数字：收入同比暴增98%至85亿美元，经营利润率从去年同期的负值直接跃升至9.1%，AI服务器订单储备按季增加157%，达到惊人的540亿美元。与此同时，联想在10月推出了首批搭载NVIDIA RTX Spark N1X芯片的“YOGA Pro 15 RTX Spark超级AI PC”。一条从云端AI服务器到端侧AI PC的算力叙事，似乎正在完美成型。 但在这份光鲜亮丽的AI成绩单背后，同一份财报里的另一组数据却构成了极其冷酷的对冲。根据Gartner的数据，2026年第三季度全球PC出货量同比下降22",
-      "titleZh": "联想的“算力”重估：ISG狂飙与PC失速之间",
-      "summaryZh": "（本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 联想集团正处在一个极其微妙且充满张力的估值十字路口。 10月中下旬，摩根士丹利与中信证券相继发布针对联想的深度研报，两者的核心判断高度一致：市场严重低估了联想ISG（基础设施方案业务）的增长弹性。大摩将联想目标价上调至49港元，中信证券则维持50港元目标价，其底层逻辑是“传统服务器及AI服务器需求保持强劲，ISG有望维持高景气度”。 资本市场的定价逻辑正在发生剧烈位移。支撑这一判断的，是ISG在上一财季交出的堪称炸裂的数字：收入同比暴增98%至85亿美元，经营利润率从去年同期的负值直接跃升至9.1%，AI服务器订单储备按季增加157%，达到惊人的540亿美元。与此同时，联想在10月推出了首批搭载NVIDIA RTX Spark N1X芯片的“YOGA Pro 15 RTX Spark超级AI PC”。一条从云端AI服务器到端侧AI PC的算力叙事，似乎正在完美成型。 但在这份光鲜亮丽的AI成绩单背后，同一份财报里的另一组数据却构成了极其冷酷的对冲。根据Gartner的数据，2026年第三季度全球PC出货量同比下降22",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8187174.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T08:50:43.000Z",
-      "author": "Tech商业",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5d6f0974a288257ddd",
-      "titleOriginal": "[AINews] Building AIE CODE: The top Coding Agent Conference",
-      "summaryOriginal": "It’s a quiet day, so as we have done once per conference, we’ll do a behind the scenes look at AI Engineer , now serving 6M views a month for 1.8M monthly unique viewers . CODE is the last flagship AIE of the year (there are also 2 partner conferences coming up - AIEi Shanghai takes place next week, and AIEi Sydney is a side event of NeurIPS in December). As a Summit it is meant to be more intimate: single track, invite-only for the top 1000 agentic engineers in the world (over 100k tuned into o",
-      "titleZh": "[AINews]构建AIE代码：顶级编码代理会议",
-      "summaryZh": "这是一个安静的日子，所以正如我们在每次会议上所做的那样，我们将对人工智能工程师进行幕后调查，现在每月为180万独立观众提供600万次观看。CODE是今年的最后一个旗舰AIE （还有两个合作伙伴会议即将举行- AIEi上海将于下周举行， AIEi悉尼是NeurIPS在12月的会外活动）。作为一个峰会，它意味着更亲密：单轨，仅受邀参加世界前1000名代理工程师（超过10万人调到",
-      "translated": true,
-      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-10-30T08:24:29.000Z",
-      "author": "swyx .ai",
-      "tags": [
-        "analysis",
-        "ainews: weekday roundups",
-        "Agent",
-        "Coding"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "90a3a99623bb886100",
-      "titleOriginal": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
-      "summaryOriginal": "Gemini 4 Carbon 王者归来没几天，这边 Fable 5.5 就被爆出来正在被测试。 有网友在使用 Opus 5.5 时表示会被路由到更新的模型，而且效果看起来要比当前的 Opus 好得多，不由得让人怀疑这是 Fable 5.5 或是下一代 Opus 模型。 结合前段时间 The Information 的爆料，有已经体验过 Anthropic 最新模型的知情人士提到，Anthropic 准备推出更能读懂用户意图的模型。 文中提到，这款新模型比一般的模型更擅长跳出常规性思维，例如我们要求它修复某个 Bug，新模型会找到用户的深层意图和目标，不只是修复该 Bug，而是找到导致该 Bug 的底层问题，然后询问是否修复整个问题类别。 而在 X 上网友分享出来的实测结果，要求 Opus 5.5 和 Gemini 4 Argon 和新模型一起完成 Three.js 测试，内容是生成奔跑的斑马。 可以看到，三匹马中只有 Fable 5.5 生成画面，看起来是最真实地在奔跑，Opus 5.5 和 Gemini 4 都给人一种「跑得特别累」的感觉。 还有网友提到如何测试自己是否被路由到了新",
-      "titleZh": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
-      "summaryZh": "Gemini 4 Carbon 王者归来没几天，这边 Fable 5.5 就被爆出来正在被测试。 有网友在使用 Opus 5.5 时表示会被路由到更新的模型，而且效果看起来要比当前的 Opus 好得多，不由得让人怀疑这是 Fable 5.5 或是下一代 Opus 模型。 结合前段时间 The Information 的爆料，有已经体验过 Anthropic 最新模型的知情人士提到，Anthropic 准备推出更能读懂用户意图的模型。 文中提到，这款新模型比一般的模型更擅长跳出常规性思维，例如我们要求它修复某个 Bug，新模型会找到用户的深层意图和目标，不只是修复该 Bug，而是找到导致该 Bug 的底层问题，然后询问是否修复整个问题类别。 而在 X 上网友分享出来的实测结果，要求 Opus 5.5 和 Gemini 4 Argon 和新模型一起完成 Three.js 测试，内容是生成奔跑的斑马。 可以看到，三匹马中只有 Fable 5.5 生成画面，看起来是最真实地在奔跑，Opus 5.5 和 Gemini 4 都给人一种「跑得特别累」的感觉。 还有网友提到如何测试自己是否被路由到了新",
-      "translated": true,
-      "url": "https://www.ifanr.com/1686874",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T07:42:58.000Z",
-      "author": "张子豪",
-      "tags": [
-        "guide",
-        "软件",
-        "Anthropic",
-        "Claude",
-        "用户隐私"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a25ea1ea21fd0afbcc",
-      "titleOriginal": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-      "summaryOriginal": "Samaya AI has released Samaya Sterling , a post-trained model for agentic financial research. Sterling is built on NVIDIA’s Nemotron 3.5 Lightning , a 30B mixture-of-experts model with 3B active parameters. On Samaya’s FrontierFinance benchmark , it scores 58.9%. Claude Fable 5.1 scores 55.9%. Each Sterling question costs $0.61, against $6.89 for Fable 5.1. For developers, the takeaway is a concrete recipe: co-train a small model with its harness, and it can win in a narrow domain. TL;DR Size: 3",
-      "titleZh": "Samaya AI发布Sterling ：在FrontierFinance上以11倍的成本击败Claude Fable 5.1的3B-Active Finance研究代理模型",
-      "summaryZh": "Samaya AI发布了Samaya Sterling ，这是一种用于代理金融研究的后期训练模型。Sterling基于NVIDIA的Nemotron 3.5 Lightning ，这是一款30B混合专家模型，具有3B活动参数。在Samaya的FrontierFinance基准上，得分为58.9%。Claude Fable 5.1得分55.9%。每个英镑问题的费用为0.61 $ ，而寓言5.1为6.89 $。对于开发人员来说，外卖是一个具体的配方：使用其线束共同训练一个小模型，它可以在狭窄的领域中获胜。TL ； DR尺寸： 3",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-30T07:26:12.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bb24b7823e507f4713",
-      "titleOriginal": "从个人提效到组织生产力：腾讯的上下文解法",
-      "summaryOriginal": "国家数据局的统计显示，中国日均Token调用量从2024年初的约1000亿，增长到今年7月的超过500万亿，两年增长超过5000倍。Token是AI处理信息的最小单位，每一次调用背后，都是企业真实付出的算力、电力与费用。 个人层面的繁荣不需要论证，企业层面的图景却始终模糊。数千倍增长，意味着不再是尝鲜式的试用，而是一笔规模可观、且还在持续膨胀的投入。但如何评估与衡量，还没有公认的答案。 10月29日，2026腾讯全球数字生态大会在深圳开幕。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生在主题演讲中给出的解释是， 企业落地Agent最大的问题，不是模型不够强，而是断点太多 ——AI要做分析、写方案，接不上企业内部的系统拿数据，就无从了解业务、渠道和客户的实际情况。 腾讯集团副总裁、腾讯云CTO王慧星则更进一步指出， 上下文连接只是起点，企业要真正发挥Agent的价值，还需要解决业务接入、安全治理、效果衡量和规模化落地等问题 ，这也是WorkBuddy正在做的事情。 作为国内用户规模最大的AI办公智能体的运营方，腾讯的落地答案可以从WorkBuddy身上窥见一斑。过去八个月，这款产",
-      "titleZh": "从个人提效到组织生产力：腾讯的上下文解法",
-      "summaryZh": "国家数据局的统计显示，中国日均Token调用量从2024年初的约1000亿，增长到今年7月的超过500万亿，两年增长超过5000倍。Token是AI处理信息的最小单位，每一次调用背后，都是企业真实付出的算力、电力与费用。 个人层面的繁荣不需要论证，企业层面的图景却始终模糊。数千倍增长，意味着不再是尝鲜式的试用，而是一笔规模可观、且还在持续膨胀的投入。但如何评估与衡量，还没有公认的答案。 10月29日，2026腾讯全球数字生态大会在深圳开幕。腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生在主题演讲中给出的解释是， 企业落地Agent最大的问题，不是模型不够强，而是断点太多 ——AI要做分析、写方案，接不上企业内部的系统拿数据，就无从了解业务、渠道和客户的实际情况。 腾讯集团副总裁、腾讯云CTO王慧星则更进一步指出， 上下文连接只是起点，企业要真正发挥Agent的价值，还需要解决业务接入、安全治理、效果衡量和规模化落地等问题 ，这也是WorkBuddy正在做的事情。 作为国内用户规模最大的AI办公智能体的运营方，腾讯的落地答案可以从WorkBuddy身上窥见一斑。过去八个月，这款产",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8187338.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T05:33:02.000Z",
-      "author": "ToB深水区",
-      "tags": [
-        "guide",
-        "腾讯",
-        "腾讯云",
-        "AGI",
-        "智能体"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "604de9f950658b7e4f",
-      "titleOriginal": "当企业们都戴上AI的“帽子”",
-      "summaryOriginal": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 这两年了解观察过不少企业，无论是上市多年的大厂，还是才创立几年的小厂，从几百人的中型公司到只有十几个人的初创团队。都有一个越来越强烈的感受： 都在聊AI叙事，都在拥抱AI。 帽子是个很妙的东西。戴上它，你立刻有了某种身份感。会议PPT里不出现“大模型”“智能体”“AI原生”，似乎就矮了一截；老板在年会上不喊两句“全面拥抱AI”，好像就交不了差。 这顶至少看起来便宜，它比起重构一条产线、改造一套流程，买一个AI账号、签一份“智能体”合同，在财务报表上确实体面了不少。 但帽子终究是帽子。它戴在头上，不在身体里。风一吹会掉，人多的时候要扶，回到家第一件事就是摘下来。 问题在于，很多企业把戴上帽子当成了长出的新器官。 帽子是怎么被戴上的 先看一组不太体面的数字。 德勤中国2026年10月发布的白皮书调研显示，92%的企业已经开展了AI应用试点，但只有8%的企业认为AI投入实现了财务和战略收益，真正认为完成了组织级转型的，只有4%。 麦肯锡的口径稍温和一些：全球88%的企业在用AI，吃到真金白银的只有39%。BCG给了一个更锋利的",
-      "titleZh": "当企业们都戴上AI的“帽子”",
-      "summaryZh": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 这两年了解观察过不少企业，无论是上市多年的大厂，还是才创立几年的小厂，从几百人的中型公司到只有十几个人的初创团队。都有一个越来越强烈的感受： 都在聊AI叙事，都在拥抱AI。 帽子是个很妙的东西。戴上它，你立刻有了某种身份感。会议PPT里不出现“大模型”“智能体”“AI原生”，似乎就矮了一截；老板在年会上不喊两句“全面拥抱AI”，好像就交不了差。 这顶至少看起来便宜，它比起重构一条产线、改造一套流程，买一个AI账号、签一份“智能体”合同，在财务报表上确实体面了不少。 但帽子终究是帽子。它戴在头上，不在身体里。风一吹会掉，人多的时候要扶，回到家第一件事就是摘下来。 问题在于，很多企业把戴上帽子当成了长出的新器官。 帽子是怎么被戴上的 先看一组不太体面的数字。 德勤中国2026年10月发布的白皮书调研显示，92%的企业已经开展了AI应用试点，但只有8%的企业认为AI投入实现了财务和战略收益，真正认为完成了组织级转型的，只有4%。 麦肯锡的口径稍温和一些：全球88%的企业在用AI，吃到真金白银的只有39%。BCG给了一个更锋利的",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186955.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T05:05:02.000Z",
-      "author": "影子备忘录",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "47c45aeb356e6a496f",
-      "titleOriginal": "AI红利究竟被谁吃了？",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 从 Meta 开始，硅谷巨头迎来了一个格外惨淡的财报周。 10月29日，亚马逊公布第三季度财报，旗下AWS营收同比增长39%，创下近五年来最快增速，但集团过去12个月自由现金流却转为负424亿美元，股价盘后一度下跌超过5%。 谷歌的遭遇更加惨烈：尽管Google Cloud营收同比增长103%，Alphabet股价仍在10月29日暴跌12.64%，盘中一度下跌超过13%，市值蒸发超过5000亿美元，创下公司历史纪录。 更早之前，Meta第三季度营收同比增长26%，财报公布后首个交易日股价下跌近7%。 这在某种程度上是一个对之前阿波罗全球管理公司首席经济学家Torsten Slok 言论的反驳。Slok指出，过去几年，美国科技七巨头的人均营收和利润率持续提高，但标普500指数其余493家公司，却没有出现类似的改善。 一场技术革命，人们总会期待，创造技术的公司能够赚到丰厚的利润，采用技术的企业能够提高经营效率，而普通人也能享受到更便宜的服务、更高的收入和更多闲暇。 但当我们沿着AI产业链寻找这场技术革命的受益者时，却发现每一方都",
-      "titleZh": "AI红利究竟被谁吃了？",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 从 Meta 开始，硅谷巨头迎来了一个格外惨淡的财报周。 10月29日，亚马逊公布第三季度财报，旗下AWS营收同比增长39%，创下近五年来最快增速，但集团过去12个月自由现金流却转为负424亿美元，股价盘后一度下跌超过5%。 谷歌的遭遇更加惨烈：尽管Google Cloud营收同比增长103%，Alphabet股价仍在10月29日暴跌12.64%，盘中一度下跌超过13%，市值蒸发超过5000亿美元，创下公司历史纪录。 更早之前，Meta第三季度营收同比增长26%，财报公布后首个交易日股价下跌近7%。 这在某种程度上是一个对之前阿波罗全球管理公司首席经济学家Torsten Slok 言论的反驳。Slok指出，过去几年，美国科技七巨头的人均营收和利润率持续提高，但标普500指数其余493家公司，却没有出现类似的改善。 一场技术革命，人们总会期待，创造技术的公司能够赚到丰厚的利润，采用技术的企业能够提高经营效率，而普通人也能享受到更便宜的服务、更高的收入和更多闲暇。 但当我们沿着AI产业链寻找这场技术革命的受益者时，却发现每一方都",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8187355.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T05:05:01.000Z",
-      "author": "字母AI",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f4afd5415c84de46b6",
-      "titleOriginal": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
-      "summaryOriginal": "Edge0 has released Audio8-TTS-Realistic , an open-weight text-to-speech model for zero-shot voice cloning. Audio8-TTS-Realistic is a 0.6B-parameter model that clones a voice from 1 reference clip and transcript. It supports 23 languages, 12 more than its predecessor. The weights and code ship under Apache 2.0 . For developers, the catch is competitive multilingual accuracy at a size that is cheap to fine-tune and serve. TL;DR Size: 601M main-model parameters (codec excluded); up to 2,048 packed",
-      "titleZh": "Edge0发布0.6B语音克隆TTS模型Audio8-TTS-Realistic",
-      "summaryZh": "Edge0发布了Audio8-TTS-Realistic ，这是一种用于零镜头语音克隆的开放式权重文本到语音模型。Audio8-TTS-Realistic是一个0.6B参数模型，可从1个参考剪辑和转录本中克隆语音。它支持23种语言，比其前身多12种。权重和代码在Apache 2.0下发布。对于开发人员来说，关键在于具有竞争力的多语言准确性，其尺寸便宜，易于微调和服务。TL ； DR尺寸： 601M主型号参数（不含编解码器） ；最多2048个包装",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-30T05:02:52.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8e1c9da3e8c8aff613",
-      "titleOriginal": "卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱",
-      "summaryOriginal": "在不少短视频平台上，公众对于卡车司机这个职业群体有着复杂的情感，一方面这是一个辛苦危险的工作，另一方面因为重型卡车的巨大体量，卡车司机身上又肩负着巨大的安全责任。 站在卡车司机视角，从哪里接货、走哪条路、在哪里加油、什么时候休息，甚至下坡时早一点松开油门，都会影响一趟运输最后能剩下多少钱。高速公路上持续数小时的注意力集中，和装卸货、等待、找回程货源，同样构成了这份工作的日常。 中国物流与采购联合会发布的《2025 年货车司机从业状况调查报告》显示，在 5936 份有效问卷中，超过一半的司机每天工作超过 10 小时，近四成司机每月出车 26 天及以上。另一份来自中国人民大学的调查则指出，货运市场供需关系和运价下行，正在挤压司机的利润空间。 这些看起来离人工智能很远的问题，恰好解释了为什么一家智能驾驶公司开始研究重卡领域的智能辅助驾驶了。 10 月 29 日，卓驭科技在珠海发布商用车智能辅助驾驶解决方案「磐行」，将原本应用于乘用车的技术体系扩展到商用重卡、客车、轻卡和 VAN。相比乘用车用户对驾驶舒适度、功能体验的关注，商用车客户关心的问题有所不同：它能不能降低事故风险，减轻长途驾驶负担，",
-      "titleZh": "卓驭发布商用车智能辅助驾驶解决方案「磐行」，一年可以让重卡省下 2-3 万元油钱",
-      "summaryZh": "在不少短视频平台上，公众对于卡车司机这个职业群体有着复杂的情感，一方面这是一个辛苦危险的工作，另一方面因为重型卡车的巨大体量，卡车司机身上又肩负着巨大的安全责任。 站在卡车司机视角，从哪里接货、走哪条路、在哪里加油、什么时候休息，甚至下坡时早一点松开油门，都会影响一趟运输最后能剩下多少钱。高速公路上持续数小时的注意力集中，和装卸货、等待、找回程货源，同样构成了这份工作的日常。 中国物流与采购联合会发布的《2025 年货车司机从业状况调查报告》显示，在 5936 份有效问卷中，超过一半的司机每天工作超过 10 小时，近四成司机每月出车 26 天及以上。另一份来自中国人民大学的调查则指出，货运市场供需关系和运价下行，正在挤压司机的利润空间。 这些看起来离人工智能很远的问题，恰好解释了为什么一家智能驾驶公司开始研究重卡领域的智能辅助驾驶了。 10 月 29 日，卓驭科技在珠海发布商用车智能辅助驾驶解决方案「磐行」，将原本应用于乘用车的技术体系扩展到商用重卡、客车、轻卡和 VAN。相比乘用车用户对驾驶舒适度、功能体验的关注，商用车客户关心的问题有所不同：它能不能降低事故风险，减轻长途驾驶负担，",
-      "translated": true,
-      "url": "https://www.ifanr.com/1686855",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T04:54:24.000Z",
-      "author": "刘学文",
-      "tags": [
-        "research",
-        "董车会",
-        "卓驭",
-        "磐行",
-        "辅助驾驶"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "68d6c890cdcad075da",
-      "titleOriginal": "Anthropic上市前夜，大模型生意如何算账？",
-      "summaryOriginal": "（本文作者为 市值榜，钛媒体经授权发布） 文 | 市值榜，作者 | 相青；编辑 | 赵元 过去几年，OpenAI、Anthropic等大模型公司不断刷新融资规模和估值，但外界始终很难看清，这些动辄数百亿美元的投入，究竟能换来多少收入和利润。 如今，Anthropic率先摊开了自己的账本。 近日，Anthropic向美国证券交易委员会（SEC）公开提交S-1招股书，计划登陆纳斯达克。 招股书显示，2026年上半年，Anthropic营收达到162.86亿美元，是去年全年收入的三倍多。第二季度，公司实现9.74亿美元营业利润，首次在披露的季度数据中实现营业盈利。 更重要的是，Anthropic的收入增速已经远远超过算力成本增速。今年上半年与2025年上半年相比，Anthropic算力及基础设施费用占营收的比例，从201%降至55%。此前被认为需要长期烧钱的大模型生意，开始显现盈利的可能。 但这份账本也暴露了另一面。 Anthropic目前的收入高度依赖企业的模型调用量，而模型性能和价格仍在快速变化。为了维持竞争力，公司需要不断推出新模型，投入更多研发和算力。据外媒报道，Anthropic已",
-      "titleZh": "Anthropic上市前夜，大模型生意如何算账？",
-      "summaryZh": "（本文作者为 市值榜，钛媒体经授权发布） 文 | 市值榜，作者 | 相青；编辑 | 赵元 过去几年，OpenAI、Anthropic等大模型公司不断刷新融资规模和估值，但外界始终很难看清，这些动辄数百亿美元的投入，究竟能换来多少收入和利润。 如今，Anthropic率先摊开了自己的账本。 近日，Anthropic向美国证券交易委员会（SEC）公开提交S-1招股书，计划登陆纳斯达克。 招股书显示，2026年上半年，Anthropic营收达到162.86亿美元，是去年全年收入的三倍多。第二季度，公司实现9.74亿美元营业利润，首次在披露的季度数据中实现营业盈利。 更重要的是，Anthropic的收入增速已经远远超过算力成本增速。今年上半年与2025年上半年相比，Anthropic算力及基础设施费用占营收的比例，从201%降至55%。此前被认为需要长期烧钱的大模型生意，开始显现盈利的可能。 但这份账本也暴露了另一面。 Anthropic目前的收入高度依赖企业的模型调用量，而模型性能和价格仍在快速变化。为了维持竞争力，公司需要不断推出新模型，投入更多研发和算力。据外媒报道，Anthropic已",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186936.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T04:28:06.000Z",
-      "author": "市值榜",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "057cdb99dcc235d6be",
-      "titleOriginal": "预制数据中心，突然火了",
-      "summaryOriginal": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 最近，黄仁勋又把目光投向了数据中心。这一次，他关注的不只是里面放什么芯片，还有一个更基础的问题：如何更快地建好一座数据中心。 老黄给出的办法是：做预制。 整套Vera Rubin AI工厂在合作伙伴的工厂里装进模块化集装箱，线缆、电路、液冷管路全部布设完毕并通过功能验证，运抵现场后接上电力、冷却和网络即可开机。靠着这一招，现场部署从6个月压缩至最短14天。 预制数据中心，其实并非老黄一家琢磨。 华为推出3D数据中心，将空间布局调整与工厂预制结合起来；立讯精密旗下的立讯智算，也展示了集装箱式预制数据中心方案。大家想解决的是同一个问题：让机房建设和设备交付，尽量跟上算力需求的增长。 毕竟，在AI时代，机房如果还按老节奏慢慢盖，确实容易出现一种尴尬：爷爷立项，爸爸施工，孙子开机，顺便给上一代GPU办个怀旧展。等数据中心两年后建出来，黄花菜都凉了，最后只能当作AI的传家宝。 01 数据中心，花钱大户 AI基础设施到底有多热，可以先看两个指标：花钱，用电。 国际能源署在2026年的报告中指出，五家科技公司的资本开支在202",
-      "titleZh": "预制数据中心，突然火了",
-      "summaryZh": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 最近，黄仁勋又把目光投向了数据中心。这一次，他关注的不只是里面放什么芯片，还有一个更基础的问题：如何更快地建好一座数据中心。 老黄给出的办法是：做预制。 整套Vera Rubin AI工厂在合作伙伴的工厂里装进模块化集装箱，线缆、电路、液冷管路全部布设完毕并通过功能验证，运抵现场后接上电力、冷却和网络即可开机。靠着这一招，现场部署从6个月压缩至最短14天。 预制数据中心，其实并非老黄一家琢磨。 华为推出3D数据中心，将空间布局调整与工厂预制结合起来；立讯精密旗下的立讯智算，也展示了集装箱式预制数据中心方案。大家想解决的是同一个问题：让机房建设和设备交付，尽量跟上算力需求的增长。 毕竟，在AI时代，机房如果还按老节奏慢慢盖，确实容易出现一种尴尬：爷爷立项，爸爸施工，孙子开机，顺便给上一代GPU办个怀旧展。等数据中心两年后建出来，黄花菜都凉了，最后只能当作AI的传家宝。 01 数据中心，花钱大户 AI基础设施到底有多热，可以先看两个指标：花钱，用电。 国际能源署在2026年的报告中指出，五家科技公司的资本开支在202",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186452.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T03:48:31.000Z",
-      "author": "半导体产业纵横",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "086a863de8f9a48d10",
-      "titleOriginal": "OpenAI健康板块负责人：AI医疗健康的上限和下限",
-      "summaryOriginal": "（本文作者为 数智奔流，钛媒体经授权发布） 文 | 树智奔流，作者 | 田渝，编辑| 沈校 “如果你想约一位专科医生，有时要等上几个星期，甚至几个月。你可能得花大量时间弄清怎样才能约到号、如何安排日程。折腾了这么久，最后也许只能和医生谈15分钟；你觉得自己准备得还不够充分，走出诊室时才想起来：‘糟了，我还有6个问题想问’。” 在一场访谈中，OpenAI健康板块负责人 Karan Singhal 点出如今普遍存在的医疗服务困境。哪怕是在医疗资源发达的美国，患者仍然会面临以上种种问题。并且，医疗需求不会随着一次门诊的结束消失。在两次就诊之间，患者也需要理解检查结果，判断接下来应该做什么。 Karan谈到，每周有超过3亿人使用ChatGPT询问健康相关问题。 对OpenAI而言，这是庞大的需求量，更是一份责任。AI不应止步于提问题，给答案，还应该逐步成为持续的健康助手，甚至辅助医生识别潜在风险、连接医疗服务，在未来帮助人们更早发现健康变化。 要实现这一愿景，还有很长的路要走。如何建立各方信任、融入真实医疗流程，证明这些技术确实改善了健康结果，是我们必须面对的问题。 围绕这些问题，访谈讨论了O",
-      "titleZh": "OpenAI健康板块负责人：AI医疗健康的上限和下限",
-      "summaryZh": "（本文作者为 数智奔流，钛媒体经授权发布） 文 | 树智奔流，作者 | 田渝，编辑| 沈校 “如果你想约一位专科医生，有时要等上几个星期，甚至几个月。你可能得花大量时间弄清怎样才能约到号、如何安排日程。折腾了这么久，最后也许只能和医生谈15分钟；你觉得自己准备得还不够充分，走出诊室时才想起来：‘糟了，我还有6个问题想问’。” 在一场访谈中，OpenAI健康板块负责人 Karan Singhal 点出如今普遍存在的医疗服务困境。哪怕是在医疗资源发达的美国，患者仍然会面临以上种种问题。并且，医疗需求不会随着一次门诊的结束消失。在两次就诊之间，患者也需要理解检查结果，判断接下来应该做什么。 Karan谈到，每周有超过3亿人使用ChatGPT询问健康相关问题。 对OpenAI而言，这是庞大的需求量，更是一份责任。AI不应止步于提问题，给答案，还应该逐步成为持续的健康助手，甚至辅助医生识别潜在风险、连接医疗服务，在未来帮助人们更早发现健康变化。 要实现这一愿景，还有很长的路要走。如何建立各方信任、融入真实医疗流程，证明这些技术确实改善了健康结果，是我们必须面对的问题。 围绕这些问题，访谈讨论了O",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186695.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T03:48:24.000Z",
-      "author": "数智奔流",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1d542aa40959c9cdc6",
-      "titleOriginal": "Qoder背后，阿里云的应用难题",
-      "summaryOriginal": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 技术博主黄峰达离开Qoder的消息被公开报道。在X上，这位Qoder团队成员感谢了一起做产品、探索AI编程的伙伴，随后感慨：“在阿里要做好一个产品，可太难了。”在他看来，更多挑战来自“技术之外”。 黄峰达在告别帖中谈到做好产品的困难 他离开时，Qoder已经做成了一门有企业客户的生意。2026年9月云栖大会上，Qoder方面披露，产品的年化经常性收入达到一亿美元。5月的官方数据则显示，企业客户贡献了七成营收。 商业化有了成绩，产品的边界仍在调整。 年终，Qoder把Quest独立窗口作为新版核心设计，让用户在里面定义任务、指挥智能体工作。五个月后，这个窗口进入退役迁移流程。 9月的公告中，阿里云为QoderWork安排了两条迁移路线：开发相关场景推荐使用Qoder桌面版，办公场景推荐使用千问办公。 随着产品调整，用户使用的入口、账户和购买关系也发生了变化。 没法溯源phodal所说的问题和产品本身的关联，但Qoder其实面对的是一项经营选择：产品扩大之后，原有用户的工作由谁长期承接。阿里云与钉钉的合作，曾经公开呈现过这个问题的另",
-      "titleZh": "Qoder背后，阿里云的应用难题",
-      "summaryZh": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 技术博主黄峰达离开Qoder的消息被公开报道。在X上，这位Qoder团队成员感谢了一起做产品、探索AI编程的伙伴，随后感慨：“在阿里要做好一个产品，可太难了。”在他看来，更多挑战来自“技术之外”。 黄峰达在告别帖中谈到做好产品的困难 他离开时，Qoder已经做成了一门有企业客户的生意。2026年9月云栖大会上，Qoder方面披露，产品的年化经常性收入达到一亿美元。5月的官方数据则显示，企业客户贡献了七成营收。 商业化有了成绩，产品的边界仍在调整。 年终，Qoder把Quest独立窗口作为新版核心设计，让用户在里面定义任务、指挥智能体工作。五个月后，这个窗口进入退役迁移流程。 9月的公告中，阿里云为QoderWork安排了两条迁移路线：开发相关场景推荐使用Qoder桌面版，办公场景推荐使用千问办公。 随着产品调整，用户使用的入口、账户和购买关系也发生了变化。 没法溯源phodal所说的问题和产品本身的关联，但Qoder其实面对的是一项经营选择：产品扩大之后，原有用户的工作由谁长期承接。阿里云与钉钉的合作，曾经公开呈现过这个问题的另",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186917.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T03:48:21.000Z",
-      "author": "象先志",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "40ba9848be69c983a7",
-      "titleOriginal": "独家：决定小度命运的两次转折",
-      "summaryOriginal": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 10月28日，百度智能云事业群组（ACG）完成了一轮组织架构调整。 ACG智能应用事业部之下的相关业务基于自身业务属性，分别转入基础设施事业部、智能体事业部、服务交付与质量工程中心。其中服务交付与质量工程中心更名为行业应用与技术服务中心，负责人不变。 这次调整是8月底ACG组织架构调整的后续。上一轮调整中，原平台产品事业部正式更名为智能体事业部，原隶属于平台产品事业部的千帆大模型平台，被划转至IaaS板块，由百度集团副总裁侯震宇负责。原数据平台部更名为数据智能部，整体转入应用产品事业部，由百度副总裁阮瑜分管。 本轮调整中，产品事业部阮瑜轮岗担任小度科技组织负责人的部分尤为引人关注。“组织负责人”的Title变化，意味着架构调整后，小度可能不再作为独立公司运营，而是被吸收到ACG，作为一个二级部门存在。 一位知情人士告诉光子星球，今年博鳌论坛后小度科技CEO李莹已开始向ACG负责人沈抖汇报了。李莹目前在如流中仍可查询到，不过据这位知情人士透露，内部无法发起对话，“在此之前并未出现过类似情况”。 官宣小度汇报关系转到ACG前，阮",
-      "titleZh": "独家：决定小度命运的两次转折",
-      "summaryZh": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 10月28日，百度智能云事业群组（ACG）完成了一轮组织架构调整。 ACG智能应用事业部之下的相关业务基于自身业务属性，分别转入基础设施事业部、智能体事业部、服务交付与质量工程中心。其中服务交付与质量工程中心更名为行业应用与技术服务中心，负责人不变。 这次调整是8月底ACG组织架构调整的后续。上一轮调整中，原平台产品事业部正式更名为智能体事业部，原隶属于平台产品事业部的千帆大模型平台，被划转至IaaS板块，由百度集团副总裁侯震宇负责。原数据平台部更名为数据智能部，整体转入应用产品事业部，由百度副总裁阮瑜分管。 本轮调整中，产品事业部阮瑜轮岗担任小度科技组织负责人的部分尤为引人关注。“组织负责人”的Title变化，意味着架构调整后，小度可能不再作为独立公司运营，而是被吸收到ACG，作为一个二级部门存在。 一位知情人士告诉光子星球，今年博鳌论坛后小度科技CEO李莹已开始向ACG负责人沈抖汇报了。李莹目前在如流中仍可查询到，不过据这位知情人士透露，内部无法发起对话，“在此之前并未出现过类似情况”。 官宣小度汇报关系转到ACG前，阮",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186931.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T03:48:20.000Z",
-      "author": "光子星球",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "599a8895e7952159fa",
-      "titleOriginal": "宇树现人形",
-      "summaryOriginal": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 10月29日，宇树科技发布2026年第三季度财报的档口上，具身智能行业正处于一段微妙的周期之中。 日前有报道提到，人形机器人进入二级市场的入口收紧之后，进一步传导至一级市场，一些持有某百亿估值具身公司老股的投资人，以半价寻找接盘人。潮头的波浪不再汹涌时，那些原本水浅之处，便很容易暴露在阳光之下。 9月梅卡曼德创始人邵天兰在朋友圈公开质疑，部分具身智能企业借助数采中心制造不可持续的收入，从而支撑估值与上市预期。有趣的是，宇树科技在披露三季报的同时，也公开了一笔涉及数采中心的关联交易。 从招股书与第三季度财报中透露的信息，并结合今年宇树和行业的动向，外界很容易看到这家具身智能翘楚公司正在经历一次蜕变。 招股书中的宇树机器人，靠着硬件+小脑盈利，上市之后，王兴兴多次表达了宇树接下来需要补模型短板的观点。 10月22日，王兴兴在2026世界物理AI大会暨宇树合作伙伴大会上的发言主题是“相信，尽可能相信AI”，1800多字的发言稿中，AI出现了25次，具身和机器人加起来才出现了18次。 考虑到行业叙事、时间节点、公司情况，宇树这份季报",
-      "titleZh": "宇树现人形",
-      "summaryZh": "（本文作者为 光子星球，钛媒体经授权发布） 文 | 光子星球 10月29日，宇树科技发布2026年第三季度财报的档口上，具身智能行业正处于一段微妙的周期之中。 日前有报道提到，人形机器人进入二级市场的入口收紧之后，进一步传导至一级市场，一些持有某百亿估值具身公司老股的投资人，以半价寻找接盘人。潮头的波浪不再汹涌时，那些原本水浅之处，便很容易暴露在阳光之下。 9月梅卡曼德创始人邵天兰在朋友圈公开质疑，部分具身智能企业借助数采中心制造不可持续的收入，从而支撑估值与上市预期。有趣的是，宇树科技在披露三季报的同时，也公开了一笔涉及数采中心的关联交易。 从招股书与第三季度财报中透露的信息，并结合今年宇树和行业的动向，外界很容易看到这家具身智能翘楚公司正在经历一次蜕变。 招股书中的宇树机器人，靠着硬件+小脑盈利，上市之后，王兴兴多次表达了宇树接下来需要补模型短板的观点。 10月22日，王兴兴在2026世界物理AI大会暨宇树合作伙伴大会上的发言主题是“相信，尽可能相信AI”，1800多字的发言稿中，AI出现了25次，具身和机器人加起来才出现了18次。 考虑到行业叙事、时间节点、公司情况，宇树这份季报",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8186939.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T03:48:17.000Z",
-      "author": "光子星球",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11505,7 +11511,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 25
+      "count": 27
     },
     {
       "id": "deepmind",
@@ -11521,7 +11527,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 74
+      "count": 78
     },
     {
       "id": "theverge",
@@ -11529,7 +11535,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 49
+      "count": 54
     },
     {
       "id": "mittr",
@@ -11545,7 +11551,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 21
+      "count": 23
     },
     {
       "id": "thedecoder",
@@ -11553,7 +11559,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 57
+      "count": 59
     },
     {
       "id": "marktechpost",
@@ -11561,7 +11567,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 26
+      "count": 25
     },
     {
       "id": "simonwillison",
@@ -11569,7 +11575,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 15
+      "count": 16
     },
     {
       "id": "oneusefulthing",
@@ -11585,7 +11591,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 10
+      "count": 9
     },
     {
       "id": "ifanr",
@@ -11593,7 +11599,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 28
+      "count": 26
     },
     {
       "id": "sspai",
@@ -11609,7 +11615,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 116
+      "count": 104
     },
     {
       "id": "infoq",
@@ -11622,8 +11628,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 59,
-    "translated": 237,
+    "guides": 53,
+    "translated": 246,
     "sources": 14
   }
 }
