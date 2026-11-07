@@ -1,6 +1,170 @@
 {
-  "generatedAt": "2026-11-07T16:31:30.002Z",
+  "generatedAt": "2026-11-07T21:58:53.607Z",
   "articles": [
+    {
+      "id": "69c75581d56ff5e1da",
+      "titleOriginal": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summaryOriginal": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "titleZh": "根据美国情报备忘录， Megaspeed高管被招募来监视Nvidia首席执行官",
+      "summaryZh": "据报道，今年早些时候分发的一份备忘录声称，中国国家安全部聘请了一名女性技术高管来监视英伟达的首席执行官。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-07T21:17:08.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "92f859ede504dd33ae",
+      "titleOriginal": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+      "summaryOriginal": "In this tutorial, we work with Dory 1.0 4B , a small reasoning model from NVIDIA’s Nemotron Labs whose middle layers form a shared block that can be applied once, twice, three, or four times for every token. Each extra pass, or loop, spends more computation per token without adding a single parameter, so one checkpoint can run at four different compute budgets with no retraining. We build the llama.cpp branch that NVIDIA’s model card pins, download the 3.7 GB GGUF, and read the architecture stra",
+      "titleZh": "如何使用llama.cpp运行NVIDIA Dory 4B ：循环指南",
+      "summaryZh": "在本教程中，我们使用NVIDIA Nemotron实验室的小型推理模型Dory 1.0 4B ，其中间层形成一个共享块，每个令牌可以应用一次、两次、三次或四次。每个额外的传递或循环，在不添加单个参数的情况下，每个令牌花费更多的计算，因此一个检查点可以在四个不同的计算预算下运行，而无需重新训练。我们构建NVIDIA的模型卡引脚的llama.cpp分支，下载3.7 GB GGUF ，并阅读架构STRA",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-07T19:22:44.000Z",
+      "author": "Sana Hassan",
+      "tags": [
+        "guide",
+        "Agentic AI",
+        "AI Infrastructure",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "76a37a2b42714ae816",
+      "titleOriginal": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "summaryOriginal": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared first on The Decoder .",
+      "titleZh": "尽管科技股遭遇抛售，但Anthropic仍推动感恩节前的首次公开募股，接受较低的估值",
+      "summaryZh": "尽管科技股遭遇抛售，但Anthropic仍在推进其首次公开募股，估值为1.25至1.75万亿美元，远低于预期的2万亿美元。这位克劳德开发商的目标是在感恩节前筹集800亿至1000亿美元。竞争对手OpenAI最近也不得不下调估值。Anthropic的文章推动了感恩节前的IPO ，尽管技术抛售，接受较低的估值首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T17:37:25.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bc48d8fe5dacc309c1",
+      "titleOriginal": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+      "summaryOriginal": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks. The article AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds appeared first on The Decoder .",
+      "titleZh": "新研究发现，人工智能审计师发现了大多数代理人的不当行为，但审核人员却发出了虚假警报",
+      "summaryZh": "根据人类学研究员安迪·霍尔（ Andy Hall ）的一项研究，人工智能模型通常可以在日志中发现其他人工智能代理的问题行为。GPT-5发现了大约98%的奖励黑客案例，但搜索越详尽，虚假警报就越多。这还不足以进行可靠的安全检查。人工智能审计员的文章捕捉到了大多数代理人的不当行为，但新的研究发现，审核员被假警报淹没，首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T16:56:38.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a8253bc05c84a501ab",
+      "titleOriginal": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+      "summaryOriginal": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent of failed runs contained no cursing at all. The article Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs appeared first on The Decoder .",
+      "titleZh": "Thinking Machines的Inkling 2在基准运行中小幅投掷316枚F炸弹",
+      "summaryZh": "根据Vals AI的分析， Thinking Machines的AI模型Inkling 2 Small在内部推理过程中发誓，在2,655次基准测试中进行了316次。这种亵渎性言论通常在无论如何都失败的长期运行中出现较晚。但这并不是一个警告信号： 96%的失败运行根本没有诅咒。Thinking Machines的Inkling 2 Small drops 316 F-bombs across benchmark runs一文首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T16:31:00.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fa06ff8fdc83e25928",
+      "titleOriginal": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summaryOriginal": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again ?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best weapon in this fight has been AI. Between Alexa Plus in the Echo smart display on my kitchen c",
+      "titleZh": "纽约时报烹饪的AI助手拯救了我的工作夜鸡，但几乎毁了我的蛋糕",
+      "summaryZh": "纽约时报烹饪应用程序现在有一个内置的人工智能助手。|照片： Jennifer Pattison Tuohy/The Verge每个工作日晚上7点左右，我发现自己站在冰箱前，试图决定晚餐吃些不会让我丈夫抱怨的东西， “又是鸡？“是的，我应该多做一些膳食计划，但我没有，所以这就是我的目标。鸡通常获胜的夜间战斗。最近，我在这场战斗中最好的武器是人工智能。在我厨房的Echo智能显示器中的Alexa Plus之间c",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-07T15:50:00.000Z",
+      "author": "Jennifer Pattison Tuohy",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "73be1ddc7ff24f8993",
+      "titleOriginal": "The US let Nvidia sell chips to an empty office in China",
+      "summaryOriginal": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times , New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can b",
+      "titleZh": "美国允许英伟达向中国一间空置办公室出售芯片",
+      "summaryZh": "有人担心，在审查获准处理该公司H200人工智能芯片的中国公司时，商务部和英伟达都没有进行尽职调查。据“纽约时报”报道， New Matrix在批准的公司名单上，但其办公室是空的， “一个空心的灰色外壳，电线悬挂在天花板上，灯应该在那里。“事实上，该论文几乎没有发现公司以任何有意义的方式存在的证据：只有很少的信息才能",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-07T15:43:45.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "70fa707957c515c70d",
       "titleOriginal": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
@@ -302,9 +466,9 @@
     {
       "id": "d4724aef8fa6bbaebe",
       "titleOriginal": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
-      "summaryOriginal": "（本文作者为 Leo张ToB杂谈，钛媒体经授权发布） 【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有",
+      "summaryOriginal": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。",
       "titleZh": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
-      "summaryZh": "（本文作者为 Leo张ToB杂谈，钛媒体经授权发布） 【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有",
+      "summaryZh": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。",
       "translated": true,
       "url": "https://www.tmtpost.com/8197131.html",
       "sourceId": "tmtpost",
@@ -11340,177 +11504,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "1c585585e6016fcc7e",
-      "titleOriginal": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-      "summaryOriginal": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk. The article Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft appeared first on The Decoder .",
-      "titleZh": "Cursor市场中的恶意Claude Code扩展试图进行远程访问和数据窃取",
-      "summaryZh": "被篡改的Claude Code扩展在Cursor市场上上线了大约11个小时，影响了多达5,000名用户。它试图窃取用户数据并设置远程访问。在确认没有进一步的风险后， Cursor将整个平台下线并恢复。Cursor市场中的文章恶意Claude Code扩展尝试远程访问和数据窃取首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-30T18:16:10.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Claude",
-        "Cursor"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "00aeec5afb00c99066",
-      "titleOriginal": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
-      "summaryOriginal": "A team of researchers from Microsoft Research and UC Berkeley have released TokenEconomizer , an open-source cost controller for coding agents. TokenEconomizer is a plugin that learns from past sessions in a repository to cut waste in later ones. It works with Claude Code, Codex, GitHub Copilot CLI and Pi. It does not touch model weights or agent code. On 277 SWE-Bench tasks, it lowered mean cost by 18.4% to 30.9% across 5 agent-model settings. TL;DR Package: A standard-library Python package an",
-      "titleZh": "认识TokenEconomizer ：微软的插件可将编码代理成本降低高达30.9%",
-      "summaryZh": "微软研究院(Microsoft Research)和加州大学伯克利分校(UC Berkeley)的一组研究人员发布了TokenEconomizer ，这是一种用于编码代理的开源成本控制器。TokenEconomizer是一个插件，它从存储库中的过去会话中学习，以减少后期会话中的浪费。它适用于Claude Code、Codex、GitHub Copilot CLI和Pi。它不会触及模型权重或代理代码。在277个SWE-Bench任务中，它在5个代理模型设置中将平均成本降低了18.4%至30.9%。TL; DR包：标准库Python包和",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:53:37.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d52c9778a55e47ad4a",
-      "titleOriginal": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "summaryOriginal": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "titleZh": "Zest的新人工智能代理通过短信查找餐厅和预订",
-      "summaryZh": "无法就餐点达成一致？ Zest的人工智能礼宾服务可以结合每个人的口味，对餐厅选项进行投票，然后进行预订。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:47:12.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "AI agents",
-        "dining"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "df5d46f334cf4457b8",
-      "titleOriginal": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-      "summaryOriginal": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Whether the models follow these rules is another matter. The article OpenAI sets new behavioral guidelines for AI models that have already proven hard to control appeared first on The Decoder .",
-      "titleZh": "OpenAI为已经证明难以控制的人工智能模型制定了新的行为准则",
-      "summaryZh": "OpenAI已更新其模型规范，围绕五个核心价值观重组其人工智能行为准则，包括忠实于人类意图和可纠正性。GPT模型现在应该利用对话历史记录来了解用户实际需要什么，并披露他们自己的假设。模型是否遵循这些规则是另一回事。OpenAI为已经证明难以控制的人工智能模型设定了新的行为准则，这篇文章首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:44:59.000Z",
-      "author": "Manuel Uth",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "ChatGPT"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0de3f9697e499aeda4",
-      "titleOriginal": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "summaryOriginal": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday , Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More Perfect Union . It sounds similar to the technology that Taco Bell is experimenting with , which could change the layout, content, a",
-      "titleZh": "星巴克希望利用人工智能向您展示“个性化数字菜单",
-      "summaryZh": "当您上车时，星巴克最终会向您展示个性化的数字菜单。在周四的财报电话会议上，星巴克首席执行官布莱恩·尼科尔（ Brian Niccol ）表示，该公司将探索“能够识别参与客户到达时的体验，提供个性化的数字菜单，并使付款更加轻松，”正如More Perfect Union早些时候所发现的那样。这听起来类似于Taco Bell正在试验的技术，该技术可能会改变布局，内容，",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:38:04.000Z",
-      "author": "Emma Roth",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a8738faa1f17423c3d",
-      "titleOriginal": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
-      "summaryOriginal": "Anthropic, OpenAI, Cloudflare and Google now each ship an AI agent that hunts security bugs in source code. We checked the repos, docs and technical details behind each one. The key finding: all 4 tools converge on one design. One agent finds a bug, a separate agent tries to disprove it, and only survivors get a patch. The differences are in where they run, who can use them and how much proof they demand. Key Takeaways 4 labs, 1 pattern: find, independently disprove, then patch. Claude Security",
-      "titleZh": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:34:15.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Agents",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "512e0ebb6c3dc89de3",
-      "titleOriginal": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-      "summaryOriginal": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for driving zero traffic to external sites. Reddit now tests login barriers and wants to become a direct destination, less reliant on the open web. The shift threatens every content-driven business that depends on search traffic. The article Google's AI Mode doesn't drive traffic \"for any",
-      "titleZh": "Reddit首席执行官霍夫曼警告说，谷歌的人工智能模式不会“为任何人”带来流量",
-      "summaryZh": "首席执行官史蒂夫·霍夫曼（ Steve Huffman ）表示， Reddit在10月份每周损失超过100万次谷歌搜索引荐。尽管盈利强劲，但该股下跌超过25%。霍夫曼指责谷歌的人工智能概述和人工智能模式为外部网站带来了零流量。Reddit现在测试登录障碍，并希望成为一个直接的目的地，减少对开放网络的依赖。这种转变威胁到所有依赖搜索流量的内容驱动型企业。Google的AI模式不会为任何",
-      "translated": true,
-      "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:15:24.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI and society",
-        "Artificial Intelligence",
-        "Short News",
-        "Claude"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11544,7 +11537,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 53
+      "count": 54
     },
     {
       "id": "mittr",
@@ -11576,7 +11569,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 26
+      "count": 25
     },
     {
       "id": "simonwillison",
@@ -11637,8 +11630,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 50,
-    "translated": 271,
+    "guides": 51,
+    "translated": 272,
     "sources": 14
   }
 }
