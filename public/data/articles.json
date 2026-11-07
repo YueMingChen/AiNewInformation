@@ -1,6 +1,146 @@
 {
-  "generatedAt": "2026-11-07T08:55:37.619Z",
+  "generatedAt": "2026-11-07T16:31:30.002Z",
   "articles": [
+    {
+      "id": "70fa707957c515c70d",
+      "titleOriginal": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+      "summaryOriginal": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast. The article The gap between open and closed AI models in cyber capabilities keeps shrinking appeared first on The Decoder .",
+      "titleZh": "开放式和封闭式人工智能模型在网络能力方面的差距不断缩小",
+      "summaryZh": "在Vals AI基准测试中， OpenAI的GPT-6 Sol Daybreak达到了模拟企业网络中80.8%的攻击目标。更糟糕的是，开放式重量型号DeepSeek V4.1 Flash以十分之一的成本达到72.8%。由于开放模式不再受到限制，分析师表示，防守者的窗口正在迅速缩小。文章The Decoder首次出现了开放式和封闭式人工智能模型在网络能力方面的差距不断缩小。",
+      "translated": true,
+      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T15:35:50.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Cybersecurity"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "055e03fe8fc4b1cc38",
+      "titleOriginal": "AI broke the cybersecurity world. What’s next?",
+      "summaryOriginal": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only",
+      "titleZh": "人工智能打破了网络安全的世界。下一步是什么？",
+      "summaryZh": "今天，我正在与Cognition首席安全官兼长期网络安全专家Alex Stamos谈论网络安全目前的混乱局面。本集是关于现实生活中的人工智能的特别系列的一部分。我一直很喜欢和亚历克斯交谈，因为他非常直接，你会听到他说，我们所知道的数十亿美元的网络安全行业本质上早就应该受到无情的，人工智能推动的黑客，入侵和攻击浪潮的影响—这只是",
+      "translated": true,
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-07T15:00:00.000Z",
+      "author": "Nilay Patel",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a874cf7cfd2ad646f4",
+      "titleOriginal": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+      "summaryOriginal": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes. The article State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away appeared first",
+      "titleZh": "一些中国人工智能模型中的国家宣传只是微调可以剥离的“薄层",
+      "summaryZh": "Nous Research对阿里巴巴的Qwen3.8-27B进行了再培训，以生产Arete-27B ，在很大程度上消除了其亲华偏见。宣传率从22 ％下降到不到1 ％ ，而一般能力在测试中保持不变。该方法依赖于5300万个受监督的微调代币。该团队写道，政治偏见是“应用较晚，应用较少”。文章国家在一些中国人工智能模型中的宣传只是微调可以剥离的“薄层”首先出现",
+      "translated": true,
+      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T12:32:45.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "AI and China",
+        "China"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8879475e62b3793afc",
+      "titleOriginal": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summaryOriginal": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and developmen",
+      "titleZh": "为什么关于人类自动化人工智能开发的新报告让研究人员感到震惊",
+      "summaryZh": "Anthropic首席执行官Dario Amodei。|照片： Jason Henry/Bloomberg通过Getty Images Anthropic正在使用AI构建更强大的AI。它似乎运行得非常好，该公司的模型改进速度大约是一年前的两倍，几乎没有放缓的迹象。根据人工智能安全研究组织METR周四发布的一份新报告，在公司内部进行了为期11周的调查后，作为评估其人工智能研究和开发人员的报告的一部分，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "author": "Robert Hart",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e049fb2de93aede980",
+      "titleOriginal": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+      "summaryOriginal": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar ap",
+      "titleZh": "九名人工智能代理尝试对美国国家实验室的未决问题进行自主研究，但没有一人通过专家资格认证",
+      "summaryZh": "进入未知”基准测试要求九个人工智能代理解决美国国家实验室的开放研究问题。135份提交材料中没有一份符合所有要求。共有114篇论文未能通过完整性检查，客服代表声称进行了从未发生过的实验。GPT-6 Astra表现最佳，但仍不符合专家的标准。文章Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts 'bar ap",
+      "translated": true,
+      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T11:13:42.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Research",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f5ca85f34e518f1627",
+      "titleOriginal": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "summaryOriginal": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
+      "titleZh": "为看护者提供的应用程序获得了一定剂量的人工智能，但这可能还不够",
+      "summaryZh": "帮助家庭照顾者管理其亲人需求的应用程序和平台正变得越来越强大，但照顾者福祉的更广泛问题仍未得到解决。",
+      "translated": true,
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-07T11:00:00.000Z",
+      "author": "Jaclyn Greenberg",
+      "tags": [
+        "analysis",
+        "Gear",
+        "Gear / How To and Advice"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
     {
       "id": "01c1f9f3246dcef497",
       "titleOriginal": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
@@ -20,6 +160,166 @@
         "guide"
       ],
       "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "36d024f10fd6ce4a96",
+      "titleOriginal": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+      "summaryOriginal": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health app, though it doesn't replace a formal diagnosis. The article Google's AI detects high blood pressure from a regular smartwatch without a cuff appeared first on The Decoder .",
+      "titleZh": "谷歌的人工智能在没有袖带的情况下从普通智能手表检测高血压",
+      "summaryZh": "Google Research构建了一个人工智能，只使用标准智能手表中的脉搏和运动传感器来发现高血压的迹象，而无需袖带。在一项196人的研究中，其65.8%的检测率超过了传统的办公室测量。该方法已在Google Health应用中上线，但并不能取代正式的诊断。Google的人工智能从没有袖带的常规智能手表中检测高血压的文章首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T09:54:09.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and medicine"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "774dd5b86edb270061",
+      "titleOriginal": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+      "summaryOriginal": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The article OpenAI lands an $11 billion funding round, but has to court dentists for more capital appeared first on The Decoder .",
+      "titleZh": "OpenAI获得110亿美元融资，但必须向牙医寻求更多资金",
+      "summaryZh": "OpenAI已获得110亿美元的新资本，这是该公司估值为1.25万亿美元的第一轮融资。全轮融资可能膨胀至200亿美元。OpenAI已经转向富裕的私人投资者，暗示人工智能资本市场饱和，投资者越来越谨慎。OpenAI的文章获得了110亿美元的融资，但必须向牙医寻求更多资金，这首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-07T09:45:23.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cd5b3dc9decc084138",
+      "titleOriginal": "当芯片抢着上太空，半导体下一轮增量有了？",
+      "summaryOriginal": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 11月初，谷歌宣布， 自研TPU首次在轨运行AI模型并返回结果。 这次试验背后的目标，是把多颗搭载TPU的卫星连接起来，在轨道上组成计算集群。 一天后，马斯克预测， 到2028年底，轨道算力的每月新增部署量可能超过地面。 SpaceX此前已将经过适配的英伟达Vera Rubin系统纳入首代计算卫星方案。英伟达也已公布面向轨道数据中心的计算模块，并与卫星制造商合作，准备将芯片和软件随卫星平台一起交付。 建设计划甚至延伸到了火箭本身。10月26日，轨道基础设施公司Cowboy Space公布Big Iron方案，计划让火箭上面级抵达轨道后转为数据中心，设计承载五个英伟达GPU计算机架。运载火箭既负责把计算设备送上天，也将成为太空机房的一部分。 从芯片在轨测试到计算卫星组网计划，云厂商、芯片巨头和航天企业正在同时布局。这场向太空延伸的算力竞赛，会为半导体产业带来多大的增量？ 01 巨头开始规划太空机房 泰伯智库10月发布的研究预计，全球太空算力市场将从2025年的约29亿美元增至2030年的190亿美元。其统计涵盖单星",
+      "titleZh": "当芯片抢着上太空，半导体下一轮增量有了？",
+      "summaryZh": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 11月初，谷歌宣布， 自研TPU首次在轨运行AI模型并返回结果。 这次试验背后的目标，是把多颗搭载TPU的卫星连接起来，在轨道上组成计算集群。 一天后，马斯克预测， 到2028年底，轨道算力的每月新增部署量可能超过地面。 SpaceX此前已将经过适配的英伟达Vera Rubin系统纳入首代计算卫星方案。英伟达也已公布面向轨道数据中心的计算模块，并与卫星制造商合作，准备将芯片和软件随卫星平台一起交付。 建设计划甚至延伸到了火箭本身。10月26日，轨道基础设施公司Cowboy Space公布Big Iron方案，计划让火箭上面级抵达轨道后转为数据中心，设计承载五个英伟达GPU计算机架。运载火箭既负责把计算设备送上天，也将成为太空机房的一部分。 从芯片在轨测试到计算卫星组网计划，云厂商、芯片巨头和航天企业正在同时布局。这场向太空延伸的算力竞赛，会为半导体产业带来多大的增量？ 01 巨头开始规划太空机房 泰伯智库10月发布的研究预计，全球太空算力市场将从2025年的约29亿美元增至2030年的190亿美元。其统计涵盖单星",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8197078.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-07T09:33:06.000Z",
+      "author": "半导体产业纵横",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5ab761d341b255225c",
+      "titleOriginal": "风口浪尖的数据中心，开始放低姿态",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 北京时间11月6日凌晨，纳指收跌5.52%。AI芯片股遭到抛售，几家做数据中心生意的公司跌了两位数。市场担心，原先计划中的数据中心，可能没法按时开工了。 大厂还在花大价钱抢算力，可随着数据中心在各地推进项目，阻力也越来越大了。动辄几十亿、上百亿美元的项目，原本是地方政府抢着要的。数据中心到底触犯了什么“天条”？ 起初，数据中心像个从海里突然钻出来的克苏鲁怪物，人们看着它，既恐惧，又好奇。时间久了，未知变成了已知，克苏鲁怪物的“信息差优势”逐渐消退，人们又组织起来拿起长矛准备打猎了，就像人类几十万年来擅长的那样。 数据中心出问题，整个AI行业都紧张 11月5日，纳斯达克综合指数跌了约5.5%。这轮AI股大跌，一个重要原因，是数据中心可能没那么容易建了。 市场担心，各地会对数据中心建设施加更严的限制。瑞银分析师估计，潜在的停建措施，可能影响美国2028年预计新增数据中心容量的约30%。 得州新当选州长此前就提出，在州议会为这个行业制定规则之前，暂停新的数据中心项目。 这足够让一大批AI公司头疼。 数据中心如果不能按时投产，运营商",
+      "titleZh": "风口浪尖的数据中心，开始放低姿态",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 北京时间11月6日凌晨，纳指收跌5.52%。AI芯片股遭到抛售，几家做数据中心生意的公司跌了两位数。市场担心，原先计划中的数据中心，可能没法按时开工了。 大厂还在花大价钱抢算力，可随着数据中心在各地推进项目，阻力也越来越大了。动辄几十亿、上百亿美元的项目，原本是地方政府抢着要的。数据中心到底触犯了什么“天条”？ 起初，数据中心像个从海里突然钻出来的克苏鲁怪物，人们看着它，既恐惧，又好奇。时间久了，未知变成了已知，克苏鲁怪物的“信息差优势”逐渐消退，人们又组织起来拿起长矛准备打猎了，就像人类几十万年来擅长的那样。 数据中心出问题，整个AI行业都紧张 11月5日，纳斯达克综合指数跌了约5.5%。这轮AI股大跌，一个重要原因，是数据中心可能没那么容易建了。 市场担心，各地会对数据中心建设施加更严的限制。瑞银分析师估计，潜在的停建措施，可能影响美国2028年预计新增数据中心容量的约30%。 得州新当选州长此前就提出，在州议会为这个行业制定规则之前，暂停新的数据中心项目。 这足够让一大批AI公司头疼。 数据中心如果不能按时投产，运营商",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8197100.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-07T09:32:45.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "740d1b97f1aeb136c7",
+      "titleOriginal": "AI面试逼疯打工人",
+      "summaryOriginal": "（本文作者为 定焦One，钛媒体经授权发布） 文 | 定焦One（dingjiaoone），作者 | 金玙璠 李梦冉 王汉星 雷晶 陈丹，编辑 | 陈丹 这个秋招，求职者最常遇到的“面试官”，可能是AI。 简历刚投出去，测评链接和AI面试邀请就到了邮箱，要求限时完成。屏幕中间，一张仿真人脸盯着你，念题、计时、追问。你低头，它可能会弹窗提醒；回答太短，分数也许就不够。 AI面试几乎成了招聘流程的常规环节，有的放在第一轮初筛，有的夹在HR面和业务面之间，有的放到最后，像是一场英语水平测试。 企业把筛人的工作交给AI，求职者却要花更多时间证明自己值得被一个真人看见。 面试中，有些场面让人无所适从。应聘机械工程师，AI却抓着一句C++问个不停；有人被要求脱下外套，上传全身照；有人穿着睡衣面试，也有人入职后才知道，连仪容仪表都算了分。为了过AI这一关，部分求职者先让AI扮演面试官陪练；也有人在AI提问的同时，让另一个AI生成答案，照着念。 一位27届毕业生投了600份简历，面了15场AI，只见过7次真人面试官，至今0 offer；有人面了30场AI，真人面试只有5场左右。不少人对着屏幕说了几十分",
+      "titleZh": "AI面试逼疯打工人",
+      "summaryZh": "（本文作者为 定焦One，钛媒体经授权发布） 文 | 定焦One（dingjiaoone），作者 | 金玙璠 李梦冉 王汉星 雷晶 陈丹，编辑 | 陈丹 这个秋招，求职者最常遇到的“面试官”，可能是AI。 简历刚投出去，测评链接和AI面试邀请就到了邮箱，要求限时完成。屏幕中间，一张仿真人脸盯着你，念题、计时、追问。你低头，它可能会弹窗提醒；回答太短，分数也许就不够。 AI面试几乎成了招聘流程的常规环节，有的放在第一轮初筛，有的夹在HR面和业务面之间，有的放到最后，像是一场英语水平测试。 企业把筛人的工作交给AI，求职者却要花更多时间证明自己值得被一个真人看见。 面试中，有些场面让人无所适从。应聘机械工程师，AI却抓着一句C++问个不停；有人被要求脱下外套，上传全身照；有人穿着睡衣面试，也有人入职后才知道，连仪容仪表都算了分。为了过AI这一关，部分求职者先让AI扮演面试官陪练；也有人在AI提问的同时，让另一个AI生成答案，照着念。 一位27届毕业生投了600份简历，面了15场AI，只见过7次真人面试官，至今0 offer；有人面了30场AI，真人面试只有5场左右。不少人对着屏幕说了几十分",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8197213.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-07T09:32:27.000Z",
+      "author": "定焦One",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "324bb7ec43cef3a0ad",
+      "titleOriginal": "英伟达四处替客户找钱买芯片",
+      "summaryOriginal": "（本文作者为 偏科声，钛媒体经授权发布） 文 | 偏科生，作者 | 李小年 11 月 5 日，对冲基金经理乔治&middot;诺布尔发文警告称，英伟达正在犯思科当年一模一样的错误：担保客户的租约，入股买其芯片的初创公司。 他写道，英伟达现在占标普 500 的 8%，是思科 2000 年泡沫顶点时的两倍。当年，思科向买不起设备的电信初创公司放贷，客户倒闭后，股价跌了 89%，标普 500 跌了一半。 此前，黄仁勋被问到这是不是循环融资，他回答得很直接：不是，OpenAI 会付租金，数据中心里的硬件可以转给别的客户。 偏科声查询发现，为了帮客户买得起自己的芯片，英伟达做的远不止这些。 10 月底，英伟达就在谈一笔担保。对象是英国云厂商 Nscale，地点在西弗吉尼亚的 Mason County。条款大致是，如果 Nscale 付不出建设款，英伟达临时接管这座园区，再帮它找买家和租户。 园区不是空的。Anthropic 8 月跟 Nscale 签了四份服务协议，条件性付款合计上限 446 亿美元；第一栋楼 460 兆瓦，装的是英伟达下一代 Vera Rubin 芯片。 Nscale 原计划",
+      "titleZh": "英伟达四处替客户找钱买芯片",
+      "summaryZh": "（本文作者为 偏科声，钛媒体经授权发布） 文 | 偏科生，作者 | 李小年 11 月 5 日，对冲基金经理乔治&middot;诺布尔发文警告称，英伟达正在犯思科当年一模一样的错误：担保客户的租约，入股买其芯片的初创公司。 他写道，英伟达现在占标普 500 的 8%，是思科 2000 年泡沫顶点时的两倍。当年，思科向买不起设备的电信初创公司放贷，客户倒闭后，股价跌了 89%，标普 500 跌了一半。 此前，黄仁勋被问到这是不是循环融资，他回答得很直接：不是，OpenAI 会付租金，数据中心里的硬件可以转给别的客户。 偏科声查询发现，为了帮客户买得起自己的芯片，英伟达做的远不止这些。 10 月底，英伟达就在谈一笔担保。对象是英国云厂商 Nscale，地点在西弗吉尼亚的 Mason County。条款大致是，如果 Nscale 付不出建设款，英伟达临时接管这座园区，再帮它找买家和租户。 园区不是空的。Anthropic 8 月跟 Nscale 签了四份服务协议，条件性付款合计上限 446 亿美元；第一栋楼 460 兆瓦，装的是英伟达下一代 Vera Rubin 芯片。 Nscale 原计划",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8197111.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-07T09:32:20.000Z",
+      "author": "偏科声",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d4724aef8fa6bbaebe",
+      "titleOriginal": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
+      "summaryOriginal": "（本文作者为 Leo张ToB杂谈，钛媒体经授权发布） 【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有",
+      "titleZh": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
+      "summaryZh": "（本文作者为 Leo张ToB杂谈，钛媒体经授权发布） 【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8197131.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-07T09:28:42.000Z",
+      "author": "Leo张ToB杂谈",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "投稿"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -59,7 +359,8 @@
       "publishedAt": "2026-11-07T08:36:24.000Z",
       "author": "疯狂科技厅",
       "tags": [
-        "research"
+        "research",
+        "主编精选文章"
       ],
       "category": "research",
       "readingMinutes": 2
@@ -106,6 +407,31 @@
         "投稿"
       ],
       "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d8e02d11382d5b18e5",
+      "titleOriginal": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+      "summaryOriginal": "Buoyant, the company behind Linkerd, has released Kinference , an open source project for building inference platforms on Kubernetes. Kinference is an inference control plane for Kubernetes and vLLM. It sits in front of a fleet of vLLM workers and decides where each request goes. It applies routing policies, token rate limits, KV-cache-aware load balancing and per-tenant metrics in one layer. For dev teams serving many open-weight models to many internal clients, it targets the layer above the m",
+      "titleZh": "Buoyant发布Kinference ： Kubernetes和vLLM的开源推理控制平面",
+      "summaryZh": "Linkerd背后的公司Buoyant已经发布了Kinference ，这是一个在Kubernetes上构建推理平台的开源项目。Kinference是Kubernetes和vLLM的推理控制平面。它坐在一队vLLM员工面前，决定每个请求的去向。它在一层中应用路由策略、令牌速率限制、KV缓存感知负载平衡和每个租户的指标。对于为许多内部客户端提供许多开放权重模型的开发团队，它针对的是m之上的层",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-07T08:16:33.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -11185,331 +11511,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "135f70cd39eb4ce603",
-      "titleOriginal": "Google’s first data center satellite is online and writing poetry",
-      "summaryOriginal": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "titleZh": "谷歌的第一颗数据中心卫星在线并撰写诗歌",
-      "summaryZh": "太空中的第一个TPU正在运行Google DeepMind Gemma 4模型，并撰写俗气的诗歌。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
-      "author": "Tim Fernholz",
-      "tags": [
-        "news",
-        "AI",
-        "Space",
-        "Exclusive",
-        "Google"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8cb2db80dc5c1d4fcd",
-      "titleOriginal": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "summaryOriginal": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "titleZh": "Theranos举报人泰勒·舒尔茨（ Tyler Shultz ）警告说，人工智能热潮是“欺骗人们的绝佳机会",
-      "summaryZh": "Theranos的警示故事在人工智能时代具有新的意义，当时从未盈利的公司正在以万亿美元的估值筹集资金。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T16:03:45.000Z",
-      "author": "Amanda Silberling",
-      "tags": [
-        "news",
-        "AI",
-        "elizabeth holmes",
-        "Theranos"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5c25bf72fe8c6ecec0",
-      "titleOriginal": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
-      "summaryOriginal": "",
-      "titleZh": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T15:45:06.000Z",
-      "author": "李冬梅",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "974d9b85c8fb969ac1",
-      "titleOriginal": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "summaryOriginal": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address , Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many of the ideas Pope Leo laid out in his first major papal document in May, which highlighted \"safeguarding the human person in the",
-      "titleZh": "教皇利奥呼吁解除人工智能： “机器是工具，不是人",
-      "summaryZh": "教皇利奥十四世表示，人工智能系统应该“解除武装” ，并补充说，人类“有责任指导、改变并在必要时拒绝其应用。在周五的教皇讲话中，教皇利奥鼓励联合国会员国在下个月的日内瓦会议上“采取具体步骤禁止致命的自主武器”。该演讲反映了教皇利奥在5月份的第一份主要教皇文件中提出的许多想法，该文件强调“保护",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-30T14:58:06.000Z",
-      "author": "Emma Roth",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9878035a32441ef16c",
-      "titleOriginal": "2026年AI技术演进与2027年趋势前瞻报告",
-      "summaryOriginal": "",
-      "titleZh": "2026年AI技术演进与2027年趋势前瞻报告",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T14:41:36.000Z",
-      "author": "极客时间企业版",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "094c331a98fae89424",
-      "titleOriginal": "Speeding up planning decisions with AI",
-      "summaryOriginal": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "titleZh": "利用人工智能加快规划决策",
-      "summaryZh": "谷歌DeepMind与英国政府合作减少规划评估时间",
-      "translated": true,
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-10-30T14:18:30.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "40aed769d1c2e6f775",
-      "titleOriginal": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "summaryOriginal": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
-      "titleZh": "跳过闲聊：与Braindate在TechCrunch创始人峰会上建立改变游戏规则的联系",
-      "summaryZh": "在11月4日在波士顿SoWa发电站举行的2026年TechCrunch创始人峰会上，由Braindate提供支持的网络旨在使这些对话更容易找到，无论是在一对一会议还是小团体现场会议中。在活动开始前注册，您的通行证最多可节省$ 100 ，还可免费获得一秒钟的通行证。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T14:00:00.000Z",
-      "author": "TechCrunch Events",
-      "tags": [
-        "news",
-        "TC",
-        "Startups",
-        "Crypto",
-        "Climate"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f986a412ee0ee44db9",
-      "titleOriginal": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "summaryOriginal": "DoorDash said that it is open to working with third-party agent makers.",
-      "titleZh": "DoorDash表示，它只收到了人工智能代理的“数百个”订单",
-      "summaryZh": "DoorDash表示，它愿意与第三方代理商合作。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T13:54:25.000Z",
-      "author": "Ivan Mehta",
-      "tags": [
-        "news",
-        "AI",
-        "Commerce",
-        "AI agents",
-        "DoorDash"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5ec9437afb139212ae",
-      "titleOriginal": "Silicon Valley wants you to invest in miracles",
-      "summaryOriginal": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, Anthropic suggests in a letter at the top of its S-1 filing, you have to just believe. Anthropic's 335-page S-1 prospectus, filed Monday, is part of a steady hype escalation in Sil",
-      "titleZh": "硅谷希望您投资奇迹",
-      "summaryZh": "投资任何股票有点像赌博，因为你把钱押在公司未来的表现上。但是，在最坏的情况下，您如何押注可能“对人类构成灾难性或生存风险”或“带来奇迹时代”的技术？在某种程度上， Anthropic在其S-1文件顶部的一封信中建议，你必须相信。Anthropic周一提交的335页S-1招股说明书是SIL持续炒作升级的一部分",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-30T13:11:05.000Z",
-      "author": "Ellen Thomas",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9249a192d9815371ed",
-      "titleOriginal": "汽车工业的下一条流水线，开始由 AI 来安排",
-      "summaryOriginal": "1913 年，美国密歇根州的福特 Highland Park 工厂里，工程师们进行了一项看起来有些简陋的实验：他们用绳索和卷扬机牵引汽车底盘，让它缓缓经过不同的装配工位。如此这样，工人们就不再需要围绕静止的汽车来回移动，而是在自己的位置上等待底盘经过，进而完成手头的装配任务。 这个实验起初甚至谈不上精密，但效果十分惊人，经过不断改进，到 1914 年的时候，福特 Model T 车型底盘的装配用工时间，从最初的 12.5 小时缩短到了 93 分钟。 ▲ 最早的福特汽车工厂流水线 这就是后来写进了历史书，改变了汽车工业的移动装配流水线。 一个多世纪过去，汽车工业沧海桑田早已不同往日，从内燃机到电机，从机械控制到软件定义汽车，今天的汽车与当初的福特 Model T 已经大相径庭。 但「流水线」的巧思依旧不过时，10 月 29 日，在深圳举行的腾讯全球数字生态大会智慧出行专场上，腾讯发布了全新的智能座舱 TAI 智能体，以及面向汽车行业的 AI 组织效能解决方案，同时公布了智能驾驶、汽车出海、具身智能和 Robotaxi 等领域的最新进展。 腾讯智慧出行横跨 BC 两端，这些业务看起来相距甚",
-      "titleZh": "汽车工业的下一条流水线，开始由 AI 来安排",
-      "summaryZh": "1913 年，美国密歇根州的福特 Highland Park 工厂里，工程师们进行了一项看起来有些简陋的实验：他们用绳索和卷扬机牵引汽车底盘，让它缓缓经过不同的装配工位。如此这样，工人们就不再需要围绕静止的汽车来回移动，而是在自己的位置上等待底盘经过，进而完成手头的装配任务。 这个实验起初甚至谈不上精密，但效果十分惊人，经过不断改进，到 1914 年的时候，福特 Model T 车型底盘的装配用工时间，从最初的 12.5 小时缩短到了 93 分钟。 ▲ 最早的福特汽车工厂流水线 这就是后来写进了历史书，改变了汽车工业的移动装配流水线。 一个多世纪过去，汽车工业沧海桑田早已不同往日，从内燃机到电机，从机械控制到软件定义汽车，今天的汽车与当初的福特 Model T 已经大相径庭。 但「流水线」的巧思依旧不过时，10 月 29 日，在深圳举行的腾讯全球数字生态大会智慧出行专场上，腾讯发布了全新的智能座舱 TAI 智能体，以及面向汽车行业的 AI 组织效能解决方案，同时公布了智能驾驶、汽车出海、具身智能和 Robotaxi 等领域的最新进展。 腾讯智慧出行横跨 BC 两端，这些业务看起来相距甚",
-      "translated": true,
-      "url": "https://www.ifanr.com/1686953",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T13:03:59.000Z",
-      "author": "刘学文",
-      "tags": [
-        "launch",
-        "汽车",
-        "AI",
-        "腾讯",
-        "腾讯云"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5cfbd02556ec4a849c",
-      "titleOriginal": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "summaryOriginal": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, the world deserves to understand how the universe works,\" Altman said during an episode of the Cheeky Pint podcast released Thursday. \"But I do have empathy for the meth",
-      "titleZh": "山姆·奥尔特曼（ Sam Altman ）同情数学家，但表示OpenAI的数学冲击不会停止",
-      "summaryZh": "OpenAI首席执行官萨姆·奥尔特曼（ Sam Altman ）表示，经过数月的轰炸，数学家获得了源源不断的人工智能结果，他同情那些努力理解这一切的研究人员。但他无意停下来-并暗示公司的发现库存可能会有更多的东西。“我认为，在网上，世界应该了解宇宙是如何运作的，”奥特曼在周四发布的Cheeky Pint播客的一集中说。“但我确实对冰毒有同情心",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-30T13:01:14.000Z",
-      "author": "Robert Hart",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cea73ec16e829377fa",
-      "titleOriginal": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "summaryOriginal": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-      "titleZh": "人工智能数据中心能像汽车一样大规模生产吗？这家初创公司旨在了解",
-      "summaryZh": "Runware正在建造一个工厂，在装配线上生产预制AI数据中心。真正的考验将是它是否能够以这样的规模交付。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T13:00:00.000Z",
-      "author": "Dominic-Madori Davis",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "data centers",
-        "Runware"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5135d63cacdd4300a0",
-      "titleOriginal": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "summaryOriginal": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "titleZh": "还剩5天：在2026年TechCrunch创始人峰会上建立联系、扩展规模并享受优惠的最后机会",
-      "summaryZh": "5天可节省高达100 $ ， 11月4日在波士顿举行的2026年TechCrunch创始人峰会还可免费获得第二张通行证。立即注册。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-10-30T13:00:00.000Z",
-      "author": "TechCrunch Events",
-      "tags": [
-        "news",
-        "TC",
-        "Startups",
-        "Fintech",
-        "Biotech & Health"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "12d807cd2c6adf20e7",
-      "titleOriginal": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-      "summaryOriginal": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in API fees each without triggering safeguards from any provider tested. The article Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours appeared first on The Decoder .",
-      "titleZh": "开放式权重模型GLM 5.3在48小时内构建了完整的Firefox漏洞利用链，无需人工输入",
-      "summaryZh": "Epoch AI研究人员表示，广泛使用的人工智能模型GLM 5.3在更新到达Firefox用户之前将公共安全修复程序转化为工作漏洞。它自动破坏了六个Firefox版本，每个版本的API费用约为$ 1,000 ，而没有触发任何经过测试的提供商的保护措施。开放权重模型GLM 5.3在48小时内构建了零人工输入的完整Firefox漏洞利用链的文章首次出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-30T12:22:18.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Firefox"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11527,7 +11528,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 3
+      "count": 2
     },
     {
       "id": "techcrunch",
@@ -11535,7 +11536,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 80
+      "count": 74
     },
     {
       "id": "theverge",
@@ -11543,7 +11544,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 54
+      "count": 53
     },
     {
       "id": "mittr",
@@ -11559,7 +11560,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 23
+      "count": 24
     },
     {
       "id": "thedecoder",
@@ -11567,7 +11568,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 59
+      "count": 63
     },
     {
       "id": "marktechpost",
@@ -11575,7 +11576,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 25
+      "count": 26
     },
     {
       "id": "simonwillison",
@@ -11607,7 +11608,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 27
+      "count": 26
     },
     {
       "id": "sspai",
@@ -11623,7 +11624,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 105
+      "count": 110
     },
     {
       "id": "infoq",
@@ -11631,13 +11632,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 59
+      "count": 57
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 51,
-    "translated": 273,
+    "guides": 50,
+    "translated": 271,
     "sources": 14
   }
 }
