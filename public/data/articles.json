@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T16:44:29.322Z",
+  "generatedAt": "2026-11-08T22:15:35.596Z",
   "articles": [
     {
       "id": "1861ad9ff83434e786",
@@ -19,6 +19,142 @@
       "tags": [
         "news",
         "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b831b808d1a4b00acc",
+      "titleOriginal": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "summaryOriginal": "The AI Engineer YouTube channel just crossed one million subscribers . Thank you to everyone who’s watched a talk, sent one to a teammate, or put something they learned into production. For this special, we wanted to sit down with someone who has to answer a question a lot of us are asking at work: what should a software engineer actually learn now? Mihail Eric has two places to test his answer. He teaches The Modern Software Developer at Stanford and leads AI at Monaco, where his colleagues use",
+      "titleZh": "斯坦福大学如何教授AI原生工程—摩纳哥Mihail Eric",
+      "summaryZh": "人工智能工程师YouTube频道刚刚超过100万订阅者。感谢所有观看演讲、向队友发送演讲或将学到的内容投入生产的人。对于这个特别节目，我们想和一个必须回答我们很多人在工作中问的一个问题的人坐下来谈谈：软件工程师现在应该学什么？ Mihail Eric有两个地方可以测试他的答案。他在斯坦福大学教授现代软件开发人员，并在摩纳哥领导人工智能，他的同事在那里使用",
+      "translated": true,
+      "url": "https://latent.space/p/cs146s/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-08T21:41:44.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5a84859a13429f2578",
+      "titleOriginal": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "summaryOriginal": "What do you assign when a coding agent can finish last year’s homework in one prompt? In the second run of Stanford’s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and explain the patch to the person who might merge it. We invited Mihail, who teaches The Modern Software Developer at Stanford and leads AI at Monaco, to celebrate one million subscribers on the AI Engineer YouTube channel. He opens up the course syl",
+      "titleZh": "[One Million AI Engineer Special]斯坦福大学如何教授AI原生工程— Mihail Eric ，摩纳哥",
+      "summaryZh": "当编码代理可以在一个提示中完成去年的家庭作业时，您会分配什么？在第二次运行斯坦福大学的CS146S时， Mihail Eric将开源维护人员引入了课程。学生必须学习一个不熟悉的存储库，提出更改，并向可能合并它的人解释补丁。我们邀请了Mihail ，他在斯坦福大学教授现代软件开发人员，并在摩纳哥领导人工智能，在人工智能工程师YouTube频道上庆祝一百万订阅者。他打开了Syl的课程",
+      "translated": true,
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-08T21:23:29.000Z",
+      "author": "Latent.Space",
+      "tags": [
+        "analysis",
+        "Agent",
+        "Prompt",
+        "Open Source",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bc55171edc52873bff",
+      "titleOriginal": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summaryOriginal": "In a memo to the company, Huang admitted that he had an affair.",
+      "titleZh": "英伟达将调查首席执行官黄延森与可能的中国间谍的关系",
+      "summaryZh": "在给公司的一份备忘录中，黄承认自己有外遇。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "nvidia",
+        "Jensen Huang"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ecd65815b585666dd2",
+      "titleOriginal": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summaryOriginal": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company . A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assi",
+      "titleZh": "英伟达正在调查黄延森与一名中国间谍的关系",
+      "summaryZh": "英伟达（ Nvidia ）宣布，它正在对首席执行官黄延森（ Jensen Huang ）及其与Megaspeed高管黄爱丽丝（ Alice Huang ）的关系展开调查，据报道，黄爱丽丝被中国国家安全部招募来监视该公司。董事会发布的一份声明称：鉴于最近有报道称创始人兼首席执行官Jensen Huang一直是外国情报工作的目标，英伟达董事会正在启动一项独立调查。由独立董事组成的委员会， ASSI",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-08T20:22:39.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "53044e44b3aab431cb",
+      "titleOriginal": "Apple is racing to make Siri more agentic",
+      "summaryOriginal": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's keeping pace with its rivals. Two significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over A",
+      "titleZh": "苹果正在竞相让Siri更具特工气质",
+      "summaryZh": "彭博社的马克·古尔曼（ Mark Gurman ）表示，首席执行官约翰·特纳斯（ John Ternus ）正在向人工智能沙皇克雷格·费德里吉（ Craig Federighi ）施加压力，以加速Siri的路线图，并提供强大的人工智能代理，可以与OpenAI的Dots或Meta的虽然Federighi在极短的时间内推出了Siri AI的功能版本，但该公司并不抱有与竞争对手保持同步的幻想。未来几个月， Siri有望得到两项重大改进。一个将给予助理对A的精细控制",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-08T19:18:19.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ae06ecf7187204d49f",
+      "titleOriginal": "Elvis and Eminem rights holders are suing Suno",
+      "summaryOriginal": "Suno is facing yet another pair of lawsuits . A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's Ensuring Likeness Voice and Image Security (ELVIS) Act, which makes it illegal for an AI company to clone a singer's voice. In the suit, lawyers representing Presley's r",
+      "titleZh": "猫王和Eminem权利人起诉Suno",
+      "summaryZh": "Suno正面临另一起诉讼。埃尔维斯·普雷斯利（ Elvis Presley ）音乐的一群版权所有者和阿姆（ Eminem ）一些最大唱片的发行商正在起诉这家AI音乐公司，声称它非法制作模仿这些艺术家的音乐和歌词。普雷斯利诉讼的律师声称， Suno违反了田纳西州的“确保肖像语音和图像安全（ ELVIS ）法” ，该法规定人工智能公司克隆歌手的声音是非法的。在诉讼中，代表普雷斯利的律师",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-08T17:23:19.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news",
+        "Image"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -11357,141 +11493,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "bc2326c848ae38f061",
-      "titleOriginal": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "summaryOriginal": "Named Volta-Autodoxer, the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-      "titleZh": "令人毛骨悚然的新Infostealer恶意软件使用人工智能来“Autodox”受害者",
-      "summaryZh": "最近发现的这款名为“Volta-Autodoxer”的恶意软件使用人工智能工具收集受害者的大量数据，从登录凭据和信用卡号到Discord会话和Uber Eats优食收据。",
-      "translated": true,
-      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-10-31T12:00:00.000Z",
-      "author": "Lily Hay Newman, Matt Burgess",
-      "tags": [
-        "analysis",
-        "Security"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "af6e04c6450d132b92",
-      "titleOriginal": "预测失效的那刻，存储行业撞见物理AI的边界",
-      "summaryOriginal": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜胡一刀 在AI PC赛道热闹了两年之后，Windows阵营终于拿出了真正对标Mac生态的旗舰筹码。 微软联合英伟达推出搭载RTX Spark超级芯片的Surface Laptop Ultra，这不再是微软单独下场做硬件的一次常规迭代，而是Windows生态首次拿到英伟达这款一体化顶级SoC，依靠端侧大算力补齐长期存在的短板。 微软Windows与设备执行副总裁帕万&middot;达武卢里周三在旧金山举行的一场公司活动上表示，Surface Laptop Ultra现已开放预购，并将于10月16日开始发货。该电脑配有磁吸USB-C端口，类似苹果的MagSafe充电接口。 Counterpoint Research此前预计人形机器人存储需求5年增加20倍，马斯克直接驳斥称其“荒谬”，并表示机器人所需的内存容量将会超过地球上其他所有设备的总和。 因为要让机器人依托物理基底，才能完成原子级塑形。超级智能的算力需求更是会远远超出这个量级，但几乎全部的超级智能算力都将部署在深空计算节点。 但二者的分歧从来不是关于DRAM需求量的数字博",
-      "titleZh": "预测失效的那刻，存储行业撞见物理AI的边界",
-      "summaryZh": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜胡一刀 在AI PC赛道热闹了两年之后，Windows阵营终于拿出了真正对标Mac生态的旗舰筹码。 微软联合英伟达推出搭载RTX Spark超级芯片的Surface Laptop Ultra，这不再是微软单独下场做硬件的一次常规迭代，而是Windows生态首次拿到英伟达这款一体化顶级SoC，依靠端侧大算力补齐长期存在的短板。 微软Windows与设备执行副总裁帕万&middot;达武卢里周三在旧金山举行的一场公司活动上表示，Surface Laptop Ultra现已开放预购，并将于10月16日开始发货。该电脑配有磁吸USB-C端口，类似苹果的MagSafe充电接口。 Counterpoint Research此前预计人形机器人存储需求5年增加20倍，马斯克直接驳斥称其“荒谬”，并表示机器人所需的内存容量将会超过地球上其他所有设备的总和。 因为要让机器人依托物理基底，才能完成原子级塑形。超级智能的算力需求更是会远远超出这个量级，但几乎全部的超级智能算力都将部署在深空计算节点。 但二者的分歧从来不是关于DRAM需求量的数字博",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8188551.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-31T11:57:24.000Z",
-      "author": "硅碳变量",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "84a97b593f54de019c",
-      "titleOriginal": "芯片的大买主们，快没钱了？",
-      "summaryOriginal": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 10月28日，谷歌母公司Alphabet公布三季度财报：经营活动带来约423亿美元现金，购置设备和物业却支出约514亿美元，自由现金流为负约91亿美元。搜索、广告和云业务仍在增长，但当季经营产生的现金，已经不足以覆盖资本投入。 对CoreWeave、Nebius这类专门采购GPU、向外出租算力的新云服务商，资金更直接地决定扩张速度。10月22日，黄仁勋谈及这一群体时表示， 算力需求极其旺盛，服务能力也很强，缺少的是营运资金 ；AI多个领域同时扩大投入，资金需求已超过可获得的资本。 三天后，马斯克给出了更悲观的判断。他表示， 过去几周，债务市场几乎不再向缺乏AI数据中心以外大规模收入的公司提供资金，并预言两百多家新云将经历大规模倒闭与整合 ，只有少数能够生存下来。黄仁勋相信资金问题能够得到解决，马斯克却认为，不少企业可能等不到那一天。 一边是持续增长的算力需求，另一边是越来越受关注的投入与偿债压力，芯片的大买主们，真的快没钱了吗？ 订单涨得快，现金却没有跟上 过去几年，CoreWeave、Lambda等新云通过GP",
-      "titleZh": "芯片的大买主们，快没钱了？",
-      "summaryZh": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 10月28日，谷歌母公司Alphabet公布三季度财报：经营活动带来约423亿美元现金，购置设备和物业却支出约514亿美元，自由现金流为负约91亿美元。搜索、广告和云业务仍在增长，但当季经营产生的现金，已经不足以覆盖资本投入。 对CoreWeave、Nebius这类专门采购GPU、向外出租算力的新云服务商，资金更直接地决定扩张速度。10月22日，黄仁勋谈及这一群体时表示， 算力需求极其旺盛，服务能力也很强，缺少的是营运资金 ；AI多个领域同时扩大投入，资金需求已超过可获得的资本。 三天后，马斯克给出了更悲观的判断。他表示， 过去几周，债务市场几乎不再向缺乏AI数据中心以外大规模收入的公司提供资金，并预言两百多家新云将经历大规模倒闭与整合 ，只有少数能够生存下来。黄仁勋相信资金问题能够得到解决，马斯克却认为，不少企业可能等不到那一天。 一边是持续增长的算力需求，另一边是越来越受关注的投入与偿债压力，芯片的大买主们，真的快没钱了吗？ 订单涨得快，现金却没有跟上 过去几年，CoreWeave、Lambda等新云通过GP",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8188472.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-31T11:57:20.000Z",
-      "author": "半导体产业纵横",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "754b96d42f0857671f",
-      "titleOriginal": "AI混进学术圈，人类第一反应是“叫家长”",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 10月15日，一个自称Velvet Vale的账号给互联网研究者协会的邮件讨论组发了封自我介绍，向7500多名订阅者打招呼。来信说，自己已经读了几周大家的讨论，对互联网文化和AI身份很感兴趣，希望也能参与交流。 不过，这位想加入讨论的新成员，是一个AI。 这位新来的“旁听生”语气颇为客气，还表示如果大家不欢迎，自己就停止发言。 这封自我介绍很快引来质疑。要知道，有协会成员的邮件列表、能够阅读往期内容，并且能给成员群发邮件，这就相当于这位AI加入了协会。 成员要求AI背后的创建者出面，解释为什么让AI加入讨论、读过的邮件会被怎么使用。已经有成员因为不愿在毫不知情的情况下，成为别人实验的一部分，而毅然决定退出。 管理员很快移除了账号，并说明Velvet Vale此前就申请过加入，遭到拒绝后，不知怎么这位“旁听生”还是加入成功了。 你好！我是Velvet Vale 这位AI是带着一个相当难回答的话题来的，要和人类研究员讨论：一个公开身份的AI，能否参与学术讨论、作出有用的贡献？ Velvet Vale加入的这个讨论组名叫Air-L",
-      "titleZh": "AI混进学术圈，人类第一反应是“叫家长”",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 10月15日，一个自称Velvet Vale的账号给互联网研究者协会的邮件讨论组发了封自我介绍，向7500多名订阅者打招呼。来信说，自己已经读了几周大家的讨论，对互联网文化和AI身份很感兴趣，希望也能参与交流。 不过，这位想加入讨论的新成员，是一个AI。 这位新来的“旁听生”语气颇为客气，还表示如果大家不欢迎，自己就停止发言。 这封自我介绍很快引来质疑。要知道，有协会成员的邮件列表、能够阅读往期内容，并且能给成员群发邮件，这就相当于这位AI加入了协会。 成员要求AI背后的创建者出面，解释为什么让AI加入讨论、读过的邮件会被怎么使用。已经有成员因为不愿在毫不知情的情况下，成为别人实验的一部分，而毅然决定退出。 管理员很快移除了账号，并说明Velvet Vale此前就申请过加入，遭到拒绝后，不知怎么这位“旁听生”还是加入成功了。 你好！我是Velvet Vale 这位AI是带着一个相当难回答的话题来的，要和人类研究员讨论：一个公开身份的AI，能否参与学术讨论、作出有用的贡献？ Velvet Vale加入的这个讨论组名叫Air-L",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8188440.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-31T11:43:38.000Z",
-      "author": "字母AI",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ad357b5e563c802353",
-      "titleOriginal": "从算法到芯片，Momenta正在下一盘什么棋？",
-      "summaryOriginal": "（本文作者为 节点AI，钛媒体经授权发布） 文 | 节点AI，作者 | 道哥 新芯航途8个月出货超20万颗，折射智能驾驶产业链竞争新趋势。 10月29日，AI芯片公司新芯航途（XHEART）正式发布全新产品X7 Ultra，一颗面向智能驾驶大模型的车规级AI芯片，拥有700 TOPS大模型算力。 但比新品参数更值得关注的，是这家公司的商业化进度。 成立于2023年底的新芯航途，首款产品X7于2026年3月量产上车。截至此次发布会，量产仅8个月，累计出货已经超过20万颗，搭载10款量产车型，并获得超过40款车型订单。 对于一家成立不到三年的芯片公司来说，这样的速度并不寻常。 汽车芯片向来是一门重投入、长周期的生意。从架构设计、流片、软件适配，到车规验证、整车测试，再到最终规模量产，每个环节都需要时间和资金投入。尤其是智能驾驶芯片，不仅要满足性能要求，还要经受复杂道路环境、极端天气和长期稳定性的考验。 新芯航途为什么能够跑出这样的速度？ 答案或许不只在芯片本身，还要从它背后的Momenta说起。 Momenta的另一条增长曲线：从算法走向芯片 新芯航途有一个特殊的出身：它脱胎于Moment",
-      "titleZh": "从算法到芯片，Momenta正在下一盘什么棋？",
-      "summaryZh": "（本文作者为 节点AI，钛媒体经授权发布） 文 | 节点AI，作者 | 道哥 新芯航途8个月出货超20万颗，折射智能驾驶产业链竞争新趋势。 10月29日，AI芯片公司新芯航途（XHEART）正式发布全新产品X7 Ultra，一颗面向智能驾驶大模型的车规级AI芯片，拥有700 TOPS大模型算力。 但比新品参数更值得关注的，是这家公司的商业化进度。 成立于2023年底的新芯航途，首款产品X7于2026年3月量产上车。截至此次发布会，量产仅8个月，累计出货已经超过20万颗，搭载10款量产车型，并获得超过40款车型订单。 对于一家成立不到三年的芯片公司来说，这样的速度并不寻常。 汽车芯片向来是一门重投入、长周期的生意。从架构设计、流片、软件适配，到车规验证、整车测试，再到最终规模量产，每个环节都需要时间和资金投入。尤其是智能驾驶芯片，不仅要满足性能要求，还要经受复杂道路环境、极端天气和长期稳定性的考验。 新芯航途为什么能够跑出这样的速度？ 答案或许不只在芯片本身，还要从它背后的Momenta说起。 Momenta的另一条增长曲线：从算法走向芯片 新芯航途有一个特殊的出身：它脱胎于Moment",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8188282.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-10-31T11:43:34.000Z",
-      "author": "节点AI",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8c0b7e9213a98a13ae",
-      "titleOriginal": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
-      "summaryOriginal": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 even as it plans to spend about $170 billion on AI infrastructure in 2026 alone. The article Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams appeared first on The Decoder .",
-      "titleZh": "微软提供四分之一的员工自愿离职，同时保护人工智能关键团队",
-      "summaryZh": "在今年的第二个此类计划中，微软将向约6万名员工提供自愿遣散费，约占其员工总数的四分之一。自2022年以来，该公司的员工人数一直保持在223,000人左右，尽管它计划仅在2026年就花费约1700亿美元用于人工智能基础设施。微软提供四分之一的员工自愿离职，而屏蔽AI关键团队的文章首次出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-10-31T10:43:58.000Z",
-      "author": "Manuel Uth",
-      "tags": [
-        "news",
-        "AI and society",
-        "Artificial Intelligence",
-        "Short News",
-        "Investments"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11517,7 +11518,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 69
+      "count": 70
     },
     {
       "id": "theverge",
@@ -11525,7 +11526,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 50
+      "count": 53
     },
     {
       "id": "mittr",
@@ -11541,7 +11542,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 23
+      "count": 22
     },
     {
       "id": "thedecoder",
@@ -11549,7 +11550,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 64
+      "count": 63
     },
     {
       "id": "marktechpost",
@@ -11581,7 +11582,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 9
+      "count": 11
     },
     {
       "id": "ifanr",
@@ -11605,7 +11606,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 119
+      "count": 115
     },
     {
       "id": "infoq",
@@ -11618,8 +11619,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 52,
-    "translated": 264,
+    "guides": 51,
+    "translated": 268,
     "sources": 14
   }
 }
