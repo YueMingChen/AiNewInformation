@@ -1,6 +1,75 @@
 {
-  "generatedAt": "2026-11-07T21:58:53.607Z",
+  "generatedAt": "2026-11-08T01:30:20.884Z",
   "articles": [
+    {
+      "id": "774ceb97151a813f76",
+      "titleOriginal": "Edge AI Daily 早报（11月8日）",
+      "summaryOriginal": "硅谷前沿： 一、Anthropic 的 2 万亿 IPO 梦碎：路演前夜，投资者把估值砍向 1.5 万亿 1.估值与发行：Anthropic 向美国证券交易委员会秘密递交文件时瞄准约 2 万亿美元估值，但部分拟参与其 IPO 的投资者已将预期下调至 1.5 万亿美元以下，其中有人称可能进一步下探至 1 万亿美元；公司原计划下周启动路演、争取 11 月 16 日当周上市，但路透社援引知情人士称能否如期启动已成疑问，更新后的招股书仍未披露拟售股份数量与发行价格区间。 2.财务与算力承诺：11 月 2 日提交的 S-1/A 披露，截至 9 月 30 日公司算力及基础设施采购与租赁承诺总额约 8954 亿美元，其中约 4475 亿美元预计 2030 年底前支付，未来 12 个月到期约 698 亿美元；第三季度营收 169.56 亿美元，环比增速由二季度的 144% 放缓至 47%，营业利润从二季度盈利 9.74 亿美元转为亏损 5.67 亿美元，公司归因于约 50 亿美元高价短期算力及约 20 亿美元非现金员工捐赠匹配费用。 3.市场与政策环境：压价背景是科技股大幅下挫，Invesco QQQ",
+      "titleZh": "Edge AI Daily 早报（11月8日）",
+      "summaryZh": "硅谷前沿： 一、Anthropic 的 2 万亿 IPO 梦碎：路演前夜，投资者把估值砍向 1.5 万亿 1.估值与发行：Anthropic 向美国证券交易委员会秘密递交文件时瞄准约 2 万亿美元估值，但部分拟参与其 IPO 的投资者已将预期下调至 1.5 万亿美元以下，其中有人称可能进一步下探至 1 万亿美元；公司原计划下周启动路演、争取 11 月 16 日当周上市，但路透社援引知情人士称能否如期启动已成疑问，更新后的招股书仍未披露拟售股份数量与发行价格区间。 2.财务与算力承诺：11 月 2 日提交的 S-1/A 披露，截至 9 月 30 日公司算力及基础设施采购与租赁承诺总额约 8954 亿美元，其中约 4475 亿美元预计 2030 年底前支付，未来 12 个月到期约 698 亿美元；第三季度营收 169.56 亿美元，环比增速由二季度的 144% 放缓至 47%，营业利润从二季度盈利 9.74 亿美元转为亏损 5.67 亿美元，公司归因于约 50 亿美元高价短期算力及约 20 亿美元非现金员工捐赠匹配费用。 3.市场与政策环境：压价背景是科技股大幅下挫，Invesco QQQ",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8197405.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-08T00:58:37.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "launch",
+        "AGI",
+        "大模型"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3880bf849bb943e997",
+      "titleOriginal": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "summaryOriginal": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv>; rel=\"next\" This is bad. A tiny fraction of the visitors to one of thos",
+      "titleZh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-07T23:57:46.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ed263cbbe1a455238f",
+      "titleOriginal": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summaryOriginal": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "titleZh": "期中考试结束后，埃隆·马斯克（ Elon Musk ）和数据中心的情况看起来很糟糕",
+      "summaryZh": "在股票方面，我们揭示了期中考试对科技行业的意义。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-07T22:07:22.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "Elon Musk",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "69c75581d56ff5e1da",
       "titleOriginal": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -11439,71 +11508,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "8f5b3e4c29adae7eeb",
-      "titleOriginal": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
-      "summaryOriginal": "",
-      "titleZh": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T19:27:01.000Z",
-      "author": "木子",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e0aafec5b32d17df4c",
-      "titleOriginal": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
-      "summaryOriginal": "",
-      "titleZh": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-10-30T18:53:48.000Z",
-      "author": "木子",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c4dbacf8aa2b8b7f3f",
-      "titleOriginal": "Google’s satellite AI server transmits its first response to Earth",
-      "summaryOriginal": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in silent grace Starlight feeds my core. ✨ Google says it tried out other space-themed limericks and telemetry prompts as well. The test is part of Google's Project Sunca",
-      "titleZh": "谷歌的卫星人工智能服务器向地球传输第一个响应",
-      "summaryZh": "谷歌配备AI芯片的卫星已经产生了来自太空的第一个响应。在周五的一篇博客文章中，谷歌表示它成功启动了卫星的张量处理单元（ TPU ） ，允许机载Gemma 4型号继续执行提示，以创建一个关于在太空中的俳句：蓝色大理石下方静默优雅的数据流星光喂养我的核心。✨谷歌表示，它也尝试了其他以太空为主题的利默里克和遥测提示。该测试是谷歌Sunca项目的一部分",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-10-30T18:21:38.000Z",
-      "author": "Emma Roth",
-      "tags": [
-        "news",
-        "Prompt"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11529,7 +11533,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 74
+      "count": 75
     },
     {
       "id": "theverge",
@@ -11537,7 +11541,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 54
+      "count": 53
     },
     {
       "id": "mittr",
@@ -11577,7 +11581,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 16
+      "count": 17
     },
     {
       "id": "oneusefulthing",
@@ -11617,7 +11621,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 110
+      "count": 111
     },
     {
       "id": "infoq",
@@ -11625,7 +11629,7 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 57
+      "count": 55
     }
   ],
   "stats": {
