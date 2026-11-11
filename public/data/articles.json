@@ -1,6 +1,280 @@
 {
-  "generatedAt": "2026-11-10T20:54:28.853Z",
+  "generatedAt": "2026-11-11T01:59:23.692Z",
   "articles": [
+    {
+      "id": "f28f90d2895a812ca5",
+      "titleOriginal": "Gilbert + Tobin rethinks the business of law with AI",
+      "summaryOriginal": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "titleZh": "Gilbert + Tobin借助人工智能重新思考法律业务",
+      "summaryZh": "与Gilbert + Tobin合伙人兼首席执行官Sam Nickless的对话。",
+      "translated": true,
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1d3cc3a72f1eb017b5",
+      "titleOriginal": "2026，AI应用的钱都流向了哪里？",
+      "summaryOriginal": "（本文作者为 定焦One，钛媒体经授权发布） 文 | 定焦One（dingjiaoone），作者｜李梦冉，编辑｜魏佳 2026年，AI融资市场最“大笔”的钱，依然流向大模型、算力等基础能力。但越来越频繁的融资故事，开始发生在应用层。 据智东西统计，2026年上半年，国内AI产业链上亿元融资中，AI应用方向融资事件最多，共33起。其中，视频、图像和3D生成占了近四成，AI Agent约占两成，企业应用、AI医疗/药物、AI金融、AI营销等方向也都出现了亿元级融资。 Megan是原点社区GTM公益社区发起人，也是一名国内C端应用出海操盘手，她告诉「定焦One」，从和投资机构交流的体感来看，今年资本对AI应用的态度经历过一轮变化。上半年整体积极，到了夏末秋初，部分机构转向谨慎，原因有二：一是具身智能等赛道分走了注意力，二是一些AI应用在投入大量资金后，日活、声量和商业化都没有跑出来，退出路径也开始受到更多讨论。进入10月后，市场关注度有所回升，但投资人更看重自研模型能力、技术壁垒或软硬件结合这类能拉开差异的项目。 投资人变得谨慎，钱的流向也冷热不匀。AI创作公司演语科技6月完成近3亿美元B+",
+      "titleZh": "2026，AI应用的钱都流向了哪里？",
+      "summaryZh": "（本文作者为 定焦One，钛媒体经授权发布） 文 | 定焦One（dingjiaoone），作者｜李梦冉，编辑｜魏佳 2026年，AI融资市场最“大笔”的钱，依然流向大模型、算力等基础能力。但越来越频繁的融资故事，开始发生在应用层。 据智东西统计，2026年上半年，国内AI产业链上亿元融资中，AI应用方向融资事件最多，共33起。其中，视频、图像和3D生成占了近四成，AI Agent约占两成，企业应用、AI医疗/药物、AI金融、AI营销等方向也都出现了亿元级融资。 Megan是原点社区GTM公益社区发起人，也是一名国内C端应用出海操盘手，她告诉「定焦One」，从和投资机构交流的体感来看，今年资本对AI应用的态度经历过一轮变化。上半年整体积极，到了夏末秋初，部分机构转向谨慎，原因有二：一是具身智能等赛道分走了注意力，二是一些AI应用在投入大量资金后，日活、声量和商业化都没有跑出来，退出路径也开始受到更多讨论。进入10月后，市场关注度有所回升，但投资人更看重自研模型能力、技术壁垒或软硬件结合这类能拉开差异的项目。 投资人变得谨慎，钱的流向也冷热不匀。AI创作公司演语科技6月完成近3亿美元B+",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8200663.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T01:42:55.000Z",
+      "author": "定焦One",
+      "tags": [
+        "launch",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5471c902a8805328a8",
+      "titleOriginal": "家电三巨头的计算中心新对决",
+      "summaryOriginal": "（本文作者为 巨潮WAVE，钛媒体经授权发布） 文｜巨潮WAVE，作者 | 程度，编辑｜杨旭然 从室内空调到AI温控，看起来是一条顺理成章的发展路径。家电企业凭借过往积累，已经将产品触角伸向AIDC液冷赛道。 随着高强度训练需求的引爆，AI芯片功率密度急剧攀升，单机柜功耗已从传统的2-8kW攀升至20-50kW，未来可能突破100kW。而当这些芯片被成千上万地部署到数据中心时，功率密度的攀升在机柜层面被急剧放大。 这就使得AIDC成为名副其实的“吞电巨兽”，散热也晋升为仅次于IT设备的第二大电耗项。 海外市场，包括江森自控、特灵科技、开利全球均已涉足AIDC散热领域；在国内，美的、格力、海尔三个家电巨头也不约而同将目光瞄向这一火爆而又广阔的赛道。 受房地产周期下行影响，传统家电行业已经进入存量厮杀，行业大盘持续收缩，而且铜价的上涨也在持续抽吸着行业利润，甚至是扩大亏损。家电巨头们除了多元化转型之外选择并不多。在这方面，无论是格力的新能源、美的的工业机器人，都难以比肩AI这个历史机遇。 分野 中国家电行业的气候，随着冬季的到来持续转冷。 &zwnj;奥维云网（AVC）统计，今年前三季度，",
+      "titleZh": "家电三巨头的计算中心新对决",
+      "summaryZh": "（本文作者为 巨潮WAVE，钛媒体经授权发布） 文｜巨潮WAVE，作者 | 程度，编辑｜杨旭然 从室内空调到AI温控，看起来是一条顺理成章的发展路径。家电企业凭借过往积累，已经将产品触角伸向AIDC液冷赛道。 随着高强度训练需求的引爆，AI芯片功率密度急剧攀升，单机柜功耗已从传统的2-8kW攀升至20-50kW，未来可能突破100kW。而当这些芯片被成千上万地部署到数据中心时，功率密度的攀升在机柜层面被急剧放大。 这就使得AIDC成为名副其实的“吞电巨兽”，散热也晋升为仅次于IT设备的第二大电耗项。 海外市场，包括江森自控、特灵科技、开利全球均已涉足AIDC散热领域；在国内，美的、格力、海尔三个家电巨头也不约而同将目光瞄向这一火爆而又广阔的赛道。 受房地产周期下行影响，传统家电行业已经进入存量厮杀，行业大盘持续收缩，而且铜价的上涨也在持续抽吸着行业利润，甚至是扩大亏损。家电巨头们除了多元化转型之外选择并不多。在这方面，无论是格力的新能源、美的的工业机器人，都难以比肩AI这个历史机遇。 分野 中国家电行业的气候，随着冬季的到来持续转冷。 &zwnj;奥维云网（AVC）统计，今年前三季度，",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8200652.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T01:40:51.000Z",
+      "author": "巨潮WAVE",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c3db6f9d15e0c6d364",
+      "titleOriginal": "平头哥要上市，阿里AI的第一个“大结果”",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 如外界所料，阿里要分拆平头哥赴港上市了。 11月10日晚，阿里发布公告称，拟将旗下芯片公司平头哥在港交所主板独立上市。平头哥早在今年9月11日，就已保密递交上市申请。 据媒体报道，平头哥计划明年赴港上市，可能募集20亿至30亿美元。不过，具体发行规模和上市时间，阿里尚未披露。 今年3月，阿里CEO吴泳铭披露，平头哥芯片年化营收已达百亿元级。 比平头哥早一步的，是百度旗下的昆仑芯。今年1月，昆仑芯已经保密递表，申请赴港上市。除了阿里和百度，腾讯、字节也在加快自研芯片的研发和部署。 01 按照阿里的公告，平头哥拟在港交所主板发行H股，包括面向香港公众的公开发售和机构配售。 分拆完成后，平头哥预计仍是阿里子公司，但阿里最终持股多少还没有确定。 阿里解释，分拆有助于投资者分别评估集团和平头哥的价值，也能吸引专门投资芯片业务的资金。上市之后，平头哥还可以独立进入股权和债务资本市场。 过去几个月，平头哥的动作明显密集起来。 8月，阿里调整财报分部，把云智能集团和平头哥合并为“AI云与算力服务”。9月22日，吴泳铭在云栖大会发布新一代真武",
+      "titleZh": "平头哥要上市，阿里AI的第一个“大结果”",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 如外界所料，阿里要分拆平头哥赴港上市了。 11月10日晚，阿里发布公告称，拟将旗下芯片公司平头哥在港交所主板独立上市。平头哥早在今年9月11日，就已保密递交上市申请。 据媒体报道，平头哥计划明年赴港上市，可能募集20亿至30亿美元。不过，具体发行规模和上市时间，阿里尚未披露。 今年3月，阿里CEO吴泳铭披露，平头哥芯片年化营收已达百亿元级。 比平头哥早一步的，是百度旗下的昆仑芯。今年1月，昆仑芯已经保密递表，申请赴港上市。除了阿里和百度，腾讯、字节也在加快自研芯片的研发和部署。 01 按照阿里的公告，平头哥拟在港交所主板发行H股，包括面向香港公众的公开发售和机构配售。 分拆完成后，平头哥预计仍是阿里子公司，但阿里最终持股多少还没有确定。 阿里解释，分拆有助于投资者分别评估集团和平头哥的价值，也能吸引专门投资芯片业务的资金。上市之后，平头哥还可以独立进入股权和债务资本市场。 过去几个月，平头哥的动作明显密集起来。 8月，阿里调整财报分部，把云智能集团和平头哥合并为“AI云与算力服务”。9月22日，吴泳铭在云栖大会发布新一代真武",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8200714.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T01:40:48.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a24fac41e31757077f",
+      "titleOriginal": "亚洲出口，正按AI产业链位置重新排座次",
+      "summaryOriginal": "翻开亚洲最新月度贸易数据（韩国至10月，中国台湾至10月），两组纪录在前后脚的两个月里先后落地。韩国10月出口1152.8亿美元，同比增长93.7%， 为1974年1月以来最大单月增幅 ，略低于9月创下的1211亿美元纪录，1至10月累计出口9300亿美元，历史上首次突破9000亿美元，产业部门预计全年出口额有望在11月内站上1万亿美元。 中国台湾10月出口967.6亿美元，单月首度突破900亿美元，年增58.9%，连续第36个月增长，再度刷新史上最长连续增长纪录。 综合韩国、中国台湾、日本三方官方贸易数据，上半年韩国出口4963亿美元、中国台湾4166亿美元、日本3844亿美元，韩国和台湾地区的出口额首次双双超过日本。台湾地区财政主管部门的口径是，按其预计， 全年出口将首次超越日本，在全球出口统计中的排名可望升至第八 。日本曾长期位居亚洲出口前列，是高端制造出口的标杆，位次被超越不只关乎排名，更反映出区域分工结构的变化： 出口竞争力的来源，正在从整体制造能力转向在AI供应链中所处的环节 。 两组数据有一点是共同的， 拉动增长的不是汽车、机械这些传统主力，而是芯片，最终的需求方 ，是",
+      "titleZh": "亚洲出口，正按AI产业链位置重新排座次",
+      "summaryZh": "翻开亚洲最新月度贸易数据（韩国至10月，中国台湾至10月），两组纪录在前后脚的两个月里先后落地。韩国10月出口1152.8亿美元，同比增长93.7%， 为1974年1月以来最大单月增幅 ，略低于9月创下的1211亿美元纪录，1至10月累计出口9300亿美元，历史上首次突破9000亿美元，产业部门预计全年出口额有望在11月内站上1万亿美元。 中国台湾10月出口967.6亿美元，单月首度突破900亿美元，年增58.9%，连续第36个月增长，再度刷新史上最长连续增长纪录。 综合韩国、中国台湾、日本三方官方贸易数据，上半年韩国出口4963亿美元、中国台湾4166亿美元、日本3844亿美元，韩国和台湾地区的出口额首次双双超过日本。台湾地区财政主管部门的口径是，按其预计， 全年出口将首次超越日本，在全球出口统计中的排名可望升至第八 。日本曾长期位居亚洲出口前列，是高端制造出口的标杆，位次被超越不只关乎排名，更反映出区域分工结构的变化： 出口竞争力的来源，正在从整体制造能力转向在AI供应链中所处的环节 。 两组数据有一点是共同的， 拉动增长的不是汽车、机械这些传统主力，而是芯片，最终的需求方 ，是",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8194238.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T01:23:13.000Z",
+      "author": "AGI-Signal",
+      "tags": [
+        "news",
+        "AGI",
+        "芯片",
+        "大模型",
+        "出口"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a061e906719ad4cdb1",
+      "titleOriginal": "Edge AI Daily 早报（11月11日）",
+      "summaryOriginal": "硅谷前沿： 一、Anthropic定价74美元，净募资937亿美元：一场被七家巨头托底的AI史上最大IPO 1.IPO规模：11月10日财联社报道，Anthropic预计IPO定价中点为每股74美元（70至80美元区间正中），计入超额配售权及七家巨头260亿美元私募配售后，净募资约937亿美元，超越SpaceX今年6月857亿美元的纪录，成为史上最大IPO。 2.产业链卡位：谷歌、英伟达、AMD、博通、美光、微软、台积电七家承诺按发行价合计投入260亿美元私募配售；对芯片供应商是锁定未来订单，对谷歌、微软是防御性入场，被形容为AI产业链的“互不摧毁”默契。 3.估值退坡与募资用途：受11月4日至7日美国中期选举后科技股回撤、纳斯达克单日跌幅一度超5%影响，买方心理价位下调至1.2万亿至1.3万亿美元，74美元定价为买卖双方折中点；937亿美元募资首要用于填补未来12个月内约698亿美元到期的算力支出承诺，属“补给上岸”而非“胜利凯旋”。 二、Anthropic 发布 Fable 5.2 与 Mythos 5.2：1000 个子智能体 8 天写出可启动操作系统 1.当地时间11月9日，A",
+      "titleZh": "Edge AI Daily 早报（11月11日）",
+      "summaryZh": "硅谷前沿： 一、Anthropic定价74美元，净募资937亿美元：一场被七家巨头托底的AI史上最大IPO 1.IPO规模：11月10日财联社报道，Anthropic预计IPO定价中点为每股74美元（70至80美元区间正中），计入超额配售权及七家巨头260亿美元私募配售后，净募资约937亿美元，超越SpaceX今年6月857亿美元的纪录，成为史上最大IPO。 2.产业链卡位：谷歌、英伟达、AMD、博通、美光、微软、台积电七家承诺按发行价合计投入260亿美元私募配售；对芯片供应商是锁定未来订单，对谷歌、微软是防御性入场，被形容为AI产业链的“互不摧毁”默契。 3.估值退坡与募资用途：受11月4日至7日美国中期选举后科技股回撤、纳斯达克单日跌幅一度超5%影响，买方心理价位下调至1.2万亿至1.3万亿美元，74美元定价为买卖双方折中点；937亿美元募资首要用于填补未来12个月内约698亿美元到期的算力支出承诺，属“补给上岸”而非“胜利凯旋”。 二、Anthropic 发布 Fable 5.2 与 Mythos 5.2：1000 个子智能体 8 天写出可启动操作系统 1.当地时间11月9日，A",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8200609.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T00:34:54.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "48c08d1594972d2f0e",
+      "titleOriginal": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+      "summaryOriginal": "AI 大模型的发布节奏已经快到让人应接不暇。 就在刚刚，Google DeepMind 正式宣布， 旗下最新旗舰模型 Gemini 4 Carbon 正式面向开发者、企业、科研人员及普通消费者提供服务。 Carbon 是目前 Gemini 家族综合能力最强的公开上线模型，尤其擅长复杂编程、网络安全、科学推理，以及需要长时间执行的多智能体任务。 图｜官方博客 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ 两周前，谷歌已经通过 Fairwind 计划向部分网络安全防御人员开放 Carbon，如今进一步扩大了使用范围。 与此前发布的 Gemini 4 Argon 相比，Carbon 主要面向复杂软件工程、跨领域研究等高难度任务，能够消耗更多 Token 进行深入推理、反复验证和错误修正，而 Argon 继续承担大多数日常编程和知识工作。 在 CursorBench 4.0、Perplexity WANDR 和 Zapier Autom",
+      "titleZh": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+      "summaryZh": "AI 大模型的发布节奏已经快到让人应接不暇。 就在刚刚，Google DeepMind 正式宣布， 旗下最新旗舰模型 Gemini 4 Carbon 正式面向开发者、企业、科研人员及普通消费者提供服务。 Carbon 是目前 Gemini 家族综合能力最强的公开上线模型，尤其擅长复杂编程、网络安全、科学推理，以及需要长时间执行的多智能体任务。 图｜官方博客 https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ 两周前，谷歌已经通过 Fairwind 计划向部分网络安全防御人员开放 Carbon，如今进一步扩大了使用范围。 与此前发布的 Gemini 4 Argon 相比，Carbon 主要面向复杂软件工程、跨领域研究等高难度任务，能够消耗更多 Token 进行深入推理、反复验证和错误修正，而 Argon 继续承担大多数日常编程和知识工作。 在 CursorBench 4.0、Perplexity WANDR 和 Zapier Autom",
+      "translated": true,
+      "url": "https://www.ifanr.com/1688883",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T00:26:39.000Z",
+      "author": "山宗",
+      "tags": [
+        "research",
+        "产品",
+        "AI",
+        "Gemini"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0818d92f20b88fa3f0",
+      "titleOriginal": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "summaryOriginal": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文",
+      "titleZh": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+      "summaryZh": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/118905",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T00:26:34.000Z",
+      "author": "少数派编辑部",
+      "tags": [
+        "research",
+        "Coding"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7dace4a35f9b52842b",
+      "titleOriginal": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+      "summaryOriginal": "Anthropic 启动上市路演，拟以每股 70 至 78 美元发行 华为小折叠电脑 MateBook Fold S 亮相，11 月 14 日开启预订 Google 开放最强 AI 模型 Gemini 4 Carbon 京东被曝内测免费短剧，计划让观众购买剧中同款 李斌：蔚来 ES9 将迎来第 4 万辆交付 董明珠谈格力业绩下滑：铜价上涨，格力将继续用铜 台积电 10 月营收创今年单月新高，同比增长近六成 阿里巴巴拟分拆平头哥，芯片子公司已向港交所递表 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车 Oura 拟以 6.25 亿美元收购 Counsel Health，将医生服务接入健康数据 派拉蒙天舞 CEO：AI 工具或让片商更敢为新人导演下注 宝马新世代 iX3 本月开启交付，i3 将在广州车展上市 曝苹果开发「Harbor」，可将多台 Mac 的统一内存用于本地 AI 推理 大晓机器人在酒店演示从客房取衣到洗烘送回 小鹏汇天带「陆地航母」亮相里斯本，展示可分离飞行器 Blender 5.3 上线，可直接导入和渲染三维高斯泼溅 蚂蚁灵波开源触觉模型，让机器人的「手感",
+      "titleZh": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+      "summaryZh": "Anthropic 启动上市路演，拟以每股 70 至 78 美元发行 华为小折叠电脑 MateBook Fold S 亮相，11 月 14 日开启预订 Google 开放最强 AI 模型 Gemini 4 Carbon 京东被曝内测免费短剧，计划让观众购买剧中同款 李斌：蔚来 ES9 将迎来第 4 万辆交付 董明珠谈格力业绩下滑：铜价上涨，格力将继续用铜 台积电 10 月营收创今年单月新高，同比增长近六成 阿里巴巴拟分拆平头哥，芯片子公司已向港交所递表 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车 Oura 拟以 6.25 亿美元收购 Counsel Health，将医生服务接入健康数据 派拉蒙天舞 CEO：AI 工具或让片商更敢为新人导演下注 宝马新世代 iX3 本月开启交付，i3 将在广州车展上市 曝苹果开发「Harbor」，可将多台 Mac 的统一内存用于本地 AI 推理 大晓机器人在酒店演示从客房取衣到洗烘送回 小鹏汇天带「陆地航母」亮相里斯本，展示可分离飞行器 Blender 5.3 上线，可直接导入和渲染三维高斯泼溅 蚂蚁灵波开源触觉模型，让机器人的「手感",
+      "translated": true,
+      "url": "https://www.ifanr.com/1688852",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-11T00:20:24.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "launch",
+        "早报",
+        "格力电器",
+        "董明珠",
+        "蔚来 ES9"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "03a27d01d5e88852dd",
+      "titleOriginal": "Meta FAIR Releases e-means: An Algorithm Beating k-means in 10x Fewer Epochs",
+      "summaryOriginal": "Meta FAIR researchers have released e-means , a drop-in replacement for Lloyd’s k-means algorithm. The e-means clustering algorithm reaches the loss Lloyd’s k-means gets in 25 epochs in 1.4 to 2.6 epochs . It ships in FAISS 1.16.0 under faiss.contrib.e_means . For anyone building vector indexes, quantizers or data-curation pipelines, clustering is often the slowest offline step. e-means targets exactly that step. TL;DR Size: It is an algorithm. Tested from 100K to 10 billion points, up to 16.7M",
+      "titleZh": "META FAIR发布e-means ：在10倍更少的纪元中击败k-means的算法",
+      "summaryZh": "Meta FAIR研究人员发布了e-means ，这是劳埃德k-means算法的替代品。e-means聚类算法在1.4到2.6个epoch中达到了Lloyd's k-means在25个epoch中的损失。它在FAISS 1.16.0中以faiss.contrib.e_means发货。对于任何构建矢量索引、量化器或数据固化管道的人来说，聚类通常是最慢的离线步骤。e-意味着正是这一步。TL; DR Size ：这是一种算法。测试范围从10万分到100亿分，最高可达1670万分",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/10/meta-fair-e-means-k-means-faiss/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-10T23:20:19.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4d3f9638cae143a1b8",
+      "titleOriginal": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
+      "summaryOriginal": "【钛媒体综合】据新华社11月10日报道，国务院总理李强日前签署国务院令，公布修订后的《基金会管理条例》，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。《条例》共8章79条，修订的主要内容如下： 一是完善总体原则要求。明确基金会工作坚持中国共产党的领导，强化党建工作要求，规定基金会从事公益活动应当遵循合法、自愿、诚信、公开、透明、非营利的原则。 二是健全登记管理制度。明确登记管理层级和注册资金，稳妥推进直接登记，明确变更登记程序要求，细化注销前清算程序。 三是完善内部治理机制。强化发起人、负责人责任，健全组织机构职权及议事规则，禁止负责人、理事、监事等利用关联关系损害基金会、受益人的利益和社会公共利益。 四是规范活动管理。完善募捐、捐赠、资助等活动要求，对互联网公开募捐、合作公开募捐进行规范。加强财产管理，明确收益应当全部用于公益目的。严格项目管理，要求对项目实施情况跟踪管理。 五是加强信息公开和行业自律。明确基金会信息公开义务，畅通社会监督渠道，建立健全行业规范。 六是强化综合监管。明确登记管理机关、业务主管单位和行业管理部门等的职责，压实各方责",
+      "titleZh": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
+      "summaryZh": "【钛媒体综合】据新华社11月10日报道，国务院总理李强日前签署国务院令，公布修订后的《基金会管理条例》，自2027年1月1日起施行。《条例》旨在加强基金会公信力建设，促进基金会健康有序发展。《条例》共8章79条，修订的主要内容如下： 一是完善总体原则要求。明确基金会工作坚持中国共产党的领导，强化党建工作要求，规定基金会从事公益活动应当遵循合法、自愿、诚信、公开、透明、非营利的原则。 二是健全登记管理制度。明确登记管理层级和注册资金，稳妥推进直接登记，明确变更登记程序要求，细化注销前清算程序。 三是完善内部治理机制。强化发起人、负责人责任，健全组织机构职权及议事规则，禁止负责人、理事、监事等利用关联关系损害基金会、受益人的利益和社会公共利益。 四是规范活动管理。完善募捐、捐赠、资助等活动要求，对互联网公开募捐、合作公开募捐进行规范。加强财产管理，明确收益应当全部用于公益目的。严格项目管理，要求对项目实施情况跟踪管理。 五是加强信息公开和行业自律。明确基金会信息公开义务，畅通社会监督渠道，建立健全行业规范。 六是强化综合监管。明确登记管理机关、业务主管单位和行业管理部门等的职责，压实各方责",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8200471.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-10T23:20:00.000Z",
+      "author": "钛媒体官方账号",
+      "tags": [
+        "news",
+        "主编精选文章",
+        "钛早了！晨报"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bd2a6830d8cf779548",
+      "titleOriginal": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "summaryOriginal": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "titleZh": "OpenAI收购由Sonder创始人创建的旅游创业公司Odessia",
+      "summaryZh": "OpenAI尚未说明其对未来旅行的计划。但Sonder创始人弗朗西斯·戴维森（ Francis Davidson ）是旅游业的知名人物。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-10T21:08:52.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "travel"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "91faed0650f0d054db",
       "titleOriginal": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
@@ -21,7 +295,7 @@
         "AI",
         "Government & Policy",
         "ai safety",
-        "kathy hochul"
+        "Anthropic"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -356,9 +630,9 @@
       "id": "7396b577c72532a794",
       "titleOriginal": "ChatGPT is getting verified AI ‘Business Agents’",
       "summaryOriginal": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta . You can start talking with a Business Agent if a business that has created one appears in a response from ChatGPT. While chatting with a custom agent, you can ask",
-      "titleZh": "ChatGPT is getting verified AI ‘Business Agents’",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "ChatGPT正在获得经过验证的人工智能“业务代理",
+      "summaryZh": "ChatGPT将允许您与代表品牌的经过验证的“业务代理”聊天，以帮助您进行比较购物等。该功能首先面向美国“合格”的电子商务和在线服务企业，作为ChatGPT中以业务为中心的一套功能的一部分推出，该功能今天以测试版的形式发布。如果创建了业务代理的企业出现在ChatGPT的回复中，您可以开始与业务代理交谈。在与自定义代理聊天时，您可以询问",
+      "translated": true,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -378,9 +652,9 @@
       "id": "7ac1a3b2939bf58c20",
       "titleOriginal": "The indie game community is in disarray over AI and Big Walk",
       "summaryOriginal": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult technical challenges and bugs.\" According to the jurors' statement , a copy of which was posted by Austin Walker, while this year's IGF entries have been \"incr",
-      "titleZh": "The indie game community is in disarray over AI and Big Walk",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "独立游戏社区因AI和Big Walk而陷入混乱",
+      "summaryZh": "一些独立游戏节（ IGF ）的评委昨天发表声明称，他们不会投票支持以“任何身份”使用生成式人工智能的游戏。“不久之后，独立热门游戏《Big Walk》的开发商发表声明称，它在游戏开发的“最后阶段”“谨慎”使用人工智能来“帮助解决困难的技术挑战和bug ”。“根据奥斯汀·沃克（ Austin Walker ）发布的陪审员声明，今年的IGF参赛作品已经",
+      "translated": true,
       "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -399,9 +673,9 @@
       "id": "fd8e1c638d2dc1c1f2",
       "titleOriginal": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
       "summaryOriginal": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-      "titleZh": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Anthropic推出Claude Meetings ，将工作场所的讨论转化为计划和任务",
+      "summaryZh": "在参与者交谈时， Claude可以起草正在讨论的计划，在白板上绘制时间表，在会议聊天中回答问题，并访问连接的工作应用程序以检索信息，例如去年的数字。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -424,9 +698,9 @@
       "id": "ec3f910d2a185a9178",
       "titleOriginal": "Anthropic has its own AI-powered office suite now",
       "summaryOriginal": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies . Earlier this year, Claude Code went through its own particular hype cycle . And now, Anthropic is trying to expand its footprint to other knowledge workers with an AI-powered suite of office tools. At an event in San Francisco on Tuesday, Anthropic unveiled new tools for non-tech",
-      "titleZh": "Anthropic has its own AI-powered office suite now",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Anthropic现在拥有自己的人工智能办公套件",
+      "summaryZh": "多年来， Anthropic一直专注于吸引高端企业客户的企业和编码工具，激励OpenAI、SpaceXSI和Meta等竞争前沿实验室复制其战略。今年早些时候， Claude Code经历了自己的炒作周期。现在， Anthropic正试图通过一套人工智能驱动的办公工具将其足迹扩展到其他知识型员工。在周二于旧金山举行的一次活动中， Anthropic推出了适用于非技术人员的新工具",
+      "translated": true,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -446,9 +720,9 @@
       "id": "0336087d2ae83ddb39",
       "titleOriginal": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
       "summaryOriginal": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeared first on The Decoder .",
-      "titleZh": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "谷歌DeepMind的Gemini Robotics 2.5在梅赛德斯-奔驰装配试点项目中对金属零件进行分类的得分为96 ％",
+      "summaryZh": "谷歌Deepmind推出了新的机器人控制模型Gemini Robotics 2.5 ，并在匈牙利和德国的梅赛德斯-奔驰生产线上使用Apptronik进行了测试。人形机器人阿波罗2号在那里对金属零件进行了分类，报告的成功率为96 ％。谷歌DeepMind的Gemini Robotics 2.5文章在梅赛德斯-奔驰装配试点项目中对金属零件的分类得分为96 ％ ，首次出现在The Decoder上。",
+      "translated": true,
       "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -471,9 +745,9 @@
       "id": "940b8a321b9420137e",
       "titleOriginal": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
       "summaryOriginal": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "titleZh": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "英伟达首席执行官Jensen Huang与涉嫌中国间谍的婚外情：时间表",
+      "summaryZh": "随着美国和中国竞相开发最先进的人工智能基础设施，这一事件可能会对国家安全产生影响。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -496,9 +770,9 @@
       "id": "3e50515c6d1fc8ccf1",
       "titleOriginal": "eBay appears to have shut the door on third-party AI agents",
       "summaryOriginal": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked fr",
-      "titleZh": "eBay appears to have shut the door on third-party AI agents",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "eBay似乎已经关闭了第三方人工智能代理商的大门",
+      "summaryZh": "eBay似乎阻止了包括Meta的Muse在内的人工智能代理在平台上浏览，这是人工智能代理竞赛中最新的速度提升。一位读者告诉The Verge ，几周来，他的Muse经纪人一直在eBay等平台上浏览和整理每日出售的手表摘要，包括房源、价格、送货详情的链接，以及有关状况或风格的相关备注。不过，本周末， Muse无法从eBay上提取任何链接或详细信息， Muse表示，",
+      "translated": true,
       "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -564,9 +838,9 @@
       "id": "0b2e1c02de474f201b",
       "titleOriginal": "Gemini 4 Carbon is now available",
       "summaryOriginal": "",
-      "titleZh": "Gemini 4 Carbon is now available",
+      "titleZh": "Gemini 4 Carbon现已上市",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "sourceId": "deepmind",
       "sourceName": "Google DeepMind",
@@ -585,9 +859,9 @@
       "id": "a14681e2ddce125555",
       "titleOriginal": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
       "summaryOriginal": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes the frontier even further\" than Argon, referring to the company's other frontier model that launched only last month . The company said Argon will likely remain \"the ideal",
-      "titleZh": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "谷歌发布带有代理“swarm”功能的Gemini 4 Carbon",
+      "summaryZh": "谷歌正在向公众推出其最新的人工智能模型Gemini 4 Carbon ，两周前将其发布给了一群精选的“网络安全捍卫者”。谷歌声称Carbon是其“最强大的模型” ，能够与Anthropic和OpenAI的最佳系统竞争。谷歌表示， Gemini 4 Carbon比Argon “更进一步” ，指的是该公司上个月刚刚推出的另一款前沿车型。该公司表示， Argon可能仍然是“理想的",
+      "translated": true,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -607,9 +881,9 @@
       "id": "5ef445c1e85d847f0a",
       "titleOriginal": "Google broadens its AI hardware portfolio with two new specialized chips",
       "summaryOriginal": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-      "titleZh": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "titleZh": "谷歌通过两款新的专用芯片扩大其人工智能硬件产品组合",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -770,9 +1044,9 @@
     {
       "id": "92c425f4617e385473",
       "titleOriginal": "第三代国潮来袭：藏在桌面与旷野里的中国智造",
-      "summaryOriginal": "（本文作者为 科技指北，钛媒体经授权发布） 蜂花、百雀羚、鸿星尔克……这些消费类国潮品牌很多人张口就来，可如果问起日常使用的打印机、路由器、户外监控，大多数人未必能立刻说出几个国产头部品牌的名字。 事实上，一批国产办公硬件已经在技术上完成了从追赶到领跑的跨越，部分赛道甚至拿下全球主导地位，但大众消费端的认知，还停留在“国货=便宜平替”的旧印象里。人们愿意为审美国潮买单，却很少留意藏在书桌角落、天花板上、旷野工地里的硬核突破。 为了弥合这道认知鸿沟，今年京东11.11推出“办公国潮新趋势”项目，把拓竹、奔图、海康威视、华为、中兴、格之格国货品牌拉到同一个舞台上。 11月10日，品牌总裁集体走进京东3C数码采销直播间，亲自拆解研发背后的技术故事，还将联合百度搭子DuMate送出数万亿Token AI算力福利，以实打实的底价与权益，让这群“过分低调”的国货，被大众认真看一次。 硬核办公国货的技术答卷 过去提起国产办公硬件，消费者的第一反应往往是“够用就行”。 短短几年间，从打印芯片到3D打印，从随身网络到智能监控，从桌面制造到户外安防，多个赛道完成底层技术自主突破，产品体验追上甚至超越了海外",
+      "summaryOriginal": "蜂花、百雀羚、鸿星尔克……这些消费类国潮品牌很多人张口就来，可如果问起日常使用的打印机、路由器、户外监控，大多数人未必能立刻说出几个国产头部品牌的名字。 事实上，一批国产办公硬件已经在技术上完成了从追赶到领跑的跨越，部分赛道甚至拿下全球主导地位，但大众消费端的认知，还停留在“国货=便宜平替”的旧印象里。人们愿意为审美国潮买单，却很少留意藏在书桌角落、天花板上、旷野工地里的硬核突破。 为了弥合这道认知鸿沟，今年京东11.11推出“办公国潮新趋势”项目，把拓竹、奔图、海康威视、华为、中兴、格之格国货品牌拉到同一个舞台上。 11月10日，品牌总裁集体走进京东3C数码采销直播间，亲自拆解研发背后的技术故事，还将联合百度搭子DuMate送出数万亿Token AI算力福利，以实打实的底价与权益，让这群“过分低调”的国货，被大众认真看一次。 硬核办公国货的技术答卷 过去提起国产办公硬件，消费者的第一反应往往是“够用就行”。 短短几年间，从打印芯片到3D打印，从随身网络到智能监控，从桌面制造到户外安防，多个赛道完成底层技术自主突破，产品体验追上甚至超越了海外同级产品。 3D打印：从极客玩具，到客厅里的",
       "titleZh": "第三代国潮来袭：藏在桌面与旷野里的中国智造",
-      "summaryZh": "（本文作者为 科技指北，钛媒体经授权发布） 蜂花、百雀羚、鸿星尔克……这些消费类国潮品牌很多人张口就来，可如果问起日常使用的打印机、路由器、户外监控，大多数人未必能立刻说出几个国产头部品牌的名字。 事实上，一批国产办公硬件已经在技术上完成了从追赶到领跑的跨越，部分赛道甚至拿下全球主导地位，但大众消费端的认知，还停留在“国货=便宜平替”的旧印象里。人们愿意为审美国潮买单，却很少留意藏在书桌角落、天花板上、旷野工地里的硬核突破。 为了弥合这道认知鸿沟，今年京东11.11推出“办公国潮新趋势”项目，把拓竹、奔图、海康威视、华为、中兴、格之格国货品牌拉到同一个舞台上。 11月10日，品牌总裁集体走进京东3C数码采销直播间，亲自拆解研发背后的技术故事，还将联合百度搭子DuMate送出数万亿Token AI算力福利，以实打实的底价与权益，让这群“过分低调”的国货，被大众认真看一次。 硬核办公国货的技术答卷 过去提起国产办公硬件，消费者的第一反应往往是“够用就行”。 短短几年间，从打印芯片到3D打印，从随身网络到智能监控，从桌面制造到户外安防，多个赛道完成底层技术自主突破，产品体验追上甚至超越了海外",
+      "summaryZh": "蜂花、百雀羚、鸿星尔克……这些消费类国潮品牌很多人张口就来，可如果问起日常使用的打印机、路由器、户外监控，大多数人未必能立刻说出几个国产头部品牌的名字。 事实上，一批国产办公硬件已经在技术上完成了从追赶到领跑的跨越，部分赛道甚至拿下全球主导地位，但大众消费端的认知，还停留在“国货=便宜平替”的旧印象里。人们愿意为审美国潮买单，却很少留意藏在书桌角落、天花板上、旷野工地里的硬核突破。 为了弥合这道认知鸿沟，今年京东11.11推出“办公国潮新趋势”项目，把拓竹、奔图、海康威视、华为、中兴、格之格国货品牌拉到同一个舞台上。 11月10日，品牌总裁集体走进京东3C数码采销直播间，亲自拆解研发背后的技术故事，还将联合百度搭子DuMate送出数万亿Token AI算力福利，以实打实的底价与权益，让这群“过分低调”的国货，被大众认真看一次。 硬核办公国货的技术答卷 过去提起国产办公硬件，消费者的第一反应往往是“够用就行”。 短短几年间，从打印芯片到3D打印，从随身网络到智能监控，从桌面制造到户外安防，多个赛道完成底层技术自主突破，产品体验追上甚至超越了海外同级产品。 3D打印：从极客玩具，到客厅里的",
       "translated": true,
       "url": "https://www.tmtpost.com/8200254.html",
       "sourceId": "tmtpost",
@@ -11210,272 +11484,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "2023d4b1aafdb54ae1",
-      "titleOriginal": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summaryOriginal": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
-      "titleZh": "Netflix的全新“AI发现”选项卡可帮助您根据自己的心情查找可观看的内容",
-      "summaryZh": "选项卡下的第一个实验性功能将允许用户根据他们目前的心情获得推荐。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-03T18:42:16.000Z",
-      "author": "Aisha Malik",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "Netflix"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "62af551153394ae1e0",
-      "titleOriginal": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-      "summaryOriginal": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses \"ambient listening\" to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch's mic detected. Apple is also releasing its redesigned Health app for testing today in the iOS 27.3 developer beta, and announced",
-      "titleZh": "Apple最新的watchOS测试版包括全新的始终在线音频智能功能",
-      "summaryZh": "从今天开始， Siri可以通过新推出的watchOS 27.3开发人员测试版中提供的音频智能功能来调节Apple Watch的麦克风。这两个新增功能是Siri Recap ，它使用“环境聆听”生成对话摘要，以及Live Rewind ，它生成手表麦克风检测到的最后15秒音频的文字记录。苹果今天还发布了重新设计的健康应用程序，用于iOS 27.3开发者测试版的测试，并宣布",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-03T18:31:00.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "662bf89dbff24ba906",
-      "titleOriginal": "OpenAI says ChatGPT is catching up to Google in search",
-      "summaryOriginal": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said the company defines a search as any time a user inputs a query that results in a web search, as opposed to tasks like defining a term or a simple how-to explanation. (Fry di",
-      "titleZh": "OpenAI表示ChatGPT正在搜索中追赶谷歌",
-      "summaryZh": "在许多圈子里， “Ask Chat”已经取代了“Google it” ，这反映在OpenAI的一项新公告中：通过ChatGPT运行的搜索查询量现在相当于通过Google运行的搜索查询量的20%。OpenAI的ChatGPT消费产品负责人Adam Fry在周一的新闻发布会上宣布了这一消息。他说，该公司将搜索定义为用户输入导致网络搜索的查询的任何时候，而不是定义术语或简单的操作说明等任务。（ Fry di",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-03T18:30:42.000Z",
-      "author": "Hayden Field",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "db1d0915e4421fd19d",
-      "titleOriginal": "Indie games are missing launch dates because Steam is backed up",
-      "summaryOriginal": "A screenshot from Food Devils, which is missing its planned launch today. Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils , had planned to launch the game in early access today after submitting its build on October 12th. But the game is \"st",
-      "titleZh": "独立游戏缺少发布日期，因为Steam已备份",
-      "summaryZh": "Food Devils的屏幕截图，它错过了今天的计划发布。许多独立游戏开发商最近在社交媒体上发布了他们在Steam上提交游戏的批准等待时间出乎意料地长，其中一些批准导致开发商错过了计划的发布日期。例如，即将推出的名为Food Devils的游戏背后的团队Studio Daimon计划在10月12日提交其构建后于今天抢先体验该游戏。但游戏是“st",
-      "translated": true,
-      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-03T18:14:50.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c65f77dcf81d86c7f3",
-      "titleOriginal": "Netflix will show you themed recommendations through a new ‘AI Discover’ tab",
-      "summaryOriginal": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show you recommendations that match it. If you don't like a recommendation, you can tell that to Netflix, and the app will remember it. The company says that AI Discov",
-      "titleZh": "Netflix将通过新的“AI Discover”选项卡向您显示主题推荐",
-      "summaryZh": "Netflix的电视应用程序正在获得一个新的“AI Discover”选项卡，该公司将在其中显示实验性的人工智能功能，以帮助您查找要观看的新节目和电影。这些实验中的第一个是基于主题的内容，例如“轻松体验”、“家庭电影之夜”或“快速手表”。“当您选择主题时， Netflix将向您显示与其匹配的推荐。如果您不喜欢某个推荐，可以告诉Netflix ，应用程序会记住它。该公司表示， AI Discov",
-      "translated": true,
-      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-03T18:00:00.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2437af63b2f85a1f78",
-      "titleOriginal": "Anthropic is still grappling with the economics of compute",
-      "summaryOriginal": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
-      "titleZh": "Anthropic仍在努力解决计算经济问题",
-      "summaryZh": "在Anthropic的计算利润率应该变得更好的时候，它们会变得更糟。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-03T17:07:01.000Z",
-      "author": "Russell Brandom",
-      "tags": [
-        "news",
-        "AI",
-        "Anthropic"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "05f1b39ffd937b7f3f",
-      "titleOriginal": "AI 改变的是数据接口，而不是查询引擎",
-      "summaryOriginal": "",
-      "titleZh": "AI 改变的是数据接口，而不是查询引擎",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-03T17:07:00.000Z",
-      "author": "作者：Peihao Yuan",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7b04a568c5adccd6e0",
-      "titleOriginal": "Agentic cheminformatics with Google Antigravity",
-      "summaryOriginal": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "titleZh": "Google Antigravity代理化学信息学",
-      "summaryZh": "了解Google Antigravity和我们的Cheminformatics Skills如何加速药物发现工作流程、搜索化合物并提出新的刚性大循环。",
-      "translated": true,
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-11-03T17:01:49.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0eaf3e3a754437a66d",
-      "titleOriginal": "Google is entirely disabling Search in schools that don’t want AI",
-      "summaryOriginal": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times . The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts unless \"administrators explicitly turn them on.\" Administrators will not be given the option to toggle Gemini-powered features off without disabling Search,",
-      "titleZh": "在不需要人工智能的学校中，谷歌将完全禁用搜索功能",
-      "summaryZh": "谷歌告诉《纽约时报》，该公司正在完全关闭拒绝其人工智能功能的学校的搜索功能。周二，谷歌在更广泛的教育相关更新中也分享了这一决定，称除非“管理员明确开启” ，否则对K-12学生帐户的Gemini、Gemini Notebook、Gemini in Classroom和Google Search的访问“将完全关闭”。\"管理员将无法在不禁用搜索的情况下切换双子座驱动的功能，",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-03T17:00:04.000Z",
-      "author": "Emma Roth",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6be45e2e6af3d050be",
-      "titleOriginal": "AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence",
-      "summaryOriginal": "The SETI Institute and Breakthrough Listen are now using AI agents at the Allen Telescope Array to control the telescope and analyze incoming radio signals. Tasks that used to take weeks can now wrap up in hours, and the team says the system detected a pulsar in the Crab Nebula in real time for the first time. The article AI agents take over at SETI's Allen Telescope Array, scanning for extraterrestrial intelligence appeared first on The Decoder .",
-      "titleZh": "人工智能特工接管SETI的艾伦望远镜阵列，扫描外星智能",
-      "summaryZh": "SETI研究所和Breakthrough Listen现在正在Allen Telescope Array使用人工智能代理来控制望远镜并分析传入的无线电信号。过去需要数周时间的任务现在可以在几个小时内完成，该团队表示，该系统首次实时检测到蟹状星云中的脉冲星。AI特工接管了SETI的艾伦望远镜阵列，扫描外星智能首先出现在解码器上。",
-      "translated": true,
-      "url": "https://the-decoder.com/ai-agents-take-over-at-setis-allen-telescope-array-scanning-for-extraterrestrial-intelligence/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-03T16:51:18.000Z",
-      "author": "Manuel Uth",
-      "tags": [
-        "news",
-        "AI research",
-        "Artificial Intelligence",
-        "Short News",
-        "Astronomy"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5b7b48c647c50787fb",
-      "titleOriginal": "AI is destroying my CS degree",
-      "summaryOriginal": "My comment on AI is destroying my CS degree — Hacker News. I don't envy educators right now. AI clearly means you need to change how you teach and evaluate students. We are only a few years in though, and it's still extremely unclear what effective teaching with these tools looks like. The worst part is that the evaluation loop is measured in multiple years! If you start trying some new education mechanism today you won't get a robust idea of how well it works until your current cohort graduate",
-      "titleZh": "人工智能正在破坏我的CS学位",
-      "summaryZh": "我对人工智能的评论破坏了我的CS学位—黑客新闻。我现在不羡慕教育工作者。人工智能显然意味着您需要改变教学和评估学生的方式。不过，我们只有几年的时间，使用这些工具进行有效教学的样子仍然非常不清楚。最糟糕的是，评估循环是以多年来衡量的！如果您今天开始尝试一些新的教育机制，那么在您目前的队列毕业之前，您将无法充分了解它的工作原理",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Nov/3/hn-50354278/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-03T16:42:02.000Z",
-      "author": "",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "410d5c941f71a7aa10",
-      "titleOriginal": "Google will let schools disable its AI tools, but not without sacrificing Search",
-      "summaryOriginal": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-      "titleZh": "谷歌将允许学校禁用其人工智能工具，但不会不牺牲搜索功能",
-      "summaryZh": "选择完全限制人工智能的学校将不再能够访问Google搜索，因为人工智能功能现在已集成到搜索引擎中。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-03T16:30:34.000Z",
-      "author": "Aisha Malik",
-      "tags": [
-        "news",
-        "AI",
-        "Education",
-        "Google",
-        "Google Search"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11485,7 +11493,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 22
+      "count": 23
     },
     {
       "id": "deepmind",
@@ -11493,7 +11501,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 5
+      "count": 4
     },
     {
       "id": "techcrunch",
@@ -11501,7 +11509,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 76
+      "count": 74
     },
     {
       "id": "theverge",
@@ -11509,7 +11517,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 69
+      "count": 64
     },
     {
       "id": "mittr",
@@ -11533,7 +11541,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 56
+      "count": 55
     },
     {
       "id": "marktechpost",
@@ -11541,7 +11549,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 26
+      "count": 27
     },
     {
       "id": "simonwillison",
@@ -11549,7 +11557,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 18
+      "count": 17
     },
     {
       "id": "oneusefulthing",
@@ -11573,7 +11581,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 26
+      "count": 28
     },
     {
       "id": "sspai",
@@ -11581,7 +11589,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tmtpost",
@@ -11589,7 +11597,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 99
+      "count": 105
     },
     {
       "id": "infoq",
@@ -11597,13 +11605,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 55
+      "count": 54
     }
   ],
   "stats": {
     "total": 500,
     "guides": 47,
-    "translated": 246,
+    "translated": 248,
     "sources": 15
   }
 }
