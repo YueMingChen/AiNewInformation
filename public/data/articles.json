@@ -1,6 +1,491 @@
 {
-  "generatedAt": "2026-11-13T01:12:39.738Z",
+  "generatedAt": "2026-11-13T09:49:38.423Z",
   "articles": [
+    {
+      "id": "dda01f891dc3a75e3c",
+      "titleOriginal": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
+      "summaryOriginal": "",
+      "titleZh": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T17:06:00.000Z",
+      "author": "作者：Olimpiu Pop",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ac9ece44eea194994a",
+      "titleOriginal": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "summaryOriginal": "",
+      "titleZh": "Docker 呼吁通过隔离与治理保障智能体安全",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T11:00:00.000Z",
+      "author": "作者：Matt Saunders",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a9b61b058c2dac9ec0",
+      "titleOriginal": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "summaryOriginal": "",
+      "titleZh": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ad891617d922d331a8",
+      "titleOriginal": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "summaryOriginal": "",
+      "titleZh": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T09:17:00.000Z",
+      "author": "作者：Sergio De Simone",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "39f105823177025284",
+      "titleOriginal": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "summaryOriginal": "Congrats to Gemini 4 Hydrogen on their launch and it seems Anthropic’s IPO is well under way, but today’s headline was only ever going to be about one thing, the most earthshaking leadership change in AI (after Demis/Jeff/et al at Google DeepMind). Yesterday we covered reports that NVIDIA’s board was preparing to replace Jensen Huang following an NYT report of an affair with an accused Chinese spy . Following news of a second affair , today NVIDIA announced his resignation (correlation/causation",
+      "titleZh": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-13T09:04:13.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "launch",
+        "ainews: weekday roundups"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "68b28e9d4c92998fb9",
+      "titleOriginal": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
+      "summaryOriginal": "（本文作者为 疯狂科技厅，钛媒体经授权发布） 文 | 疯狂科技厅，作者 | 冯皓钦，编辑 | 王晓 就在刚刚，当地时间11月12日，英伟达正式宣布，创始人黄仁勋辞去首席执行官及董事职务，结束长达33年的掌舵生涯。此前，围绕黄仁勋私人关系的争议持续发酵，英伟达董事会也已启动独立调查。 随着黄仁勋离开，英伟达任命原首席财务官科莱特&middot;克雷斯（Colette Kress）担任临时CEO，同时继续兼任CFO。董事会则启动正式继任者的遴选工作。 对于这家处在全球AI产业核心位置的公司而言，黄仁勋的突然离开，无疑是一场重大的人事变动。 但这位突然走到台前的女性高管，究竟是什么来头？英伟达又为什么偏偏选她？ 在说这个之前，我们不妨先了解一下，科莱特&middot;克雷斯，是谁。 一、13年前，黄仁勋亲自挖来了她 如果把时间拨回2013年，恐怕连克雷斯自己都没有想到，有一天她会成为英伟达的掌门人。 那时候的英伟达，还是一家以游戏显卡闻名的芯片公司，市值不到100亿美元。相比当时的微软、思科这样的科技巨头，英伟达的规模实在算不上大。 而彼时的克雷斯已经是科技行业的资深财务高管。 她拥有亚利桑",
+      "titleZh": "黄仁勋辞职，英伟达为什么偏偏选中她…...",
+      "summaryZh": "（本文作者为 疯狂科技厅，钛媒体经授权发布） 文 | 疯狂科技厅，作者 | 冯皓钦，编辑 | 王晓 就在刚刚，当地时间11月12日，英伟达正式宣布，创始人黄仁勋辞去首席执行官及董事职务，结束长达33年的掌舵生涯。此前，围绕黄仁勋私人关系的争议持续发酵，英伟达董事会也已启动独立调查。 随着黄仁勋离开，英伟达任命原首席财务官科莱特&middot;克雷斯（Colette Kress）担任临时CEO，同时继续兼任CFO。董事会则启动正式继任者的遴选工作。 对于这家处在全球AI产业核心位置的公司而言，黄仁勋的突然离开，无疑是一场重大的人事变动。 但这位突然走到台前的女性高管，究竟是什么来头？英伟达又为什么偏偏选她？ 在说这个之前，我们不妨先了解一下，科莱特&middot;克雷斯，是谁。 一、13年前，黄仁勋亲自挖来了她 如果把时间拨回2013年，恐怕连克雷斯自己都没有想到，有一天她会成为英伟达的掌门人。 那时候的英伟达，还是一家以游戏显卡闻名的芯片公司，市值不到100亿美元。相比当时的微软、思科这样的科技巨头，英伟达的规模实在算不上大。 而彼时的克雷斯已经是科技行业的资深财务高管。 她拥有亚利桑",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8203680.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T08:41:42.000Z",
+      "author": "疯狂科技厅",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "784ebc8e81a65bd2e8",
+      "titleOriginal": "黄仁勋辞职，英伟达失去的不是一个CEO",
+      "summaryOriginal": "（本文作者为 厚雪商业，钛媒体经授权发布） 文 | 厚雪商业 11月12日，英伟达迎来了一场足以改变公司发展轨迹的人事震荡。 据路透社和美联社报道，英伟达创始人兼CEO黄仁勋辞去CEO及董事职务。公司CFO科莱特&middot;克雷斯暂时接任CEO，Harvey Jones出任英伟达首任董事会主席。消息传出后，英伟达股价盘前一度下跌超过10%。一家市值数万亿美元、站在全球AI产业中心的公司，突然进入没有黄仁勋的时代。 这不是一次普通的高管更替。 1993年，黄仁勋创立英伟达。从游戏显卡到数据中心，从GPU到CUDA，再到今天的AI算力基础设施，他几乎参与了公司每一次重要的战略转向。过去三十多年，英伟达从一家芯片公司成长为AI产业链的核心供应商，黄仁勋既是掌舵者，也是这套商业体系最鲜明的代表。 而这次离开，发生在一系列个人关系争议和国家安全调查之后。 11月8日，黄仁勋曾向员工承认对妻子不忠，并为自己的行为道歉。此前，英伟达董事会宣布启动独立调查，核查媒体报道中涉及黄仁勋的相关情况，并表示目前没有理由相信美国国家安全或英伟达商业机密遭到损害。有关相关人士涉嫌替中国收集情报的说法，仍属于媒",
+      "titleZh": "黄仁勋辞职，英伟达失去的不是一个CEO",
+      "summaryZh": "（本文作者为 厚雪商业，钛媒体经授权发布） 文 | 厚雪商业 11月12日，英伟达迎来了一场足以改变公司发展轨迹的人事震荡。 据路透社和美联社报道，英伟达创始人兼CEO黄仁勋辞去CEO及董事职务。公司CFO科莱特&middot;克雷斯暂时接任CEO，Harvey Jones出任英伟达首任董事会主席。消息传出后，英伟达股价盘前一度下跌超过10%。一家市值数万亿美元、站在全球AI产业中心的公司，突然进入没有黄仁勋的时代。 这不是一次普通的高管更替。 1993年，黄仁勋创立英伟达。从游戏显卡到数据中心，从GPU到CUDA，再到今天的AI算力基础设施，他几乎参与了公司每一次重要的战略转向。过去三十多年，英伟达从一家芯片公司成长为AI产业链的核心供应商，黄仁勋既是掌舵者，也是这套商业体系最鲜明的代表。 而这次离开，发生在一系列个人关系争议和国家安全调查之后。 11月8日，黄仁勋曾向员工承认对妻子不忠，并为自己的行为道歉。此前，英伟达董事会宣布启动独立调查，核查媒体报道中涉及黄仁勋的相关情况，并表示目前没有理由相信美国国家安全或英伟达商业机密遭到损害。有关相关人士涉嫌替中国收集情报的说法，仍属于媒",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8203637.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T08:41:40.000Z",
+      "author": "厚雪商业",
+      "tags": [
+        "launch",
+        "黄仁勋婚外情风波"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "92a89bd4f5cf8d985a",
+      "titleOriginal": "腾讯早该动刀子了",
+      "summaryOriginal": "（本文作者为 吴怼怼，钛媒体经授权发布） 文 | 吴怼怼 11 月 11 日，腾讯 28 岁。往年这是个庆功的日子，今年，脉脉上的腾讯“同事圈”一度被挤到加载不出来。 一夜之间，“裁员 50%”“裁员 8000 人”传遍全网。随后，接近腾讯的知情人士和公关负责人张军先后出面澄清，称这是对内部讲话的误读，是误会和谣言。 如果只盯着“裁不裁、裁多少”，就错过了这场讲话真正值得读的部分：一家年利润两千多亿的公司，在自己的生日上，对自己的人说了一番近乎“生死存亡”的话。 我的看法很直接：这一刀，腾讯早该动了。不是因为它不行，恰恰是因为它太行。只有现金流充沛、基本盘稳固的时候动刀，才叫主动出击；等到被动，就是另一个故事了。 01 腾讯总办在司庆会上到底说了什么 先把能确认的和不能确认的分开。 能确认的： &bull;11 月 11 日的 28 周年线上直播上，管理层表达了加快组织变革的决心，并强调这与几年前的“降本增效”不同：上一次相对被动、偏“降本”；这一次是面向 AI 时代的主动出击、偏“增效”。 &bull;导向是鼓励一线主动请缨，中间管理层则要变得更扁平、更灵敏。 &bull;用了一个军",
+      "titleZh": "腾讯早该动刀子了",
+      "summaryZh": "（本文作者为 吴怼怼，钛媒体经授权发布） 文 | 吴怼怼 11 月 11 日，腾讯 28 岁。往年这是个庆功的日子，今年，脉脉上的腾讯“同事圈”一度被挤到加载不出来。 一夜之间，“裁员 50%”“裁员 8000 人”传遍全网。随后，接近腾讯的知情人士和公关负责人张军先后出面澄清，称这是对内部讲话的误读，是误会和谣言。 如果只盯着“裁不裁、裁多少”，就错过了这场讲话真正值得读的部分：一家年利润两千多亿的公司，在自己的生日上，对自己的人说了一番近乎“生死存亡”的话。 我的看法很直接：这一刀，腾讯早该动了。不是因为它不行，恰恰是因为它太行。只有现金流充沛、基本盘稳固的时候动刀，才叫主动出击；等到被动，就是另一个故事了。 01 腾讯总办在司庆会上到底说了什么 先把能确认的和不能确认的分开。 能确认的： &bull;11 月 11 日的 28 周年线上直播上，管理层表达了加快组织变革的决心，并强调这与几年前的“降本增效”不同：上一次相对被动、偏“降本”；这一次是面向 AI 时代的主动出击、偏“增效”。 &bull;导向是鼓励一线主动请缨，中间管理层则要变得更扁平、更灵敏。 &bull;用了一个军",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8203577.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T08:41:37.000Z",
+      "author": "吴怼怼",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "940a6f10135be0d1e5",
+      "titleOriginal": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+      "summaryOriginal": "伴随着昨天深夜黄仁勋正式向英伟达董事会交出权柄、辞去英伟达 CEO 一职，整个科技圈还是陷入了一种恍惚的魔幻状态。 但别急，事情或许还有反转。 就在刚刚，据连线杂志披露，英伟达内部意见箱里一条挽留老黄的帖子已经刷了 1600 多条评论。 图｜ https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ 一位员工直接向董事会喊话 「如果你相信这项使命，那就把老板请回来」 ，甚至有人群发全员邮件要求董事会解释黄仁勋离职的原因。 还有员工直言英伟达之所以是英伟达全靠老黄，种种架势像极了当年 OpenAI 七百多名员工刷屏那句「没有奥特曼的 OpenAI 什么也不是」的名场面。 不过，截至发稿前，英伟达官方尚未就此事作出回应。 而在中文互联网上，黄仁勋辞职的消息传出之后，当场迎来了今年最密集的整活儿团建。 有看热闹不嫌事大的老哥已经开始帮英伟达操心招人了，在群里挨个艾特待业同行，说对面刚跑了一个 Chief Executive Officer，年包厚得吓人，懂 IC 设计和AI训练推理加速的大牛",
+      "titleZh": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+      "summaryZh": "伴随着昨天深夜黄仁勋正式向英伟达董事会交出权柄、辞去英伟达 CEO 一职，整个科技圈还是陷入了一种恍惚的魔幻状态。 但别急，事情或许还有反转。 就在刚刚，据连线杂志披露，英伟达内部意见箱里一条挽留老黄的帖子已经刷了 1600 多条评论。 图｜ https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ 一位员工直接向董事会喊话 「如果你相信这项使命，那就把老板请回来」 ，甚至有人群发全员邮件要求董事会解释黄仁勋离职的原因。 还有员工直言英伟达之所以是英伟达全靠老黄，种种架势像极了当年 OpenAI 七百多名员工刷屏那句「没有奥特曼的 OpenAI 什么也不是」的名场面。 不过，截至发稿前，英伟达官方尚未就此事作出回应。 而在中文互联网上，黄仁勋辞职的消息传出之后，当场迎来了今年最密集的整活儿团建。 有看热闹不嫌事大的老哥已经开始帮英伟达操心招人了，在群里挨个艾特待业同行，说对面刚跑了一个 Chief Executive Officer，年包厚得吓人，懂 IC 设计和AI训练推理加速的大牛",
+      "translated": true,
+      "url": "https://www.ifanr.com/1689360",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T08:31:36.000Z",
+      "author": "山宗",
+      "tags": [
+        "research",
+        "产品",
+        "AI",
+        "英伟达"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ba151ec8cbbe35463e",
+      "titleOriginal": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
+      "summaryOriginal": "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 近日，谷歌发布两款新的TPU芯片，TPU 8tx和TPU 8i Max。 TPU是谷歌自己设计的AI专用芯片，做了十多年，最开始只为自己的搜索业务省算力。这次不一样：8tx卖给政府机构和受监管行业，主打芯片层面的数据加密；8iMax把两颗芯片封在同一个封装里，主打超长上下文。 谷歌芯片业务负责人Amin Vahdat在接受彭博采访时说了一句听上去很平常的话：“未来将属于专业化。” 这句话是冲着英伟达说的。英伟达做了二十年GPU，卖点一直是“一颗芯片什么都能干”。现在，做通用芯片的公司开始做专用版本，做专用芯片的公司开始搭通用平台——两条路线在中途对撞。 01 两年一款变成一年两款 谷歌为什么突然加速 过去，谷歌通常每两年推出一款新的AI处理器。2026年，这个节奏被打乱了。Vahdat说，四款TPU产品将分别针对不同需求优化；他给的理由很直接：“我们可以打造一款试图满足整个市场需求的通用芯片，也可以推出不同的专业化版本。通过后者，我们实际上能够为客户创造更多价值。” 产品线扩张的背后，是客户名单在变长。谷歌TPU已经吸引了苹果、",
+      "titleZh": "谷歌一次发布两颗TPU，英伟达的“通用”招牌开始松动",
+      "summaryZh": "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 近日，谷歌发布两款新的TPU芯片，TPU 8tx和TPU 8i Max。 TPU是谷歌自己设计的AI专用芯片，做了十多年，最开始只为自己的搜索业务省算力。这次不一样：8tx卖给政府机构和受监管行业，主打芯片层面的数据加密；8iMax把两颗芯片封在同一个封装里，主打超长上下文。 谷歌芯片业务负责人Amin Vahdat在接受彭博采访时说了一句听上去很平常的话：“未来将属于专业化。” 这句话是冲着英伟达说的。英伟达做了二十年GPU，卖点一直是“一颗芯片什么都能干”。现在，做通用芯片的公司开始做专用版本，做专用芯片的公司开始搭通用平台——两条路线在中途对撞。 01 两年一款变成一年两款 谷歌为什么突然加速 过去，谷歌通常每两年推出一款新的AI处理器。2026年，这个节奏被打乱了。Vahdat说，四款TPU产品将分别针对不同需求优化；他给的理由很直接：“我们可以打造一款试图满足整个市场需求的通用芯片，也可以推出不同的专业化版本。通过后者，我们实际上能够为客户创造更多价值。” 产品线扩张的背后，是客户名单在变长。谷歌TPU已经吸引了苹果、",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8201775.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T07:45:31.000Z",
+      "author": "财能圈",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b39acfa5d05dee1cc0",
+      "titleOriginal": "李彦宏：不仅是预言家，还是先行者",
+      "summaryOriginal": "（本文作者为 胡说成理，钛媒体经授权发布） 文 | 胡说成理 2026年的AI产业，面对着一个越来越尖锐的问题：钱投下去了，技术迭代的速度快的惊人，但它给这个世界带来的真正价值增长会落在哪里，却无人能够说清。 这是一个世界性的难题，似乎无人能够准确作答。但在11月12日的百度世界2026上，李彦宏给出了自己的诊断——电机已经换了，厂房还是旧的。 他把AI发挥价值的关键节点，指向了一个听上去不那么“技术”的词：组织。 十年前，在同一个舞台上，说出“AI才是下一幕”是他，结果他说对了。而说对一次并不难，难的是此后十年里，AI发展到每一个新的节点，他的判断都说在前面，而且自己先做到。 为什么总是他？ 01 为什么总是他？ “人工智能是新电能，智能组织就是AI时代的新厂房。” 2026年11月12日，百度世界大会。李彦宏站在台上，用一个看上去跟科技没什么关系的词——“组织”，给AI价值兑现的下一幕，提前定了调。 为什么是组织？李彦宏给出了自己的判断，他认为——如今的AI走到了新的一关：电机换了，厂房还是旧的。AI没有产生预期的经济效益，不是电机不好，是“厂房”没跟上。他给“新厂房”定了三条原则",
+      "titleZh": "李彦宏：不仅是预言家，还是先行者",
+      "summaryZh": "（本文作者为 胡说成理，钛媒体经授权发布） 文 | 胡说成理 2026年的AI产业，面对着一个越来越尖锐的问题：钱投下去了，技术迭代的速度快的惊人，但它给这个世界带来的真正价值增长会落在哪里，却无人能够说清。 这是一个世界性的难题，似乎无人能够准确作答。但在11月12日的百度世界2026上，李彦宏给出了自己的诊断——电机已经换了，厂房还是旧的。 他把AI发挥价值的关键节点，指向了一个听上去不那么“技术”的词：组织。 十年前，在同一个舞台上，说出“AI才是下一幕”是他，结果他说对了。而说对一次并不难，难的是此后十年里，AI发展到每一个新的节点，他的判断都说在前面，而且自己先做到。 为什么总是他？ 01 为什么总是他？ “人工智能是新电能，智能组织就是AI时代的新厂房。” 2026年11月12日，百度世界大会。李彦宏站在台上，用一个看上去跟科技没什么关系的词——“组织”，给AI价值兑现的下一幕，提前定了调。 为什么是组织？李彦宏给出了自己的判断，他认为——如今的AI走到了新的一关：电机换了，厂房还是旧的。AI没有产生预期的经济效益，不是电机不好，是“厂房”没跟上。他给“新厂房”定了三条原则",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8203443.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T07:45:29.000Z",
+      "author": "胡说成理",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3d1c77a074e7c8cdd4",
+      "titleOriginal": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "summaryOriginal": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。 查看全文",
+      "titleZh": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "summaryZh": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/118153",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T07:00:00.000Z",
+      "author": "胡拉图说",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d018615058aef54e45",
+      "titleOriginal": "李彦宏，为什么要建一座AI时代的新厂房？",
+      "summaryOriginal": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，研究员｜邱慧，编辑｜王晓 员工使用 AI 提效后，企业的财务回报变好了吗？ 11 月 12 日， 2026 百度世界大会上， 百度创始人 李彦宏 和嘉宾、联想集团董事长杨元庆聊起企业的 AI 转型。 两位同步见证互联网浪潮与 AI 浪潮的科技公司掌门人一致认为，现阶段，企业对 AI 的探索仍处于早期阶段，新的生产力将从哪些环节释放，还需要通过在鼓励实践中，持续探索。 李彦宏 说 ，过去几年，百度在 AI 转型过程中也踩 了 一些坑，从各业务部门自行训练模型，到追逐智能体应用热点 。但公司逐渐发现， 员工使用 AI 的热情高涨，组织效率 不一定会提升。 不只百度， 个人效率有提升，企业整体利润难体现，已是当前诸多产业 AI 转型时，面临的核心痛点。 为此，大会上 ，李彦宏给出的破局思路是 “ 智能组织 ” ，⼀个不同于现在通⾏的科层制的 AI 原⽣组织体系。 在他看来 ，⼈⼯智能是新电能，智能组织就是 AI 时代的新⼚房，是⽣产⼒真正发⽣的地⽅。 AI 没有产⽣预期的经济效益，是因为现阶段， “ 我们只是更换了电机，却还没有重新设",
+      "titleZh": "李彦宏，为什么要建一座AI时代的新厂房？",
+      "summaryZh": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，研究员｜邱慧，编辑｜王晓 员工使用 AI 提效后，企业的财务回报变好了吗？ 11 月 12 日， 2026 百度世界大会上， 百度创始人 李彦宏 和嘉宾、联想集团董事长杨元庆聊起企业的 AI 转型。 两位同步见证互联网浪潮与 AI 浪潮的科技公司掌门人一致认为，现阶段，企业对 AI 的探索仍处于早期阶段，新的生产力将从哪些环节释放，还需要通过在鼓励实践中，持续探索。 李彦宏 说 ，过去几年，百度在 AI 转型过程中也踩 了 一些坑，从各业务部门自行训练模型，到追逐智能体应用热点 。但公司逐渐发现， 员工使用 AI 的热情高涨，组织效率 不一定会提升。 不只百度， 个人效率有提升，企业整体利润难体现，已是当前诸多产业 AI 转型时，面临的核心痛点。 为此，大会上 ，李彦宏给出的破局思路是 “ 智能组织 ” ，⼀个不同于现在通⾏的科层制的 AI 原⽣组织体系。 在他看来 ，⼈⼯智能是新电能，智能组织就是 AI 时代的新⼚房，是⽣产⼒真正发⽣的地⽅。 AI 没有产⽣预期的经济效益，是因为现阶段， “ 我们只是更换了电机，却还没有重新设",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8203362.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T06:54:25.000Z",
+      "author": "第四波",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1c995dd0475c60aa1d",
+      "titleOriginal": "腾讯和百度，不再养“闲人”",
+      "summaryOriginal": "（本文作者为 木禾商业财经，钛媒体经授权发布） 文 | 木禾商业财经，作者 I 龚正，编辑 I 杨晶 昨天一天，两位昔日的BAT大佬贡献了两个热搜。 马化腾贡献了一个“危机感”，他说：“浪已经杀过来，不能还坐着欣赏”。 外界一度传成“腾讯要裁员50%”，但接近腾讯的人士澄清是误读：50%的人像陆军一样守核心业务，另外50%的人要上船，打AI的新战场。 同一天，李彦宏贡献了一个“智能组织”热搜词。他在百度2026世界大会上说，未来岗位会收敛成两类：Builder负责创造新东西，Seller负责人与人之间的连接。这不免让人联想，不在创造、和连接中的人，在这个框架里，还有没有位置。 把两件事放在一起看，对于马化腾的危机感，李彦宏隔空给了一个解法。但这个解法本身，也意味着，有人需要从船上下来。 这都不是新鲜事，在北京西二旗以及深圳南山街道办，打工人端着电脑进进出出，跳跳转转，早已持续几年。AI时代则加速了这种变革。 所谓的“闲人”，并不是“不干活的懒人”，而更多是指“赶不上趟儿”的人。“闲人们”占据着旧岗位，不能到AI一线，去大破大立，两大处于挑战期的巨头给“闲人们”的空间已越来越小。 如果你",
+      "titleZh": "腾讯和百度，不再养“闲人”",
+      "summaryZh": "（本文作者为 木禾商业财经，钛媒体经授权发布） 文 | 木禾商业财经，作者 I 龚正，编辑 I 杨晶 昨天一天，两位昔日的BAT大佬贡献了两个热搜。 马化腾贡献了一个“危机感”，他说：“浪已经杀过来，不能还坐着欣赏”。 外界一度传成“腾讯要裁员50%”，但接近腾讯的人士澄清是误读：50%的人像陆军一样守核心业务，另外50%的人要上船，打AI的新战场。 同一天，李彦宏贡献了一个“智能组织”热搜词。他在百度2026世界大会上说，未来岗位会收敛成两类：Builder负责创造新东西，Seller负责人与人之间的连接。这不免让人联想，不在创造、和连接中的人，在这个框架里，还有没有位置。 把两件事放在一起看，对于马化腾的危机感，李彦宏隔空给了一个解法。但这个解法本身，也意味着，有人需要从船上下来。 这都不是新鲜事，在北京西二旗以及深圳南山街道办，打工人端着电脑进进出出，跳跳转转，早已持续几年。AI时代则加速了这种变革。 所谓的“闲人”，并不是“不干活的懒人”，而更多是指“赶不上趟儿”的人。“闲人们”占据着旧岗位，不能到AI一线，去大破大立，两大处于挑战期的巨头给“闲人们”的空间已越来越小。 如果你",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8204211.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T06:54:23.000Z",
+      "author": "木禾商业财经",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "69d64239c812e80644",
+      "titleOriginal": "AI 时代，公司的「新厂房」长什么样？",
+      "summaryOriginal": "十年前的百度世界 2016 大会上，李彦宏曾站在台上提出「AI is the New Electricity」（人工智能是新电能），提前预判了人工智能浪潮。 那时，很少有人能想到，走进写字楼，程序员用 Agent 写代码，运营用 AI 跑报表，连行政都在用大模型搭报销流程。 不过，索洛悖论也再次产生。你去问企业管理者，十有八九会叹气。据统计 2025 年全球企业在 AI 上砸下超过 2500 亿美元，真正跑出业务变革的公司只有 25%。 每个人手里的活都变快了，Token 烧得更狠了，却没有创造更大的效益。为什么个人效率拉满，企业整体却没有跑出生产力变革？问题究竟出在模型能力还不够强，还是企业仍然在用旧的组织方式，硬塞进一项新技术？ 面对这个全球性的问题，APPSO 在今年的百度世界大会上，听到了李彦宏给出新的答案，AI 没有产生预期的经济效益，是因为我们只是更换了电机，却还没有重新设计工厂。 时隔十年，李彦宏再次作出预判： AI 的下一幕，是智能组织 。 「新生产力，只能从 AI 流水线里长出来，从智能组织里长出来。所以，换一台 AI 新电机，只是起点；重新设计新厂房，才是分水岭。而",
+      "titleZh": "AI 时代，公司的「新厂房」长什么样？",
+      "summaryZh": "十年前的百度世界 2016 大会上，李彦宏曾站在台上提出「AI is the New Electricity」（人工智能是新电能），提前预判了人工智能浪潮。 那时，很少有人能想到，走进写字楼，程序员用 Agent 写代码，运营用 AI 跑报表，连行政都在用大模型搭报销流程。 不过，索洛悖论也再次产生。你去问企业管理者，十有八九会叹气。据统计 2025 年全球企业在 AI 上砸下超过 2500 亿美元，真正跑出业务变革的公司只有 25%。 每个人手里的活都变快了，Token 烧得更狠了，却没有创造更大的效益。为什么个人效率拉满，企业整体却没有跑出生产力变革？问题究竟出在模型能力还不够强，还是企业仍然在用旧的组织方式，硬塞进一项新技术？ 面对这个全球性的问题，APPSO 在今年的百度世界大会上，听到了李彦宏给出新的答案，AI 没有产生预期的经济效益，是因为我们只是更换了电机，却还没有重新设计工厂。 时隔十年，李彦宏再次作出预判： AI 的下一幕，是智能组织 。 「新生产力，只能从 AI 流水线里长出来，从智能组织里长出来。所以，换一台 AI 新电机，只是起点；重新设计新厂房，才是分水岭。而",
+      "translated": true,
+      "url": "https://www.ifanr.com/1689182",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T06:34:19.000Z",
+      "author": "樊 尔",
+      "tags": [
+        "news",
+        "公司",
+        "百度世界大会",
+        "百度搭子",
+        "知识管理"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cf08607f48d5f64523",
+      "titleOriginal": "李彦宏的考题，发给了所有CEO",
+      "summaryOriginal": "AI芯片、大模型、AI应用，这届百度世界大会全都有，李彦宏却单单聊起了一个“不性感”的话题——智能组织。 过去两年，几乎所有企业都在做同一件事，把AI交到员工手里。方案写得快了，报表出得也快了，可再看公司报表，增长迟迟不见踪影。 员工越来越快，公司还是老样子，这个落差成了全球企业共同面对的题。 11月12日，百度世界大会2026在北京国家会议中心二期开幕。百度创始人李彦宏在演讲中给出的归因很直接，“AI没有产生预期的经济效益，是因为我们只是更换了电机，却还没有重新设计工厂”。 与模型、芯片和应用的发布相比，这个话题显得有些过于朴素，岗位如何分工，知识怎样共享，工作流程怎么调整，听起来像在上一堂管理学课程。 但是对百度以及所有的AI企业而言，这是一个需要极其认真讲清楚的AI故事，海量的AI投入，换来的究竟是一个企业未来虚无缥缈的“鬼故事”，还是企业确定赢在AI时代的好故事。 百度是一个典型代表，它持续投入芯片、云、模型和智能体，客户最终买到的不能只有新技术，AI进入公司之后，产品能否更快交付，服务能否做得更好，成本能否降下来，决定了企业愿意继续投入多少。 智能组织是李彦宏对当下AI行业的",
+      "titleZh": "李彦宏的考题，发给了所有CEO",
+      "summaryZh": "AI芯片、大模型、AI应用，这届百度世界大会全都有，李彦宏却单单聊起了一个“不性感”的话题——智能组织。 过去两年，几乎所有企业都在做同一件事，把AI交到员工手里。方案写得快了，报表出得也快了，可再看公司报表，增长迟迟不见踪影。 员工越来越快，公司还是老样子，这个落差成了全球企业共同面对的题。 11月12日，百度世界大会2026在北京国家会议中心二期开幕。百度创始人李彦宏在演讲中给出的归因很直接，“AI没有产生预期的经济效益，是因为我们只是更换了电机，却还没有重新设计工厂”。 与模型、芯片和应用的发布相比，这个话题显得有些过于朴素，岗位如何分工，知识怎样共享，工作流程怎么调整，听起来像在上一堂管理学课程。 但是对百度以及所有的AI企业而言，这是一个需要极其认真讲清楚的AI故事，海量的AI投入，换来的究竟是一个企业未来虚无缥缈的“鬼故事”，还是企业确定赢在AI时代的好故事。 百度是一个典型代表，它持续投入芯片、云、模型和智能体，客户最终买到的不能只有新技术，AI进入公司之后，产品能否更快交付，服务能否做得更好，成本能否降下来，决定了企业愿意继续投入多少。 智能组织是李彦宏对当下AI行业的",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8203972.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T04:52:38.000Z",
+      "author": "ToB深水区",
+      "tags": [
+        "guide",
+        "百度",
+        "AGI",
+        "李彦宏"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e917c1dffef4b950a0",
+      "titleOriginal": "Cookiy Labs创始人董有超：AI掌控生产之后，企业为什么还要向真人咨询？",
+      "summaryOriginal": "“AI正在杀死‘流量增长’，未来十年你需要的是‘品味’。”2025年10月，董有超在一档公开播客里这样说。 过去十余年，董有超参与过多个过亿用户产品的增长，他的履历始终贴着“流量增长”这个互联网母题：2016年，他加入Instagram增长团队，从机器学习工程师做到技术负责人，搭建了Instagram增长科学的能力和核心系统，并独立构建了用户留存预测模型。2019年回国之后，他出任腾讯微视用户增长总监，带领用户增长与数据团队。此后在 爱奇艺 参与随刻新业务，在字节跳动负责GEB和Pangle，再到飞书深诺担任首席产品官。 2025年，他离职创办了Cookiy Labs，几乎同时，公司宣布完成700万美元pre-seed融资。Cookiy要解决的核心问题是：当企业或AI需要真实人类的经验、判断和反馈时，更快找到合适的人，完成访谈、调研或数据交互，并把结果接回AI的工作流。 资本市场也在重新给这门生意定价。2026年9月，Salesforce签署收购AI访谈公司Listen Labs的协议。几乎同期，另一家AI访谈公司Conveo完成5000万美元A轮融资。AI访谈和真人数据，正从研究行业",
+      "titleZh": "Cookiy Labs创始人董有超：AI掌控生产之后，企业为什么还要向真人咨询？",
+      "summaryZh": "“AI正在杀死‘流量增长’，未来十年你需要的是‘品味’。”2025年10月，董有超在一档公开播客里这样说。 过去十余年，董有超参与过多个过亿用户产品的增长，他的履历始终贴着“流量增长”这个互联网母题：2016年，他加入Instagram增长团队，从机器学习工程师做到技术负责人，搭建了Instagram增长科学的能力和核心系统，并独立构建了用户留存预测模型。2019年回国之后，他出任腾讯微视用户增长总监，带领用户增长与数据团队。此后在 爱奇艺 参与随刻新业务，在字节跳动负责GEB和Pangle，再到飞书深诺担任首席产品官。 2025年，他离职创办了Cookiy Labs，几乎同时，公司宣布完成700万美元pre-seed融资。Cookiy要解决的核心问题是：当企业或AI需要真实人类的经验、判断和反馈时，更快找到合适的人，完成访谈、调研或数据交互，并把结果接回AI的工作流。 资本市场也在重新给这门生意定价。2026年9月，Salesforce签署收购AI访谈公司Listen Labs的协议。几乎同期，另一家AI访谈公司Conveo完成5000万美元A轮融资。AI访谈和真人数据，正从研究行业",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8201722.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T04:32:38.000Z",
+      "author": "科技异端",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "16f585da039c063f91",
+      "titleOriginal": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+      "summaryOriginal": "The theme of day two of the AI Engineer Code Summit in San Francisco was increasing ambition using AI . And there have been few projects as ambitious as ArtCraft in the AI era. So far the fledgling company has released 17 open source versions of popular software tools , starting with a Photoshop alternative built from scratch in Rust called PhotoCraft . You could feel the excitement in the room this morning when ArtCraft founder and CEO Brandon Thomas presented a kind of manifesto for AI-based o",
+      "titleZh": "人工智能雄心：ArtCraft 克隆了 Photoshop，现在想要“重建一切",
+      "summaryZh": "旧金山人工智能工程师代码峰会第二天的议题是利用人工智能提升雄心。在人工智能时代，很少有像ArtCraft这样雄心勃勃的项目。到目前为止，这家初创公司已经发布了17个热门软件工具的开源版本，首先是使用Rust语言从头开始构建的Photoshop替代品PhotoCraft。今天上午，当ArtCraft创始人兼首席执行官Brandon Thomas提出一份基于人工智能的宣言时，您能感受到会场内弥漫的兴奋气氛。",
+      "translated": true,
+      "url": "https://latent.space/p/artcraft/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-13T04:17:25.000Z",
+      "author": "Richard MacManus",
+      "tags": [
+        "analysis",
+        "Open Source",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f8db5306f148ea9faa",
+      "titleOriginal": "没有人能穿上黄仁勋的皮夹克",
+      "summaryOriginal": "美东时间11月12日收盘， 英伟达 报166.19美元，跌4.34%。 这个收盘价没有反映出当天盘面的波动幅度，开盘151.01美元，较前一交易日的173.73美元低开13%以上；最低下探至148.80美元，52周低点164.27美元在盘前即告失守；尾盘回升至167.14美元，全天振幅10.56%，成交额1212亿美元，换手率3.1%。开盘后一小时内，成交额突破600亿美元，收盘时市值重回4万亿美元上方，较前一日减少约1820亿美元。 过去20个交易日，英伟达累计下跌23.5%；年初至今下跌10.68%；近一个月公司市值缩水约三分之一。 起点可以追溯到美东时间12日上午8点48分发出的一份新闻稿： 黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效，对应北京时间12日晚间。 辞职在股权薪酬上有一项直接后果：按英伟达政策，高管离任时尚未归属的限制性股票单位作废。黄仁勋持有约34.6万个此类单位，对应价值约1.08亿美元，以彭博亿万富豪指数估算，约占其个人净资产的0.07%。 从1993年参与创办英伟达算起，他执掌这家公司33年，是科技行业任职时间最长的CEO之一。这家公司此前的每一次转",
+      "titleZh": "没有人能穿上黄仁勋的皮夹克",
+      "summaryZh": "美东时间11月12日收盘， 英伟达 报166.19美元，跌4.34%。 这个收盘价没有反映出当天盘面的波动幅度，开盘151.01美元，较前一交易日的173.73美元低开13%以上；最低下探至148.80美元，52周低点164.27美元在盘前即告失守；尾盘回升至167.14美元，全天振幅10.56%，成交额1212亿美元，换手率3.1%。开盘后一小时内，成交额突破600亿美元，收盘时市值重回4万亿美元上方，较前一日减少约1820亿美元。 过去20个交易日，英伟达累计下跌23.5%；年初至今下跌10.68%；近一个月公司市值缩水约三分之一。 起点可以追溯到美东时间12日上午8点48分发出的一份新闻稿： 黄仁勋辞去总裁、首席执行官及董事会成员职务，即刻生效，对应北京时间12日晚间。 辞职在股权薪酬上有一项直接后果：按英伟达政策，高管离任时尚未归属的限制性股票单位作废。黄仁勋持有约34.6万个此类单位，对应价值约1.08亿美元，以彭博亿万富豪指数估算，约占其个人净资产的0.07%。 从1993年参与创办英伟达算起，他执掌这家公司33年，是科技行业任职时间最长的CEO之一。这家公司此前的每一次转",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8204088.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T03:53:00.000Z",
+      "author": "硅谷Tech news",
+      "tags": [
+        "news",
+        "英伟达",
+        "黄仁勋婚外情风波",
+        "黄仁勋",
+        "AGI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fbd62e839f6ea5101c",
+      "titleOriginal": "黄仁勋辞职，对中国企业影响几何？",
+      "summaryOriginal": "图片来源：unsplash 深陷出轨风波的黄仁勋，终究还是离开了他一手创办的 英伟达 。 美国时间11月12日，英伟达董事会公告宣布，黄仁勋已辞去公司总裁、CEO及董事会成员职务，即时生效。2013年加入英伟达的现任执行副总裁兼CFO科莱特&middot;克雷斯（Colette Kress）出任临时CEO并兼任CFO，同时任命前 新 思科 技 CEO哈维&middot;琼斯（Harvey C. Jones）为公司史上首任董事长。公告称后续将启动正式CEO遴选程序，并考虑内部和外部人选。 这纸公告并未提及仍在发酵的黄仁勋婚外情事件或辞职原因，仅感谢了“黄仁勋为公司及行业所作出的不可估量的贡献”。 风暴中的黄仁勋与英伟达 自1993年与两位伙伴联合创立英伟达以来，黄仁勋一直是公司决策的核心。随着英伟达从“公寓里的小作坊”成长为芯片霸主、全球市值最高公司，黄仁勋的个人影响力也达到顶峰。但10月末至11月初，一名曾任新加坡数据中心公司Megaspeed高管的女子黄乐将黄仁勋推上了风口浪尖，这家公司据称曾大量购买英伟达受到出口管制的芯片，而黄乐则被曝与黄仁勋“过从甚密”。当地时间11月8日，黄仁",
+      "titleZh": "黄仁勋辞职，对中国企业影响几何？",
+      "summaryZh": "图片来源：unsplash 深陷出轨风波的黄仁勋，终究还是离开了他一手创办的 英伟达 。 美国时间11月12日，英伟达董事会公告宣布，黄仁勋已辞去公司总裁、CEO及董事会成员职务，即时生效。2013年加入英伟达的现任执行副总裁兼CFO科莱特&middot;克雷斯（Colette Kress）出任临时CEO并兼任CFO，同时任命前 新 思科 技 CEO哈维&middot;琼斯（Harvey C. Jones）为公司史上首任董事长。公告称后续将启动正式CEO遴选程序，并考虑内部和外部人选。 这纸公告并未提及仍在发酵的黄仁勋婚外情事件或辞职原因，仅感谢了“黄仁勋为公司及行业所作出的不可估量的贡献”。 风暴中的黄仁勋与英伟达 自1993年与两位伙伴联合创立英伟达以来，黄仁勋一直是公司决策的核心。随着英伟达从“公寓里的小作坊”成长为芯片霸主、全球市值最高公司，黄仁勋的个人影响力也达到顶峰。但10月末至11月初，一名曾任新加坡数据中心公司Megaspeed高管的女子黄乐将黄仁勋推上了风口浪尖，这家公司据称曾大量购买英伟达受到出口管制的芯片，而黄乐则被曝与黄仁勋“过从甚密”。当地时间11月8日，黄仁",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8204069.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T03:47:08.000Z",
+      "author": "飞向TAI空",
+      "tags": [
+        "news",
+        "主编精选文章",
+        "黄仁勋婚外情风波"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "929393cb626ab4d7fd",
+      "titleOriginal": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "summaryOriginal": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
+      "titleZh": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "summaryZh": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ... 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/118512",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T03:35:48.000Z",
+      "author": "Tw93",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2074065b2d79a5238b",
+      "titleOriginal": "Cheap AI Tracks Are Crowding Human Arrangers Out of China’s Playlist Economy",
+      "summaryOriginal": "NextFin News — China’s streaming libraries are filling up faster than anyone can listen. Daily intake on major platforms has climbed past 100,000 tracks, up from roughly 70,000 not long ago. Industry estimates put artificial-intelligence titles above a fifth of that flood. The commercial consequence is blunt. Work that used to support working arrangers is being repriced against software that never sleeps and never quotes five thousand yuan for a single cue. Corporate anthems, short-drama beds, a",
+      "titleZh": "Cheap AI Tracks Are Crowding Human Arrangers Out of China’s Playlist Economy",
+      "summaryZh": "NextFin News — China’s streaming libraries are filling up faster than anyone can listen. Daily intake on major platforms has climbed past 100,000 tracks, up from roughly 70,000 not long ago. Industry estimates put artificial-intelligence titles above a fifth of that flood. The commercial consequence is blunt. Work that used to support working arrangers is being repriced against software that never sleeps and never quotes five thousand yuan for a single cue. Corporate anthems, short-drama beds, a",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8204075.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T03:33:04.000Z",
+      "author": "Chelsea_Sun",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "690167f58b32b58a57",
       "titleOriginal": "Edge AI Daily 早报（11月13日）",
@@ -22,6 +507,27 @@
         "大模型"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dadb69349454615798",
+      "titleOriginal": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "summaryOriginal": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文",
+      "titleZh": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "summaryZh": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/118966",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-13T00:48:17.000Z",
+      "author": "少数派编辑部",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -531,9 +1037,9 @@
       "id": "f7effce2db920f5c66",
       "titleOriginal": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
       "summaryOriginal": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "titleZh": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "titleZh": "Nectar推出AI代理，帮助品牌方自动化发现和联系创作者",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -579,9 +1085,9 @@
       "id": "baccdaa9b5505527e9",
       "titleOriginal": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "summaryOriginal": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "titleZh": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "黄仁勋的离职使英伟达对开源的支持受到质疑",
+      "summaryZh": "随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -953,9 +1459,9 @@
       "id": "1d250e9233fe0f753f",
       "titleOriginal": "Jensen Huang is out. What did China want from him?",
       "summaryOriginal": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf the company. We’ll have more on that story as things develop and we learn how Nvidia will restructure itself after Jensen — he had something like 60 direct reports, after all,",
-      "titleZh": "Jensen Huang is out. What did China want from him?",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "黄仁勋出局了。中国想要他做什么？",
+      "summaryZh": "今天，我们要谈谈英伟达的黄仁勋丑闻。这起事件发展得非常快，以至于我们不得不在发布本期节目前几分钟紧急更新了这段开场白。由于有关黄仁勋婚外情（包括与一名疑似中国间谍的婚外情）的消息有可能会将公司拖入漩涡，黄仁勋刚刚辞去了英伟达首席执行官的职务。随着事态的发展，我们将提供更多有关该事件的报道，并了解英伟达将在黄仁勋离职后如何进行重组——毕竟，他手下有大约60名直接下属。",
+      "translated": true,
       "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -974,9 +1480,9 @@
       "id": "a5ee8976426905143d",
       "titleOriginal": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
       "summaryOriginal": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "titleZh": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "特朗普提名苹果公司董事长蒂姆·库克为黄仁勋的继任者",
+      "summaryZh": "特朗普总统在Truth Social上发帖称，只有一个人可以接替黄仁勋担任英伟达的掌门人，那就是蒂姆·库克。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -999,9 +1505,9 @@
       "id": "830958e6e6f7f875c5",
       "titleOriginal": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
       "summaryOriginal": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation with the company in an email, which also announced CFO Colette Kress as interim CEO. You can read the full text of the board's internal memo and Kress's first",
-      "titleZh": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+      "titleZh": "阅读Nvidia关于首席执行官大换血期间“极其艰难时期”的内部电子邮件",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -1044,9 +1550,9 @@
       "id": "62c34abfa66e72c124",
       "titleOriginal": "Norwest pushes deeper into AI with new $4B fund",
       "summaryOriginal": "This is the investment firm's largest fund to date.",
-      "titleZh": "Norwest pushes deeper into AI with new $4B fund",
+      "titleZh": "Norwest通过40亿美元的新基金进一步深入人工智能领域",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -10972,538 +11478,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "cc48f8093c5bb1034d",
-      "titleOriginal": "Airbnb is working on an AI travel agent",
-      "summaryOriginal": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today . \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But planning a trip on Airbnb is different.\" The company argued that its experience matching hosts and guests, its current role in being part of reservations already, and a \"new int",
-      "titleZh": "爱彼迎正在与人工智能旅行社合作",
-      "summaryZh": "该公司在今天发布的2026年第三季度收益股东信中表示，爱彼迎计划在2027年上半年推出一个人工智能代理，帮助用户规划和预订旅行。爱彼迎表示：「今天的人工智能代理擅长简单的日常任务，例如预订餐厅或安排预约。」「但是，在爱彼迎上规划行程是不同的。「该公司认为，其匹配房东和房客的体验，其目前在预订中的角色，以及",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-06T00:06:12.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cfd4354afa14004ff8",
-      "titleOriginal": "Measuring how AI agents handle everyday wet-lab science",
-      "summaryOriginal": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "titleZh": "衡量人工智能代理如何处理日常湿实验室科学",
-      "summaryZh": "OpenAI推出了BioBasicsBench ，这是一个100项任务的基准，用于衡量人工智能代理解读原始实验数据和处理日常湿实验室科学的能力。",
-      "translated": true,
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Publication",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "312c010a4841bcef59",
-      "titleOriginal": "【钛晨报】国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调",
-      "summaryOriginal": "【钛媒体综合】央行官网公布《国务院关于金融工作情况的报告——2026年11月3日在十四届全国人民代表大会常务委员会第二十五次会议上》。 报告提出下一步工作考虑。 （一）继续实施好适度宽松的货币政策，为经济持续向新向优向好发展营造适宜的货币金融环境。综合运用多种工具，保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。完善利率调控机制，继续做好利率政策执行和监管，降低融资中间费用。保持人民币汇率在合理均衡水平上的基本稳定。持续评估完善货币政策框架。 （二）进一步加强和完善金融监管，不断增强监管质效。全面强化“五大监管”，丰富监管手段，提高监管能力，消除监管空白，维护公平、公正的市场秩序。加强央地协同和部门联动，严厉打击非法金融活动。探索人工智能在金融管理和服务领域的应用，防范模型应用风险。加强金融消费者权益保护。做好第五轮反洗钱国际评估报告磋商、审议等工作。推进金融重点领域立法修法工作。 （三）提升金融服务实体经济适配性，服务经济结构转型升级和高质量发展。完善金融“五篇大文章”统计制度和考核评价制度，用好各项结构性货币政策工具，加强与财政、产业等政策协同配",
-      "titleZh": "【钛晨报】国务院关于金融工作情况的报告；OpenAI总裁称公司大部分收入已来自企业业务， 预计2027年具备上市条件；国内航线燃油附加费11月5日起上调",
-      "summaryZh": "【钛媒体综合】央行官网公布《国务院关于金融工作情况的报告——2026年11月3日在十四届全国人民代表大会常务委员会第二十五次会议上》。 报告提出下一步工作考虑。 （一）继续实施好适度宽松的货币政策，为经济持续向新向优向好发展营造适宜的货币金融环境。综合运用多种工具，保持流动性充裕，使社会融资规模、货币供应量增长同经济增长、价格总水平预期目标相匹配。完善利率调控机制，继续做好利率政策执行和监管，降低融资中间费用。保持人民币汇率在合理均衡水平上的基本稳定。持续评估完善货币政策框架。 （二）进一步加强和完善金融监管，不断增强监管质效。全面强化“五大监管”，丰富监管手段，提高监管能力，消除监管空白，维护公平、公正的市场秩序。加强央地协同和部门联动，严厉打击非法金融活动。探索人工智能在金融管理和服务领域的应用，防范模型应用风险。加强金融消费者权益保护。做好第五轮反洗钱国际评估报告磋商、审议等工作。推进金融重点领域立法修法工作。 （三）提升金融服务实体经济适配性，服务经济结构转型升级和高质量发展。完善金融“五篇大文章”统计制度和考核评价制度，用好各项结构性货币政策工具，加强与财政、产业等政策协同配",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8195163.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-05T23:20:00.000Z",
-      "author": "钛媒体官方账号",
-      "tags": [
-        "news",
-        "主编精选文章",
-        "钛早了！晨报",
-        "华为",
-        "联想"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8dc8ee954a72c06c89",
-      "titleOriginal": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-      "summaryOriginal": "Google has released Gemini Omni 1.2 Flash , the newest version of its video generation and editing model. Gemini Omni 1.2 Flash generates and edits clips up to 15 seconds natively. It also cuts the price by 30% compared with Omni 1.1 Flash. The model is generally available on Google Cloud and the Gemini API . For developers, the takeaways are longer clips, fewer re-renders and a lower bill per second. TL;DR Runs on: Google-hosted only (Gemini API, Google Cloud). No open weights, no local deploym",
-      "titleZh": "谷歌发布Gemini Omni 1.2 Flash ： 15秒人工智能视频，每秒$ 0.07",
-      "summaryZh": "谷歌发布了Gemini Omni 1.2 Flash ，这是其视频生成和编辑模型的最新版本。Gemini Omni 1.2 Flash本机生成和编辑剪辑长达15秒。与Omni 1.1 Flash相比，它还将价格降低了30 ％。该模型通常可在Google Cloud和Gemini API上使用。对于开发人员来说，外卖是更长的剪辑，更少的重新渲染和更低的每秒账单。TL; DR运行于：仅限Google托管（ Gemini API、Google Cloud ）。无开放权重，无本地部署",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-05T22:58:21.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "01af2f668adeb82b33",
-      "titleOriginal": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "summaryOriginal": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "titleZh": "爱彼迎表示将于2027年上半年推出人工智能旅行社",
-      "summaryZh": "爱彼迎表示，即将推出的人工智能专员将帮助旅行者在整个住宿期间规划行程、比较选项、管理预订并获得帮助。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-05T22:40:55.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Commerce",
-        "AI agents",
-        "Airbnb"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8e75ec02fc50e91f56",
-      "titleOriginal": "Perplexity launches its own take on AI agents for work",
-      "summaryOriginal": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer , an AI system that can deploy agents on your device to complete tasks. But Perplexity says Teammates \"build on top\" of Computer by offering the ability to collaborate and complete \"ongoing,",
-      "titleZh": "Perplexity推出了自己对AI代理工作的看法",
-      "summaryZh": "Perplexity正在用自己的以工作为重点的人工智能代理来对抗OpenAI和Anthropic。创业公司新的始终在线的“团队成员”可以在一个工作区内扮演多个角色，同时从您已经使用的Perplexity工具中提取现有项目、技能和内存。团队成员与Perplexity Computer集成， Perplexity Computer是一个人工智能系统，可以在您的设备上部署代理以完成任务。但Perplexity表示，团队成员通过提供协作和完成“持续”的能力“建立在计算机之上” ，",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-05T22:26:50.000Z",
-      "author": "Emma Roth",
-      "tags": [
-        "launch",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "46ecc313668e6397d6",
-      "titleOriginal": "Ads in Chatbots Have Arrived. Here’s What’s Working—and What’s Not",
-      "summaryOriginal": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users.",
-      "titleZh": "聊天机器人中的广告已经到来。以下是哪些有效，哪些无效",
-      "summaryZh": "随着Anthropic保持其将广告排除在Claude之外的誓言，人工智能聊天机器人行业的其他部门正在竞相在不与用户对抗的情况下赢得广告商。",
-      "translated": true,
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-05T21:37:18.000Z",
-      "author": "Paresh Dave",
-      "tags": [
-        "analysis",
-        "Business"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "baf47aeb9b7e32e50c",
-      "titleOriginal": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
-      "summaryOriginal": "Baidu has released ERNIE 5.5 Flash Base , the raw pre-training checkpoint of its new sparse Mixture-of-Experts language model. ERNIE 5.5 Flash Base is a 280B-parameter text model from Baidu that activates 14B parameters per token. The weights stop at the end of pre-training, with no mid- or post-training applied. This as a clean starting point for teams that want to compare fine-tuning, instruction tuning or RL methods from one checkpoint. TL;DR Size: 280B total, 14B active per token; 128K train",
-      "titleZh": "百度发布ERNIE 5.5 Flash Base ：具有14B活动参数的280B MoE基础型号",
-      "summaryZh": "百度发布了ERNIE 5.5 Flash Base ，这是其新的稀疏混合专家语言模型的原始预训练检查点。ERNIE 5.5 Flash Base是百度的280B参数文本模型，每个令牌激活14B参数。重量在训练前结束时停止，没有应用训练中期或训练后。对于希望从一个检查点比较微调、指令调整或RL方法的团队来说，这是一个干净的起点。TL ； DR大小：总计280B ，每个令牌激活14B ； 128K列车",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-05T21:33:00.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "24d6171445e4ed0e33",
-      "titleOriginal": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "summaryOriginal": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor. The article OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them appeared first on The Decoder .",
-      "titleZh": "OpenAI GPT-6 Cyber既可以闯入系统，也可以提出如何修复它们的建议",
-      "summaryZh": "借助GPT-6 Cyber ， OpenAI引入了一种AI模型，该模型旨在发现软件中的安全漏洞、开发漏洞并建议修补程序。据OpenAI称，它已经在Firefox中发现了81个以前未知的漏洞，并在Linux内核中开发了948个工作漏洞，远远超过其前身。OpenAIs GPT-6 Cyber可以闯入系统并提出如何修复它们的文章首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-05T20:36:25.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "guide",
-        "AI in practice",
-        "Artificial Intelligence",
-        "OpenAI"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c88b52d0b21039c72d",
-      "titleOriginal": "Cult.fit builds operational muscle with Codex",
-      "summaryOriginal": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "titleZh": "Cult.fit使用Codex打造手术肌肉",
-      "summaryZh": "Cult.fit正在使用Codex来帮助跨职能部门的团队构建工具、更快地移动并改变完成工作的方式。",
-      "translated": true,
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-05T20:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9d6202c03434e45143",
-      "titleOriginal": "Meta says US users can now video chat with their Muse AI avatar",
-      "summaryOriginal": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "titleZh": "Meta表示，美国用户现在可以与他们的Muse AI头像进行视频聊天",
-      "summaryZh": "Meta的AI代理现在可以在推出旨在让Muse栩栩如生的类似Tamagotchi的可穿戴设备之前，将呼叫作为可定制的动画头像。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-05T19:48:28.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "launch",
-        "AI",
-        "Meta",
-        "muse",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ea881b03ae961dac0f",
-      "titleOriginal": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "summaryOriginal": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "titleZh": "Meta警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难",
-      "summaryZh": "Meta警告说，随着社区对大规模基础设施项目的抵制，对数据中心的政治反对可能会威胁到未来的人工智能投资。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-05T19:12:39.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "data centers",
-        "Meta"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8f7798ef97e413356d",
-      "titleOriginal": "OpenAI released a new cybersecurity model. Is that enough?",
-      "summaryOriginal": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "titleZh": "OpenAI发布了新的网络安全模型。够了吗？",
-      "summaryZh": "随着人工智能实验室面临对其保护数字基础设施工作的审查， OpenAI最新的网络安全模型应运而生。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-05T19:06:12.000Z",
-      "author": "Tim Fernholz",
-      "tags": [
-        "news",
-        "AI",
-        "cybersecurity",
-        "OpenAI"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "39537e29a15dd8695f",
-      "titleOriginal": "Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
-      "summaryOriginal": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more. The article Google's Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent appeared first on The Decoder .",
-      "titleZh": "谷歌的Gemini Omni 1.2 Flash将人工智能视频片段延长至15秒，并将定价降低30%",
-      "summaryZh": "Google Deepmind正在推出Gemini Omni 1.2 Flash。视频生成模型现在可以创建长达15秒的剪辑，可以通过对话逐步编辑， 720p时每秒成本仅为$ 0.07 ，比其前身低30%。以低分辨率起草和仅升级最终结果的用户可以节省更多。谷歌的Gemini Omni 1.2 Flash文章将人工智能视频剪辑延长至15秒，并将定价降低了30 ％ ，首次出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-05T19:05:31.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Gemini",
-        "Gemini Omni"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c6134d61030c25d121",
-      "titleOriginal": "Muse has a voice mode now",
-      "summaryOriginal": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today . The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of your conversation animates in time with the words that it's saying. You can also change the tone of the voice by just asking your agent about what you want and letting it decide or by browsing through a bunch of options",
-      "titleZh": "Muse现在有语音模式",
-      "summaryZh": "首席执行官马克·扎克伯格（ Mark Zuckerberg ）今天宣布， Meta现在可以让您与Muse AI代理进行实时语音对话。该功能已向我推出，我在撰写本文时在iOS应用程序上进行了演示。当您与Muse客服代表聊天时，对话顶部的头像会及时显示它所说的话。您也可以通过询问客服代表您想要什么并让客服代表决定，或浏览一系列选项来改变语气",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-05T19:03:04.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bf7e9a38adde588767",
-      "titleOriginal": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summaryOriginal": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "titleZh": "OpenAI总裁Greg Brockman表示，该公司可能在2027年首次公开募股",
-      "summaryZh": "这位高管周三在《华尔街日报》(Wall Street Journal)的一次科技会议上发表讲话，吹捧了该公司如何在企业市场上占据一席之地，而竞争对手Anthropic已经在企业市场上取得了成功。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-05T18:02:27.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "OpenAI"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b0e121b3a461c115e0",
-      "titleOriginal": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summaryOriginal": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "titleZh": "Claude现在可以使用其新的个人理财工具来分析您的支出",
-      "summaryZh": "借助Claude的个人理财服务，用户可以通过Plaid连接其银行账户和信用卡账户，并询问有关其财务状况的问题。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "author": "Aisha Malik",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f49d817c3fd35c35c5",
-      "titleOriginal": "Claude AI can plug directly into your bank account",
-      "summaryOriginal": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview with a breakdown of spending by category, including rent and utilities, shopping, and food. Claude can also answer broader questions around what bills are left before your next payday, if",
-      "titleZh": "Claude AI可以直接插入您的银行账户",
-      "summaryZh": "Anthropic为管理您的个人财务提出了一个新的策略：让Claude来代替，使用新的个人财务功能，通过Plaid银行桥接平台将其连接到您的银行和信用卡账户。例如，您可以询问聊天机器人“我的钱本月去了哪里” ，它会创建一个概览，按类别列出支出明细，包括租金和水电费、购物和食品。Claude还可以回答更广泛的问题，例如在下一个发薪日之前还剩下哪些账单，如果",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "author": "Jess Weatherbed",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f52171b01ae27fd500",
-      "titleOriginal": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
-      "summaryOriginal": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder .",
-      "titleZh": "百度发布带有2800亿参数的ERNIE 5.5 Flash Base作为开源基础模型",
-      "summaryZh": "百度发布了ERNIE 5.5 Flash Base ：这是一个280亿参数的教育部模型，预先训练了33.5万亿个代币，故意出货而不进行微调，因此开发人员可以随心所欲地将其带到任何地方。百度发布了带有2800亿个参数的ERNIE 5.5 Flash Base ，作为开源基础模型首次出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:56:41.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "AI in China"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "23696f011bd98b05f7",
-      "titleOriginal": "‘Total repudiation’: The blue wave is about to hit AI",
-      "summaryOriginal": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in office. In these and other campaigns, one theme kept coming up : holding AI companies accountable to the American people. Now, the AI industry i",
-      "titleZh": "彻底否定” ：蓝色浪潮即将击中AI",
-      "summaryZh": "周二晚上，民主党人控制了众议院和参议院，创造了历史，一股蓝色浪潮席卷了传统的红色和摇摆州--美国第一位黑人女州长在佐治亚州当选，美国第一位美洲原住民女州长在新墨西哥州当选，缅因州参议员在执政30年后向民主党人让步。在这些和其他活动中，一个主题不断出现：让人工智能公司对美国人民负责。现在，人工智能行业我",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:51:52.000Z",
-      "author": "Hayden Field",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3089c4e12a10528fa0",
-      "titleOriginal": "Quoting Paul Ford",
-      "summaryOriginal": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
-      "titleZh": "引用保罗·福特",
-      "summaryZh": "网络浏览器是非常、非常、非常强大的应用软件，访问该功能的成本似乎每天都在下降。— Paul Ford, The Web Is More Than Enough标签：浏览器, paul-ford, web-development",
-      "translated": true,
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:34:03.000Z",
-      "author": "",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "825a50d1c0ad7f362f",
-      "titleOriginal": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "summaryOriginal": "",
-      "titleZh": "Gemini Omni 1.2闪光灯：快速且经济实惠，剪辑更长",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:05:16.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4dac3d0c60c6510eae",
-      "titleOriginal": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "summaryOriginal": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on December 4th. Grimes - who will be lending both her likeness and vocal performance to the movie, which you can see in the clip above - potentially gives the project some legitimacy. AI studio Fable, which is prod",
-      "titleZh": "格莱姆斯将主演一部即将上映的人工智能电影",
-      "summaryZh": "人工智能生成的科幻电影《Gods Don 't Give Gifts》增加了一点明星力量：流行明星格莱姆斯将出现在电影中。《Gods Don' t Give Gifts》被誉为“首部上映的人工智能电影” ，是人工智能电影商业潜力的著名测试案例，将于12月4日上映。Grimes将为电影提供她的肖像和声乐表演，您可以在上面的剪辑中看到-这可能会使该项目具有一定的合法性。AI工作室寓言，这是生产",
-      "translated": true,
-      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "author": "Andrew Webster",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11513,7 +11487,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 20
+      "count": 18
     },
     {
       "id": "deepmind",
@@ -11521,7 +11495,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 6
+      "count": 5
     },
     {
       "id": "techcrunch",
@@ -11529,7 +11503,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 84
+      "count": 78
     },
     {
       "id": "theverge",
@@ -11537,7 +11511,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 61
+      "count": 55
     },
     {
       "id": "mittr",
@@ -11553,7 +11527,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 30
+      "count": 29
     },
     {
       "id": "thedecoder",
@@ -11561,7 +11535,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 54
+      "count": 51
     },
     {
       "id": "marktechpost",
@@ -11569,7 +11543,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 27
+      "count": 25
     },
     {
       "id": "simonwillison",
@@ -11577,7 +11551,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 19
+      "count": 18
     },
     {
       "id": "oneusefulthing",
@@ -11593,7 +11567,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 13
+      "count": 15
     },
     {
       "id": "ifanr",
@@ -11601,7 +11575,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 28
+      "count": 30
     },
     {
       "id": "sspai",
@@ -11609,7 +11583,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 3
+      "count": 6
     },
     {
       "id": "tmtpost",
@@ -11617,7 +11591,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 100
+      "count": 111
     },
     {
       "id": "infoq",
@@ -11625,13 +11599,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 49
+      "count": 53
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 34,
-    "translated": 241,
+    "guides": 37,
+    "translated": 226,
     "sources": 15
   }
 }
