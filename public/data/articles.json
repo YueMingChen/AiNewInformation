@@ -1,6 +1,191 @@
 {
-  "generatedAt": "2026-11-14T06:41:27.654Z",
+  "generatedAt": "2026-11-14T15:11:33.139Z",
   "articles": [
+    {
+      "id": "d46b516a4c8344dc08",
+      "titleOriginal": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "summaryOriginal": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on the board of OpenAI, when she was one of four board members who voted to fire Sam Altman . That incident, now sometimes referred to as “the blip,” ended with Sam coming back as CEO,",
+      "titleZh": "解雇萨姆·阿尔特曼的OpenAI董事会成员表示，我们仍然不能信任人工智能公司的首席执行官",
+      "summaryZh": "今天，我将与乔治敦大学安全与新兴技术中心的执行主任Helen Toner进行对话。本期节目是我们“人工智能在现实生活中的应用”系列的第二期。Helen是人工智能安全和政策领域的知名人士，但她最广为人知的身份或许是曾担任OpenAI董事会成员，当时她是投票罢免萨姆·阿尔特曼的四名董事之一。那次事件现在有时被称为“小插曲”，最终以萨姆重返首席执行官职位而告终，",
+      "translated": true,
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-14T15:00:00.000Z",
+      "author": "Nilay Patel",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "82ab3d6d079489a784",
+      "titleOriginal": "Beware the New AI-Fueled Ransomware Boom",
+      "summaryOriginal": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "titleZh": "警惕由人工智能驱动的新一轮勒索软件热潮",
+      "summaryZh": "全自动勒索软件尚未出现——至少目前尚未。但看似并不高明的攻击者正在使用人工智能工具大肆破坏。",
+      "translated": true,
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "author": "Matt Burgess, Lily Hay Newman",
+      "tags": [
+        "analysis",
+        "Security"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "567fa298898a17ca87",
+      "titleOriginal": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summaryOriginal": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that shimmered in the stadium's lights. Few are cheering for J",
+      "titleZh": "Jensen Huang与富有远见的表演型创始人兼首席执行官的没落",
+      "summaryZh": "2025年1月6日，英伟达首席执行官黄仁勋出席在内华达州拉斯维加斯举行的2025年国际消费类电子产品展览会（CES）。| 图片来源：Artur Widak/NurPhoto，由Getty Images提供 2025年1月6日，英伟达首席执行官黄仁勋终于迎来了他的摇滚明星时刻。他身着在体育馆灯光下闪耀的黑色皮夹克，胜利地大步走上舞台，高举着手，在1.4万人的掌声和欢呼声中登场。体育馆里挤满了网红和粉丝，他们的脸庞沐浴在蓝色的光芒中。很少有人为J欢呼",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "author": "Sean Hollister",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "703d5a8bd20688eb85",
+      "titleOriginal": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summaryOriginal": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary appeared fir",
+      "titleZh": "OpenAI将机器人研究人员调至其他团队，因为通用模型可能会使专门的机器人人工智能变得不再必要",
+      "summaryZh": "OpenAI正第二次解散其独立的机器人团队，但原因并非缺乏数据。像GPT-6 Astra这样通用模型显然可以直接控制机器人，因此不再需要专门的部门。这些研究人员正被调派到其他团队，该公司将此举称为加快其机器人研发工作的一种方式。文章《OpenAI 将机器人研究人员调至其他团队，因为通用模型可能使专门的机器人人工智能变得多余》首次发表于",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-14T11:40:51.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI",
+        "Robotics"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e2d674adf4bcc16782",
+      "titleOriginal": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summaryOriginal": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon appeared fir",
+      "titleZh": "前研究员Coxon表示，Anthropic已经能够用“最初所需计算量的一小部分”来重新训练Mythos。",
+      "summaryZh": "OpenAI和Anthropic的前研究员Jacob Coxon指出，Anthropic的IPO路演中的一张幻灯片是他离职的原因，他说这张幻灯片表明，该公司的算法不仅在快速改进，而且改进速度还在加快。Coxon继续呼吁暂停尖端模型开发，以便竞争对手能够赶上，并且人类水平的人工智能能够成为一种商品。前研究员Coxon表示，Anthropic已经能够“用最初所需计算量的一小部分”来重新训练Mythos，这篇文章首次发表在",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-14T11:21:41.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "AI and security",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b84b4c49c41de92a05",
+      "titleOriginal": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "summaryOriginal": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+      "titleZh": "没有飞行员。空中交通管制员寥寥无几。会出什么问题呢？",
+      "summaryZh": "通常，航空业在拥抱新技术方面较为缓慢，但人工智能已经飞入蓝天。",
+      "translated": true,
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-14T11:00:00.000Z",
+      "author": "Jeff Wise",
+      "tags": [
+        "analysis",
+        "The Big Story",
+        "Business",
+        "Business / Transportation"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "545d3ee004cb236ac1",
+      "titleOriginal": "库克接班，可能真是英伟达的最优解",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋辞职的消息刚传出来，硅谷还在消化这场大地震，特朗普已经先出来指点江山了。 他直接点名刚刚卸任苹果CEO、转任董事长的库克去接英伟达的班，还给了一句排面十足的评价：“一个传奇接替另一个传奇。” 网友瞬间炸锅了。 很多人的第一反应是离谱，评论区里满屏都在刷：“This is a joke, right？”（这是在开玩笑吧？）英伟达投资人Ross Gerber更是公开炮轰：“我甚至不确定库克知不知道AI到底是干嘛的。” 有人讽刺他最大的成就，是把苹果变成了一家奢侈品公司，而不是科技公司；知名芯片分析师Patrick Moorhead也泼冷水，说库克是个运营天才，但绝不是英伟达现在需要的人。 吃瓜群众则开始琢磨特朗普的真实意图。有人调侃这是“踩低捧高”，老黄刚走就急着推新人；也有网友开脑洞，特朗普大概是想把库克彻底从苹果支走，好逼着iPhone工厂赶紧搬回美国。 不过，也有人认真考虑起了这个提议。科技分析师Dan Ives就认为，库克是接任英伟达CEO的最佳人选。毕竟，库克把苹果市值从3000多亿美元带到一度突破5万亿美元，总",
+      "titleZh": "库克接班，可能真是英伟达的最优解",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋辞职的消息刚传出来，硅谷还在消化这场大地震，特朗普已经先出来指点江山了。 他直接点名刚刚卸任苹果CEO、转任董事长的库克去接英伟达的班，还给了一句排面十足的评价：“一个传奇接替另一个传奇。” 网友瞬间炸锅了。 很多人的第一反应是离谱，评论区里满屏都在刷：“This is a joke, right？”（这是在开玩笑吧？）英伟达投资人Ross Gerber更是公开炮轰：“我甚至不确定库克知不知道AI到底是干嘛的。” 有人讽刺他最大的成就，是把苹果变成了一家奢侈品公司，而不是科技公司；知名芯片分析师Patrick Moorhead也泼冷水，说库克是个运营天才，但绝不是英伟达现在需要的人。 吃瓜群众则开始琢磨特朗普的真实意图。有人调侃这是“踩低捧高”，老黄刚走就急着推新人；也有网友开脑洞，特朗普大概是想把库克彻底从苹果支走，好逼着iPhone工厂赶紧搬回美国。 不过，也有人认真考虑起了这个提议。科技分析师Dan Ives就认为，库克是接任英伟达CEO的最佳人选。毕竟，库克把苹果市值从3000多亿美元带到一度突破5万亿美元，总",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205427.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T10:37:06.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ad306b16c1bb8d28ef",
+      "titleOriginal": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+      "summaryOriginal": "Stanford researchers have released Memorilla , an open-source memory system for LLMs. The Memorilla memory system reads a whole document collection and hands a frozen LLM just 16 memory tokens. On FactKG, a frozen Qwen3-8B scored 84.33% with Memorilla, against 80.43% with every document in context . It did that with 108x fewer document tokens. Code, training recipes and checkpoints are public under Apache 2.0 . You can check the deployment options and specs here through our GPULeaderboard.com ch",
+      "titleZh": "斯坦福大学研究团队开源Memorilla，一种用于冻结大语言模型的潜在记忆模块",
+      "summaryZh": "斯坦福大学的研究人员发布了 Memorilla ，这是一个面向大语言模型的开源记忆系统。Memorilla 记忆系统会读取整个文档集合，并仅向冻结的 LLM 提供 16 个记忆标记。在FactKG上，使用Memorilla的冻结Qwen3-8B得分84.33%，而使用所有上下文文档的得分仅为80.43%。它使用少108倍的文档token实现了这一点。代码、训练方案和检查点均根据 Apache 2.0 许可证公开。您可以通过我们的GPULeaderboard.com频道在此处查看部署选项和规格。",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-14T10:21:21.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "Context Engineering",
+        "Editors Pick"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "2f7be79c9a9844c0cc",
       "titleOriginal": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
@@ -41,6 +226,298 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "58962dbe06f21e14e0",
+      "titleOriginal": "A股一级行业，PS偏离度分布与深潜分析",
+      "summaryOriginal": "截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃至十倍以上，而差异的方向多由收入口径与环节位置决定——",
+      "titleZh": "A股一级行业，PS偏离度分布与深潜分析",
+      "summaryZh": "截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃至十倍以上，而差异的方向多由收入口径与环节位置决定——",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205459.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T09:58:58.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c2b71192af9fed4c45",
+      "titleOriginal": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
+      "summaryOriginal": "一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品合计占收入六成五。溢价来自流感与口罩题材，小市值加上防",
+      "titleZh": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
+      "summaryZh": "一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品合计占收入六成五。溢价来自流感与口罩题材，小市值加上防",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205442.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T09:57:13.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "424688d057d7d61252",
+      "titleOriginal": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
+      "summaryOriginal": "一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗，靠平头哥分拆续上第四个板，封得悄无声息；水利建设接力",
+      "titleZh": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
+      "summaryZh": "一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗，靠平头哥分拆续上第四个板，封得悄无声息；水利建设接力",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205437.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T09:57:00.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4bf39f867643ad31b9",
+      "titleOriginal": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
+      "summaryOriginal": "前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，却不会自动决定政策方向；最终的政策取舍，仍取决于精英群",
+      "titleZh": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
+      "summaryZh": "前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，却不会自动决定政策方向；最终的政策取舍，仍取决于精英群",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205430.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T09:56:39.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1c4e572d1ed1dca705",
+      "titleOriginal": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+      "summaryOriginal": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder .",
+      "titleZh": "Runway的开源Praxis-1将视频AI转变为机器人控制器",
+      "summaryZh": "Runway发布了其机器人模型Praxis-1，该模型采用Apache 2.0许可证，提供开放权重和源代码。该模型利用视频训练获得的知识来进行机器人控制，并在英伟达的RoboLab-120基准测试中领跑世界动作模型类别。不过，它还不能自行规划复杂的动作序列。文章《Runway 的开源 Praxis-1 将视频 AI 转化为机器人控制器》最初发表在 The Decoder 上。",
+      "translated": true,
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-14T09:45:45.000Z",
+      "author": "Tomislav Bezmalinović",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Robotics",
+        "Robots"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0018788f33961e1a9f",
+      "titleOriginal": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
+      "summaryOriginal": "（本文作者为 游戏茶馆，钛媒体经授权发布） 文 | 游戏茶馆 最近，有批游戏内容型素材正在被观众追着更新，这些视频里没有明星代言，也没有实机演示，只有和游戏内容相关的角色在整活。 比如《疯狂水世界》，就塑造出名为“肥强”的秃头中年男人，在末日洪水里反复打捞一台海水过滤器，引发评论区观众们催更、玩梗。 同样在广州，另一支三十多人的小团队正在经历类似的事。他们发行的暗黑西游题材放置卡牌游戏《永夜起源》，把唐僧做成肌肉硬汉形象，让他在视频里开口唱歌。这条“唐僧唱歌”的素材在视频号获得700万次播放，用户在评论区点歌，还有人留言说，你们做短剧我肯定充钱。 “做买量这么多年，这是第一次遇到用户追着广告看。”《永夜起源》发行负责人刘毅有些感慨，“甚至有用户因为广告才来关注我们的账号。” 广告被设计出来的目的，历来是打断内容、催促消费。如今一部分游戏广告开始具备内容本身的属性，观众自愿停留，主动追更，随后被导入游戏完成消费。据DataEye研究院数据，《永夜起源》自2026年8月上旬启动效果广告投放，单日投放素材量一度突破一万条，素材以AI生成为主。游戏上线第八天进入微信小游戏畅销榜，此后排名持续攀",
+      "titleZh": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
+      "summaryZh": "（本文作者为 游戏茶馆，钛媒体经授权发布） 文 | 游戏茶馆 最近，有批游戏内容型素材正在被观众追着更新，这些视频里没有明星代言，也没有实机演示，只有和游戏内容相关的角色在整活。 比如《疯狂水世界》，就塑造出名为“肥强”的秃头中年男人，在末日洪水里反复打捞一台海水过滤器，引发评论区观众们催更、玩梗。 同样在广州，另一支三十多人的小团队正在经历类似的事。他们发行的暗黑西游题材放置卡牌游戏《永夜起源》，把唐僧做成肌肉硬汉形象，让他在视频里开口唱歌。这条“唐僧唱歌”的素材在视频号获得700万次播放，用户在评论区点歌，还有人留言说，你们做短剧我肯定充钱。 “做买量这么多年，这是第一次遇到用户追着广告看。”《永夜起源》发行负责人刘毅有些感慨，“甚至有用户因为广告才来关注我们的账号。” 广告被设计出来的目的，历来是打断内容、催促消费。如今一部分游戏广告开始具备内容本身的属性，观众自愿停留，主动追更，随后被导入游戏完成消费。据DataEye研究院数据，《永夜起源》自2026年8月上旬启动效果广告投放，单日投放素材量一度突破一万条，素材以AI生成为主。游戏上线第八天进入微信小游戏畅销榜，此后排名持续攀",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205248.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T08:54:00.000Z",
+      "author": "游戏茶馆",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "70371bc28443c2f75e",
+      "titleOriginal": "字节的2029与腾讯的“一半人”",
+      "summaryOriginal": "衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最早要到2029年或2030年。报道同时提到，Seed系列",
+      "titleZh": "字节的2029与腾讯的“一半人”",
+      "summaryZh": "衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最早要到2029年或2030年。报道同时提到，Seed系列",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8201267.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T08:39:41.000Z",
+      "author": "AGI-Signal",
+      "tags": [
+        "news",
+        "主编精选文章",
+        "AGI",
+        "大模型",
+        "腾讯"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a480e3b592ffbe3074",
+      "titleOriginal": "[AINews] The No AI Slop Manifesto",
+      "summaryOriginal": "Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit . However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the fr",
+      "titleZh": "[AINews]《反AI垃圾宣言》",
+      "summaryZh": "祝贺llama.ccp和ggml双双达到1.0版本（宣布稳定并从llama.cpp的公共头文件中删除了35个已弃用的函数），SGLang也在最近的SGLang峰会上宣布了1.0版本。然而，今天的头条新闻属于《No AI Slop》宣言，该宣言源于 AIE CODE 会议的讨论，在会议的许多发言者共同签署后，Dex 在闭幕主旨演讲中介绍了该宣言。Hacker News 似乎也很喜欢它，将其顶到了首页。",
+      "translated": true,
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-14T08:31:02.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis",
+        "ainews: weekday roundups",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e8e02c3de35a9771d8",
+      "titleOriginal": "黄仁勋传",
+      "summaryOriginal": "（本文作者为 芯智能头条，钛媒体经授权发布） 文 | 芯智能头条，作者 | Time，编辑 | Mark 2024年3月，黄仁勋站在圣何塞SAP Center的舞台上，先提醒台下的人：“这不是一场演唱会。” 场馆里坐着超过1.2万名观众，背后的屏幕有网球场那么大。61岁的他穿着黑色皮衣，向企业家、程序员和创业者介绍新一代芯片。三十多年前，他还得向人解释，为什么电脑需要一块专门处理图形的芯片。如今，人们专程赶来，等着听英伟达接下来会做什么。 两年多后，英伟达宣布，黄仁勋已辞去总裁、CEO和董事职务。他在这家公司的33年CEO任期结束了。 董事会开始寻找接替他的人。 黄仁勋常对同事说，公司离倒闭只有30天。后来，这句话成了他的口头禅。创业最初的几年，公司有几次确实快撑不下去了。 成名以后，他仍然很少休息。从醒来到睡觉，一周七天，脑子里总有没解决的问题。有些研发项目，几年都没带来多少收入，他却能一直等，继续往里投钱。 黄仁勋出生于1963年，童年有几年在泰国度过。不到十岁，他和哥哥先于父母来到美国，后来进入肯塔基州的一所寄宿学校。校内的杂活由学生分担，哥哥去农场，他负责清理男生的卫生间。 上",
+      "titleZh": "黄仁勋传",
+      "summaryZh": "（本文作者为 芯智能头条，钛媒体经授权发布） 文 | 芯智能头条，作者 | Time，编辑 | Mark 2024年3月，黄仁勋站在圣何塞SAP Center的舞台上，先提醒台下的人：“这不是一场演唱会。” 场馆里坐着超过1.2万名观众，背后的屏幕有网球场那么大。61岁的他穿着黑色皮衣，向企业家、程序员和创业者介绍新一代芯片。三十多年前，他还得向人解释，为什么电脑需要一块专门处理图形的芯片。如今，人们专程赶来，等着听英伟达接下来会做什么。 两年多后，英伟达宣布，黄仁勋已辞去总裁、CEO和董事职务。他在这家公司的33年CEO任期结束了。 董事会开始寻找接替他的人。 黄仁勋常对同事说，公司离倒闭只有30天。后来，这句话成了他的口头禅。创业最初的几年，公司有几次确实快撑不下去了。 成名以后，他仍然很少休息。从醒来到睡觉，一周七天，脑子里总有没解决的问题。有些研发项目，几年都没带来多少收入，他却能一直等，继续往里投钱。 黄仁勋出生于1963年，童年有几年在泰国度过。不到十岁，他和哥哥先于父母来到美国，后来进入肯塔基州的一所寄宿学校。校内的杂活由学生分担，哥哥去农场，他负责清理男生的卫生间。 上",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8204575.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T07:57:00.000Z",
+      "author": "芯智能头条",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5d2a679ed5659a3823",
+      "titleOriginal": "AI时代，公司越来越扁平，也越来越官僚",
+      "summaryOriginal": "（本文作者为 防冷涂的蜡，钛媒体经授权发布） 文 | 防冷涂的蜡 假设你是一家连锁餐饮店的店长。上午十一点，顾客开始排队，你刚准备进后厨帮忙，手机又收到总部发来的经营异常清单：昨天有一项指标低于标准，需要解释原因、提交处理办法。昨天的回复刚发完，今天的新清单又到了。门店没有多一个员工，总部却好像突然多出了一双每天盯着你的眼睛。 这样的场景有了现实中的技术基础。2026年9月，徐升记高级副总裁刘帅介绍，公司过去每周需要8名运营人员花一天半，才能整理340多家门店、50多项经营数据。接入美团“妙手&middot;智能掌柜”后，相关分析可以按天完成，再分发给区域负责人和门店，系统还能生成巡检报告与经营报表。 从总部看，这是一笔漂亮的效率账：以前八个人忙一天半的工作，现在每天都能做。可如果经营分析每天更新，整改要求也跟着变成每日任务，门店节省下来的时间未必有总部那么多。总部终于能随时看到问题，店长却可能需要不断停下手头的事，说明自己为什么还没解决问题。 我们一直期待AI帮公司少开会、少审批、少几个催报表的领导。然而，领导少了，盯着你工作的东西就一定会少吗？ 在赞美组织扁平化之前，恐怕得先弄清一",
+      "titleZh": "AI时代，公司越来越扁平，也越来越官僚",
+      "summaryZh": "（本文作者为 防冷涂的蜡，钛媒体经授权发布） 文 | 防冷涂的蜡 假设你是一家连锁餐饮店的店长。上午十一点，顾客开始排队，你刚准备进后厨帮忙，手机又收到总部发来的经营异常清单：昨天有一项指标低于标准，需要解释原因、提交处理办法。昨天的回复刚发完，今天的新清单又到了。门店没有多一个员工，总部却好像突然多出了一双每天盯着你的眼睛。 这样的场景有了现实中的技术基础。2026年9月，徐升记高级副总裁刘帅介绍，公司过去每周需要8名运营人员花一天半，才能整理340多家门店、50多项经营数据。接入美团“妙手&middot;智能掌柜”后，相关分析可以按天完成，再分发给区域负责人和门店，系统还能生成巡检报告与经营报表。 从总部看，这是一笔漂亮的效率账：以前八个人忙一天半的工作，现在每天都能做。可如果经营分析每天更新，整改要求也跟着变成每日任务，门店节省下来的时间未必有总部那么多。总部终于能随时看到问题，店长却可能需要不断停下手头的事，说明自己为什么还没解决问题。 我们一直期待AI帮公司少开会、少审批、少几个催报表的领导。然而，领导少了，盯着你工作的东西就一定会少吗？ 在赞美组织扁平化之前，恐怕得先弄清一",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205239.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T07:21:00.000Z",
+      "author": "防冷涂的蜡",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f47fb08e8896deb616",
+      "titleOriginal": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
+      "summaryOriginal": "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 据彭博社11月12日援引知情人士称， SpaceX与特斯拉的合并谈判已推进到交易条款与治理架构，最快12月官宣，也可能推到2027年初。 按当天收盘市值， 两家公司合计约3.47万亿美元 ，落地即刷新全球并购纪录。 旧纪录靠的都是股票：2000年沃达丰换股拿下曼内斯曼，作价约1810亿美元；同年美国在线以约1640亿美元市值换下时代华纳，两年后计提989亿美元商誉减值，全年亏损987亿美元。 这笔交易同样不动现金，它要换的是一张能为算力开支持续融资的资产负债表，顺带把控制权收紧。 签字的不只是两家公司的独立董事特别委员会，还有几十万份没寄回去的委托书。 车企与航天资产往后按什么价码估值，都压在这条线上。 一张股票， 两张报表 整合其实从2025年就开始了： X并入xAI，2026年2月SpaceX以约1.25万亿美元的整体估值换股吞下xAI，6月以135美元发行价完成史上最大IPO，马斯克握着八成以上投票权。 SpaceX总裁肖特韦尔当时留了句话，合并“或许能让埃隆的生活轻松一点”。 3.47万亿美元只是两家公司的市值之和，没有",
+      "titleZh": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
+      "summaryZh": "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 据彭博社11月12日援引知情人士称， SpaceX与特斯拉的合并谈判已推进到交易条款与治理架构，最快12月官宣，也可能推到2027年初。 按当天收盘市值， 两家公司合计约3.47万亿美元 ，落地即刷新全球并购纪录。 旧纪录靠的都是股票：2000年沃达丰换股拿下曼内斯曼，作价约1810亿美元；同年美国在线以约1640亿美元市值换下时代华纳，两年后计提989亿美元商誉减值，全年亏损987亿美元。 这笔交易同样不动现金，它要换的是一张能为算力开支持续融资的资产负债表，顺带把控制权收紧。 签字的不只是两家公司的独立董事特别委员会，还有几十万份没寄回去的委托书。 车企与航天资产往后按什么价码估值，都压在这条线上。 一张股票， 两张报表 整合其实从2025年就开始了： X并入xAI，2026年2月SpaceX以约1.25万亿美元的整体估值换股吞下xAI，6月以135美元发行价完成史上最大IPO，马斯克握着八成以上投票权。 SpaceX总裁肖特韦尔当时留了句话，合并“或许能让埃隆的生活轻松一点”。 3.47万亿美元只是两家公司的市值之和，没有",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205220.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T07:13:00.000Z",
+      "author": "财能圈",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "38403b50d73ac07152",
+      "titleOriginal": "2026欧洲生鲜零售现状",
+      "summaryOriginal": "（本文作者为 霞光智库，钛媒体经授权发布） 文 | 霞光智库 2025年是欧洲生鲜零售行业企稳的一年。与2024年相比，消费者支出模式基本保持不变，而零售商仍在持续应对成本压力。2026年初，64%的生鲜零售CEO预计市场环境将与2025年持平或改善。然而，行业环境依然充满挑战：利润率压力仍是首要关切，竞争激烈，中期增长前景有限。 展望2026年，生鲜零售高管面临机遇与挑战并存的局面。随着投入成本在2026年初出现缓和迹象，零售商如何应对地缘政治动荡？在恢复利润率与为消费者提供价值之间如何取得平衡？零售商又如何利用数据、AI和技术实现可衡量的商业影响——尤其是在代理式AI开始重塑消费者购物方式和零售商运营模式的当下？ 本报告基于扎实的数据基础：我们调研了14个欧洲国家的35位以上零售高管和15,000多名消费者，同时分析了这些国家的市场数据和企业动态。所有研究均于2026年初完成。为体现AI日益增长的重要性，今年报告重点介绍四个AI机遇：拥抱代理式商务、以代理式AI重构组织、以物理AI推动门店自动化、以及确保技术投资的充分回报。 本报告由EuroCommerce（代表欧洲500万零售商",
+      "titleZh": "2026欧洲生鲜零售现状",
+      "summaryZh": "（本文作者为 霞光智库，钛媒体经授权发布） 文 | 霞光智库 2025年是欧洲生鲜零售行业企稳的一年。与2024年相比，消费者支出模式基本保持不变，而零售商仍在持续应对成本压力。2026年初，64%的生鲜零售CEO预计市场环境将与2025年持平或改善。然而，行业环境依然充满挑战：利润率压力仍是首要关切，竞争激烈，中期增长前景有限。 展望2026年，生鲜零售高管面临机遇与挑战并存的局面。随着投入成本在2026年初出现缓和迹象，零售商如何应对地缘政治动荡？在恢复利润率与为消费者提供价值之间如何取得平衡？零售商又如何利用数据、AI和技术实现可衡量的商业影响——尤其是在代理式AI开始重塑消费者购物方式和零售商运营模式的当下？ 本报告基于扎实的数据基础：我们调研了14个欧洲国家的35位以上零售高管和15,000多名消费者，同时分析了这些国家的市场数据和企业动态。所有研究均于2026年初完成。为体现AI日益增长的重要性，今年报告重点介绍四个AI机遇：拥抱代理式商务、以代理式AI重构组织、以物理AI推动门店自动化、以及确保技术投资的充分回报。 本报告由EuroCommerce（代表欧洲500万零售商",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205180.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T06:52:37.000Z",
+      "author": "霞光智库",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "87b8686439b2776fc6",
+      "titleOriginal": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
+      "summaryOriginal": "Vercel Labs has released UI SDK , an open-source beta library of interface behaviors built for coding agents. Vercel UI SDK is a headless library that ships behaviors, not finished components. Agents combine those behaviors into accessible components for React, Vue, Svelte, Solid and Web Components. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . TL;DR Size: 50+ behaviors, 51 component modules in the repo, 6 npm packages at 0.1.0-beta.1 Runs",
+      "titleZh": "Vercel 发布 UI SDK：面向 AI 编码代理的 50 多种 UI 行为",
+      "summaryZh": "Vercel Labs 发布了 UI SDK ，这是一个为编码代理构建的界面行为开源测试版库。Vercel UI SDK 是一个无头库，提供行为而非成品组件。代理将这些行为组合成适用于React、Vue、Svelte、Solid和Web组件的无障碍组件。您可以通过我们的GPULeaderboard.com Chrome扩展程序在此处查看部署选项和规格。TL;DR 规模：50 多种行为，代码库中有 51 个组件模块，6 个 npm 包，版本为 0.1.0-beta.1 运行",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-14T06:38:14.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "Editors Pick",
+        "For Devs"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -217,6 +694,30 @@
         "投稿"
       ],
       "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c53d0cece6ea0c834e",
+      "titleOriginal": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+      "summaryOriginal": "英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论 余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工 DeepSeek 开放 App 工具接口，开发者可接入搜索、文件和语音 Microsoft 365 故障仍在恢复，微软将邮件超时窗口延长至 48 小时 OpenAI 撤销独立机器人团队，研究人员并入通用模型团队 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 灵光产品经理谈个人 AI 助手：团队开始数用户愿意托管多少件事 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 东风日产 NX7 亮相，车内展示可拆卸磁吸垃圾桶 索尼新一代 Walkman 开启国行预售，ZX900 售 10999 元 保时捷 CEO 谈 Mission S：瞄准比 911 更高的市场 虾米音乐关停五年后，阿里上线 AI 写歌应用「快乐虾米」 宁德时代发布巧克力电池管家，换电时可查电池健康状况 Gemini 接入 Google 钱包，可以整理账单和查找订阅扣款 腾讯混元发布 Hy Rea",
+      "titleZh": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+      "summaryZh": "英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论 余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工 DeepSeek 开放 App 工具接口，开发者可接入搜索、文件和语音 Microsoft 365 故障仍在恢复，微软将邮件超时窗口延长至 48 小时 OpenAI 撤销独立机器人团队，研究人员并入通用模型团队 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 灵光产品经理谈个人 AI 助手：团队开始数用户愿意托管多少件事 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 东风日产 NX7 亮相，车内展示可拆卸磁吸垃圾桶 索尼新一代 Walkman 开启国行预售，ZX900 售 10999 元 保时捷 CEO 谈 Mission S：瞄准比 911 更高的市场 虾米音乐关停五年后，阿里上线 AI 写歌应用「快乐虾米」 宁德时代发布巧克力电池管家，换电时可查电池健康状况 Gemini 接入 Google 钱包，可以整理账单和查找订阅扣款 腾讯混元发布 Hy Rea",
+      "translated": true,
+      "url": "https://www.ifanr.com/1689450",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-14T00:00:42.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "research",
+        "早报",
+        "OpenAI",
+        "余承东"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -10994,510 +11495,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "d4724aef8fa6bbaebe",
-      "titleOriginal": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
-      "summaryOriginal": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。",
-      "titleZh": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
-      "summaryZh": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 摩根大通 副董事长：AI板块估值仍高，预计将出现回调 摩根大通副董事长Daniel Pinto认为，AI领域的估值仍然过高，并预计该行业将会出现回调。Pinto在香港金管局举办的国际金融领袖投资峰会一场小组讨论中表示，确实相信生产力将迎来一波大幅提升，也相信AI会带来重大影响。但他提醒大家，要审慎看待增长的速度，因为目前正在开发的所有这些东西，终究得有人买单。AI以外的产业以及其他所有人，必须向这些公司支付数以万亿计美元，才能证明这些投资是合理的。他表示，AI公司需要证明如此庞大的投资规模以及目前的估值是合理的，现在的步伐可能有点太快了。Pinto表示，AI产业可能会出现“回调”。他表示，相较于这些公司目前的市场价格，市场对其营收和获利增长的预期可能有些过于陡峭，这可能导致整个产业重新定价。 阿里巴巴 蔡崇信：AI只有开源开放，才能普 惠普 及 2026年世界互联网大会乌镇峰会上，阿里巴巴集团联合创始人、董事会主席蔡崇信表示，AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8197131.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T09:28:42.000Z",
-      "author": "Leo张ToB杂谈",
-      "tags": [
-        "launch",
-        "主编精选文章",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "44497456c1249cadc3",
-      "titleOriginal": "双十一，把购物交给了 AI 们，结果居然集体翻车？",
-      "summaryOriginal": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 今年双十一从十月中旬就开始了。今年我 打算 换个玩法：把购物这件事交给平台自己的 AI 。 挑了几样之前就想买的东西：iPhone 17 Pro 256GB 银色国行、AirPods Pro 3 国行、心相印茶语丝享 S 码 120 抽 24 包，以及三只松鼠每日坚果 750g（30 包）。分别设计数码产品、日常囤货和零食小吃，免得样本太集中，结果不客观。 淘宝有自带的 AI，京东有京言，抖音用豆包。几个平台找下来，拼多多没看到明显的 AI 入口。找了一圈之后，我又发现蚂蚁最近推出了灵光 2.0。说它主打个人智能体，所以也试着加入竞争行列看一看效果。 iPhone，到底有多少种价格 在让 AI 出手之前，我先手动把同一个完整型号在京东、淘宝、拼多多等平台搜了一遍，结果发现，消费者自己的搜索列表里很容易被商户的标价误导。 京东前排有不少买手店，淘宝则混着激活机（已经拆封激活、保修已经开始的机器）、资源机（非官方渠道货源，可能是翻新或组装机）和二手优品。比如淘宝有一家标价 7460 元的商品，实际上是激活机；京东还有一家全球购（跨境",
-      "titleZh": "双十一，把购物交给了 AI 们，结果居然集体翻车？",
-      "summaryZh": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 今年双十一从十月中旬就开始了。今年我 打算 换个玩法：把购物这件事交给平台自己的 AI 。 挑了几样之前就想买的东西：iPhone 17 Pro 256GB 银色国行、AirPods Pro 3 国行、心相印茶语丝享 S 码 120 抽 24 包，以及三只松鼠每日坚果 750g（30 包）。分别设计数码产品、日常囤货和零食小吃，免得样本太集中，结果不客观。 淘宝有自带的 AI，京东有京言，抖音用豆包。几个平台找下来，拼多多没看到明显的 AI 入口。找了一圈之后，我又发现蚂蚁最近推出了灵光 2.0。说它主打个人智能体，所以也试着加入竞争行列看一看效果。 iPhone，到底有多少种价格 在让 AI 出手之前，我先手动把同一个完整型号在京东、淘宝、拼多多等平台搜了一遍，结果发现，消费者自己的搜索列表里很容易被商户的标价误导。 京东前排有不少买手店，淘宝则混着激活机（已经拆封激活、保修已经开始的机器）、资源机（非官方渠道货源，可能是翻新或组装机）和二手优品。比如淘宝有一家标价 7460 元的商品，实际上是激活机；京东还有一家全球购（跨境",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196807.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T08:36:32.000Z",
-      "author": "象先志",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6a83a2ed9755796d86",
-      "titleOriginal": "AI漫剧多赚钱？对话从业者揭内幕：播放1万挣5块，多数人是牛马",
-      "summaryOriginal": "（本文作者为 疯狂科技厅，钛媒体经授权发布） 文 | 疯狂科技厅，作者 | 刘瑞祺，编辑 | 张猛 AI漫剧这个市场今年相当热闹。 DataEye研究院数据显示，2026年前5个月，国内AI剧漫剧市场规模达到220亿元，全年预计达到400亿元；仅上半年，抖音端原生新增AI剧及漫剧就达到22.19万部。 资本市场也在追逐这股热潮。10月以来，德才股份、慈文传媒等多只相关概念股接连涨停。火山引擎、B站等平台也纷纷推出影视及漫剧创作扶持计划。 热度还在向更广泛的AI影视创作蔓延。 热闹归热闹，赚钱是另一回事。10月12日晚，欢瑞世纪公告称，上半年AI短剧业务收入占总营收比例不足1%；德才股份涉及漫剧业务的控股孙公司奇想无限，上半年营收2457.09万元，净亏损562.17万元。 曾经参与制作北京冬奥会开幕式短片《二十四节气倒计时》的袁安洲、肖洒，也在尝试用AI制作片子，其中就包括大热的AI漫剧。 冬奥会幕后，肖洒和张艺谋合影。受访者供图 当AI让视频越来越容易生产，制作方真的赚钱了吗？专业影视人的经验还有多少价值？漫剧之外又有哪些新的创作和商业机会？带着这些问题，《疯狂科技厅》与“白猿山团队",
-      "titleZh": "AI漫剧多赚钱？对话从业者揭内幕：播放1万挣5块，多数人是牛马",
-      "summaryZh": "（本文作者为 疯狂科技厅，钛媒体经授权发布） 文 | 疯狂科技厅，作者 | 刘瑞祺，编辑 | 张猛 AI漫剧这个市场今年相当热闹。 DataEye研究院数据显示，2026年前5个月，国内AI剧漫剧市场规模达到220亿元，全年预计达到400亿元；仅上半年，抖音端原生新增AI剧及漫剧就达到22.19万部。 资本市场也在追逐这股热潮。10月以来，德才股份、慈文传媒等多只相关概念股接连涨停。火山引擎、B站等平台也纷纷推出影视及漫剧创作扶持计划。 热度还在向更广泛的AI影视创作蔓延。 热闹归热闹，赚钱是另一回事。10月12日晚，欢瑞世纪公告称，上半年AI短剧业务收入占总营收比例不足1%；德才股份涉及漫剧业务的控股孙公司奇想无限，上半年营收2457.09万元，净亏损562.17万元。 曾经参与制作北京冬奥会开幕式短片《二十四节气倒计时》的袁安洲、肖洒，也在尝试用AI制作片子，其中就包括大热的AI漫剧。 冬奥会幕后，肖洒和张艺谋合影。受访者供图 当AI让视频越来越容易生产，制作方真的赚钱了吗？专业影视人的经验还有多少价值？漫剧之外又有哪些新的创作和商业机会？带着这些问题，《疯狂科技厅》与“白猿山团队",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196816.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T08:36:24.000Z",
-      "author": "疯狂科技厅",
-      "tags": [
-        "research",
-        "主编精选文章"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b792eb4a17e582cf6f",
-      "titleOriginal": "一张桌子坐了20家巨头，桌子外面站着155个“不”",
-      "summaryOriginal": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 11月4日，乌镇。信通院牵头，华为、阿里、腾讯、小米、百度、火山引擎、蚂蚁、抖音等20家单位坐到同一张桌子前，签了一份《智能体发展自律公约》。 八条自律措施写得规整：健全信任体系、建设互联基础设施、提升互操作水平、保护用户权益、推动技术普惠。 场面话翻译成大白话就是一句：智能体时代，大家要互通互联，别各玩各的。 挺体面的。 但如果你把日历往前翻二十天，会发现另一份名单。10月14日，豆包手机助手《屏幕自动化操作声明协议》公示期满，155款应用明确拒绝接入屏幕自动化操作。 腾讯及关联生态66款，阿里及关联生态23款，快手14款，美团11款。微信、QQ、淘宝、支付宝、美团、大众点评，一个不落。 一边在乌镇签“互联”，一边在后台按“拒绝”。 两件事不矛盾，甚至可以说，它们互为注脚。 这就是今天智能体生态最诚实的一幅切片：公约解决的是 姿态 问题，名单解决的是 利益 问题。 豆包撞上的不是技术墙 先复盘一下豆包手机到底做了什么，又触到了什么。 它的技术路线很直接：识别屏幕、模拟点击和输入，像一个坐在你肩膀上的隐形手指，替你在已经",
-      "titleZh": "一张桌子坐了20家巨头，桌子外面站着155个“不”",
-      "summaryZh": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 11月4日，乌镇。信通院牵头，华为、阿里、腾讯、小米、百度、火山引擎、蚂蚁、抖音等20家单位坐到同一张桌子前，签了一份《智能体发展自律公约》。 八条自律措施写得规整：健全信任体系、建设互联基础设施、提升互操作水平、保护用户权益、推动技术普惠。 场面话翻译成大白话就是一句：智能体时代，大家要互通互联，别各玩各的。 挺体面的。 但如果你把日历往前翻二十天，会发现另一份名单。10月14日，豆包手机助手《屏幕自动化操作声明协议》公示期满，155款应用明确拒绝接入屏幕自动化操作。 腾讯及关联生态66款，阿里及关联生态23款，快手14款，美团11款。微信、QQ、淘宝、支付宝、美团、大众点评，一个不落。 一边在乌镇签“互联”，一边在后台按“拒绝”。 两件事不矛盾，甚至可以说，它们互为注脚。 这就是今天智能体生态最诚实的一幅切片：公约解决的是 姿态 问题，名单解决的是 利益 问题。 豆包撞上的不是技术墙 先复盘一下豆包手机到底做了什么，又触到了什么。 它的技术路线很直接：识别屏幕、模拟点击和输入，像一个坐在你肩膀上的隐形手指，替你在已经",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196715.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T08:36:21.000Z",
-      "author": "影子备忘录",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "78652ffe5df309c9c5",
-      "titleOriginal": "苹果，被供应链“反噬”了？",
-      "summaryOriginal": "（本文作者为 道总有理，钛媒体经授权发布） 文 | 道总有理 苹果近来有些“心塞”。 折叠屏iPhone Duo刚刚上市，屏幕故障就成了舆论焦点。多名用户反映，新机在展开过程中出现异响，随后屏幕折痕附近出现裂纹、白线，部分设备甚至出现黑屏。一波未平一波又起，一则“长鑫存储拒绝苹果订单”的消息在网上迅速发酵，苹果想要以低价获得存储芯片供应的计划泡汤。 这两件事都直指苹果向来引以为傲的全球供应链管理“艺术”。对于手机屏幕故障，怒喵科技创始人李楠称，“苹果折叠屏这么多显示高亮，屏幕裂开的问题，其实本质上还是他们和供应链生疏了，不像前些年，苹果的设计师工程师都是吃住在中国的供应链上的。” 苹果与中国供应链的关系是否在疏远，无法确认，但长鑫存储一事，简单明了地印证了苹果的议价权受到了前所未有的冲击。 过去苹果在供应链上一直是那个“定规则的人”，如今供应商们开始有底气说“不”，如外媒报道，长期憋屈的存储厂商正试图借AI向苹果展开“复仇”。在新一轮的利益分配中，苹果一人称霸的时代要结束了吗？ 苹果的“统治”，第一次出现了裂缝 除了长鑫存储拒绝苹果，近期还有一件事令外界接收到了同样的信号。 前段时间，",
-      "titleZh": "苹果，被供应链“反噬”了？",
-      "summaryZh": "（本文作者为 道总有理，钛媒体经授权发布） 文 | 道总有理 苹果近来有些“心塞”。 折叠屏iPhone Duo刚刚上市，屏幕故障就成了舆论焦点。多名用户反映，新机在展开过程中出现异响，随后屏幕折痕附近出现裂纹、白线，部分设备甚至出现黑屏。一波未平一波又起，一则“长鑫存储拒绝苹果订单”的消息在网上迅速发酵，苹果想要以低价获得存储芯片供应的计划泡汤。 这两件事都直指苹果向来引以为傲的全球供应链管理“艺术”。对于手机屏幕故障，怒喵科技创始人李楠称，“苹果折叠屏这么多显示高亮，屏幕裂开的问题，其实本质上还是他们和供应链生疏了，不像前些年，苹果的设计师工程师都是吃住在中国的供应链上的。” 苹果与中国供应链的关系是否在疏远，无法确认，但长鑫存储一事，简单明了地印证了苹果的议价权受到了前所未有的冲击。 过去苹果在供应链上一直是那个“定规则的人”，如今供应商们开始有底气说“不”，如外媒报道，长期憋屈的存储厂商正试图借AI向苹果展开“复仇”。在新一轮的利益分配中，苹果一人称霸的时代要结束了吗？ 苹果的“统治”，第一次出现了裂缝 除了长鑫存储拒绝苹果，近期还有一件事令外界接收到了同样的信号。 前段时间，",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8197089.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T08:36:18.000Z",
-      "author": "道总有理",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d8e02d11382d5b18e5",
-      "titleOriginal": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-      "summaryOriginal": "Buoyant, the company behind Linkerd, has released Kinference , an open source project for building inference platforms on Kubernetes. Kinference is an inference control plane for Kubernetes and vLLM. It sits in front of a fleet of vLLM workers and decides where each request goes. It applies routing policies, token rate limits, KV-cache-aware load balancing and per-tenant metrics in one layer. For dev teams serving many open-weight models to many internal clients, it targets the layer above the m",
-      "titleZh": "Buoyant发布Kinference ： Kubernetes和vLLM的开源推理控制平面",
-      "summaryZh": "Linkerd背后的公司Buoyant已经发布了Kinference ，这是一个在Kubernetes上构建推理平台的开源项目。Kinference是Kubernetes和vLLM的推理控制平面。它坐在一队vLLM员工面前，决定每个请求的去向。它在一层中应用路由策略、令牌速率限制、KV缓存感知负载平衡和每个租户的指标。对于为许多内部客户端提供许多开放权重模型的开发团队，它针对的是m之上的层",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-07T08:16:33.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d6a0ee98833965ceee",
-      "titleOriginal": "2026年，腾讯疯狂“补课”",
-      "summaryOriginal": "（本文作者为 影子备忘录，钛媒体经授权发布） 2026年5月13日，马化腾在股东大会上说了一句话，后来被反复截取、传播、消费：一年前以为上了船，后来发现船漏水了；现在感觉站上去了，还坐不下去，希望船速能快一点。 大多数解读把它当成一个创始人的坦诚，但坦诚只是表层。 真正值得追问的是：一艘二十年来几乎在每个赛道都“后发而至”的船，为什么这一次上了船才发现船体本身有问题？ 答案都藏在腾讯补课的姿势里。如果把腾讯2025年底到2026年的一系列动作摊开看，比如组织收权、财务优先级重置、模型地基重浇、入口逻辑切换、云商业化路径重选、投资生态的边界暴露等，你会发现它们不是六个平行的业务故事，而是同一道题的不同解法。 这道题叫： 一个建立在流量、连接和分权之上的旧生态，如何长出以算力、模型和集中调度为特征的新地基，同时不被旧地基的引力拖垮。 一家“联邦制”公司，开始学“战时集中” 理解腾讯的补课，必须从它的组织基因开始。 腾讯过去二十年的竞争力，很大程度上建立在一种“联邦制”上。微信从邮箱团队跑出，游戏靠内部赛马杀出，各业务单元长期拥有独立的预算、技术判断和决策权，集团更像协调者而非命令者。 这套",
-      "titleZh": "2026年，腾讯疯狂“补课”",
-      "summaryZh": "（本文作者为 影子备忘录，钛媒体经授权发布） 2026年5月13日，马化腾在股东大会上说了一句话，后来被反复截取、传播、消费：一年前以为上了船，后来发现船漏水了；现在感觉站上去了，还坐不下去，希望船速能快一点。 大多数解读把它当成一个创始人的坦诚，但坦诚只是表层。 真正值得追问的是：一艘二十年来几乎在每个赛道都“后发而至”的船，为什么这一次上了船才发现船体本身有问题？ 答案都藏在腾讯补课的姿势里。如果把腾讯2025年底到2026年的一系列动作摊开看，比如组织收权、财务优先级重置、模型地基重浇、入口逻辑切换、云商业化路径重选、投资生态的边界暴露等，你会发现它们不是六个平行的业务故事，而是同一道题的不同解法。 这道题叫： 一个建立在流量、连接和分权之上的旧生态，如何长出以算力、模型和集中调度为特征的新地基，同时不被旧地基的引力拖垮。 一家“联邦制”公司，开始学“战时集中” 理解腾讯的补课，必须从它的组织基因开始。 腾讯过去二十年的竞争力，很大程度上建立在一种“联邦制”上。微信从邮箱团队跑出，游戏靠内部赛马杀出，各业务单元长期拥有独立的预算、技术判断和决策权，集团更像协调者而非命令者。 这套",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196720.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T05:56:35.000Z",
-      "author": "影子备忘录",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a556ec6077950a4f90",
-      "titleOriginal": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "summaryOriginal": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-      "titleZh": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-07T04:16:43.000Z",
-      "author": "Dominic-Madori Davis",
-      "tags": [
-        "news",
-        "AI",
-        "Government & Policy",
-        "big tech",
-        "Image"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d8b2a306eae7a955b2",
-      "titleOriginal": "[AINews] Anthropic IPO: Whither Now?",
-      "summaryOriginal": "It’s a relatively quiet news day, and the AI market rout we referenced obliquely two days ago has deepened, though it might be leveling off not even halfway into bear market territory (-10% on Nasdaq, not -20%). That said, everything being “priced to perfection” means any surprise that is not to the upside is probably to the downside, knocking valuation estimates down as low as $1T and probability down 18% . Anthropic’s year end target is $100B run rate, and they’re now at $80B . We discuss all",
-      "titleZh": "[AINews] Anthropic IPO ：现在去哪里？",
-      "summaryZh": "这是一个相对平静的新闻日，我们两天前间接提到的人工智能市场暴跌已经加深，尽管它甚至可能在进入熊市区域不到一半的时间内趋于平稳（纳斯达克指数下跌10% ，而不是下跌20% ）。也就是说， “完美定价”意味着任何不上涨的意外可能是下行，将估值下调至1万亿美元，概率下跌18%。Anthropic的年终目标是1000亿美元的运行率，现在为800亿美元。我们讨论了所有",
-      "translated": true,
-      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-11-07T03:04:53.000Z",
-      "author": "swyx .ai",
-      "tags": [
-        "analysis",
-        "ainews: weekday roundups"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "889ae2e739f0ed2fae",
-      "titleOriginal": "港股上市公司杀入币圈，高调囤币4000枚，套现1377万美元",
-      "summaryOriginal": "（本文作者为 多空象限，钛媒体经授权发布） 文 | 多空象限 港股唯一上市家办，“清仓甩卖”比特币。 11月4日，港股上市家办公司“德林控股”公告称，公司在9—11月两个月内卖出172枚比特币，套现约1377万美元。 德林控股是唯一一家在港股上市的家办类公司，管理资产超过35亿美元。 2025年11月，德林进军比特币挖矿，并放话要做港股“比特币挖矿算力第一股”、两年储备4000枚比特币。如今，德林产出的比特币已卖出将近九成，存量不足40枚。 德林创始人陈宁迪、江欣荣夫妇，都在投资圈浸淫多年。 江欣荣曾是首届中华小姐环球大赛冠军、凤凰卫视主持，后转战汇丰、渣打等银行巨头；她的丈夫陈宁迪出身汇丰投行，是博亚资本创始人。 2020年，这对夫妻把家办做到港交所上市，又在2025年高调搞比特币挖矿，规划最高1亿美元算力投资，并逐步布局RWA代币化。 近年来，上市公司持有比特币已不是个例。美股上市公司Strategy和MARA、港股上市的德林控股和博雅互动，都将比特币纳入了资产运作的版图。那么，上市公司买币、挖矿究竟能厚增业绩吗？ 高调进军挖矿领域，转头卖币换现金 近日，德林控股公告称：9月3日至",
-      "titleZh": "港股上市公司杀入币圈，高调囤币4000枚，套现1377万美元",
-      "summaryZh": "（本文作者为 多空象限，钛媒体经授权发布） 文 | 多空象限 港股唯一上市家办，“清仓甩卖”比特币。 11月4日，港股上市家办公司“德林控股”公告称，公司在9—11月两个月内卖出172枚比特币，套现约1377万美元。 德林控股是唯一一家在港股上市的家办类公司，管理资产超过35亿美元。 2025年11月，德林进军比特币挖矿，并放话要做港股“比特币挖矿算力第一股”、两年储备4000枚比特币。如今，德林产出的比特币已卖出将近九成，存量不足40枚。 德林创始人陈宁迪、江欣荣夫妇，都在投资圈浸淫多年。 江欣荣曾是首届中华小姐环球大赛冠军、凤凰卫视主持，后转战汇丰、渣打等银行巨头；她的丈夫陈宁迪出身汇丰投行，是博亚资本创始人。 2020年，这对夫妻把家办做到港交所上市，又在2025年高调搞比特币挖矿，规划最高1亿美元算力投资，并逐步布局RWA代币化。 近年来，上市公司持有比特币已不是个例。美股上市公司Strategy和MARA、港股上市的德林控股和博雅互动，都将比特币纳入了资产运作的版图。那么，上市公司买币、挖矿究竟能厚增业绩吗？ 高调进军挖矿领域，转头卖币换现金 近日，德林控股公告称：9月3日至",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196556.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T02:35:36.000Z",
-      "author": "多空象限",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "546b922672b3501e76",
-      "titleOriginal": "50系突然疯涨，买不起显卡，年轻人又挤进网吧包夜了",
-      "summaryOriginal": "（本文作者为 源Sight，钛媒体经授权发布） 文 | 源Sight，作者 | 白河/杨子一 刚需党和等等党一觉醒来发现天塌了。 近日，七彩虹方面宣布正式执行新一轮工厂价格调整政策，英伟达RTX 50系列多款显卡渠道价格全面大幅上调。 其中搭载RTX 5090 DV2核心的显卡成为溢价“重灾区”，单卡价格上涨区间高达2200元至3300元；次旗舰级RTX 5080整体上调2500元至2800元；面向主流用户的RTX 5070与RTX 5060价格最高上调幅度达到1000元。 分析指出，本轮调价属于工厂成本和渠道代理层面的变动，预计会在未来1至2周内全面传导并更新至电商等零售终端挂牌价。另有渠道消息称，包括华硕、影驰、微星等英伟达阵营的AIC厂商目前已经暂停放货，预计将在本周跟进调价；另外，AMD的Radeon系列显卡预期也会在本月内开启一轮全面涨价。 上游供给提价信号明确，为近两个月疯涨的显卡零售市场再添一把猛火。与此同时，大批失去“装机自由”的年轻人，开始涌入网吧和电竞酒店。 01 显卡价格疯涨 百度显卡吧曾经流传“三千预算进卡吧，加钱加到九万八”这一说法，原本只是用作调侃电脑装机D",
-      "titleZh": "50系突然疯涨，买不起显卡，年轻人又挤进网吧包夜了",
-      "summaryZh": "（本文作者为 源Sight，钛媒体经授权发布） 文 | 源Sight，作者 | 白河/杨子一 刚需党和等等党一觉醒来发现天塌了。 近日，七彩虹方面宣布正式执行新一轮工厂价格调整政策，英伟达RTX 50系列多款显卡渠道价格全面大幅上调。 其中搭载RTX 5090 DV2核心的显卡成为溢价“重灾区”，单卡价格上涨区间高达2200元至3300元；次旗舰级RTX 5080整体上调2500元至2800元；面向主流用户的RTX 5070与RTX 5060价格最高上调幅度达到1000元。 分析指出，本轮调价属于工厂成本和渠道代理层面的变动，预计会在未来1至2周内全面传导并更新至电商等零售终端挂牌价。另有渠道消息称，包括华硕、影驰、微星等英伟达阵营的AIC厂商目前已经暂停放货，预计将在本周跟进调价；另外，AMD的Radeon系列显卡预期也会在本月内开启一轮全面涨价。 上游供给提价信号明确，为近两个月疯涨的显卡零售市场再添一把猛火。与此同时，大批失去“装机自由”的年轻人，开始涌入网吧和电竞酒店。 01 显卡价格疯涨 百度显卡吧曾经流传“三千预算进卡吧，加钱加到九万八”这一说法，原本只是用作调侃电脑装机D",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196665.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T01:54:32.000Z",
-      "author": "源Sight",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "36231604b2886429fe",
-      "titleOriginal": "Crusoe sells troubled Wyoming data center project to Google",
-      "summaryOriginal": "The deal highlights the challenges of developing massive AI data centers.",
-      "titleZh": "Crusoe将陷入困境的怀俄明州数据中心项目出售给谷歌",
-      "summaryZh": "这笔交易凸显了开发大规模人工智能数据中心的挑战。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-07T01:40:28.000Z",
-      "author": "Marina Temkin",
-      "tags": [
-        "news",
-        "AI",
-        "ai infrastructure",
-        "crusoe",
-        "datacenter"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4fc0922f38f866aa32",
-      "titleOriginal": "AI基建预期生变，万盛股份2.85亿溢价并购遭上交所三问",
-      "summaryOriginal": "11月6日， 万盛股份 （603010.SH）披露监管工作函回复，回应上交所对公司拟收购标的青岛金博行新材料科技有限公司(以下简称“博行新材”）业务与财务、交易定价及分红安排等的追问。 此前的10月24日，公司发布公告称，拟以约2.85亿元收购博行新材70%股权，进而控制东科化工。作为交易定价参考，东科全部股权评估值为4.1亿元，较评估基准日账面净资产增值500.63%。 值得注意的是，这笔收购推进之际，美国中期选举引发市场对数据中心建设受限的担忧，AI相关股票大幅调整。而东科化工近年的盈利增长，部分受益于AI服务器、高速交换机拉动的覆铜板需求。下游扩张预期出现变化，也给这笔交易提出了新的疑问：东科化工能否延续评估所预计的收入增长，并在扩产投入后兑现九成分红？ AI基建预期生变，标的盈利受追问 美国当地时间11月5日， 纳斯达克 综合指数下跌5.5%。据路透社报道，民主党在中期选举中获胜后，投资者担心数据中心建设将面临更多限制，AI硬件及基础设施相关股票承压。如果数据中心建设放缓，服务器及相关电路板采购节奏调整，压力可能传导至覆铜板和上游阻燃材料。 博行新材是一家持股平台，生产经营由东",
-      "titleZh": "AI基建预期生变，万盛股份2.85亿溢价并购遭上交所三问",
-      "summaryZh": "11月6日， 万盛股份 （603010.SH）披露监管工作函回复，回应上交所对公司拟收购标的青岛金博行新材料科技有限公司(以下简称“博行新材”）业务与财务、交易定价及分红安排等的追问。 此前的10月24日，公司发布公告称，拟以约2.85亿元收购博行新材70%股权，进而控制东科化工。作为交易定价参考，东科全部股权评估值为4.1亿元，较评估基准日账面净资产增值500.63%。 值得注意的是，这笔收购推进之际，美国中期选举引发市场对数据中心建设受限的担忧，AI相关股票大幅调整。而东科化工近年的盈利增长，部分受益于AI服务器、高速交换机拉动的覆铜板需求。下游扩张预期出现变化，也给这笔交易提出了新的疑问：东科化工能否延续评估所预计的收入增长，并在扩产投入后兑现九成分红？ AI基建预期生变，标的盈利受追问 美国当地时间11月5日， 纳斯达克 综合指数下跌5.5%。据路透社报道，民主党在中期选举中获胜后，投资者担心数据中心建设将面临更多限制，AI硬件及基础设施相关股票承压。如果数据中心建设放缓，服务器及相关电路板采购节奏调整，压力可能传导至覆铜板和上游阻燃材料。 博行新材是一家持股平台，生产经营由东",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196758.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T01:21:27.000Z",
-      "author": "景行知屿",
-      "tags": [
-        "research",
-        "主编精选文章"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9fa149693ba0dbebb7",
-      "titleOriginal": "Edge AI Daily 早报（11月7日）",
-      "summaryOriginal": "硅谷前沿： 一、Anthropic 推进 IPO：1.5 万亿美元重估 AI 产业链 1.财务“反常识”：2026年前九个月营收332.4亿美元（同比增1206%），GAAP净亏损1040亿美元，其中943亿美元源自可转债等金融工具公允价值变动，属随估值上升产生的“纸面亏损”；剔除后调整后净收入56亿美元（上年同期为亏损29亿），上半年经营性现金流首次转正至39亿美元，核心经营质量在改善而非失血。 2.IPO定价与市场影响：11月初递交修订S-1，估值区间1.5万亿至2万亿美元，较一周前预期下调约5000亿，反映科技股抛售与资本成本上升下投资者转向现金流折现；拟最多募资1000亿美元（超SpaceX约857亿纪录），代码ANT拟登纳斯达克。其定价将成为AI产业链锚点，牵动亚马逊、Alphabet、微软的股权与可转债重估，并影响OpenAI后续IPO窗口。 3.增长与风险：已签约8954亿美元算力采购与租赁承诺（约为2025年营收195倍），其中698亿美元未来12个月到期；净收入留存率约900%（优质SaaS通常120%至130%），“每美元算力带来收入”由2025年一季度的0.40美",
-      "titleZh": "Edge AI Daily 早报（11月7日）",
-      "summaryZh": "硅谷前沿： 一、Anthropic 推进 IPO：1.5 万亿美元重估 AI 产业链 1.财务“反常识”：2026年前九个月营收332.4亿美元（同比增1206%），GAAP净亏损1040亿美元，其中943亿美元源自可转债等金融工具公允价值变动，属随估值上升产生的“纸面亏损”；剔除后调整后净收入56亿美元（上年同期为亏损29亿），上半年经营性现金流首次转正至39亿美元，核心经营质量在改善而非失血。 2.IPO定价与市场影响：11月初递交修订S-1，估值区间1.5万亿至2万亿美元，较一周前预期下调约5000亿，反映科技股抛售与资本成本上升下投资者转向现金流折现；拟最多募资1000亿美元（超SpaceX约857亿纪录），代码ANT拟登纳斯达克。其定价将成为AI产业链锚点，牵动亚马逊、Alphabet、微软的股权与可转债重估，并影响OpenAI后续IPO窗口。 3.增长与风险：已签约8954亿美元算力采购与租赁承诺（约为2025年营收195倍），其中698亿美元未来12个月到期；净收入留存率约900%（优质SaaS通常120%至130%），“每美元算力带来收入”由2025年一季度的0.40美",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8196982.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T00:28:54.000Z",
-      "author": "Edge AI Daily",
-      "tags": [
-        "news",
-        "AGI",
-        "大模型"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7d72fa1e4ff658c956",
-      "titleOriginal": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
-      "summaryOriginal": "周末也值得一看的新闻 触屏 MacBook Pro 开卖首日，部分渠道缺货，部分渠道发券 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 仰望 U9 Xtreme 在阿布扎比跑出 503.17 km/h 新华社与优必选发布仿生机器人主播，张艺谋负责形象设计 张雪：将参加 36 名重庆大学学生的校招二面 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 小米汽车国际业务部架构曝光，销售、交付和售后分设团队 广电总局整治微短剧「盗脸」「偷声」，换名重播也在治理范围内 中国空间站把铷原子云冷却到 9.7 皮开尔文 曝 OpenAI 新一轮融资首批约 110 亿美元已到账 微软被曝未续签甲骨文算力租约，正陆续停用相关设备 博世吴永桥：汽车不该拿来订咖啡订机票 Airbnb CEO：AI 助手带来的订单很少，旅行规划仍需要多人参与 Meta 为 Muse 加入实时通话，虚拟形象会跟着对话做表情 Perplexity 推出能长期跟进任务的 AI「同事」 Thinking Machines Lab 发布 Inkling 2 Small 索",
-      "titleZh": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
-      "summaryZh": "周末也值得一看的新闻 触屏 MacBook Pro 开卖首日，部分渠道缺货，部分渠道发券 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验 仰望 U9 Xtreme 在阿布扎比跑出 503.17 km/h 新华社与优必选发布仿生机器人主播，张艺谋负责形象设计 张雪：将参加 36 名重庆大学学生的校招二面 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能 小米汽车国际业务部架构曝光，销售、交付和售后分设团队 广电总局整治微短剧「盗脸」「偷声」，换名重播也在治理范围内 中国空间站把铷原子云冷却到 9.7 皮开尔文 曝 OpenAI 新一轮融资首批约 110 亿美元已到账 微软被曝未续签甲骨文算力租约，正陆续停用相关设备 博世吴永桥：汽车不该拿来订咖啡订机票 Airbnb CEO：AI 助手带来的订单很少，旅行规划仍需要多人参与 Meta 为 Muse 加入实时通话，虚拟形象会跟着对话做表情 Perplexity 推出能长期跟进任务的 AI「同事」 Thinking Machines Lab 发布 Inkling 2 Small 索",
-      "translated": true,
-      "url": "https://www.ifanr.com/1688251",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T00:27:17.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "launch",
-        "早报",
-        "AI 智能体",
-        "iPhone Duo",
-        "MacBook Pro"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6813d62fd92533cd21",
-      "titleOriginal": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "summaryOriginal": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg . That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal reports from last week, Bloomberg says OpenAI is still pursuing additional investments that could increase the amount to $20 billion, and that it had initially hoped to raise as much",
-      "titleZh": "随着竞争对手Anthropic接近IPO ， OpenAI的估值为1.25万$",
-      "summaryZh": "据彭博社报道， OpenAI目前在新一轮融资中的估值为1.25万亿美元，该轮融资又筹集了110亿美元。这将使它成为世界上最有价值的公司之一，在3月份以8520亿美元的估值从投资者那里筹集了1220亿美元后不久。与英国《金融时报》和《华尔街日报》上周的报道相呼应，彭博社表示， OpenAI仍在寻求额外的投资，这些投资可能会增加到200亿美元，它最初希望",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-06T23:46:18.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1bc7ba2a28c4372d5a",
-      "titleOriginal": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "summaryOriginal": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times . The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed is a customer of Nvidia's, and Alice Huang also has \"relationships with executives at the highest levels of the A.I. chip industry,\" including leader",
-      "titleZh": "据报道，中国招募人工智能高管监视Jensen Huang",
-      "summaryZh": "据《纽约时报》报道，中国情报机构聘请了Megaspeed高管黄爱丽丝（ Alice Huang ）监视英伟达（ Nvidia ）首席执行官黄延森（ Jensen Huang ）。国家安全部（ MSS ）邀请她收集有关美国人工智能芯片的信息，并“可能影响公司推动向中国提供最先进的芯片。“ Megaspeed是英伟达的客户， Alice Huang也“与人工智能芯片行业最高层的高管建立了关系” ，包括领导者",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-06T23:00:44.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "314bd089789a099591",
-      "titleOriginal": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "summaryOriginal": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "titleZh": "据报道， OpenAI以1.25万亿美元的估值额外筹集了110亿美元",
-      "summaryZh": "据报道，作为一轮融资的一部分， OpenAI又筹集了110亿美元，这轮融资尚未结束，但预计将在未来几周内完成。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-06T22:53:46.000Z",
-      "author": "Lucas Ropek",
-      "tags": [
-        "news",
-        "AI",
-        "Anthropic",
-        "fundraising",
-        "In Brief"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c0641eb0de56205a16",
-      "titleOriginal": "All the latest updates on AI data centers",
-      "summaryOriginal": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms , and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely",
-      "titleZh": "人工智能数据中心的所有最新更新",
-      "summaryZh": "大规模的新数据中心是科技公司对人工智能的希望和梦想的物理基础。但是，急于扩建装满耗能服务器的仓库也引发了世界各地关于其对电网、公用事业账单、附近社区和环境影响的争论。在2026年中期选举之前，数据中心是一个主要的两党问题，选民在很大程度上反对数据中心的扩张。像OpenAI和亚马逊这样的科技巨头承诺将更密切地合作",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-06T20:02:22.000Z",
-      "author": "Verge Staff",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "edc88645f18e281d2e",
-      "titleOriginal": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-      "summaryOriginal": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small. The article Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model appeared first on The",
-      "titleZh": "Ripple-65B Preview以完全Apache 2.0开放的美国模式提供强大的代理编码结果",
-      "summaryZh": "Ricursive Intelligence正在发布Ripple-65B Preview ，这是一种650亿参数的开放权重语言模型，该公司表示，该模型在TerminalBench 2.1编码基准测试中获得了美国开源模型中的最高分，总研发成本为3200万美元。然而，在其他基准测试中， Ripple落后于同样新发布的西部开放模型Inkling 2 Small。文章Ripple-65B Preview提供了强大的代理编码结果，因为一个完全Apache 2.0开放的美国模型首次出现在",
-      "translated": true,
-      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-06T19:47:04.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "research",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Open Source"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4758b3e08407453103",
-      "titleOriginal": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summaryOriginal": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-      "titleZh": "数百个公开暴露在网络中的Artex AI黑客工具",
-      "summaryZh": "安全研究人员发现，数百台托管渗透测试工具Artex的服务器暴露在互联网上，允许任何人访问黑客工具。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:44:38.000Z",
-      "author": "Zack Whittaker",
-      "tags": [
-        "news",
-        "AI",
-        "Security",
-        "cybersecurity",
-        "cyberattack"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "46e88a02e03424f2e4",
-      "titleOriginal": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summaryOriginal": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "titleZh": "Meta引入了Spaces ，这是一种与Muse代理进行协作的新方法",
-      "summaryZh": "Meta的Muse代理继续获得新功能和集成。Spaces有望成为与人工智能助手互动的新方式。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-06T18:44:20.000Z",
-      "author": "Lucas Ropek",
-      "tags": [
-        "news",
-        "AI",
-        "agents",
-        "Mark Zuckerberg",
-        "Meta"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11523,7 +11520,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 79
+      "count": 74
     },
     {
       "id": "theverge",
@@ -11531,7 +11528,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 53
+      "count": 52
     },
     {
       "id": "mittr",
@@ -11547,7 +11544,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 30
+      "count": 32
     },
     {
       "id": "thedecoder",
@@ -11555,7 +11552,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 54
+      "count": 56
     },
     {
       "id": "marktechpost",
@@ -11563,7 +11560,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 27
+      "count": 28
     },
     {
       "id": "simonwillison",
@@ -11611,7 +11608,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 113
+      "count": 114
     },
     {
       "id": "infoq",
@@ -11624,7 +11621,7 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 39,
+    "guides": 40,
     "translated": 239,
     "sources": 15
   }
