@@ -1,6 +1,142 @@
 {
-  "generatedAt": "2026-11-15T17:16:29.985Z",
+  "generatedAt": "2026-11-15T22:57:27.224Z",
   "articles": [
+    {
+      "id": "87d7014c15ee68a3a2",
+      "titleOriginal": "A step toward defining the Standard Model on a lattice",
+      "summaryOriginal": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "titleZh": "朝着在格点上定义标准模型迈出的一步",
+      "summaryZh": "探索标准模型的候选非微扰格点定义，以及GPT-6 Astra如何帮助将这一想法转化为详细的证明。",
+      "translated": true,
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-15T22:00:01.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Science"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4b0fc5b701ffd77dc1",
+      "titleOriginal": "Our new blog for science",
+      "summaryOriginal": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "titleZh": "我们的新科学博客",
+      "summaryZh": "OpenAI科学博客分享了使用人工智能推进科学发现的研究人员的新发现、实用方法和第一手经验。",
+      "translated": true,
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-15T22:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Science"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9e3d554c6cb56d83d8",
+      "titleOriginal": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summaryOriginal": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "titleZh": "对黄仁勋来说是坏消息，对人工智能行业来说也是坏消息吗？",
+      "summaryZh": "Jensen就是Nvidia，对吧？而这片经济的很大一部分都寄托在Nvidia身上。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-15T21:56:35.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "Equity podcast",
+        "Jensen Huang"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2f1f5cbf7ce833ab47",
+      "titleOriginal": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summaryOriginal": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the company since August of 2025, which raises more questions than it answers. Some big names, including El",
+      "titleZh": "黄仁勋可能正在策划回归，以及更多有关英伟达的最新戏剧性事件",
+      "summaryZh": "围绕英伟达联合创始人兼前首席执行官黄仁勋的戏剧性事件正在迅速发展。我们的Stepback通讯最新一期应该能让您了解最新情况，但自今天上午以来已经出现了一些新的进展。其中包括传言称黄仁勋可能正试图重返首席执行官职位，以及Megaspeed的一份声明，声称Alice Huang自2025年8月起就未在该公司工作，这引发的问题比它所解答的还要多。一些知名人士，包括El",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:43:49.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d9bb72c7b4b4341821",
+      "titleOriginal": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summaryOriginal": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "titleZh": "《周六夜现场》召集所有科技巨头学习约会和间谍技巧",
+      "summaryZh": "虽然笨拙、令人毛骨悚然的科技公司高管已成为《周六夜现场》的一个常见主题，但本周的节目让演员们有机会一次性展示他们对所有这些高管的模仿。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-15T20:20:57.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Media & Entertainment",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1207b5c1c70bbc649c",
+      "titleOriginal": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summaryOriginal": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority Leader Chuck Schumer has already said that Huang and the Trump administration need to answer to Congress . Senate Banking Com",
+      "titleZh": "在英伟达间谍丑闻之后，国会希望收紧人工智能芯片的出口规定",
+      "summaryZh": "不出所料，在发生涉及现已卸任的英伟达首席执行官黄仁勋和一名疑似中国间谍的丑闻之后，美国国会正寻求进一步限制人工智能芯片的出口。民主党和共和党都表示支持旨在收紧监管的各种措施和法案，并要求黄仁勋和英伟达的其他高管在国会作证。参议院少数党领袖查克·舒默（Chuck Schumer）已经表示，黄仁勋和特朗普政府需要向国会作出交代。参议院银行委员会",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-15T19:15:43.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "708d7bad7f856e6447",
       "titleOriginal": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
@@ -658,9 +794,9 @@
       "tags": [
         "launch",
         "AI",
+        "evergreens",
         "Microsoft",
-        "OpenAI",
-        "evergreens"
+        "OpenAI"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -11352,147 +11488,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "aa276ff97d7fabbc46",
-      "titleOriginal": "MiniMax怎样实现AGI ？闫俊杰的办法是抄“后”路",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI “最后这5%的差距，可能比完成前面95%要难得多。” 在最近发布的一期英国播客《Invest in Progress》中，MiniMax创始人闫俊杰谈到了中国大模型追赶美国同行的难度。 与他对谈的是Scottish Mortgage投资经理劳伦斯&middot;伯恩斯（Lawrence Burns）。2025年12月，伯恩斯到中国拜访闫俊杰，听到了一个令他印象深刻的判断：中国最好的模型已经能达到美国顶尖模型约95%的性能，成本却只有十分之一。随后，Scottish Mortgage参与了MiniMax的香港IPO。 这一次，伯恩斯想知道，这两个差距发生了什么变化。 闫俊杰没有给出新的百分比。他说，最后5%仍需要时间追赶，中美模型在通往AGI的路上也都处于早期阶段。他更关心的是进步的速度。 成本是这场对话反复涉及的话题。闫俊杰认为，降低推理成本，既能让更多人用上模型，也能让MiniMax做更多后训练，继续提高模型能力。他用公司的名字解释这件事：Mini，是把推理成本降下来；Max，是把智能的上限推高。 围绕这条路线，他还给出了",
-      "titleZh": "MiniMax怎样实现AGI ？闫俊杰的办法是抄“后”路",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI “最后这5%的差距，可能比完成前面95%要难得多。” 在最近发布的一期英国播客《Invest in Progress》中，MiniMax创始人闫俊杰谈到了中国大模型追赶美国同行的难度。 与他对谈的是Scottish Mortgage投资经理劳伦斯&middot;伯恩斯（Lawrence Burns）。2025年12月，伯恩斯到中国拜访闫俊杰，听到了一个令他印象深刻的判断：中国最好的模型已经能达到美国顶尖模型约95%的性能，成本却只有十分之一。随后，Scottish Mortgage参与了MiniMax的香港IPO。 这一次，伯恩斯想知道，这两个差距发生了什么变化。 闫俊杰没有给出新的百分比。他说，最后5%仍需要时间追赶，中美模型在通往AGI的路上也都处于早期阶段。他更关心的是进步的速度。 成本是这场对话反复涉及的话题。闫俊杰认为，降低推理成本，既能让更多人用上模型，也能让MiniMax做更多后训练，继续提高模型能力。他用公司的名字解释这件事：Mini，是把推理成本降下来；Max，是把智能的上限推高。 围绕这条路线，他还给出了",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8197537.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-08T12:05:35.000Z",
-      "author": "字母AI",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3b57d3e3ef87082368",
-      "titleOriginal": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-      "summaryOriginal": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-      "titleZh": "我使用了纽约时报烹饪的新AI驱动的食谱修改器，它实际上相当不错",
-      "summaryZh": "《纽约时报》在其烹饪应用程序中添加了一项测试功能，可帮助读者交换食材或调整食谱以满足他们的需求。它基本上达到了目标。",
-      "translated": true,
-      "url": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-08T12:00:00.000Z",
-      "author": "Joe Ray",
-      "tags": [
-        "analysis",
-        "Gear",
-        "Gear / Gear News and Events"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cbc9ada65cdb26642d",
-      "titleOriginal": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
-      "summaryOriginal": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap. The article The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts appeared first on The Decoder .",
-      "titleZh": "苦涩课程的发明者为LLM扩展爱好者提供了苦涩的教训",
-      "summaryZh": "图灵奖得主理查德·萨顿（ Richard Sutton ）重申，仅靠原始计算不足以实现智能，需要从根本上采用新的学习方法。前OpenAI研究员Tworek同意这一观点，他说，盲变压器扩展“奖励了整整一代科学家的黑客大脑。“越来越多的初创公司已经在押注这一差距。文章苦涩课程的发明者为LLM扩展爱好者提供了一个苦涩的教训，首次出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-08T11:44:41.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI research",
-        "Artificial Intelligence",
-        "AI Compute",
-        "Data"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6ec91eb53be5a83594",
-      "titleOriginal": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
-      "summaryOriginal": "Google has open-sourced the Elephant-Goldfish Model (EGM) plugin , a design-and-review layer for AI coding agents. The Elephant-Goldfish Model plugin makes an agent write a specification before it writes code. Fresh subagents with no conversation history then attack that spec. Google says thousands of its engineers use it . It is quite simple: catch wrong assumptions in a Markdown file, not in a pull request. TL;DR Size: 7 skills, 9 reviewer personas, 6 brainstorm lenses, 5 review stages. No mod",
-      "titleZh": "Google AI发布用于Spec-First编码的Elephant-Goldfish模型插件",
-      "summaryZh": "谷歌已经开源了大象-金鱼模型（ EGM ）插件，这是一个用于AI编码代理的设计和审查层。Elephant-Goldfish模型插件使代理在编写代码之前编写规范。新建没有对话历史记录的子代理，然后攻击该规范。谷歌表示，其成千上万的工程师都在使用它。这很简单：在Markdown文件中捕获错误的假设，而不是在拉取请求中。TL; DR大小： 7个技能， 9个审核人角色， 6个头脑风暴镜头， 5个审核阶段。无MOD",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-08T10:46:18.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0d6adb4565b62d214e",
-      "titleOriginal": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
-      "summaryOriginal": "Open Mixture-of-Experts (MoE) models share one idea but disagree on almost every routing detail. Expert counts range from 8 to 384. Top-k ranges from 1 to 8. Some models keep an always-on shared expert; others drop it. TL;DR Size: 10 models, from Qwen3.6-35B-A3B (35B total, 3B active) to DeepSeek-V4-Pro (1.6T total, 49B active). Runs on: gpt-oss-120b fits one 80 GB GPU with MXFP4; DeepSeek-V4-Pro and Kimi K2 need multi-GPU expert parallelism. Performance: Routed sparsity spans 4x in Mixtral (8 e",
-      "titleZh": "每个教育部模型使用哪种路由？ DeepSeek、Qwen、Mixtral、Llama 4、gpt-oss比较",
-      "summaryZh": "开放式专家混合（ MoE ）模型共享一个想法，但在几乎所有路由细节上都不同意。专家计数从8到384不等。Top-k的范围从1到8。有些模型会保留一个始终在线的共享专家；另一些则会放弃。TL ； DR大小： 10个型号，从Qwen3.6-35B-A3B （共35B ， 3B激活）到DeepSeek-V4-Pro （共1.6T ， 49B激活）。运行在： gpt-oss-120b适合一个80 GB的MXFP4显卡； DeepSeek-V4-Pro和Kimi K2需要多GPU专家并行。性能：路由稀疏性跨度为Mixtral中的4倍（ 8 e",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-08T10:27:27.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "AI Infrastructure",
-        "Applications",
-        "Artificial Intelligence",
-        "Editors Pick"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a73848b3a77095ef55",
-      "titleOriginal": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
-      "summaryOriginal": "",
-      "titleZh": "从约束到进化：Ontology 与 AI 自迭代的实践｜AICon北京",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/sy9XMK3zJ3jPwHBN5fQV",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-08T10:00:00.000Z",
-      "author": "AICon 全球人工智能开发与应用大会",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11502,7 +11497,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 19
+      "count": 21
     },
     {
       "id": "deepmind",
@@ -11518,7 +11513,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 76
+      "count": 78
     },
     {
       "id": "theverge",
@@ -11526,7 +11521,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 49
+      "count": 51
     },
     {
       "id": "mittr",
@@ -11542,7 +11537,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 32
+      "count": 31
     },
     {
       "id": "thedecoder",
@@ -11550,7 +11545,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 54
+      "count": 53
     },
     {
       "id": "marktechpost",
@@ -11558,7 +11553,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 27
+      "count": 25
     },
     {
       "id": "simonwillison",
@@ -11606,7 +11601,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 116
+      "count": 115
     },
     {
       "id": "infoq",
@@ -11614,13 +11609,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 51
+      "count": 50
     }
   ],
   "stats": {
     "total": 500,
     "guides": 37,
-    "translated": 247,
+    "translated": 249,
     "sources": 15
   }
 }
