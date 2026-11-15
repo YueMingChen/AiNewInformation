@@ -1,6 +1,31 @@
 {
-  "generatedAt": "2026-11-15T09:35:59.128Z",
+  "generatedAt": "2026-11-15T17:16:29.985Z",
   "articles": [
+    {
+      "id": "708d7bad7f856e6447",
+      "titleOriginal": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+      "summaryOriginal": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic's Claude Fable 5.2 doesn't generate images, it paints them appeared first on",
+      "titleZh": "Anthropic的Claude Fable 5.2不会生成图像，而是会绘制图像",
+      "summaryZh": "Anthropic的Claude Fable 5.2生成图像的方式与其他人工智能模型不同。该语言模型并不计算像素，而是编写Python代码，将成千上万的模拟笔触绘制在虚拟画布上，并呈现出刷毛质感和颜料涂抹效果。据Anthropic员工Jake Eaton介绍，一幅逼真的停车场场景大约需要70万笔。文章《Anthropic的Claude Fable 5.2不会生成图像，而是会绘制图像》最初发表于",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-15T15:42:03.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "8815ded44f7848be3e",
       "titleOriginal": "Yelp AI 助手融合原生 UI 与服务端驱动 UI",
@@ -20,6 +45,172 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "68dce595988d23bdbf",
+      "titleOriginal": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+      "summaryOriginal": "Megaspeed, the firm owned by ousted Nvidia CEO Jensen Huang's former lover Alice Huang, arranged nearly $12 billion in Nvidia chip orders for Chinese companies between 2024 and 2025, according to the WSJ. Short seller Culper Research estimates Nvidia's actual China revenue share exceeds 20 percent, far above the officially reported 7 percent. The article Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China appeared first on The Decoder .",
+      "titleZh": "据报道，与黄仁勋前女友有关联的公司为中国撮合了近120亿美元的英伟达芯片订单",
+      "summaryZh": "据《华尔街日报》报道，Megaspeed是一家由被罢免的英伟达首席执行官黄仁勋的前女友黄梓珊（Alice Huang）拥有的公司，该公司在2024年至2025年间为中国公司安排了近120亿美元的英伟达芯片订单。做空机构Culper Research估计，英伟达在中国市场的实际营收占比超过20%，远高于官方报告的7%。题为《据报道，与黄仁勋前女友有关联的公司为中国促成了近120亿美元的英伟达芯片订单》的文章最初发表在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-15T14:45:12.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Nvidia"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4c525e5e54fa36453d",
+      "titleOriginal": "An overview of Jensen Huang’s messy days",
+      "summaryOriginal": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started On October 29th, The New York Times reported that Nvidia co-founder and showman CEO Jensen Huang appeared to be the target of a Chinese spy plot. Any major tech CEO potenti",
+      "titleZh": "黄仁勋的混乱日子概览",
+      "summaryZh": "本期是《The Stepback》，这是一份每周通讯，深入剖析科技界的一则重要新闻。如需了解有关黄仁勋辞职以及英伟达领导层危机所产生影响的更多信息，请关注Terrence O'Brien。《The Stepback》于美国东部时间周日上午8点送达订阅者的收件箱。请在此订阅《The Stepback》。事情的起因是这样的：10月29日，《纽约时报》报道称，英伟达联合创始人兼“表演型”首席执行官黄仁勋似乎是中国间谍阴谋的目标。任何大型科技公司的首席执行官都有可能",
+      "translated": true,
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-15T13:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0a0eb0d9ab0eccea7e",
+      "titleOriginal": "AI DJs Completely Kill My Groove",
+      "summaryOriginal": "YouTube Music and Spotify want synthetic hosts to curate your playlists. Their awkward banter and bogus song trivia are ruining the vibe.",
+      "titleZh": "AI DJ 完全毁了我的律动",
+      "summaryZh": "YouTube Music 和 Spotify 希望由合成主播来为您策划播放列表。他们尴尬的玩笑和虚假的歌曲小知识正在破坏氛围。",
+      "translated": true,
+      "url": "https://www.wired.com/story/ai-djs-completely-kill-my-groove/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-15T12:00:00.000Z",
+      "author": "Reece Rogers",
+      "tags": [
+        "analysis",
+        "Gear",
+        "Gear / Gear News and Events"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fd252e616a38b9a2d5",
+      "titleOriginal": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
+      "summaryOriginal": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
+      "titleZh": "这款AI版“电子宠物”将日常物品变成需要关爱的虚拟宠物",
+      "summaryZh": "卡内基梅隆大学的一名学生发明了一种名为OATs的微型电子墨水小工具，它可以为室内植物、滑板和哑铃赋予富有表现力的个性，从而促使您养成更好的习惯。",
+      "translated": true,
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-15T11:00:00.000Z",
+      "author": "Julian Chokkattu",
+      "tags": [
+        "analysis",
+        "Gear",
+        "Gear / Gear News and Events"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a04aaf1b9d7550bd2b",
+      "titleOriginal": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+      "summaryOriginal": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers. The article Australia's central bank fi",
+      "titleZh": "澳大利亚央行发现，人工智能首先影响到的是年轻工人，尤其是在软件和客户服务领域。",
+      "summaryZh": "澳大利亚央行已发现早期迹象表明，人工智能正在冲击软件开发和客户服务等高风险岗位上的年轻入门级员工。自ChatGPT推出以来，这些领域15至24岁年轻人的招聘岗位和就业人数的下降幅度大于年龄较大的劳动者。不过，作者Mike Major告诫人们不要轻易下结论，他指出，商业周期的变化和远程办公的趋势也可能解释这些数字。文章《澳大利亚央行发现……》",
+      "translated": true,
+      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-15T10:45:58.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and work"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d2e63c5f2661d937b8",
+      "titleOriginal": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+      "summaryOriginal": "Bland, the San Francisco voice-AI company, has released Tofu-1 , a full-duplex speech-to-speech model in research preview. The Tofu-1 speech-to-speech model targets calls from moving cars, hospital rooms and weak-signal lines. It listens while it speaks and reasons while it talks. For phone-agent teams, one model now handles audio in and audio out, with no transcript between. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . What is Tofu-1? Tof",
+      "titleZh": "Bland推出Tofu-1，一款用于通话的全双工语音转语音模型",
+      "summaryZh": "旧金山语音人工智能公司Bland发布了Tofu-1 ，这是一款全双工语音到语音模型，目前处于研究预览阶段。Tofu-1语音到语音模型针对的是来自行驶中的汽车、病房和信号较弱的线路的通话。它在说话的同时聆听，在交谈的同时进行推理。对于电话客服团队来说，现在一个模型就能处理音频输入和音频输出，中间无需转录。您可以通过我们的GPULeaderboard.com Chrome扩展程序在此处查看部署选项和规格。什么是Tofu-1？Tof",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-15T10:06:21.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5ecf69042f649351b4",
+      "titleOriginal": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summaryOriginal": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder .",
+      "titleZh": "美团发布一款从未接触过英伟达GPU的1.6万亿参数代理模型",
+      "summaryZh": "美团发布了LongCat-2.5的权重，这是一个专为AI代理构建的1.6万亿参数模型，完全在中国硬件上训练。在Terminal Bench上，它得分88.4分，仅次于Claude Opus 5。该样本部署在194块华为昇腾芯片上运行，美团并未提及英伟达GPU。文章《美团发布一款从未接触过Nvidia GPU的1.6万亿参数代理模型》最初发表在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-15T10:06:06.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "launch",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Longcat",
+        "Meituan"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -87,9 +278,9 @@
     },
     {
       "id": "ef144e6fe239877655",
-      "titleOriginal": "T-DEGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
+      "titleOriginal": "T-EDGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
       "summaryOriginal": "对影视行业来说，2026年很难用一个单一事件来概括。它没有重复过去那种突然爆火又迅速冷却的技术故事。视频生成能力从年初开始进入生产现场，到了年底，影响已经越过制作环节，伸向融资、渠道、组织方式和利益分配。 年初，Seedance 2.0发布。它最受关注的地方在可控性。创作者可以指定角色、场景和镜头风格，过去需要不断试错的生成过程，第一次有了可以预估成本、周期和交付结果的可能。 这一变化很快传导到资本端。7月，快手将可灵AI相关资产分拆融资，投后估值约180亿美元。生数科技和爱诗科技也在年内完成融资。视频模型由此从母公司内部的一项业务，变成可以被单独估值的资产。 技术能力有了价格以后，内容端开始出现更大规模的供给。短剧因为制作周期短、商业模式成熟、对画面连续性的要求相对可控，成为最先放量的一类内容。今年上线的AI短剧超过50万部，《持械入宋》的走红，又让行业看到了小团队做出爆款的可能。 但供给增加并没有让更多创作者赚到钱。平台掌握流量和分账规则，上游IP获得授权收入，中游制作方承担算力与投流成本。制作门槛被压低以后，利润反而更快地向少数掌握渠道和版权的公司集中。 传统影视行业也在同一年被",
-      "titleZh": "T-DEGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
+      "titleZh": "T-EDGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
       "summaryZh": "对影视行业来说，2026年很难用一个单一事件来概括。它没有重复过去那种突然爆火又迅速冷却的技术故事。视频生成能力从年初开始进入生产现场，到了年底，影响已经越过制作环节，伸向融资、渠道、组织方式和利益分配。 年初，Seedance 2.0发布。它最受关注的地方在可控性。创作者可以指定角色、场景和镜头风格，过去需要不断试错的生成过程，第一次有了可以预估成本、周期和交付结果的可能。 这一变化很快传导到资本端。7月，快手将可灵AI相关资产分拆融资，投后估值约180亿美元。生数科技和爱诗科技也在年内完成融资。视频模型由此从母公司内部的一项业务，变成可以被单独估值的资产。 技术能力有了价格以后，内容端开始出现更大规模的供给。短剧因为制作周期短、商业模式成熟、对画面连续性的要求相对可控，成为最先放量的一类内容。今年上线的AI短剧超过50万部，《持械入宋》的走红，又让行业看到了小团队做出爆款的可能。 但供给增加并没有让更多创作者赚到钱。平台掌握流量和分账规则，上游IP获得授权收入，中游制作方承担算力与投流成本。制作门槛被压低以后，利润反而更快地向少数掌握渠道和版权的公司集中。 传统影视行业也在同一年被",
       "translated": true,
       "url": "https://www.tmtpost.com/8205257.html",
@@ -11302,194 +11493,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "927c104d2440878f37",
-      "titleOriginal": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
-      "summaryOriginal": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
-      "titleZh": "世界模式将很快成为不可避免的。以下是您需要了解的信息",
-      "summaryZh": "世界模型将人工智能从文本移动到3D空间，模拟真实世界的物理学，教机器人和自动驾驶汽车如何在现实中导航。",
-      "translated": true,
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-08T10:00:00.000Z",
-      "author": "Reece Rogers",
-      "tags": [
-        "guide",
-        "Gear",
-        "Gear / Trends"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a8fbb64954697b60c5",
-      "titleOriginal": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-      "summaryOriginal": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on The Decoder .",
-      "titleZh": "在真实世界的测试中，人工智能编码代理仍需要对近四分之三的任务进行人工清理",
-      "summaryZh": "阿里巴巴新的编码代理基准Co-Design Bench根据真实用户的请求测试人工智能代理，这些请求在实践中已经让他们陷入困境。即使是表现最好的GPT-6 Astra ，也只能完全解决26.4%的任务。在较旧的基准上，相同的模型得分高于99%。在真实世界的测试中， AI编码代理人仍然需要对近四分之三的任务进行人工清理，这篇文章最初出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-08T09:50:59.000Z",
-      "author": "Jonathan Kemper",
-      "tags": [
-        "research",
-        "AI research",
-        "Artificial Intelligence",
-        "AI and coding",
-        "Coding"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2eac28eab0267b694e",
-      "titleOriginal": "从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",
-      "summaryOriginal": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 很多人以为 AI 最大瓶颈是芯片、资金与算力，俄亥俄州这座燃气电厂项目给出不一样答案：资本、土地、并网全部就位，算力扩张却卡在电力设备交付与一线电工缺口，全球 AI 正在从资本密集，转向人力密集的硬约束时代。 俄亥俄州，卡罗尔县。一座叫Chestnut Run的燃气电厂。 20亿美元的投资已经到位，许可拿到手，项目甚至挤进了PJM（美国中西部电力市场运营商）电网的“快速通道可靠性流程”——在美国电力项目的语境里，这几乎等于通关。 然后它停在了原地。 原定使用的GE Vernova HA.03机型，因全球需求过大，交付被推迟至少两年。开发方Advanced Power只好申请改用较小的HA.02——换机型意味着重新审批，FERC（美国联邦能源监管委员会）最终没有批准这次豁免，项目的商业运营日期可能推迟两年以上。 土地解决了，资本解决了，并网排队也解决了，最后卡在一台机器的排期上。 而就算机器到了，还有更后面的一关。NRG总裁兼CEO罗伯特&middot;高德特（Robert Gaudette）在接受能源研究机构Rystad",
-      "titleZh": "从资本密集到人力密集：全球AI的瓶颈，卡在缺乏“电工”",
-      "summaryZh": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 很多人以为 AI 最大瓶颈是芯片、资金与算力，俄亥俄州这座燃气电厂项目给出不一样答案：资本、土地、并网全部就位，算力扩张却卡在电力设备交付与一线电工缺口，全球 AI 正在从资本密集，转向人力密集的硬约束时代。 俄亥俄州，卡罗尔县。一座叫Chestnut Run的燃气电厂。 20亿美元的投资已经到位，许可拿到手，项目甚至挤进了PJM（美国中西部电力市场运营商）电网的“快速通道可靠性流程”——在美国电力项目的语境里，这几乎等于通关。 然后它停在了原地。 原定使用的GE Vernova HA.03机型，因全球需求过大，交付被推迟至少两年。开发方Advanced Power只好申请改用较小的HA.02——换机型意味着重新审批，FERC（美国联邦能源监管委员会）最终没有批准这次豁免，项目的商业运营日期可能推迟两年以上。 土地解决了，资本解决了，并网排队也解决了，最后卡在一台机器的排期上。 而就算机器到了，还有更后面的一关。NRG总裁兼CEO罗伯特&middot;高德特（Robert Gaudette）在接受能源研究机构Rystad",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8194549.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-08T06:55:09.000Z",
-      "author": "斯凯有话说",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c36c058e5d37a6bc95",
-      "titleOriginal": "AMD的CPU时代，正在「落幕」",
-      "summaryOriginal": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜胡一刀 近日，AMD交出2026财年第三季度财报，账面层面是\"史上最好的一季\"：营收133.77亿美元，同比增长45%；数据中心业务85.46 亿美元，同比增长97%。 但比数字更值得拆解的是，管理层在电话会上给出的结构预告——第四季度将是AMD数据中心AI业务营收首次超过服务器CPU业务的季度；预计2027年整体营收同比增长超过80%，服务器业务营收将实现翻倍。 对一家以CPU立身半个世纪的公司来说，这不是一次普通的业绩上修，而是业务底色切换的时间表。 分水岭的形状不是增长，是换血 很多人把AMD这份财报的看点简单归结为数据中心业务近乎翻倍的高增速，但质变藏在持续位移的营收结构里。 市场对此分化：有人将其视作一场基本盘的置换，也有人提醒这场重塑依然扎根于AI算力的资本开支周期很难完全脱离周期波动。 华尔街见闻提及，美东时间3日周二美股盘后，AMD公布，2026年第三季度营收同比增长45%至133.77亿美元，又创单季新高，较分析师预期高约2.3%。非GAAP口径下，每股收益同比增长74%至2.09美元，较分析师预期高逾6",
-      "titleZh": "AMD的CPU时代，正在「落幕」",
-      "summaryZh": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜胡一刀 近日，AMD交出2026财年第三季度财报，账面层面是\"史上最好的一季\"：营收133.77亿美元，同比增长45%；数据中心业务85.46 亿美元，同比增长97%。 但比数字更值得拆解的是，管理层在电话会上给出的结构预告——第四季度将是AMD数据中心AI业务营收首次超过服务器CPU业务的季度；预计2027年整体营收同比增长超过80%，服务器业务营收将实现翻倍。 对一家以CPU立身半个世纪的公司来说，这不是一次普通的业绩上修，而是业务底色切换的时间表。 分水岭的形状不是增长，是换血 很多人把AMD这份财报的看点简单归结为数据中心业务近乎翻倍的高增速，但质变藏在持续位移的营收结构里。 市场对此分化：有人将其视作一场基本盘的置换，也有人提醒这场重塑依然扎根于AI算力的资本开支周期很难完全脱离周期波动。 华尔街见闻提及，美东时间3日周二美股盘后，AMD公布，2026年第三季度营收同比增长45%至133.77亿美元，又创单季新高，较分析师预期高约2.3%。非GAAP口径下，每股收益同比增长74%至2.09美元，较分析师预期高逾6",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8197527.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-08T06:46:50.000Z",
-      "author": "硅碳变量",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5d18d08c215553605e",
-      "titleOriginal": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
-      "summaryOriginal": "Every Mixture-of-Experts (MoE) model repeats one decision for every token: which experts should process it. That decision belongs to the router. MoE routing strategies shape quality, load balance and serving cost in every major open model. This guide explains the 7 routing strategies used in production, and the models that use each one. TL;DR Size: Routers choose from 8 experts (Mixtral) to 384 (DeepSeek-V4-Pro), activating 1 to 8 per token. Runs on: Routing cost shows up in multi-GPU expert par",
-      "titleZh": "教育部路由策略说明： Top-K、Expert-Choice、Sigmoid Gating和动态路由（ 2026年指南）",
-      "summaryZh": "每个专家混合（ Mixture-of-Experts ， MoE ）模型对每个代币重复一个决定：哪些专家应该处理它。这个决定属于路由器。MoE路由策略在每个主要的开放模型中塑造质量、负载平衡和服务成本。本指南解释了生产中使用的7种路由策略，以及使用每种策略的模型。TL; DR大小：路由器从8个专家（ Mixtral ）到384 （ DeepSeek-V4-Pro ）中选择，每个令牌激活1到8个。运行于：路由成本显示在多GPU专家PAR中",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-08T06:18:33.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "guide",
-        "Agentic AI",
-        "AI Infrastructure",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "15fd7ad56b7bc89cbc",
-      "titleOriginal": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
-      "summaryOriginal": "Nous Research has released Arete-27B , a supervised fine-tune of Alibaba’s Qwen3.8-27B . Arete-27B is a 27B open-weight model that strips Chinese state framing from Qwen’s answers. On Nous’s own 803-prompt eval, answers containing propaganda fell from 22% to 0.9%. Developers get Qwen-class agentic skill without state-aligned answers. The weights, eval and training data are all public. TL;DR Size: 27B dense parameters (all active). Trained at 64k context. Base Qwen3.8-27B supports 262,144 tokens",
-      "titleZh": "Nous Research发布Arete-27B ，将Qwen3.8-27B宣传从22%降至0.9%",
-      "summaryZh": "Nous Research发布了Arete-27B ，这是对阿里巴巴Qwen3.8-27B的监督微调。Arete-27B是一款27B开放重量型号，它将中国国家框架从Qwen的答案中剥离出来。在Nous自己的803提示评估中，包含宣传的答案从22%下降到0.9%。开发人员可以获得Qwen级代理技能，而无需状态一致的答案。权重、评估和训练数据都是公开的。TL ； DR尺寸： 27B密集参数（全部激活）。在64k环境下接受培训。Base Qwen3.8-27B支持262,144个代币",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-08T04:45:59.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "441b4bf2cc548fc014",
-      "titleOriginal": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-      "summaryOriginal": "谁能想到，被普通消费者遗忘几十年的磁带，竟然在 AI 时代迎来了第二春。 10 月 29 日，日本富士胶片宣布投资约 100 亿日元（约合人民币 4.22 亿元），计划在 2026 至 2028 财年扩建神奈川县小田原工厂，将数据存储磁带的产能提升至 2025 财年的五倍，重点生产最新一代 LTO Ultrium 10 磁带。 按照富士胶片的说法，这是近 20 年来针对 LTO 磁带专用设施规模最大的一笔投资，而推动扩产的主要原因，正是生成式 AI 带来的海量数据归档需求。 AI 都用上了最先进的芯片，为什么还需要磁带？ 计算机行业流传着一个经典玩笑。 计算机科学家安德鲁·坦嫩鲍姆曾说过，永远不要低估一辆满载磁带、在高速公路上飞驰的汽车的带宽。听起来有些荒诞，但当需要传输的数据达到 PB 甚至 EB 级别时，把存储设备装上卡车，确实可能比通过网络传输更有效率。 2016 年，亚马逊 AWS 就曾推出 Snowmobile 服务，直接用重型卡车运输大型存储设备，一次最多可以搬运 100PB 数据。 虽然 Snowmobile 运输的并非磁带，而且该服务已于 2024 年停用，但它说明了一",
-      "titleZh": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-      "summaryZh": "谁能想到，被普通消费者遗忘几十年的磁带，竟然在 AI 时代迎来了第二春。 10 月 29 日，日本富士胶片宣布投资约 100 亿日元（约合人民币 4.22 亿元），计划在 2026 至 2028 财年扩建神奈川县小田原工厂，将数据存储磁带的产能提升至 2025 财年的五倍，重点生产最新一代 LTO Ultrium 10 磁带。 按照富士胶片的说法，这是近 20 年来针对 LTO 磁带专用设施规模最大的一笔投资，而推动扩产的主要原因，正是生成式 AI 带来的海量数据归档需求。 AI 都用上了最先进的芯片，为什么还需要磁带？ 计算机行业流传着一个经典玩笑。 计算机科学家安德鲁·坦嫩鲍姆曾说过，永远不要低估一辆满载磁带、在高速公路上飞驰的汽车的带宽。听起来有些荒诞，但当需要传输的数据达到 PB 甚至 EB 级别时，把存储设备装上卡车，确实可能比通过网络传输更有效率。 2016 年，亚马逊 AWS 就曾推出 Snowmobile 服务，直接用重型卡车运输大型存储设备，一次最多可以搬运 100PB 数据。 虽然 Snowmobile 运输的并非磁带，而且该服务已于 2024 年停用，但它说明了一",
-      "translated": true,
-      "url": "https://www.ifanr.com/1688364",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-08T03:35:42.000Z",
-      "author": "山宗",
-      "tags": [
-        "launch",
-        "产品",
-        "AI",
-        "磁带"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f2177e443595348c94",
-      "titleOriginal": "AI泡沫监测·之二：第三个定价器上牌桌",
-      "summaryOriginal": "（本文作者为 穷奇观察，钛媒体经授权发布） 文 | 穷奇观察 上一期登出之前，四张考卷发了下去。这两周多（10月21日至11月6日），它们陆续交卷——最后一张还没交。同时，考场上闯进了一个新考生。 11月3日，美国中期选举投票。11月4日，美股大涨——道指+3.03%，创2025年4月9日以来最佳单日，纳指+1.44%。11月5日，纳指暴跌5.52%，收于24315.00点；标普500跌4.36%；道指跌1833.06点。三大指数齐创2025年4月以来约一年半的最大单日跌幅，纳指确认较高点回撤超10%，进入技术性回调区间——纳指100早在11月3日就先行一步确认了。费城半导体指数单日跌12.25%，2020年3月以来最惨（界面新闻收盘口径）——比三大指数更能说明这次定价的是哪一层。 但11月4日当天就已经在分化：微软涨6.68%、亚马逊涨6.12%、苹果涨5.31%，涨的是现金流稳的老牌权重。同一天，费城半导体指数跌3.13%，美光跌7%、闪迪跌7.91%、希捷跌8.13%，CoreWeave跌9%。资金从讲故事换到看业绩。 11月5日，换方向变成踩踏。导火索是选票，柴火堆了三个季度：",
-      "titleZh": "AI泡沫监测·之二：第三个定价器上牌桌",
-      "summaryZh": "（本文作者为 穷奇观察，钛媒体经授权发布） 文 | 穷奇观察 上一期登出之前，四张考卷发了下去。这两周多（10月21日至11月6日），它们陆续交卷——最后一张还没交。同时，考场上闯进了一个新考生。 11月3日，美国中期选举投票。11月4日，美股大涨——道指+3.03%，创2025年4月9日以来最佳单日，纳指+1.44%。11月5日，纳指暴跌5.52%，收于24315.00点；标普500跌4.36%；道指跌1833.06点。三大指数齐创2025年4月以来约一年半的最大单日跌幅，纳指确认较高点回撤超10%，进入技术性回调区间——纳指100早在11月3日就先行一步确认了。费城半导体指数单日跌12.25%，2020年3月以来最惨（界面新闻收盘口径）——比三大指数更能说明这次定价的是哪一层。 但11月4日当天就已经在分化：微软涨6.68%、亚马逊涨6.12%、苹果涨5.31%，涨的是现金流稳的老牌权重。同一天，费城半导体指数跌3.13%，美光跌7%、闪迪跌7.91%、希捷跌8.13%，CoreWeave跌9%。资金从讲故事换到看业绩。 11月5日，换方向变成踩踏。导火索是选票，柴火堆了三个季度：",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8197365.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-08T02:19:55.000Z",
-      "author": "穷奇观察",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11523,7 +11526,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 48
+      "count": 49
     },
     {
       "id": "mittr",
@@ -11539,7 +11542,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 31
+      "count": 32
     },
     {
       "id": "thedecoder",
@@ -11547,7 +11550,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 51
+      "count": 54
     },
     {
       "id": "marktechpost",
@@ -11555,7 +11558,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 28
+      "count": 27
     },
     {
       "id": "simonwillison",
@@ -11587,7 +11590,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 30
+      "count": 29
     },
     {
       "id": "sspai",
@@ -11603,7 +11606,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 119
+      "count": 116
     },
     {
       "id": "infoq",
@@ -11616,8 +11619,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 39,
-    "translated": 243,
+    "guides": 37,
+    "translated": 247,
     "sources": 15
   }
 }
