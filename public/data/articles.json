@@ -1,6 +1,120 @@
 {
-  "generatedAt": "2026-11-14T20:48:58.662Z",
+  "generatedAt": "2026-11-15T01:59:39.371Z",
   "articles": [
+    {
+      "id": "11ad59b406403aca1a",
+      "titleOriginal": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "summaryOriginal": "",
+      "titleZh": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-15T09:00:00.000Z",
+      "author": "作者：Craig Risi",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d0405a40483443ff28",
+      "titleOriginal": "Edge AI Daily 早报（11月15日）",
+      "summaryOriginal": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、英伟达请回黄仁勋，真正被审判的是董事会 1.11月12日英伟达宣布黄仁勋辞去总裁、CEO及董事职务并即刻生效，执行副总裁兼CFO科莱特&middot;克雷斯出任临时CEO并保留原职，董事会启动内部与外部继任者遴选，并任命哈维&middot;琼斯为首任董事长。截至11月14日下午，请愿网站签名超11.5万，含5965名现任员工、1108名前员工和63063名股东，马斯克等科技公司高管亦在支持者之列，要求董事会在独立调查厘清事实期间让黄仁勋回任并公开更多信息。 2.文章认为争议核心不是“黄仁勋是否应回归”，而是创始人依赖、董事会程序与产业链信任之间的张力：黄仁勋自1993年领导公司，深度绑定芯片设计、云计算、AI模型、开发者与政策关系，其离任把问题推向“英伟达能否在没有他的情况下继续做出关键决策”。继任者须同时理解芯片、系统、软件生态、云服务与政策环境，临时CEO可稳住财务沟通与经营秩序，却难以完全替代创始人的技术号召力与产业关系功能。 3.公告当日英伟达收跌4.34%，盘中最大跌幅约14.35%后逐步收复，同日",
+      "titleZh": "Edge AI Daily 早报（11月15日）",
+      "summaryZh": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、英伟达请回黄仁勋，真正被审判的是董事会 1.11月12日英伟达宣布黄仁勋辞去总裁、CEO及董事职务并即刻生效，执行副总裁兼CFO科莱特&middot;克雷斯出任临时CEO并保留原职，董事会启动内部与外部继任者遴选，并任命哈维&middot;琼斯为首任董事长。截至11月14日下午，请愿网站签名超11.5万，含5965名现任员工、1108名前员工和63063名股东，马斯克等科技公司高管亦在支持者之列，要求董事会在独立调查厘清事实期间让黄仁勋回任并公开更多信息。 2.文章认为争议核心不是“黄仁勋是否应回归”，而是创始人依赖、董事会程序与产业链信任之间的张力：黄仁勋自1993年领导公司，深度绑定芯片设计、云计算、AI模型、开发者与政策关系，其离任把问题推向“英伟达能否在没有他的情况下继续做出关键决策”。继任者须同时理解芯片、系统、软件生态、云服务与政策环境，临时CEO可稳住财务沟通与经营秩序，却难以完全替代创始人的技术号召力与产业关系功能。 3.公告当日英伟达收跌4.34%，盘中最大跌幅约14.35%后逐步收复，同日",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8205610.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-15T01:09:35.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "launch",
+        "AGI",
+        "大模型"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "acaf00569e865f0806",
+      "titleOriginal": "Where was Nvidia’s security team?",
+      "summaryOriginal": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "titleZh": "Nvidia 的安全团队在哪里？",
+      "summaryZh": "英伟达的安全主管于8月份悄然离职，而现在，首席执行官黄仁勋因其人际关系而辞职，其中包括与一家涉嫌向中国输送芯片的公司的某位高管的关系。一位前情报官员表示，这是一种在日常对话中发生的泄密行为，大多数公司的安全团队都缺乏发现此类泄密的手段。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "author": "Connie Loizos",
+      "tags": [
+        "news",
+        "AI",
+        "TC",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2059ff8340bbc5f665",
+      "titleOriginal": "datasette-llm 0.1a11",
+      "summaryOriginal": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.",
+      "titleZh": "datasette-llm 0.1a11",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-14T23:59:28.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a4a92fbcda03532a99",
+      "titleOriginal": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summaryOriginal": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "titleZh": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
+      "summaryZh": "截至周六下午，该请愿书已获得超过11.5万个签名。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-14T21:41:22.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Amjad Masad",
+        "Elon Musk",
+        "Jensen Huang"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "a60709173eb7c2b552",
       "titleOriginal": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
@@ -46,6 +160,27 @@
         "Microsoft",
         "OpenAI",
         "evergreens"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cd67e7c432145cf164",
+      "titleOriginal": "datasette-vega 0.7",
+      "summaryOriginal": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run JavaScript plugins like this! I'll write more about that soon.) Since it works with Datasette Lite, the live de",
+      "titleZh": "datasette-vega 0.7",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-14T17:09:09.000Z",
+      "author": "",
+      "tags": [
+        "launch"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -380,9 +515,9 @@
     {
       "id": "58962dbe06f21e14e0",
       "titleOriginal": "A股一级行业，PS偏离度分布与深潜分析",
-      "summaryOriginal": "截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃至十倍以上，而差异的方向多由收入口径与环节位置决定——",
+      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃",
       "titleZh": "A股一级行业，PS偏离度分布与深潜分析",
-      "summaryZh": "截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃至十倍以上，而差异的方向多由收入口径与环节位置决定——",
+      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃",
       "translated": true,
       "url": "https://www.tmtpost.com/8205459.html",
       "sourceId": "tmtpost",
@@ -401,9 +536,9 @@
     {
       "id": "c2b71192af9fed4c45",
       "titleOriginal": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryOriginal": "一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品合计占收入六成五。溢价来自流感与口罩题材，小市值加上防",
+      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品",
       "titleZh": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryZh": "一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品合计占收入六成五。溢价来自流感与口罩题材，小市值加上防",
+      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品",
       "translated": true,
       "url": "https://www.tmtpost.com/8205442.html",
       "sourceId": "tmtpost",
@@ -414,17 +549,17 @@
       "publishedAt": "2026-11-14T09:57:13.000Z",
       "author": "Barrons巴伦",
       "tags": [
-        "news"
+        "launch"
       ],
-      "category": "news",
+      "category": "launch",
       "readingMinutes": 2
     },
     {
       "id": "424688d057d7d61252",
       "titleOriginal": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryOriginal": "一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗，靠平头哥分拆续上第四个板，封得悄无声息；水利建设接力",
+      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗",
       "titleZh": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryZh": "一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗，靠平头哥分拆续上第四个板，封得悄无声息；水利建设接力",
+      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗",
       "translated": true,
       "url": "https://www.tmtpost.com/8205437.html",
       "sourceId": "tmtpost",
@@ -435,17 +570,17 @@
       "publishedAt": "2026-11-14T09:57:00.000Z",
       "author": "Barrons巴伦",
       "tags": [
-        "news"
+        "launch"
       ],
-      "category": "news",
+      "category": "launch",
       "readingMinutes": 2
     },
     {
       "id": "4bf39f867643ad31b9",
       "titleOriginal": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
-      "summaryOriginal": "前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，却不会自动决定政策方向；最终的政策取舍，仍取决于精英群",
+      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，",
       "titleZh": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
-      "summaryZh": "前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，却不会自动决定政策方向；最终的政策取舍，仍取决于精英群",
+      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，",
       "translated": true,
       "url": "https://www.tmtpost.com/8205430.html",
       "sourceId": "tmtpost",
@@ -511,9 +646,9 @@
     {
       "id": "70371bc28443c2f75e",
       "titleOriginal": "字节的2029与腾讯的“一半人”",
-      "summaryOriginal": "衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最早要到2029年或2030年。报道同时提到，Seed系列",
+      "summaryOriginal": "（本文作者为 AGI-Signal，钛媒体经授权发布） 衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最",
       "titleZh": "字节的2029与腾讯的“一半人”",
-      "summaryZh": "衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最早要到2029年或2030年。报道同时提到，Seed系列",
+      "summaryZh": "（本文作者为 AGI-Signal，钛媒体经授权发布） 衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最",
       "translated": true,
       "url": "https://www.tmtpost.com/8201267.html",
       "sourceId": "tmtpost",
@@ -524,13 +659,13 @@
       "publishedAt": "2026-11-14T08:39:41.000Z",
       "author": "AGI-Signal",
       "tags": [
-        "news",
+        "launch",
         "主编精选文章",
         "AGI",
         "大模型",
         "腾讯"
       ],
-      "category": "news",
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -932,7 +1067,7 @@
         "AI",
         "Startups",
         "Venture",
-        "Jensen Huang"
+        "open source"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -7559,6 +7694,27 @@
       "readingMinutes": 2
     },
     {
+      "id": "51d2fad24045346651",
+      "titleOriginal": "Opening the datasets behind our AI weather models",
+      "summaryOriginal": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "titleZh": "开放我们人工智能天气模型背后的数据集",
+      "summaryZh": "用于清晰观测地球的基础降水和地球静止卫星数据集。",
+      "translated": true,
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-11-10T11:13:04.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "a0c1f17b2d149ba0a2",
       "titleOriginal": "Anthropic 重做源代码管理系统：提交量增长 12 倍，传统架构开始失效",
       "summaryOriginal": "",
@@ -8611,9 +8767,9 @@
       "id": "a98763b80c842ad2e9",
       "titleOriginal": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "summaryOriginal": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "titleZh": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Gemini Robotics 2.5 加速实现真实世界的一般灵巧性",
+      "summaryZh": "我们最强大的视觉-语言-动作模型可提升机器人的灵活性、可靠性和安全性",
+      "translated": true,
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "sourceId": "deepmind",
       "sourceName": "Google DeepMind",
@@ -9455,9 +9611,9 @@
       "id": "b044ec790c182bd086",
       "titleOriginal": "Innovating with AI in the special chemicals industry",
       "summaryOriginal": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed decisions, and develop more sustainable materials without compromising performa",
-      "titleZh": "Innovating with AI in the special chemicals industry",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "在特种化学品行业利用人工智能进行创新",
+      "summaryZh": "随着企业希望通过人工智能、云计算和先进建模来加速创新，主要挑战是将新技术与可靠的数据、科学专业知识以及将产品推向市场的实际情况联系起来。对于特种化学品制造商Lubrizol来说，数字化转型的核心在于为研究人员提供工具，使他们能够更快地测试想法、做出更明智的决策，并在不影响性能的前提下开发出更具可持续性的材料。",
+      "translated": true,
       "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
       "sourceId": "mittr",
       "sourceName": "MIT Technology Review",
@@ -9478,9 +9634,9 @@
       "id": "f37b680abcf7adcb8b",
       "titleOriginal": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "summaryOriginal": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "titleZh": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载",
+      "summaryZh": "了解OpenAI的控制室如何跟踪我们研究基础设施中的模型工作负载，并在出现安全或安保问题时迅速停止这些工作负载。",
+      "translated": true,
       "url": "https://openai.com/index/control-room",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -9863,9 +10019,9 @@
       "id": "932fe34bad728f30ad",
       "titleOriginal": "Kuken Industries searches 70 years of drawings in minutes",
       "summaryOriginal": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-      "titleZh": "Kuken Industries searches 70 years of drawings in minutes",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Kuken Industries 在几分钟内搜索了 70 年的图纸",
+      "summaryZh": "Kuken Industries 使用 OpenAI API 搜索 70 年的冷却塔图纸。工程师可以在 4.5 分钟内找到维修图纸，而此前需要近一个小时。",
+      "translated": true,
       "url": "https://openai.com/index/kuken",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -9884,9 +10040,9 @@
       "id": "23b94c697622500fcf",
       "titleOriginal": "CodeRabbit scales agentic software development and ships 20x more",
       "summaryOriginal": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "titleZh": "CodeRabbit scales agentic software development and ships 20x more",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "CodeRabbit 扩展了代理软件开发，交付量提高了 20 倍",
+      "summaryZh": "CodeRabbit 使用 OpenAI 模型来管控和信任 AI 生成的代码，并使用 Codex 让同一工程团队交付的软件数量增加 20 倍。",
+      "translated": true,
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -11118,9 +11274,9 @@
       "id": "3880bf849bb943e997",
       "titleOriginal": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
       "summaryOriginal": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link: <https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv>; rel=\"next\" This is bad. A tiny fraction of the visitors to one of thos",
-      "titleZh": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "datasette #3046：不要向 Firefox 提供 HTML 页面的 link: rel=next HTTP 标头",
+      "summaryZh": "datasette #3046：不要向Firefox提供HTML页面的link: rel=next HTTP标头今天，我正在查看Firefox的网络面板，这时我注意到，对Datasette表页面的请求会触发对该表中下一页行的HTTP预取。之所以会发生这种情况，是因为Datasette页面提供这样的HTTP link标头： link:<https://latest.datasette.io/fixtures/compound_three_primary_keys?_next=a%2Cd%2Cv>; rel=\"next\" 这不好。访问其中一个页面的访客中，只有极小一部分",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -11346,167 +11502,6 @@
       ],
       "category": "research",
       "readingMinutes": 2
-    },
-    {
-      "id": "70fa707957c515c70d",
-      "titleOriginal": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
-      "summaryOriginal": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast. The article The gap between open and closed AI models in cyber capabilities keeps shrinking appeared first on The Decoder .",
-      "titleZh": "开放式和封闭式人工智能模型在网络能力方面的差距不断缩小",
-      "summaryZh": "在Vals AI基准测试中， OpenAI的GPT-6 Sol Daybreak达到了模拟企业网络中80.8%的攻击目标。更糟糕的是，开放式重量型号DeepSeek V4.1 Flash以十分之一的成本达到72.8%。由于开放模式不再受到限制，分析师表示，防守者的窗口正在迅速缩小。文章The Decoder首次出现了开放式和封闭式人工智能模型在网络能力方面的差距不断缩小。",
-      "translated": true,
-      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-07T15:35:50.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "research",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Cybersecurity"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "055e03fe8fc4b1cc38",
-      "titleOriginal": "AI broke the cybersecurity world. What’s next?",
-      "summaryOriginal": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only",
-      "titleZh": "人工智能打破了网络安全的世界。下一步是什么？",
-      "summaryZh": "今天，我正在与Cognition首席安全官兼长期网络安全专家Alex Stamos谈论网络安全目前的混乱局面。本集是关于现实生活中的人工智能的特别系列的一部分。我一直很喜欢和亚历克斯交谈，因为他非常直接，你会听到他说，我们所知道的数十亿美元的网络安全行业本质上早就应该受到无情的，人工智能推动的黑客，入侵和攻击浪潮的影响—这只是",
-      "translated": true,
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-07T15:00:00.000Z",
-      "author": "Nilay Patel",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a874cf7cfd2ad646f4",
-      "titleOriginal": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
-      "summaryOriginal": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes. The article State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away appeared first",
-      "titleZh": "一些中国人工智能模型中的国家宣传只是微调可以剥离的“薄层",
-      "summaryZh": "Nous Research对阿里巴巴的Qwen3.8-27B进行了再培训，以生产Arete-27B ，在很大程度上消除了其亲华偏见。宣传率从22 ％下降到不到1 ％ ，而一般能力在测试中保持不变。该方法依赖于5300万个受监督的微调代币。该团队写道，政治偏见是“应用较晚，应用较少”。文章国家在一些中国人工智能模型中的宣传只是微调可以剥离的“薄层”首先出现",
-      "translated": true,
-      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-07T12:32:45.000Z",
-      "author": "Jonathan Kemper",
-      "tags": [
-        "research",
-        "AI research",
-        "Artificial Intelligence",
-        "AI and China",
-        "China"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8879475e62b3793afc",
-      "titleOriginal": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summaryOriginal": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and developmen",
-      "titleZh": "为什么关于人类自动化人工智能开发的新报告让研究人员感到震惊",
-      "summaryZh": "Anthropic首席执行官Dario Amodei。|照片： Jason Henry/Bloomberg通过Getty Images Anthropic正在使用AI构建更强大的AI。它似乎运行得非常好，该公司的模型改进速度大约是一年前的两倍，几乎没有放缓的迹象。根据人工智能安全研究组织METR周四发布的一份新报告，在公司内部进行了为期11周的调查后，作为评估其人工智能研究和开发人员的报告的一部分，",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-07T12:30:00.000Z",
-      "author": "Robert Hart",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e049fb2de93aede980",
-      "titleOriginal": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
-      "summaryOriginal": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar ap",
-      "titleZh": "九名人工智能代理尝试对美国国家实验室的未决问题进行自主研究，但没有一人通过专家资格认证",
-      "summaryZh": "进入未知”基准测试要求九个人工智能代理解决美国国家实验室的开放研究问题。135份提交材料中没有一份符合所有要求。共有114篇论文未能通过完整性检查，客服代表声称进行了从未发生过的实验。GPT-6 Astra表现最佳，但仍不符合专家的标准。文章Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts 'bar ap",
-      "translated": true,
-      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-07T11:13:42.000Z",
-      "author": "Jonathan Kemper",
-      "tags": [
-        "research",
-        "AI research",
-        "Artificial Intelligence",
-        "Research",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f5ca85f34e518f1627",
-      "titleOriginal": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
-      "summaryOriginal": "The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.",
-      "titleZh": "为看护者提供的应用程序获得了一定剂量的人工智能，但这可能还不够",
-      "summaryZh": "帮助家庭照顾者管理其亲人需求的应用程序和平台正变得越来越强大，但照顾者福祉的更广泛问题仍未得到解决。",
-      "translated": true,
-      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-07T11:00:00.000Z",
-      "author": "Jaclyn Greenberg",
-      "tags": [
-        "analysis",
-        "Gear",
-        "Gear / How To and Advice"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "01c1f9f3246dcef497",
-      "titleOriginal": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
-      "summaryOriginal": "",
-      "titleZh": "CyberwIIOS：如何驾驭大模型在 OT 侧跨越“幻觉”与“失控”｜AICon北京",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/K1bCIbHxeu3wLIjdusgr",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-07T10:00:00.000Z",
-      "author": "AICon 全球人工智能开发与应用大会",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11524,7 +11519,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 5
+      "count": 6
     },
     {
       "id": "techcrunch",
@@ -11532,7 +11527,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 76
+      "count": 78
     },
     {
       "id": "theverge",
@@ -11540,7 +11535,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 52
+      "count": 50
     },
     {
       "id": "mittr",
@@ -11556,7 +11551,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 32
+      "count": 31
     },
     {
       "id": "thedecoder",
@@ -11564,7 +11559,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 57
+      "count": 54
     },
     {
       "id": "marktechpost",
@@ -11580,7 +11575,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 19
+      "count": 21
     },
     {
       "id": "oneusefulthing",
@@ -11620,7 +11615,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 110
+      "count": 111
     },
     {
       "id": "infoq",
@@ -11633,8 +11628,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 41,
-    "translated": 250,
+    "guides": 40,
+    "translated": 253,
     "sources": 15
   }
 }
