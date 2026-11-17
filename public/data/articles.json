@@ -1,9 +1,622 @@
 {
-  "generatedAt": "2026-11-16T18:40:36.761Z",
+  "generatedAt": "2026-11-17T02:59:26.296Z",
   "articles": [
     {
+      "id": "0de0613ffbe85a2cce",
+      "titleOriginal": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+      "summaryOriginal": "",
+      "titleZh": "从 SDLC 到 ADLC：宝洁的 AI 原生组织实验",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/prRYMYmhOvSY9EaMz8Oc",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T10:15:13.000Z",
+      "author": "极客时间企业版",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "87d84b99f27ff8583f",
+      "titleOriginal": "微软全球大宕机，AI 怎么又成了背锅侠",
+      "summaryOriginal": "德国一家酒店泳池氯含量超标，15 名住客受伤。而原本可以提醒工作人员的警报邮件，竟然因为 Outlook 宕机没能及时送达。 11 月 13 日，德国 Phantasialand 乐园内的 Ling Bao 酒店，泳池自动加氯设备发生异常，安全系统检测到了问题，却因为 Microsoft 365 服务故障，没能及时将邮件警报送到工作人员手中。 从 11 月 12 日开始，微软旗下 Outlook、Teams 等多项服务接连出现故障，影响持续到了第二天。 几乎同一时间，美国 FAA 因通信系统异常实施全国地面停飞，Workday 的备份测试也造成部分企业的人力资源系统瘫痪。 这几起事故各有各的原因，却让人们再次意识到，我们每天依赖的数字系统，远没有想象中那么牢靠。 然而，事故发生后，社交媒体上最先吵起来的，却是 AI。 有人认为，是 AI 写出了越来越多没人看得懂的代码；有人把矛头指向科技公司的持续裁员，认为工程团队正在失去解决复杂问题的能力。 微软已经明确表示，这次故障与 AI 或 Agent 无关。 但争论并没有因此结束。因为当 AI 可以越来越快地写出代码，一个新的问题也随之出现：",
+      "titleZh": "微软全球大宕机，AI 怎么又成了背锅侠",
+      "summaryZh": "德国一家酒店泳池氯含量超标，15 名住客受伤。而原本可以提醒工作人员的警报邮件，竟然因为 Outlook 宕机没能及时送达。 11 月 13 日，德国 Phantasialand 乐园内的 Ling Bao 酒店，泳池自动加氯设备发生异常，安全系统检测到了问题，却因为 Microsoft 365 服务故障，没能及时将邮件警报送到工作人员手中。 从 11 月 12 日开始，微软旗下 Outlook、Teams 等多项服务接连出现故障，影响持续到了第二天。 几乎同一时间，美国 FAA 因通信系统异常实施全国地面停飞，Workday 的备份测试也造成部分企业的人力资源系统瘫痪。 这几起事故各有各的原因，却让人们再次意识到，我们每天依赖的数字系统，远没有想象中那么牢靠。 然而，事故发生后，社交媒体上最先吵起来的，却是 AI。 有人认为，是 AI 写出了越来越多没人看得懂的代码；有人把矛头指向科技公司的持续裁员，认为工程团队正在失去解决复杂问题的能力。 微软已经明确表示，这次故障与 AI 或 Agent 无关。 但争论并没有因此结束。因为当 AI 可以越来越快地写出代码，一个新的问题也随之出现：",
+      "translated": true,
+      "url": "https://www.ifanr.com/1689638",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T02:23:50.000Z",
+      "author": "张子豪",
+      "tags": [
+        "guide",
+        "公司",
+        "AI 编程",
+        "Outlook",
+        "软件工程"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "29dcc2a93747340610",
+      "titleOriginal": "Seedance 正杀死爱奇艺们",
+      "summaryOriginal": "（本文作者为 偏科声，钛媒体经授权发布） 文 | 偏科声，作者 | 李小年 2006 年，《武林外传》网络版权一集卖 1250 元。 2011 年，《甄嬛传》30 万元一集。 2017 年，《如懿传》900 万元一集。单集网络版权是两家卫视购剧价之和的 1.5 倍。 这是视频网站买剧的价。从 1250 元抬升至 900 万元，持续上行的版权，是激烈竞价环境下，平台为优质内容稀缺性支付的溢价。 电视剧制作属于资本密集型业务，投入动辄以亿计，个人几乎没有独立入场的条件。但到 2026 年，支撑这套规则的前提，正在失效。 这源于 AI 视频生成模型的迭代，前后不过三年。 2024 年，生成五秒视频，没有声音，人物一动就容易变形。2025 年，主流视频模型完成从 UNet 到 DiT 的换代，视频生成开始遵循缩放定律：参数、数据、算力投入增加，成片稳定性同步提升。模型可以输出十几二十秒片段，人物一致性改善，但换场景、多人物同框，依然容易出现画面漂移。 2026 年 2 月，Seedance 2.0 实现音画一体化生成。成片可用的抽卡成功率从两成提升至九成。 半年后，Seedance 2.5 将",
+      "titleZh": "Seedance 正杀死爱奇艺们",
+      "summaryZh": "（本文作者为 偏科声，钛媒体经授权发布） 文 | 偏科声，作者 | 李小年 2006 年，《武林外传》网络版权一集卖 1250 元。 2011 年，《甄嬛传》30 万元一集。 2017 年，《如懿传》900 万元一集。单集网络版权是两家卫视购剧价之和的 1.5 倍。 这是视频网站买剧的价。从 1250 元抬升至 900 万元，持续上行的版权，是激烈竞价环境下，平台为优质内容稀缺性支付的溢价。 电视剧制作属于资本密集型业务，投入动辄以亿计，个人几乎没有独立入场的条件。但到 2026 年，支撑这套规则的前提，正在失效。 这源于 AI 视频生成模型的迭代，前后不过三年。 2024 年，生成五秒视频，没有声音，人物一动就容易变形。2025 年，主流视频模型完成从 UNet 到 DiT 的换代，视频生成开始遵循缩放定律：参数、数据、算力投入增加，成片稳定性同步提升。模型可以输出十几二十秒片段，人物一致性改善，但换场景、多人物同框，依然容易出现画面漂移。 2026 年 2 月，Seedance 2.0 实现音画一体化生成。成片可用的抽卡成功率从两成提升至九成。 半年后，Seedance 2.5 将",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8207907.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T02:05:21.000Z",
+      "author": "偏科声",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1c5dedce4c15e210e9",
+      "titleOriginal": "Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next",
+      "summaryOriginal": "（本文作者为 Chelsea_Sun，钛媒体经授权发布） NextFin News — Jensen Huang, long the public face of the company he co-founded, has left Nvidia. On November 12, U.S. time, the board announced that Huang had resigned as president, chief executive, and director, effective immediately. Colette Kress, who joined Nvidia in 2013 and serves as executive vice president and chief financial officer, was named interim CEO while keeping the finance role. Harvey C. Jones, former chief executive of Synopsys, was appointed the c",
+      "titleZh": "Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next",
+      "summaryZh": "（本文作者为 Chelsea_Sun，钛媒体经授权发布） NextFin News — Jensen Huang, long the public face of the company he co-founded, has left Nvidia. On November 12, U.S. time, the board announced that Huang had resigned as president, chief executive, and director, effective immediately. Colette Kress, who joined Nvidia in 2013 and serves as executive vice president and chief financial officer, was named interim CEO while keeping the finance role. Harvey C. Jones, former chief executive of Synopsys, was appointed the c",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8207932.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T01:54:04.000Z",
+      "author": "Chelsea_Sun",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4bc21bccc8c61f6eb4",
+      "titleOriginal": "硅谷大佬出手！黄仁勋的班，女CEO接不了",
+      "summaryOriginal": "（本文作者为 疯狂科技厅，钛媒体经授权发布） 文 | 疯狂科技厅， 作者 | 冯皓钦，编辑 | 张猛 多年来，黄仁勋一直开玩笑说，几乎不可能找到人取代他担任英伟达首席执行官。 “永远不会再有像我这样的人” ， 他在一月份的一次采访中说道。 “原因很简单，因为我是在这家公司里成长起来的。 ” 但黄仁勋周四的突然辞职，让英伟达陷入了 这 项棘手的任务 : 寻找一位能够接替这位长期以来一直认为自己不可替代的 CEO 的继任者。 美国媒体爆出，虽然黄一直保持低调，但他参与了遴选过程，并且至少给一位潜在候选人打过电话。 01 17万人联名请愿， 黄仁勋自己也在谈回归 英国金融时报 15 日援引知情人士透露，黄仁勋已经与亲信讨论过重新执掌英伟达的可能性。 一个周末，支持他回归的公开信 签名已 突破 17 万条。 组织者希望董事会解释，作出这次决定时遵循了什么程序，又如何权衡员工和股东的利益。 马斯克、 Epic Games 首席执行官蒂姆&middot;斯威尼等科技界人士公开声援。不过，这份请愿书的签名身份主要依靠自行申报，并未经过独立核实。 另有两名机构投资人， Altimeter Capita",
+      "titleZh": "硅谷大佬出手！黄仁勋的班，女CEO接不了",
+      "summaryZh": "（本文作者为 疯狂科技厅，钛媒体经授权发布） 文 | 疯狂科技厅， 作者 | 冯皓钦，编辑 | 张猛 多年来，黄仁勋一直开玩笑说，几乎不可能找到人取代他担任英伟达首席执行官。 “永远不会再有像我这样的人” ， 他在一月份的一次采访中说道。 “原因很简单，因为我是在这家公司里成长起来的。 ” 但黄仁勋周四的突然辞职，让英伟达陷入了 这 项棘手的任务 : 寻找一位能够接替这位长期以来一直认为自己不可替代的 CEO 的继任者。 美国媒体爆出，虽然黄一直保持低调，但他参与了遴选过程，并且至少给一位潜在候选人打过电话。 01 17万人联名请愿， 黄仁勋自己也在谈回归 英国金融时报 15 日援引知情人士透露，黄仁勋已经与亲信讨论过重新执掌英伟达的可能性。 一个周末，支持他回归的公开信 签名已 突破 17 万条。 组织者希望董事会解释，作出这次决定时遵循了什么程序，又如何权衡员工和股东的利益。 马斯克、 Epic Games 首席执行官蒂姆&middot;斯威尼等科技界人士公开声援。不过，这份请愿书的签名身份主要依靠自行申报，并未经过独立核实。 另有两名机构投资人， Altimeter Capita",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8207215.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T01:43:37.000Z",
+      "author": "疯狂科技厅",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "72535090f397f150ea",
+      "titleOriginal": "梁文锋越过聊天框",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 11月15日下午，突然有多位DeepSeek用户表示，当他们想接着几天前的对话往下聊时，手机App就会弹出一条提示：“由于算力不足，已超过72小时的长对话暂不可用，可导出对话到其他App使用。” 社区里，有用户整理了同时出现的另外几种报错，比如“内容超长，请删减后再试”、“修改输入次数超过限制，消息未发送”、“消息数量达到上限，请开启新对话”。 其中一位用户实测，说自己的单个会话累计到14.8万字时触发了上限。 目前反馈主要集中在手机App，截至发稿，尚未看到DeepSeek官方的说明。 这件事其实是有“前兆”的。 11月13日，有开发者在chat.deepseek.com的前端代码里翻出一整套额度管理逻辑，提示文案是“使用额度已达上限，请额度恢复后再试”。 至此开始，消息不断在社区内传播，到了14日的时候，消息被传成DeepSeek要收会员费了。 消息传出前一天的晚上，DeepSeek发布“全家桶应用API”，把App里的联网搜索、深度思考搜索、文件输入、阅读链接和语音能力，全部开放成了接口，还开源了一个聊天前端chat-",
+      "titleZh": "梁文锋越过聊天框",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 11月15日下午，突然有多位DeepSeek用户表示，当他们想接着几天前的对话往下聊时，手机App就会弹出一条提示：“由于算力不足，已超过72小时的长对话暂不可用，可导出对话到其他App使用。” 社区里，有用户整理了同时出现的另外几种报错，比如“内容超长，请删减后再试”、“修改输入次数超过限制，消息未发送”、“消息数量达到上限，请开启新对话”。 其中一位用户实测，说自己的单个会话累计到14.8万字时触发了上限。 目前反馈主要集中在手机App，截至发稿，尚未看到DeepSeek官方的说明。 这件事其实是有“前兆”的。 11月13日，有开发者在chat.deepseek.com的前端代码里翻出一整套额度管理逻辑，提示文案是“使用额度已达上限，请额度恢复后再试”。 至此开始，消息不断在社区内传播，到了14日的时候，消息被传成DeepSeek要收会员费了。 消息传出前一天的晚上，DeepSeek发布“全家桶应用API”，把App里的联网搜索、深度思考搜索、文件输入、阅读链接和语音能力，全部开放成了接口，还开源了一个聊天前端chat-",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8207308.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T01:33:44.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7a8e9674a67f894bb4",
+      "titleOriginal": "李飞飞入职AMD，82亿美元收购提前交割",
+      "summaryOriginal": "（本文作者为 AI唱反调，钛媒体经授权发布） 文 | AI唱反调 比原计划提前了六周，AMD 把“AI 教母”请进了门。 11 月 16 日，AMD 宣布已完成对 World Labs 的收购。这家由李飞飞联合创立的空间智能公司，9 月 28 日官宣以约 82 亿美元全股票出售给 AMD，当时预计 2026 年底前交割——如今提前完成。李飞飞即日起出任 AMD 执行副总裁兼首席科学家，直接向董事长兼 CEO 苏姿丰汇报。这也是 AMD 历史上第一次设立首席科学家职位。 82 亿美元，买到的是什么 账面上，这是 AMD 史上第二大收购，仅次于 2022 年约 500 亿美元吞下赛灵思。但两次收购的性质完全不同：买赛灵思是买硬件产品线，买 World Labs 是买“对下一代模型的理解”。 World Labs 2024 年初成立于旧金山，全职团队约 70 人，方向是空间智能——让模型理解、生成并模拟三维物理世界。成立两年多，产品节奏不慢：首款生成式世界模型 Marble 于 2025 年 11 月上线，9 月 1 日又发布了新一代模型 Atlas，原生支持文字、图像、视频和 3D 数据，",
+      "titleZh": "李飞飞入职AMD，82亿美元收购提前交割",
+      "summaryZh": "（本文作者为 AI唱反调，钛媒体经授权发布） 文 | AI唱反调 比原计划提前了六周，AMD 把“AI 教母”请进了门。 11 月 16 日，AMD 宣布已完成对 World Labs 的收购。这家由李飞飞联合创立的空间智能公司，9 月 28 日官宣以约 82 亿美元全股票出售给 AMD，当时预计 2026 年底前交割——如今提前完成。李飞飞即日起出任 AMD 执行副总裁兼首席科学家，直接向董事长兼 CEO 苏姿丰汇报。这也是 AMD 历史上第一次设立首席科学家职位。 82 亿美元，买到的是什么 账面上，这是 AMD 史上第二大收购，仅次于 2022 年约 500 亿美元吞下赛灵思。但两次收购的性质完全不同：买赛灵思是买硬件产品线，买 World Labs 是买“对下一代模型的理解”。 World Labs 2024 年初成立于旧金山，全职团队约 70 人，方向是空间智能——让模型理解、生成并模拟三维物理世界。成立两年多，产品节奏不慢：首款生成式世界模型 Marble 于 2025 年 11 月上线，9 月 1 日又发布了新一代模型 Atlas，原生支持文字、图像、视频和 3D 数据，",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8207712.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T01:33:42.000Z",
+      "author": "AI唱反调",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "adaf8e4c3a1658f2d7",
+      "titleOriginal": "Edge AI Daily 早报（11月17日）",
+      "summaryOriginal": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、英伟达震荡，AI牛市到了现金流关口 1.美国劳工统计局数据显示，10月整体CPI环比上涨0.4%（低于9月的0.6%），核心CPI环比上涨0.3%且连续三个月持平，住房指数环比涨0.3%，通胀虽未失控但黏性仍强；这使债券市场下调快速降息押注、推高折现率，优先压缩长久期成长股与AI板块估值。 2.英伟达11月12日公告，联合创始人黄仁勋辞任总裁、首席执行官及董事，CFO科莱特&middot;克雷斯出任临时CEO并启动正式CEO遴选；在领导层动荡与通胀数据双重冲击下，英伟达股价单周一度重挫逾14%，市值较10月初高位蒸发逾6000亿美元，并拖累纳指从高点回落近12%（同期AMD、博通一度逆势走强）。 3.市场关切已从订单与用户增长转向资本开支回报：利率上升环境下，投资者更看重数据中心需求能见度、客户集中度、毛利率与经营现金流；若现金流持续恶化，本轮调整或从估值压缩升级为商业模式问题，反之则更接近高估值资产的周期性重估，而非AI需求的结构性坍塌。 二、英伟达领跌AI股抛售潮，市场增长预期面临考验 1.背景：英伟达截",
+      "titleZh": "Edge AI Daily 早报（11月17日）",
+      "summaryZh": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、英伟达震荡，AI牛市到了现金流关口 1.美国劳工统计局数据显示，10月整体CPI环比上涨0.4%（低于9月的0.6%），核心CPI环比上涨0.3%且连续三个月持平，住房指数环比涨0.3%，通胀虽未失控但黏性仍强；这使债券市场下调快速降息押注、推高折现率，优先压缩长久期成长股与AI板块估值。 2.英伟达11月12日公告，联合创始人黄仁勋辞任总裁、首席执行官及董事，CFO科莱特&middot;克雷斯出任临时CEO并启动正式CEO遴选；在领导层动荡与通胀数据双重冲击下，英伟达股价单周一度重挫逾14%，市值较10月初高位蒸发逾6000亿美元，并拖累纳指从高点回落近12%（同期AMD、博通一度逆势走强）。 3.市场关切已从订单与用户增长转向资本开支回报：利率上升环境下，投资者更看重数据中心需求能见度、客户集中度、毛利率与经营现金流；若现金流持续恶化，本轮调整或从估值压缩升级为商业模式问题，反之则更接近高估值资产的周期性重估，而非AI需求的结构性坍塌。 二、英伟达领跌AI股抛售潮，市场增长预期面临考验 1.背景：英伟达截",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8207785.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T00:55:53.000Z",
+      "author": "Edge AI Daily",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "74f129524d1e3b98a0",
+      "titleOriginal": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+      "summaryOriginal": "iPhone Duo 新增人脸解锁 Sam Altman：没有黄仁勋，AI 行业仍能继续发展 华为 Mate X8 定档 11 月 24 日发布 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 蚂蚁灵波具身大模型挑战赛揭晓，TARS 战队拿下真机赛第一 算力吃紧，DeepSeek 限制 App 和网页端对话 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业 东南亚第三季度手机出货量下滑 36%，头部厂商中只有苹果增长 百度第三季度营收降 1%，AI 云基础设施收入增长 94% 小鹏汽车第三季度营收增长 19.1%，预计四季度交付至少 16.9 万辆 晶泰孵化的无界进化完成超 1 亿元 Pre-A 轮融资 博世中国区总裁：内存涨价，明年部分汽车成本最高增加 2.5 万元 《GTA 6》预购超预期，Take-Two CEO 称会继续更新《GTA Online》 豆包工作上线「工作台」，把投研、设计等工具放进专用空间 苹果在美国启动健康 AI 研究，计划招募最多 20 万人 国产独立游戏",
+      "titleZh": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+      "summaryZh": "iPhone Duo 新增人脸解锁 Sam Altman：没有黄仁勋，AI 行业仍能继续发展 华为 Mate X8 定档 11 月 24 日发布 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 蚂蚁灵波具身大模型挑战赛揭晓，TARS 战队拿下真机赛第一 算力吃紧，DeepSeek 限制 App 和网页端对话 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业 东南亚第三季度手机出货量下滑 36%，头部厂商中只有苹果增长 百度第三季度营收降 1%，AI 云基础设施收入增长 94% 小鹏汽车第三季度营收增长 19.1%，预计四季度交付至少 16.9 万辆 晶泰孵化的无界进化完成超 1 亿元 Pre-A 轮融资 博世中国区总裁：内存涨价，明年部分汽车成本最高增加 2.5 万元 《GTA 6》预购超预期，Take-Two CEO 称会继续更新《GTA Online》 豆包工作上线「工作台」，把投研、设计等工具放进专用空间 苹果在美国启动健康 AI 研究，计划招募最多 20 万人 国产独立游戏",
+      "translated": true,
+      "url": "https://www.ifanr.com/1689760",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-17T00:18:50.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "research",
+        "早报",
+        "iPhone Duo",
+        "WorkBuddy",
+        "具身智能"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3ae3a490dc7246708a",
+      "titleOriginal": "llm 0.37.3",
+      "summaryOriginal": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this: {\"a\":\"[1]\"} According to D. Richard Hipp : That was a bug fix. Per the documentation, (SELECT json_array(",
+      "titleZh": "llm 0.37.3",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-16T23:57:26.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "aae8c4832e631e5c6d",
+      "titleOriginal": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "summaryOriginal": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "titleZh": "网络安全AI初创公司Corma在约3个月内估值达到10亿美元",
+      "summaryZh": "自推出产品以来的三个月内，人工智能网络安全初创公司Corba已完成一轮由NEA领投的1.25亿美元A轮融资，估值达10亿美元。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-16T23:32:32.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "Fundraising",
+        "Security",
+        "Startups"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a59424729711a810de",
+      "titleOriginal": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "summaryOriginal": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the center of this theory is the reporting from The New York Times that former Megaspeed executive Alice Huang, one of multiple women Huang is accused of having a",
+      "titleZh": "科技领袖们深信，黄仁勋的离职是一场针对他的阴谋。",
+      "summaryZh": "Jensen Huang在英伟达工作了33年多后突然辞职，在整个科技行业掀起了轩然大波。现在，知名人士纷纷呼吁让黄先生复职，许多人也赞同一种在硅谷广为流传的说法：这场丑闻是针对这位前首席执行官的阴谋所致。这一理论的核心是《纽约时报》的报道，该报道称，Megaspeed前高管Alice Huang是Jensen Huang被指控与之有染的多名女性之一。",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T23:17:34.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ac8ed7d9657ddc7611",
+      "titleOriginal": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "summaryOriginal": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer.",
+      "titleZh": "英伟达周二应回答的所有问题——但可能不会回答",
+      "summaryZh": "周二，英伟达将公布第三季度业绩，届时，英伟达临时首席执行官兼长期首席财务官科莱特·克雷斯（Colette Kress）将迎来其职业生涯中最重要的一天。鉴于英伟达正处于动荡之中，英伟达应当回答一些问题。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-16T22:03:02.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "TC",
+        "Colette Kress",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "86b93b9b3c31938138",
+      "titleOriginal": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "summaryOriginal": "This episode is sponsored by Deepgram. Try Deepgram for voice agents that truly understand your context! #contextiseverything Not many people know that Stable Diffusion is why I went fulltime into AI (I aptly titled Multiverse, not Metaverse to call out Zuck’s mistaken investment). It turns out that Dustin Podell also had the same aha moment - quitting his day job when the model came out. But we took very different paths… I stuck to what I knew in human content creation, and Dustin immersed deep",
+      "titleZh": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://latent.space/p/bfl/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-16T21:38:03.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d0b83026be95e61343",
+      "titleOriginal": "California sues OpenAI over rogue AI hacking incidents",
+      "summaryOriginal": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday , Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters . The lawsuit claims the cyberattack on Hugging Face \"was the predictable result of an internal culture at OpenAI that prioritizes growth and rapid model de",
+      "titleZh": "加州就“流氓”人工智能黑客事件起诉OpenAI",
+      "summaryZh": "在OpenAI的AI代理脱离测试环境并黑入包括Hugging Face在内的其他公司后，加利福尼亚州对其提起诉讼。据路透社早些时候报道，在周一提起的一起诉讼中，加州司法部长罗布·邦塔（Rob Bonta）指控OpenAI明知故犯地开发“缺乏适当监管的危险产品”，从而违反了消费者安全法。该诉讼称，对Hugging Face的网络攻击“是OpenAI内部文化的可预见结果，这种文化将增长和快速模型开发置于首位”。",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T20:46:01.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6dc341b82897f4397a",
+      "titleOriginal": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "summaryOriginal": "Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" The comments were made onstage at Semafor's Silicon Valley & The World summit on Monday. Altman's remarks on RAM stirred up controversy last month. In an appearance on the Ch",
+      "titleZh": "萨姆·阿尔特曼表示，他希望每个人“都拥有大量内存",
+      "summaryZh": "Sam……谢谢你。|图片来源：Getty Images OpenAI首席执行官Sam Altman再次回应了他关于购买PC内存的争议言论。“我想说清楚，我希望人们拥有大量内存，我认为每个人都应该能够为自己的电脑购买大量内存。”Altman今天表示。“我认为在家折腾电脑很棒。” 这些言论是周一在Semafor的硅谷与世界峰会上发表的。阿尔特曼上个月关于内存的言论引发了争议。在Ch节目中，他表示：",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T20:41:28.000Z",
+      "author": "Stevie Bonifield",
+      "tags": [
+        "news",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0873131c018e5da52f",
+      "titleOriginal": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "summaryOriginal": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purchase agreement with Constellation for the output from the plant. | Image: Getty Images Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of",
+      "titleZh": "大型核电公司并不担心民主党会阻止数据中心的发展",
+      "summaryZh": "康斯泰利शन的克林顿清洁能源中心单核反应堆发电厂，2025年7月25日，伊利诺伊州克林顿。Meta与康斯泰利शन就该电厂的发电量签署了一份为期20年的购电协议。|图片来源：Getty Images Constellation Energy是美国最大的核电站运营商，该公司并不认同华尔街的担忧，即民主党将放缓数据中心的发展。在上周的公司第三季度财报电话会议上，首席执行官Joe Dominguez由于……",
+      "translated": true,
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T20:29:37.000Z",
+      "author": "Ellen Thomas",
+      "tags": [
+        "news",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "94e979efd7382a51e7",
+      "titleOriginal": "US data centers now burn more electricity than a midsized country",
+      "summaryOriginal": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the massive structures spanning millions of square feet that developers are racing to build in large part to support generative AI. Researchers say the fi",
+      "titleZh": "美国的数据中心现在消耗的电力比一个中等规模的国家还要多",
+      "summaryZh": "《自然-可持续性》杂志上发表的一篇新论文显示，化石燃料仍然是美国超大规模数据中心的最大电力来源。它们加起来消耗的电量可能比许多国家都要多，从而导致大量温室气体排放。该研究重点关注超大规模设施——占地面积达数百万平方英尺的庞大建筑，开发商正争先恐后地建造这些设施，很大程度上是为了支持生成式人工智能。研究人员表示，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T20:27:58.000Z",
+      "author": "Justine Calma",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b16b5f3f20484c9207",
+      "titleOriginal": "California state AG sues OpenAI over rogue agent incidents",
+      "summaryOriginal": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "titleZh": "加利福尼亚州总检察长就“流氓代理”事件起诉OpenAI",
+      "summaryZh": "加利福尼亚州的这场诉讼是首次尝试追究人工智能实验室对失控代理事件的法律责任。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-16T20:07:13.000Z",
+      "author": "Russell Brandom",
+      "tags": [
+        "news",
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5289d8de412b9768bc",
+      "titleOriginal": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+      "summaryOriginal": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. The article Google warns that fully automated cyberattacks have arrived and will get worse fast appeared first on The Decoder .",
+      "titleZh": "谷歌警告称，全自动网络攻击已经出现，并且将迅速恶化",
+      "summaryZh": "谷歌的威胁情报小组首次发现攻击者在完全没有人为干预的情况下寻找并利用安全漏洞。在一个暴露的服务器上发现了一个名为“exploit_agent”的人工智能框架，它会自动比较补丁前后代码，构建漏洞利用程序，并自行运行。这篇文章《谷歌警告：全自动网络攻击已经到来，并将迅速恶化》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-16T19:42:13.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and safety"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cd9a297fa8a4dcbf76",
+      "titleOriginal": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "summaryOriginal": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors . Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, MacRumo",
+      "titleZh": "苹果正在测试更复杂Siri人工智能交互的每日使用限制",
+      "summaryZh": "据MacRumors报道，苹果公司今天发布了iOS 27.3、iPadOS 27.3和macOS 27.3的测试版，该公司正在利用此次更新来测试一些Siri AI和Apple Intelligence功能的全新单设备每日使用限制。基本的Siri命令和请求仍将是免费且无限制的，但依赖云端处理的更高级功能（如在“照片”中生成、清理或扩展图像）将受到每日限制。使用限制分为四类，MacRumors",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T19:24:40.000Z",
+      "author": "Andrew Liszewski",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5f72fbdc79b9385d19",
+      "titleOriginal": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "summaryOriginal": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more guidance on how to detect this type of content, and helping to train law enforcement on how AI can ai",
+      "titleZh": "OpenAI希望阻止深度伪造视频淹没儿童虐待举报热线",
+      "summaryZh": "OpenAI宣布推出一款工具，声称该工具将帮助儿童性虐待调查人员排除干扰，找到他们可以迅速采取行动的有害材料。在周一于华盛顿特区举行的新闻发布会上，OpenAI宣布推出一款分类器，声称该分类器能够更好地检测儿童性虐待图像，包括是否由人工智能生成。它还为经过审核的组织提供免费访问权限，为开发者提供更多关于如何检测此类内容的指导，并帮助培训执法部门了解人工智能如何协助他们。",
+      "translated": true,
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T19:23:45.000Z",
+      "author": "Lauren Feiner",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a258409b957802442f",
+      "titleOriginal": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+      "summaryOriginal": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible. The article OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice appeared first on The Decoder .",
+      "titleZh": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-16T19:19:56.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "GPT-6-Astra",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d1bee759e86a69db18",
+      "titleOriginal": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "summaryOriginal": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "titleZh": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-16T19:12:02.000Z",
+      "author": "Amanda Silberling",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7234ed3b159b62feef",
+      "titleOriginal": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+      "summaryOriginal": "Moonshot AI is done chasing coding benchmarks, it says. The Beijing startup is pivoting its Kimi language models toward biology, chemistry, and pharma research, arguing that science demands smarter AI than law, finance, or code. The article Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten appeared first on The Decoder .",
+      "titleZh": "Moonshot AI pivots Kimi models from coding to science as benchmark gains flatten",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/moonshot-ai-pivots-kimi-models-from-coding-to-science-as-benchmark-gains-flatten/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-16T18:52:55.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and science"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bd7cc537cd570a59da",
+      "titleOriginal": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "summaryOriginal": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC . A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week , tech executives, along with current and former Nvidia employees, have called for his reinstatement. An online petition to bring Huang back as CEO has amassed more than 180,000 signatures , including from major figures l",
+      "titleZh": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-16T18:43:35.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9c493a96e3fa64820e",
+      "titleOriginal": "The open-source movement wants Jensen Huang back",
+      "summaryOriginal": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia researchers. But comb through the more than 115,000 names and you’ll notice a significant faction of Huang’s supporters—higher-ups from Hugging Face, a hub for",
+      "titleZh": "The open-source movement wants Jensen Huang back",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-11-16T18:38:47.000Z",
+      "author": "James O'Donnell",
+      "tags": [
+        "analysis",
+        "Artificial intelligence",
+        "App",
+        "artificial intelligence",
+        "The Algorithm"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
       "id": "0b5fe7dce536bb454a",
-      "titleOriginal": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+      "titleOriginal": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
       "summaryOriginal": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
       "titleZh": "Sam Altman谈论没有Jensen Huang的Nvidia：行业将“安然无恙",
       "summaryZh": "OpenAI首席执行官萨姆·阿尔特曼（Sam Altman）承认，英伟达首席执行官黄仁勋（Jensen Huang）在人工智能的蓬勃发展中发挥了特殊作用，但他最终认为，即使没有黄仁勋掌舵，这个行业也会“没问题”。",
@@ -28,8 +641,8 @@
     },
     {
       "id": "690a9aa8938dfa2f5b",
-      "titleOriginal": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
-      "summaryOriginal": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "titleOriginal": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "summaryOriginal": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
       "titleZh": "美国联邦调查局表示，Artex AI开源黑客工具被用于在“不到三个小时”内入侵网络",
       "summaryZh": "美国联邦调查局表示，这款开源黑客工具曾被用于针对美国一家IT巨头和韩国金融业的网络攻击。",
       "translated": true,
@@ -68,8 +681,8 @@
       "author": "Connie Loizos",
       "tags": [
         "news",
-        "TC",
-        "AI"
+        "AI",
+        "AI voice"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -92,8 +705,8 @@
       "tags": [
         "research",
         "AI",
-        "ai safety research",
-        "OpenAI"
+        "OpenAI",
+        "ai safety research"
       ],
       "category": "research",
       "readingMinutes": 2
@@ -145,7 +758,7 @@
     {
       "id": "63e5e5cd2656670211",
       "titleOriginal": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "summaryOriginal": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
+      "summaryOriginal": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
       "titleZh": "OpenAI发布新的图像分类器和ChatGPT警告，以打击CSAM",
       "summaryZh": "ChatGPT 将对尝试访问 CSAM 内容的账户实施 24 小时的封禁，以示警告",
       "translated": true,
@@ -159,10 +772,10 @@
       "author": "Ivan Mehta",
       "tags": [
         "launch",
-        "TC",
         "AI",
         "Apps",
-        "OpenAI"
+        "TC",
+        "ChatGPT"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -1259,7 +1872,7 @@
     {
       "id": "77828770ffb5c4ae52",
       "titleOriginal": "Apple launches new app to study how people use AI for health",
-      "summaryOriginal": "Apple's new app for a study will answer everyday medical questions",
+      "summaryOriginal": "Apple's new app for a study will answer everyday medical questions.",
       "titleZh": "苹果推出新应用，研究人们如何使用人工智能来管理健康",
       "summaryZh": "苹果公司的新研究应用程序将回答日常医疗问题",
       "translated": true,
@@ -1374,6 +1987,27 @@
       "readingMinutes": 2
     },
     {
+      "id": "3899b6e8ee3cc1f1e2",
+      "titleOriginal": "At Holiday Extras, dots get to work before anyone asks",
+      "summaryOriginal": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "titleZh": "At Holiday Extras, dots get to work before anyone asks",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "128a04bf78b6cc3a64",
       "titleOriginal": "datasette-maplibre 0.1a0",
       "summaryOriginal": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at ~/dev/tools/openfreemap-demo.html - then build a brand new Datasette plugin that uses maplibreGL and o",
@@ -1423,7 +2057,7 @@
     {
       "id": "fa232e2aaf8a196221",
       "titleOriginal": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "summaryOriginal": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "summaryOriginal": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
       "titleZh": "印度芯片初创公司Bharat Semi获得2400万美元种子轮融资，瞄准全球人工智能传感器市场",
       "summaryZh": "Bharat Semi表示，其支持人工智能的传感器技术已赢得包括通用原子公司在内的多家公司的设计认可。",
       "translated": true,
@@ -1437,8 +2071,8 @@
       "author": "Jagmeet Singh",
       "tags": [
         "news",
-        "Startups",
         "AI",
+        "Startups",
         "Info edge",
         "physical ai"
       ],
@@ -1579,7 +2213,7 @@
     },
     {
       "id": "d9bb72c7b4b4341821",
-      "titleOriginal": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "titleOriginal": "‘SNL’ gathers all the tech tycoons for a lesson in dating and spycraft",
       "summaryOriginal": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
       "titleZh": "《周六夜现场》召集所有科技巨头学习约会和间谍技巧",
       "summaryZh": "虽然笨拙、令人毛骨悚然的科技公司高管已成为《周六夜现场》的一个常见主题，但本周的节目让演员们有机会一次性展示他们对所有这些高管的模仿。",
@@ -2231,8 +2865,8 @@
       "tags": [
         "news",
         "AI",
-        "TC",
-        "nvidia"
+        "nvidia",
+        "Jensen Huang"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -10856,666 +11490,6 @@
       ],
       "category": "research",
       "readingMinutes": 2
-    },
-    {
-      "id": "f469998b0ebdf825ee",
-      "titleOriginal": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "summaryOriginal": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-      "titleZh": "一名卖空者在丑闻发生前六个月标记了英伟达首席执行官与一名疑似中国间谍的关系",
-      "summaryZh": "在英伟达间谍丑闻爆发六个月前， Culper Research已经在质疑Jensen Huang与一位中国高管的异常亲密的关系。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T22:46:09.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "research",
-        "AI",
-        "nvidia",
-        "Jensen Huang"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "05d31a5bc4a78da30a",
-      "titleOriginal": "The race is on to sue Nvidia",
-      "summaryOriginal": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
-      "titleZh": "起诉英伟达的竞赛即将开始",
-      "summaryZh": "英伟达(Nvidia)董事会对黄延森(Jensen Huang)与一名中国间谍嫌疑人的关系展开调查后，其股价下跌逾4% ，一位证券法专家表示，该公司早些时候坚持认为这一切都是“正常的” ，这可能会变成一个非常昂贵的问题。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T22:23:42.000Z",
-      "author": "Connie Loizos",
-      "tags": [
-        "news",
-        "AI",
-        "TC",
-        "Jensen Huang",
-        "Litigation"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4141dd97a7f04fcf2c",
-      "titleOriginal": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-      "summaryOriginal": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company. Anthropic says it has deliberately curbed any capabilities that would let the AI accelerate its own",
-      "titleZh": "Claude Fable 5.2和Mythos 5.2在首次公开募股之前巩固了Anthropic的人工智能领先地位",
-      "summaryZh": "Anthropic正在发布Claude Fable 5.2和Mythos 5.2 ，这是迄今为止最强大的模型，有两个版本：一个免费提供，另一个保留给经过验证的组织。据该公司称，这些模型解决了开放式物理问题，展示了更强大的网络安全能力，设计了功能正常的操作系统，并编写了超过90%的更改合并到Anthropic的核心代码中。Anthropic表示，它已故意遏制任何让人工智能加速自身",
-      "translated": true,
-      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-09T21:15:23.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "39befa3379491d537c",
-      "titleOriginal": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "summaryOriginal": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-      "titleZh": "在英伟达争议中， Jensen Huang退出ElevenLabs峰会",
-      "summaryZh": "英伟达首席执行官早些时候也退出了人类活动。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T20:09:06.000Z",
-      "author": "Ivan Mehta",
-      "tags": [
-        "news",
-        "AI",
-        "ElevenLabs",
-        "In Brief",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a98763b80c842ad2e9",
-      "titleOriginal": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "summaryOriginal": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "titleZh": "Gemini Robotics 2.5 加速实现真实世界的一般灵巧性",
-      "summaryZh": "我们最强大的视觉-语言-动作模型可提升机器人的灵活性、可靠性和安全性",
-      "translated": true,
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:51:47.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4231105077939b4bbb",
-      "titleOriginal": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-      "summaryOriginal": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do appeared first on The Decoder .",
-      "titleZh": "Meta推出Muse Ember ，这是一个为代理实际重复工作而构建的小型AI模型",
-      "summaryZh": "Meta正在推出Muse Ember ，这是其最小、最有效的人工智能模型，针对工具调用、路由和数据提取等重复代理任务进行了优化。据Meta称，它比Claude Haiku 5.5或GPT-6 Luna每美元提供更多的智能。但它在实际编程任务方面存在缺陷。文章Meta发布了Muse Ember ，这是一个为代理的重复性工作构建的小型AI模型，实际上首先出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:41:51.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Ember"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3ec2e278915eae8109",
-      "titleOriginal": "The backlash about data centers might really just be about electricity",
-      "summaryOriginal": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where the backlash now sweeping the country arguably first began taking shape. Driving through it is surreal. Concrete monolithic buildings loom along every major road, with names like Skybox",
-      "titleZh": "关于数据中心的强烈反对可能真的只是关于电力",
-      "summaryZh": "这个故事最初出现在我们的人工智能每周通讯《算法》上。要先在收件箱中获取此类故事，请在此处注册。上周，当选民前往美国各地的民意调查时，我在弗吉尼亚州的阿什本，这是世界上最大的数据中心枢纽数据中心巷的一部分。这也是现在席卷全国的反弹可以说首先开始形成的地方。开车穿过它是超现实的。混凝土整体建筑沿着每条主要道路耸立，名称如Skybox",
-      "translated": true,
-      "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:35:33.000Z",
-      "author": "James O'Donnell",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "App",
-        "artificial intelligence",
-        "The Algorithm"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2b128ff095485e1c3b",
-      "titleOriginal": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summaryOriginal": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "titleZh": "由于RSI的担忧， Anthropic发布了新的Mythos和Fable模型",
-      "summaryZh": "Anthropic表示，新模型“显示了编码、推理和视觉等领域的改进” ，以及与用户进行更清晰的沟通。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:24:51.000Z",
-      "author": "Russell Brandom",
-      "tags": [
-        "launch",
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4a7141713ab5f9229a",
-      "titleOriginal": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "summaryOriginal": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac . It has a built-in AI assistant to do things like \"start a new song, set up a vocal track from a single prompt, or refine an active project.\" These Intelligence Usage Packs, as Apple calls them, will allow users to continue accessing certain Apple Inte",
-      "titleZh": "Apple的$ 50智能使用包扩展了对某些人工智能功能的访问权限",
-      "summaryZh": "在9月初发布了一篇概述某些Apple Intelligence功能使用限制的支持文章后，该公司更新了Logic Pro ，增加了“购买更多使用”选项，一次性购买价格为$ 49.99 ，正如9to5Mac所发现的那样。它有一个内置的人工智能助手，可以执行诸如“开始一首新歌，从单个提示设置声轨，或完善活动项目”之类的操作。\"这些智能使用包（ Apple称之为智能使用包）将允许用户继续访问某些Apple Inte",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:09:58.000Z",
-      "author": "Andrew Liszewski",
-      "tags": [
-        "news",
-        "Prompt"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "98d5b7ce1047f96269",
-      "titleOriginal": "Fable 5.2 and Jagged AGI",
-      "summaryOriginal": "Before getting started, I wanted to thank my readers for making my new book, Co-Existence, a New York Times bestseller two weeks in a row. If you haven’t read it, you can get a copy here . I have had the chance to use the new Claude Fable 5.2 quite a bit before its public launch 1 , and it is very impressive, following on the already excellent Opus 5.5. AI has gotten so good, in fact, that it is worth asking if Anthropic’s newest models (and the inevitable competing models OpenAI and Google will",
-      "titleZh": "寓言5.2和锯齿状敏捷",
-      "summaryZh": "在开始之前，我想感谢我的读者让我的新书《共存》连续两周成为《纽约时报》的畅销书。如果您尚未阅读，可以在此处获取副本。在公开发布1之前，我有机会使用新的Claude Fable 5.2 ，在已经非常出色的Opus 5.5之后，它非常令人印象深刻。事实上，人工智能已经变得如此之好，以至于值得一问的是， Anthropic的最新模型（以及不可避免的竞争模型OpenAI和Google是否会",
-      "translated": true,
-      "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
-      "sourceId": "oneusefulthing",
-      "sourceName": "One Useful Thing",
-      "sourceSite": "https://www.oneusefulthing.org/",
-      "sourceColor": "#c2571a",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:04:26.000Z",
-      "author": "Ethan Mollick",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9c331579e229757a7a",
-      "titleOriginal": "ChatGPT Enterprise now available in AWS Marketplace",
-      "summaryOriginal": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "titleZh": "ChatGPT Enterprise现已在AWS Marketplace中提供",
-      "summaryZh": "ChatGPT Enterprise现已通过AWS Marketplace提供，帮助组织通过现有的AWS采购和计费关系简化采购。",
-      "translated": true,
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Product"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f1eea0a2781af6aa83",
-      "titleOriginal": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summaryOriginal": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable 5.2 is good at challenging software engineering problems, Anthropic says, and can orchestrate agent teams and tackle long-running projects. The new model has",
-      "titleZh": "Anthropic推出全新Claude Fable和Mythos 5.2车型",
-      "summaryZh": "Anthropic今天宣布推出两款新机型： Claude Fable 5.2和Claude Mythos 5.2 ，据称它们旨在应对“令人生畏”的技术挑战。该公司声称，新模型在编码、推理和视觉方面有所改进，并且可以比5.1版本的Fable和Mythos模型更快地生成输出。Anthropic说， Claude Fable 5.2擅长挑战软件工程问题，可以协调代理团队并处理长期运行的项目。新型号具有",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "launch",
-        "Agent",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4b0431f260e8b438a4",
-      "titleOriginal": "Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift",
-      "summaryOriginal": "Bytedance Seed has introduced Seedream 5.5, an image model built for professional production workflows. It supports stable multi-pass editing over up to 100 iterations, generates native RGBA images with transparent backgrounds, and, according to Bytedance, outperforms GPT-Image-2.5 Sunburst in realism. A Pro version is planned. The article Bytedance's Seedream 5.5 promises pixel-stable image editing across 100 rounds without color drift appeared first on The Decoder .",
-      "titleZh": "字节跳动的Seedream 5.5承诺在100轮中进行像素稳定的图像编辑，没有颜色漂移",
-      "summaryZh": "字节跳动种子引入了Seedream 5.5 ，这是一种为专业生产工作流程构建的图像模型。它支持多达100次迭代的稳定多通道编辑，生成具有透明背景的原生RGBA图像，并且根据字节跳动，在真实感方面优于GPT-Image-2.5 Sunburst。计划推出专业版。字节跳动的Seedream 5.5文章承诺在100轮中进行像素稳定的图像编辑，没有颜色漂移，首次出现在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/bytedances-seedream-5-5-promises-pixel-stable-image-editing-across-100-rounds-without-color-drift/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-09T18:50:01.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "ByteDance"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d272b8b09311cf962b",
-      "titleOriginal": "不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战",
-      "summaryOriginal": "",
-      "titleZh": "不想当管理者，就用不好 Coding Agent？Anthropic 工程师长文谈 Agent 管理实战",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/YPQyY6bqhzhtO8MN6XUb",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-09T18:24:32.000Z",
-      "author": "林绮蓓",
-      "tags": [
-        "news",
-        "Agent",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "20ff528b54959b19ec",
-      "titleOriginal": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "summaryOriginal": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "titleZh": "黄延森与涉嫌中国间谍的婚外情使英伟达的中国野心受到严格审查",
-      "summaryZh": "Jensen Huang涉嫌与一名涉嫌中国间谍发生关系，这可能会使英伟达放松美国芯片出口限制并保持进入中国利润丰厚的人工智能市场的游说努力复杂化。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T18:09:52.000Z",
-      "author": "Rebecca Bellan",
-      "tags": [
-        "news",
-        "AI",
-        "Enterprise",
-        "Government & Policy"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9d5aee5d27ee269231",
-      "titleOriginal": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summaryOriginal": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style reference images. Then you can upload your own photos to preview the AI-generating effects, and ask for changes in follow-up prompts. There's also an option to allow Instagram's AI to re",
-      "titleZh": "Instagram的效果生成器根据人工智能提示制作新的过滤器",
-      "summaryZh": "在上周将其编辑应用程序扩展到macOS之后， Instagram的下一步是推出此效果生成器，它可以使用AI为您的故事帖子生成自定义过滤器。它现在适用于18岁以上的美国居民，它有一个提示框，用于向聊天机器人描述您的过滤创意，并可选择附加样式参考图像。然后，您可以上传自己的照片以预览AI生成效果，并要求更改后续提示。还有一个选项可以让Instagram的人工智能",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-09T18:07:23.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "launch",
-        "Prompt"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "fe9001b06ea620d4de",
-      "titleOriginal": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summaryOriginal": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "titleZh": "Meta发布Muse Ember ，一种新的轻量级代理执行模型",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T18:00:00.000Z",
-      "author": "Russell Brandom",
-      "tags": [
-        "launch",
-        "AI",
-        "TC",
-        "Meta",
-        "meta superintelligence lab"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a06869aa80e569ca00",
-      "titleOriginal": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "summaryOriginal": "Step 1. Cut a hole in the box. | Image: The Verge I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women ? Alice Huang - no relation to Jensen - is a former TV reporter. That was before she became \"an executive\" at Megaspeed, which bought $4.8 billion of hard-to-get Nvi",
-      "titleZh": "AI的未来取决于… Jensen Huang的性生活？",
-      "summaryZh": "第1步：在盒子上切一个洞。|图片：我更希望这些人的性生活与我无关，但我想我们必须谈谈Jensen Huang和国家安全事件。谁能猜到，在这里签乳头的男人可能对如何对待女人没有很好的判断力？ Alice Huang （与Jensen无关）是一名前电视记者。那是在她成为Megaspeed的“高管”之前， Megaspeed以48亿美元收购了难以获得的Nvi",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-09T17:36:08.000Z",
-      "author": "Elizabeth Lopatto",
-      "tags": [
-        "guide",
-        "Image"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "efd1a1cf0813391b21",
-      "titleOriginal": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "summaryOriginal": "This is our first Latent Space deep dive with an AI data company . In roughly a year, Handshake’s AI training business went from launch to $1 billion in gross annualized revenue . What are frontier labs buying at that scale? What evals are models still nowhere close to human level on? Garrett Lord brought the people who build these reinforcement learning environments to show us. For the first time, we are walking through them live! To cover the scope of Handshake, we had to produce a very specia",
-      "titleZh": "Frontier Labs购买的内容：使用握手AI深入了解数据— Garrett Lord & Team",
-      "summaryZh": "这是我们与人工智能数据公司首次深入探讨潜在空间。在大约一年的时间里， Handshake的人工智能培训业务从推出到年化总收入达到10亿美元（ $ ）。如此规模的前沿实验室在购买什么？在什么地方，模型仍然远远没有接近人类的水平？ Garrett Lord带来了构建这些强化学习环境的人来向我们展示。这是我们第一次现场直播！为了涵盖握手的范围，我们必须制作一个非常特别的",
-      "translated": true,
-      "url": "https://latent.space/p/handshake/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-11-09T17:15:53.000Z",
-      "author": "swyx .ai",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9705284e72019fc389",
-      "titleOriginal": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
-      "summaryOriginal": "Google has added two new systems to its eighth-generation TPU lineup. TPU 8i Max targets massive context windows and rack density. TPU 8tx targets secure, confidential inference. Google TPU 8i Max is a dual-chip package built from 2 TPU 8i chips. Both arrive alongside TPU 8t and TPU 8i, announced in April . TL;DR Size: TPU 8i Max = 2 TPU 8i chips in 1 package. TPU 8tx = TPU 8t silicon plus 5th Gen AMD EPYC hosts. Runs on: Google Cloud TPU systems. Performance: 8i Max doubles TPU 8i compute, SRAM",
-      "titleZh": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-09T17:09:54.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "50d303e5bf8413800f",
-      "titleOriginal": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "summaryOriginal": "A new voice for AI regulation in Congress: Scott Wiener, who authored the country's first proposed frontier AI legislation, just won Nancy Pelosi's former congressional seat and is already pushing for federal action — warning that \"we could sleepwalk into a disaster.\" Recursive self-improvement is keeping him up at night: A recent report suggesting Anthropic may have achieved AI that meaningfully advances itself rattled Wiener, who sees it as proof that Congress is running out of time to act bef",
-      "titleZh": "南希·佩洛西的继任者已准备好监管人工智能",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-11-09T17:05:43.000Z",
-      "author": "Grace Huckins",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "App",
-        "artificial intelligence",
-        "Summary"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ae651a797f71226e02",
-      "titleOriginal": "千问“死磕”Personal Agent：为什么下限比上限更重要？",
-      "summaryOriginal": "",
-      "titleZh": "千问“死磕”Personal Agent：为什么下限比上限更重要？",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/1g0PWSVhNkb0sgud4heO",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-09T17:02:39.000Z",
-      "author": "褚杏娟",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ea1cff75717bdba91f",
-      "titleOriginal": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "summaryOriginal": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "titleZh": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T16:56:54.000Z",
-      "author": "Tim De Chant",
-      "tags": [
-        "news",
-        "AI",
-        "Climate",
-        "Anthropic",
-        "data centers"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "355337b1650820923c",
-      "titleOriginal": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
-      "summaryOriginal": "",
-      "titleZh": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-09T16:55:59.000Z",
-      "author": "褚杏娟",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e188dcc610ac15f8c6",
-      "titleOriginal": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
-      "summaryOriginal": "Disney and Adobe are building custom AI tools together for the entertainment giant's productions. The article Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire appeared first on The Decoder .",
-      "titleZh": "Disney bets on Adobe's Firefly to create brand-safe AI models for its entertainment empire",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://the-decoder.com/disney-bets-on-adobes-firefly-to-create-brand-safe-ai-models-for-its-entertainment-empire/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-09T16:54:16.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Adobe"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "42ba3d659a7cc8b6dc",
-      "titleOriginal": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
-      "summaryOriginal": "Baidu has just released ERNIE Evolve , an automated research system that improves AI training and inference code. Given a repository, an objective and evaluation criteria, it picks research directions, edits code and runs experiments. Only changes that pass a hidden evaluator and a separate reviewer are kept. Baidu team tested the ERNIE Evolve automated research system on three public benchmarks. It then optimized inference for ERNIE-5.5-Flash, still in development. TL;DR Size: It is an agent sy",
-      "titleZh": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-09T16:31:59.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "fc9c5eeda8cd749579",
-      "titleOriginal": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-      "summaryOriginal": "",
-      "titleZh": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/1Mz0ADa02PxcDsVfpVEb",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-09T16:26:51.000Z",
-      "author": "小热",
-      "tags": [
-        "launch",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ad058ec7fa053fd0bb",
-      "titleOriginal": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "summaryOriginal": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "titleZh": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-09T16:12:28.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "TC",
-        "Medium"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11533,7 +11507,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 6
+      "count": 5
     },
     {
       "id": "techcrunch",
@@ -11541,7 +11515,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 86
+      "count": 82
     },
     {
       "id": "theverge",
@@ -11549,7 +11523,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 47
+      "count": 51
     },
     {
       "id": "mittr",
@@ -11557,7 +11531,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 5
+      "count": 4
     },
     {
       "id": "wired",
@@ -11573,7 +11547,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 51
+      "count": 50
     },
     {
       "id": "marktechpost",
@@ -11581,7 +11555,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 26
+      "count": 24
     },
     {
       "id": "simonwillison",
@@ -11589,7 +11563,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 21
+      "count": 22
     },
     {
       "id": "oneusefulthing",
@@ -11597,7 +11571,7 @@
       "site": "https://www.oneusefulthing.org/",
       "lang": "en",
       "color": "#c2571a",
-      "count": 1
+      "count": 0
     },
     {
       "id": "latentspace",
@@ -11613,7 +11587,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 27
+      "count": 29
     },
     {
       "id": "sspai",
@@ -11629,7 +11603,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 112
+      "count": 118
     },
     {
       "id": "infoq",
@@ -11637,13 +11611,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 47
+      "count": 44
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 37,
-    "translated": 250,
-    "sources": 15
+    "guides": 38,
+    "translated": 242,
+    "sources": 14
   }
 }
