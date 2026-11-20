@@ -1,6 +1,413 @@
 {
-  "generatedAt": "2026-11-19T20:47:31.418Z",
+  "generatedAt": "2026-11-20T03:29:05.979Z",
   "articles": [
+    {
+      "id": "df0cffa648470a7c60",
+      "titleOriginal": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "summaryOriginal": "",
+      "titleZh": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T11:00:00.000Z",
+      "author": "作者：Daniel Dominguez",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7318a5c4958bbfda23",
+      "titleOriginal": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+      "summaryOriginal": "",
+      "titleZh": "火山引擎 Agent-Native 团队的上下文管理实践｜AICon北京",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/YTGHxcabs0RI3btLIUxm",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "518cc952e9da4f8997",
+      "titleOriginal": "高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始",
+      "summaryOriginal": "（本文作者为 硅谷Tech news，钛媒体经授权发布） 美东时间11月19日，史上最大IPO正式登陆 纳斯达克 。代码ANT的股票以111.50美元开盘，较83美元发行价高开34.3%；盘中最高115.10美元，完全稀释估值一度突破2万亿美元，最低探至92.72美元，最终收报97.17美元，收涨17.07%。当天约860亿至880亿美元（按成交均价估算）的成交额，让这只新股坐上个股成交额的头把交椅。 图1：ANT首日关键价格节点（资料来源：纳斯达克行情、公开报道） 这一天的大盘本身就不平静。黄仁勋已于11月12日辞去 英伟达 CEO，英伟达连跌六个交易日；当日标普500再跌2.02%，纳指跌2.25%，AMD跌近8%。ANT在大盘明显承压的背景下逆势收涨，说明市场对前沿AI资产的承接意愿真实存在，当然其中有多少是新增资金、多少是卖出其他AI股后的腾挪再配置，还需后续数据验证。而高开34%后回吐约一半涨幅，也说明开盘情绪一度透支，二级市场用几个小时完成了一次自发的价格校准。 造富之外，这一天真正的意义在于：AI资产第一次进入公开市场，前沿模型的定价权就此交到了公开市场手里。 一场被反复",
+      "titleZh": "高开又跳水，巨头组团押注 Anthropic：AI 大模型的公开市场考题才刚刚开始",
+      "summaryZh": "（本文作者为 硅谷Tech news，钛媒体经授权发布） 美东时间11月19日，史上最大IPO正式登陆 纳斯达克 。代码ANT的股票以111.50美元开盘，较83美元发行价高开34.3%；盘中最高115.10美元，完全稀释估值一度突破2万亿美元，最低探至92.72美元，最终收报97.17美元，收涨17.07%。当天约860亿至880亿美元（按成交均价估算）的成交额，让这只新股坐上个股成交额的头把交椅。 图1：ANT首日关键价格节点（资料来源：纳斯达克行情、公开报道） 这一天的大盘本身就不平静。黄仁勋已于11月12日辞去 英伟达 CEO，英伟达连跌六个交易日；当日标普500再跌2.02%，纳指跌2.25%，AMD跌近8%。ANT在大盘明显承压的背景下逆势收涨，说明市场对前沿AI资产的承接意愿真实存在，当然其中有多少是新增资金、多少是卖出其他AI股后的腾挪再配置，还需后续数据验证。而高开34%后回吐约一半涨幅，也说明开盘情绪一度透支，二级市场用几个小时完成了一次自发的价格校准。 造富之外，这一天真正的意义在于：AI资产第一次进入公开市场，前沿模型的定价权就此交到了公开市场手里。 一场被反复",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8212110.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T02:58:50.000Z",
+      "author": "硅谷Tech news",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f32d5bea8abf85e88b",
+      "titleOriginal": "Token fraud is here and it’s BAD (YouTube)",
+      "summaryOriginal": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4 era, and Claire has been building it in public for much of that time. In this YouTube video (see also the accompanying Twitter post ) Claire describes the flood of token fraud she has seen from groups abusing the product's free trial, sometimes just to get free AI usage but often to resell tokens or run other commerci",
+      "titleZh": "代币欺诈已然存在，而且很糟糕（YouTube）",
+      "summaryZh": "代币欺诈已经出现，而且情况很糟糕（YouTube）Claire Vo运营着ChatPRD ，这是一个帮助产品经理“将想法转化为规格”的AI平台。该产品自GPT-4时代以来就已上线，Claire在此期间的大部分时间都在公开构建该产品。在这段YouTube视频（另请参阅随附的Twitter帖子）中，Claire描述了她所看到的滥用产品免费试用的群体所实施的大量代币欺诈行为，有时只是为了获得免费的AI使用权，但通常是为了转售代币或开展其他商业活动。",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-20T02:49:57.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Video"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a6226dddf8b1fde17d",
+      "titleOriginal": "从Anthropic敲钟，看中国大模型怎么定价？",
+      "summaryOriginal": "（本文作者为 光锥智能，钛媒体经授权发布） 文 | 光锥智能，作者｜魏琳华，编辑｜刘俊宏 美东时间11月19日上午11点48分，顶着“人类史上最大IPO”的光环，Anthropic（股票代码：ANT）正式在纳斯达克开盘交易。 相比Anthropic敲定的83美元发行价，开盘价直接高开至111.50美元，暴涨34.3%，盘中一度冲高至115.10美元。按完全稀释口径计算，Anthropic的估值最高达到2.02万亿美元，一举超越今年6月上市的SpaceX。 然而，开盘后的狂欢只持续了不到半个小时，截至收盘，Anthropic市值像是坐上了过山车。 午后开始，Anthropic股价一路跳水，盘中最低点来到92.72美元，最终收盘定格在97.17美元。虽然较83美元的发行价依然收涨了17.07%，但从日内高点算起，Anthropic距离收盘就蒸发了约3244亿美元的市值， 按完全稀释口径计算，公司估值从2万亿美元落回约1.76万亿美元。 大洋彼岸的钟声敲响，而中国AI圈里，几乎所有大模型创始人、投资人和二级市场分析师都在熬夜盯盘。大家盯的不是Anthropic一家公司的涨跌，而是在找一个答案",
+      "titleZh": "从Anthropic敲钟，看中国大模型怎么定价？",
+      "summaryZh": "（本文作者为 光锥智能，钛媒体经授权发布） 文 | 光锥智能，作者｜魏琳华，编辑｜刘俊宏 美东时间11月19日上午11点48分，顶着“人类史上最大IPO”的光环，Anthropic（股票代码：ANT）正式在纳斯达克开盘交易。 相比Anthropic敲定的83美元发行价，开盘价直接高开至111.50美元，暴涨34.3%，盘中一度冲高至115.10美元。按完全稀释口径计算，Anthropic的估值最高达到2.02万亿美元，一举超越今年6月上市的SpaceX。 然而，开盘后的狂欢只持续了不到半个小时，截至收盘，Anthropic市值像是坐上了过山车。 午后开始，Anthropic股价一路跳水，盘中最低点来到92.72美元，最终收盘定格在97.17美元。虽然较83美元的发行价依然收涨了17.07%，但从日内高点算起，Anthropic距离收盘就蒸发了约3244亿美元的市值， 按完全稀释口径计算，公司估值从2万亿美元落回约1.76万亿美元。 大洋彼岸的钟声敲响，而中国AI圈里，几乎所有大模型创始人、投资人和二级市场分析师都在熬夜盯盘。大家盯的不是Anthropic一家公司的涨跌，而是在找一个答案",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211889.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T02:47:09.000Z",
+      "author": "光锥智能",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1f5d36823c30355452",
+      "titleOriginal": "从去IOE到去CUDA，阿里为何在此时“散养”平头哥",
+      "summaryOriginal": "（本文作者为 新立场Pro，钛媒体经授权发布） 文 | 新立场Pro 11月19日晚，阿里巴巴CEO吴泳铭在财报电话会上透露，千问已经在平头哥芯片上训练下一代模型，百炼也已基于国产芯片提供模型推理服务。 三个月前，阿里公布了一次业务调整：云智能集团与平头哥整合为“AI云与算力服务”。两项业务被放进同一个财务分部，阿里希望芯片与云计算更加紧密地配合。 9月11日，平头哥向港交所秘密递交了上市申请。阿里刚刚加强了两项业务的协同，又准备让平头哥接受资本市场的独立估值。 按照分拆公告，平头哥上市后仍将是阿里子公司，阿里希望保留芯片与云计算的协同，同时让平头哥拥有独立融资渠道。这与三年前准备完全分拆云智能集团的安排，已经有了明显区别。 平头哥已经拥有百亿元级别的年化营收规模。与2019年相比，它不再只会做AI推理芯片。服务器CPU、网络互联、智能网卡、存储控制器，阿里云一座数据中心里需要的核心芯片，平头哥几乎都想自己做。 真武已经通过阿里云服务了650多家企业，平头哥也开始与服务器厂商等合作伙伴合作，向外部提供硬件。如今，它又准备独立上市。 按阿里公告的说法，独立上市主要是为了让投资者单独评估平",
+      "titleZh": "从去IOE到去CUDA，阿里为何在此时“散养”平头哥",
+      "summaryZh": "（本文作者为 新立场Pro，钛媒体经授权发布） 文 | 新立场Pro 11月19日晚，阿里巴巴CEO吴泳铭在财报电话会上透露，千问已经在平头哥芯片上训练下一代模型，百炼也已基于国产芯片提供模型推理服务。 三个月前，阿里公布了一次业务调整：云智能集团与平头哥整合为“AI云与算力服务”。两项业务被放进同一个财务分部，阿里希望芯片与云计算更加紧密地配合。 9月11日，平头哥向港交所秘密递交了上市申请。阿里刚刚加强了两项业务的协同，又准备让平头哥接受资本市场的独立估值。 按照分拆公告，平头哥上市后仍将是阿里子公司，阿里希望保留芯片与云计算的协同，同时让平头哥拥有独立融资渠道。这与三年前准备完全分拆云智能集团的安排，已经有了明显区别。 平头哥已经拥有百亿元级别的年化营收规模。与2019年相比，它不再只会做AI推理芯片。服务器CPU、网络互联、智能网卡、存储控制器，阿里云一座数据中心里需要的核心芯片，平头哥几乎都想自己做。 真武已经通过阿里云服务了650多家企业，平头哥也开始与服务器厂商等合作伙伴合作，向外部提供硬件。如今，它又准备独立上市。 按阿里公告的说法，独立上市主要是为了让投资者单独评估平",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211617.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T02:32:10.000Z",
+      "author": "新立场Pro",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2c0e83cbcd7e0d88dc",
+      "titleOriginal": "黄仁勋的最后一季财报",
+      "summaryOriginal": "（本文作者为 硅谷Tech news，钛媒体经授权发布） 美东时间11月17日下午5点， 英伟达 的财报电话会开始。坐在开场位置的是临时CEO科莱特&middot;克雷斯和新任董事长哈维&middot;琼斯，人们熟悉的穿皮衣的黄仁勋不在席上。五天前，黄仁勋辞去总裁、CEO和董事职务，即刻生效，33年的掌舵到此结束。辞职之前，董事会已就其个人行为启动独立调查。 他交出的最后一份季报在数字上几乎无可挑剔，2027财年第三季度营收1158.4亿美元，同比增长103%，环比增长20%，比公司8月给出的指引中值高出78亿美元，单季营收首次跨过千亿。数据中心收入1076.1亿美元，同比增长110%，占总营收九成以上。Vera Rubin在量产出货的第一个季度就贡献约200亿美元收入，网络业务单季收入首次超过210亿美元。第四季度指引1300亿美元，比市场一致预期高近4%，管理层同时把下一财年的营收增速目标从70%上调到75%。 市场的正面反应只持续了几个小时，财报盘后股价一度涨4%，第二个交易日开盘还在159美元上方，随后掉头向下，收于150.96美元，跌2.89%。这已是连续第五个交易日下跌，此",
+      "titleZh": "黄仁勋的最后一季财报",
+      "summaryZh": "（本文作者为 硅谷Tech news，钛媒体经授权发布） 美东时间11月17日下午5点， 英伟达 的财报电话会开始。坐在开场位置的是临时CEO科莱特&middot;克雷斯和新任董事长哈维&middot;琼斯，人们熟悉的穿皮衣的黄仁勋不在席上。五天前，黄仁勋辞去总裁、CEO和董事职务，即刻生效，33年的掌舵到此结束。辞职之前，董事会已就其个人行为启动独立调查。 他交出的最后一份季报在数字上几乎无可挑剔，2027财年第三季度营收1158.4亿美元，同比增长103%，环比增长20%，比公司8月给出的指引中值高出78亿美元，单季营收首次跨过千亿。数据中心收入1076.1亿美元，同比增长110%，占总营收九成以上。Vera Rubin在量产出货的第一个季度就贡献约200亿美元收入，网络业务单季收入首次超过210亿美元。第四季度指引1300亿美元，比市场一致预期高近4%，管理层同时把下一财年的营收增速目标从70%上调到75%。 市场的正面反应只持续了几个小时，财报盘后股价一度涨4%，第二个交易日开盘还在159美元上方，随后掉头向下，收于150.96美元，跌2.89%。这已是连续第五个交易日下跌，此",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8212036.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T02:19:05.000Z",
+      "author": "硅谷Tech news",
+      "tags": [
+        "launch",
+        "黄仁勋婚外情风波",
+        "黄仁勋",
+        "英伟达",
+        "大模型"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2b8465336766415213",
+      "titleOriginal": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 清醒地认识到自己在见证历史，是挺刺激的一件事。 Anthropic上市，就是这样。 当地时间11月19日，做出Claude的Anthropic在纳斯达克挂牌，股票代码ANT。第一笔交易以每股111.50美元成交，较83美元的发行价上涨34.34%。 按完全稀释口径算，Anthropic的估值从发行时的约1.5万亿美元涨到了约2万亿美元。之后股价有所回落，截至发稿，ANT 股价为 94.62 美元，市值约 1.24 万亿。 一出道就已经是很多公司此生难以企及的高度。 今年6月，马斯克的SpaceX上市时，我们才用过一回“史上最大IPO”这几个字。谁能想到，这个纪录只保住了五个月。Anthropic这次IPO的公开发行规模约为813亿美元。 Anthropic终究还是抢在OpenAI前面，成了美国第一家独立上市的前沿大模型公司。 也正因如此，Anthropic在一定程度上也成了AI的代言人。纽约时代广场上，有人一早就赶来抗议。纳斯达克大楼的屏幕上打着Anthropic的名字，楼下的红色横幅上写着“冻结AI”。 敲钟前一天，Hug",
+      "titleZh": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 清醒地认识到自己在见证历史，是挺刺激的一件事。 Anthropic上市，就是这样。 当地时间11月19日，做出Claude的Anthropic在纳斯达克挂牌，股票代码ANT。第一笔交易以每股111.50美元成交，较83美元的发行价上涨34.34%。 按完全稀释口径算，Anthropic的估值从发行时的约1.5万亿美元涨到了约2万亿美元。之后股价有所回落，截至发稿，ANT 股价为 94.62 美元，市值约 1.24 万亿。 一出道就已经是很多公司此生难以企及的高度。 今年6月，马斯克的SpaceX上市时，我们才用过一回“史上最大IPO”这几个字。谁能想到，这个纪录只保住了五个月。Anthropic这次IPO的公开发行规模约为813亿美元。 Anthropic终究还是抢在OpenAI前面，成了美国第一家独立上市的前沿大模型公司。 也正因如此，Anthropic在一定程度上也成了AI的代言人。纽约时代广场上，有人一早就赶来抗议。纳斯达克大楼的屏幕上打着Anthropic的名字，楼下的红色横幅上写着“冻结AI”。 敲钟前一天，Hug",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211807.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T02:01:00.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "02d22debc18a406dde",
+      "titleOriginal": "苏伊士运河恢复通航，全球航运公司为什么反而紧张了？",
+      "summaryOriginal": "（本文作者为 好望角，钛媒体经授权发布） 文 | 好望角 11月11日，全球最大的集装箱航运公司地中海航运（MSC），向客户公布了12月上半月亚洲至欧洲的运价。 从远东港口运往北欧，一个40英尺集装箱的FAK公开报价为4600美元，与11月下半月保持一致。 一天后，马士基宣布，从12月1日起，对远东至北欧航线征收新的旺季附加费，每个40英尺集装箱1000美元。 两家公司公布的是不同收费项目。MSC的FAK报价包含部分燃油等附加费，马士基的1000美元则是单独列出的旺季附加费。最终成交价格还要看货主合同、附加费和具体舱位安排。 船公司已经开始为12月安排价格。 11月16日，马士基与赫伯罗特又公布了另一项决定：Gemini航运网络旗下三条亚欧航线，将陆续恢复经过苏伊士运河。 其中，AE3航线改走苏伊士之后，维持每周一班只需要11艘船。此前，这条航线配置了13艘。 两艘约1.63万TEU级集装箱船，由此可以退出原来的航线。 对货主来说，航程缩短，货物可以更早到达欧洲。马士基也能够节省燃油和船舶使用成本。 船公司却开始面临新的运力安排。 11月5日，航运数据机构Xeneta在慕尼黑公布202",
+      "titleZh": "苏伊士运河恢复通航，全球航运公司为什么反而紧张了？",
+      "summaryZh": "（本文作者为 好望角，钛媒体经授权发布） 文 | 好望角 11月11日，全球最大的集装箱航运公司地中海航运（MSC），向客户公布了12月上半月亚洲至欧洲的运价。 从远东港口运往北欧，一个40英尺集装箱的FAK公开报价为4600美元，与11月下半月保持一致。 一天后，马士基宣布，从12月1日起，对远东至北欧航线征收新的旺季附加费，每个40英尺集装箱1000美元。 两家公司公布的是不同收费项目。MSC的FAK报价包含部分燃油等附加费，马士基的1000美元则是单独列出的旺季附加费。最终成交价格还要看货主合同、附加费和具体舱位安排。 船公司已经开始为12月安排价格。 11月16日，马士基与赫伯罗特又公布了另一项决定：Gemini航运网络旗下三条亚欧航线，将陆续恢复经过苏伊士运河。 其中，AE3航线改走苏伊士之后，维持每周一班只需要11艘船。此前，这条航线配置了13艘。 两艘约1.63万TEU级集装箱船，由此可以退出原来的航线。 对货主来说，航程缩短，货物可以更早到达欧洲。马士基也能够节省燃油和船舶使用成本。 船公司却开始面临新的运力安排。 11月5日，航运数据机构Xeneta在慕尼黑公布202",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211760.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T01:46:24.000Z",
+      "author": "好望角",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "81406b1ae6e7793d24",
+      "titleOriginal": "AI办公的“入口之战”打完了吗？",
+      "summaryOriginal": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 11月18日和19日，腾讯与字节几乎同时交出了各自在AI办公赛道上的成绩单。 腾讯WorkBuddy日活用户突破1000万，日均Token调用量超过100万亿，近七天年化收入超过5亿美元，是腾讯会议的两倍以上。 几乎同一时间，字节旗下豆包工作也公布了最新进展：上线仅三个月，DAU便突破800万，企业客户ARR突破20亿元。 另一边，阿里千问办公也在加速追赶。易观分析数据显示，WorkBuddy用户渗透率达到55%，高频使用比例达到92%；千问办公紧随其后，高频使用比例达到88%。 如果只看这些数字，很容易得出一个结论：中国AI办公市场正在迎来新一轮流量大战。 但就观察而言，这些数据真正值得关注的地方，并不是谁的日活更高，也不是谁的收入增长更快，而是腾讯、字节、阿里三家互联网巨头，正在用三种截然不同的商业逻辑，重新争夺一个价值巨大的市场。 腾讯希望让AI成为每个人的工作入口，字节希望让AI成为企业组织的生产力基础设施，阿里则试图借助钉钉的企业生态，把AI深度嵌入组织协作体系。 这意味着，AI办公的竞争已经进入一个新阶段。",
+      "titleZh": "AI办公的“入口之战”打完了吗？",
+      "summaryZh": "（本文作者为 影子备忘录，钛媒体经授权发布） 文 | 影子备忘录 11月18日和19日，腾讯与字节几乎同时交出了各自在AI办公赛道上的成绩单。 腾讯WorkBuddy日活用户突破1000万，日均Token调用量超过100万亿，近七天年化收入超过5亿美元，是腾讯会议的两倍以上。 几乎同一时间，字节旗下豆包工作也公布了最新进展：上线仅三个月，DAU便突破800万，企业客户ARR突破20亿元。 另一边，阿里千问办公也在加速追赶。易观分析数据显示，WorkBuddy用户渗透率达到55%，高频使用比例达到92%；千问办公紧随其后，高频使用比例达到88%。 如果只看这些数字，很容易得出一个结论：中国AI办公市场正在迎来新一轮流量大战。 但就观察而言，这些数据真正值得关注的地方，并不是谁的日活更高，也不是谁的收入增长更快，而是腾讯、字节、阿里三家互联网巨头，正在用三种截然不同的商业逻辑，重新争夺一个价值巨大的市场。 腾讯希望让AI成为每个人的工作入口，字节希望让AI成为企业组织的生产力基础设施，阿里则试图借助钉钉的企业生态，把AI深度嵌入组织协作体系。 这意味着，AI办公的竞争已经进入一个新阶段。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211777.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T01:46:19.000Z",
+      "author": "影子备忘录",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a6c121d25384ff58c1",
+      "titleOriginal": "估值1300亿，三个辍学00后做AI，英伟达、阿里抢着买单",
+      "summaryOriginal": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 3个00后，干出一家千亿独角兽。 北京时间11月18日，硅谷AI圈传出重磅消息：曾任职谷歌、OpenAI和Meta的“思维链之父”Jason Wei，官宣出任AI数据公司Mercor的首席科学家。 而就在他官宣加盟的前一周，11月10日，Mercor刚刚拿下7.5亿美元D轮融资，投后估值冲破200亿美元，折合人民币超过1340亿元。英伟达、Salesforce、Zoom等一众科技巨头纷纷入局。 更让人咋舌的是，这家千亿独角兽的掌舵者，竟是三个23岁的大学辍学生。 随着估值翻倍，他们的个人身家也跟着水涨船高，各自逼近280亿元人民币，刷新了全球最年轻白手起家亿万富豪的纪录。 一家成立才三年的公司，为什么能让资本和顶尖科学家争相下注？三个00后又是如何靠给AI“补课”，做到了千亿估值呢？ 21个月估值涨10倍，顶尖科学家加盟 Mercor接连抛出两则重磅消息：融资估值翻倍，顶尖科学家加盟。 11月10日，Mercor宣布完成7.5亿美元D轮融资，投后估值跃升至200亿美元。 从2025年2月B轮融资时的20亿美元，到同年10月C",
+      "titleZh": "估值1300亿，三个辍学00后做AI，英伟达、阿里抢着买单",
+      "summaryZh": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 3个00后，干出一家千亿独角兽。 北京时间11月18日，硅谷AI圈传出重磅消息：曾任职谷歌、OpenAI和Meta的“思维链之父”Jason Wei，官宣出任AI数据公司Mercor的首席科学家。 而就在他官宣加盟的前一周，11月10日，Mercor刚刚拿下7.5亿美元D轮融资，投后估值冲破200亿美元，折合人民币超过1340亿元。英伟达、Salesforce、Zoom等一众科技巨头纷纷入局。 更让人咋舌的是，这家千亿独角兽的掌舵者，竟是三个23岁的大学辍学生。 随着估值翻倍，他们的个人身家也跟着水涨船高，各自逼近280亿元人民币，刷新了全球最年轻白手起家亿万富豪的纪录。 一家成立才三年的公司，为什么能让资本和顶尖科学家争相下注？三个00后又是如何靠给AI“补课”，做到了千亿估值呢？ 21个月估值涨10倍，顶尖科学家加盟 Mercor接连抛出两则重磅消息：融资估值翻倍，顶尖科学家加盟。 11月10日，Mercor宣布完成7.5亿美元D轮融资，投后估值跃升至200亿美元。 从2025年2月B轮融资时的20亿美元，到同年10月C",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211639.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T01:38:29.000Z",
+      "author": "新质动能",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1ebef204b6139752ca",
+      "titleOriginal": "元宝退？WorkBuddy进",
+      "summaryOriginal": "（本文作者为 奇帆商业，钛媒体经授权发布） 文 | 奇帆商业 11月18日晚间，腾讯总裁刘炽平在财报电话会上承认，元宝没有达到公司最初的成功预期，相关投入已经大幅削减。另一款AI产品WorkBuddy则交出了不同的成绩：最近七天收入折算年化超过5亿美元，第三季度收入达到第二季度的五倍以上。 两款产品的不同处境，发生在腾讯AI投入最密集的时期。第三季度，腾讯资本开支达到814.33亿元，同比增长527%，自由现金流净流出691亿元。算力采购、模型训练和产品开发，正在成为一笔越来越昂贵的账单。 图源：腾讯第三季度财报 腾讯对AI投资回报的要求，早在第二季度财报电话会上就已出现。管理层当时强调，后续算力投入需要与实际业务回报相匹配。三个月后，元宝减少投入，WorkBuddy加速商业化，小微开始以更低的成本进入微信生态。 腾讯仍然愿意为AI花钱，只是不再愿意以相同的方式为所有AI产品花钱。 01 元宝买不到的东西 截至今年9月底，微信及WeChat合并月活跃账户达到14.49亿。围绕微信形成的社交关系、内容消费、支付和小程序生态，让腾讯拥有国内互联网行业最成熟的流量分发体系之一。 元宝曾被寄予",
+      "titleZh": "元宝退？WorkBuddy进",
+      "summaryZh": "（本文作者为 奇帆商业，钛媒体经授权发布） 文 | 奇帆商业 11月18日晚间，腾讯总裁刘炽平在财报电话会上承认，元宝没有达到公司最初的成功预期，相关投入已经大幅削减。另一款AI产品WorkBuddy则交出了不同的成绩：最近七天收入折算年化超过5亿美元，第三季度收入达到第二季度的五倍以上。 两款产品的不同处境，发生在腾讯AI投入最密集的时期。第三季度，腾讯资本开支达到814.33亿元，同比增长527%，自由现金流净流出691亿元。算力采购、模型训练和产品开发，正在成为一笔越来越昂贵的账单。 图源：腾讯第三季度财报 腾讯对AI投资回报的要求，早在第二季度财报电话会上就已出现。管理层当时强调，后续算力投入需要与实际业务回报相匹配。三个月后，元宝减少投入，WorkBuddy加速商业化，小微开始以更低的成本进入微信生态。 腾讯仍然愿意为AI花钱，只是不再愿意以相同的方式为所有AI产品花钱。 01 元宝买不到的东西 截至今年9月底，微信及WeChat合并月活跃账户达到14.49亿。围绕微信形成的社交关系、内容消费、支付和小程序生态，让腾讯拥有国内互联网行业最成熟的流量分发体系之一。 元宝曾被寄予",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8211510.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T01:38:24.000Z",
+      "author": "奇帆商业",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9777a329fc164ab9a3",
+      "titleOriginal": "AI Agent 元年，苹果是最后一个入局的巨头",
+      "summaryOriginal": "Siri 可能终于要从「动嘴」进化到「动手」了。 让 Siri 查天气、设置闹钟、打开应用，早已不是什么新鲜事。但如果你现在让它安排一次出差，查好机票和酒店，再根据日历整理行程，恐怕还是得自己动手。 苹果最近的一系列动作，透露了它想改变这种状况的野心。 11 月中旬，苹果官网出现了两则与自主式 AI Agent 有关的招聘信息。 向左滑动查看更多内容 其中一则描述了一个能够像人类一样操作电脑的智能体，另一则甚至直接点名 Claude Code 和 Codex，要求应聘者平时就使用这些工具。 据彭博社报道，苹果正在开发自己的自主式 AI Agent，希望让人工智能能够跨应用执行任务，甚至自主规划工作流程。 图｜Meta Muse 但放眼整个行业，苹果描绘的这些能力，早已不是什么新鲜事。 Meta、OpenAI、Anthropic，以及腾讯、字节跳动，都在把 AI Agent 推向真实的工作和生活场景。部分产品已经积累了千万级用户，并开始创造实际收入。 对于依靠 iPhone、Mac 和 App Store 建立起庞大生态的苹果来说，这场竞争恐怕很难继续慢慢来。 图｜Apple 苹果终于要",
+      "titleZh": "AI Agent 元年，苹果是最后一个入局的巨头",
+      "summaryZh": "Siri 可能终于要从「动嘴」进化到「动手」了。 让 Siri 查天气、设置闹钟、打开应用，早已不是什么新鲜事。但如果你现在让它安排一次出差，查好机票和酒店，再根据日历整理行程，恐怕还是得自己动手。 苹果最近的一系列动作，透露了它想改变这种状况的野心。 11 月中旬，苹果官网出现了两则与自主式 AI Agent 有关的招聘信息。 向左滑动查看更多内容 其中一则描述了一个能够像人类一样操作电脑的智能体，另一则甚至直接点名 Claude Code 和 Codex，要求应聘者平时就使用这些工具。 据彭博社报道，苹果正在开发自己的自主式 AI Agent，希望让人工智能能够跨应用执行任务，甚至自主规划工作流程。 图｜Meta Muse 但放眼整个行业，苹果描绘的这些能力，早已不是什么新鲜事。 Meta、OpenAI、Anthropic，以及腾讯、字节跳动，都在把 AI Agent 推向真实的工作和生活场景。部分产品已经积累了千万级用户，并开始创造实际收入。 对于依靠 iPhone、Mac 和 App Store 建立起庞大生态的苹果来说，这场竞争恐怕很难继续慢慢来。 图｜Apple 苹果终于要",
+      "translated": true,
+      "url": "https://www.ifanr.com/1690510",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T01:17:16.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "guide",
+        "公司",
+        "AI 助手",
+        "macos",
+        "Siri"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8f4728ffc5b95bfc49",
+      "titleOriginal": "Apple may be developing its own AI agent that runs your Mac",
+      "summaryOriginal": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "titleZh": "苹果可能正在开发自己的AI代理来运行您的Mac",
+      "summaryZh": "这家iPhone制造商似乎正在打造能够与Meta Muse、Instinct、Claude和OpenAI Dots等产品竞争的智能体。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T00:56:01.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "AI agents",
+        "Apple",
+        "Meta"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f1dd0bea0b97e4abfb",
+      "titleOriginal": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "summaryOriginal": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
+      "titleZh": "Anthropic的7位创始人通过创纪录的IPO套现近20亿美元",
+      "summaryZh": "按照上调后的83美元/股的IPO价格，Anthropic的七位创始人每人赚取了2.8亿美元，而公司则获得了近1050亿美元。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T00:43:50.000Z",
+      "author": "Julie Bort",
+      "tags": [
+        "news",
+        "AI",
+        "TC",
+        "Anthropic",
+        "anthropic ipo"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "32dbb6202d7204444d",
+      "titleOriginal": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "summaryOriginal": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文",
+      "titleZh": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "summaryZh": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/119311",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T00:34:31.000Z",
+      "author": "少数派编辑部",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7103ebc5a238e2cd86",
+      "titleOriginal": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+      "summaryOriginal": "曝苹果开发 AI 智能体，可写代码、上网、控制应用 Anthropic 上市首日收涨 17%，收盘价 97.17 美元 曝 OpenAI 进军手机领域，富智康获整机组装订单 旅行者 1 号距地球达一光日，信号单程需 24 小时 网易 UU 远程将上线付费会员，基础远控继续免费 樊路远辞任阿里大麦娱乐 CEO，徐宏接任董事会主席 腾讯大幅削减元宝投入，微信小微日活达 3000 万 微软 To Do 将于明年 6 月停用，现有任务不会自动迁移 快手第三季度转亏，预计四季度收入和盈利继续承压 DeepSeek 完成股权变更，腾讯、宁德时代等进入持股平台 阿里巴巴季度净利润增长 207%，营收达 2715.19 亿元 拼多多季度营收持平，广告增长与交易服务下滑相抵 英特尔签下首个 18A-P 外部客户 联想季度营收首超 300 亿美元，经调整净利润增长 166% 马斯克：英伟达让黄仁勋离开，如同公牛踢走乔丹 华为官宣 Mate 90 Air 与 WATCH Air，主打轻薄设计 苹果被曝考虑推迟或取消 OLED iMac，面板成本成阻力 Meta Muse Charm 被曝定价 300 美元，",
+      "titleZh": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+      "summaryZh": "曝苹果开发 AI 智能体，可写代码、上网、控制应用 Anthropic 上市首日收涨 17%，收盘价 97.17 美元 曝 OpenAI 进军手机领域，富智康获整机组装订单 旅行者 1 号距地球达一光日，信号单程需 24 小时 网易 UU 远程将上线付费会员，基础远控继续免费 樊路远辞任阿里大麦娱乐 CEO，徐宏接任董事会主席 腾讯大幅削减元宝投入，微信小微日活达 3000 万 微软 To Do 将于明年 6 月停用，现有任务不会自动迁移 快手第三季度转亏，预计四季度收入和盈利继续承压 DeepSeek 完成股权变更，腾讯、宁德时代等进入持股平台 阿里巴巴季度净利润增长 207%，营收达 2715.19 亿元 拼多多季度营收持平，广告增长与交易服务下滑相抵 英特尔签下首个 18A-P 外部客户 联想季度营收首超 300 亿美元，经调整净利润增长 166% 马斯克：英伟达让黄仁勋离开，如同公牛踢走乔丹 华为官宣 Mate 90 Air 与 WATCH Air，主打轻薄设计 苹果被曝考虑推迟或取消 OLED iMac，面板成本成阻力 Meta Muse Charm 被曝定价 300 美元，",
+      "translated": true,
+      "url": "https://www.ifanr.com/1690473",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-20T00:29:44.000Z",
+      "author": "郑廷旭",
+      "tags": [
+        "launch",
+        "早报",
+        "OpenAI"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "53258ed2c52a8e7557",
+      "titleOriginal": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+      "summaryOriginal": "Open video on YouTube ↗ Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tracking is dead.\" In this episode, we chat with Cristina Cordova , COO of Linear , about how the company navigated that and how its go-to-market changed along the way. Cristina spent seven and a half years at Stripe, led platform and partnerships at Notion, and was a partner at First Round before joining Linear in 2023.",
+      "titleZh": "将 Linear 的 GTM 扩展至 1 亿美元 ARR — Cristina Cordova，首席运营官",
+      "summaryZh": "在 YouTube 上打开视频 ↗ Linear 的成立初衷是打造一款更好的问题跟踪工具。七年后，在获得了 1.34 亿美元的融资后，其首席执行官 Karri Saarinen 发布了一篇题为“问题跟踪已死”的文章。在本期节目中，我们与 Linear 的首席运营官 Cristina Cordova 聊了聊公司是如何应对这一情况的，以及其入市策略在此过程中发生了怎样的变化。Cristina 在 Stripe 工作了七年半，在 Notion 负责平台和合作伙伴关系，并在加入 Linear 之前曾是 First Round 的合伙人。",
+      "translated": true,
+      "url": "https://latent.space/p/linear-scaling/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-19T23:58:21.000Z",
+      "author": "Basil Chatha",
+      "tags": [
+        "analysis",
+        "Video"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
     {
       "id": "3bbbb7f571a0c55e36",
       "titleOriginal": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
@@ -20,6 +427,195 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a22c687c439c6aed0f",
+      "titleOriginal": "Apple is hiring engineers to build its own AI agent",
+      "summaryOriginal": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse , OpenAI's Dots , Anthropic's Duet , and Google's Tasks . Muse, ChatGPT, and Pe",
+      "titleZh": "苹果正在招聘工程师，以打造自己的AI代理",
+      "summaryZh": "苹果正在开发自己的AI代理，它可以为您执行一系列任务，包括浏览网页、跨应用程序工作、编写代码和调用服务。这是彭博社发现的一则招聘信息所透露的，该信息称苹果正在寻找一名工程师来领导智能体AI助手的开发工作。苹果的AI代理将使这家iPhone制造商能够与Meta的Muse、OpenAI的Dots、Anthropic的Duet和谷歌的Tasks等产品展开竞争。Muse、ChatGPT 和 Pe",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news",
+        "Agent",
+        "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "74e2df77898470ffba",
+      "titleOriginal": "A brief history of Nvidia’s recent stock fluctuations",
+      "summaryOriginal": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images \"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings pop on Tuesday night. Meanwhi",
+      "titleZh": "英伟达近期股价波动的简史",
+      "summaryZh": "2026年11月18日，交易员在纽约市纽约证券交易所的交易大厅进行晨间交易。|图片来源：Getty Images“我们能行。”英伟达临时首席执行官科莱特·克雷斯（Colette Kress）周二晚在结束这家陷入困境的芯片公司第三季度财报电话会议时表示。截至周四，该公司股价徘徊在每股150美元左右，较10月6日历史高点下跌近40%，周二晚间财报发布后的短暂上涨也被抹平。与此同时，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-19T21:59:35.000Z",
+      "author": "Ellen Thomas",
+      "tags": [
+        "news",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6f0f2d869f0fe635e8",
+      "titleOriginal": "Meta’s new Muse Charm device may cost $300",
+      "summaryOriginal": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+      "titleZh": "Meta 的新款 Muse Charm 设备售价可能为 300 美元",
+      "summaryZh": "Meta并未否认The Information的报道，只是表示其即将推出的AI可穿戴设备“很快将有更多信息可以分享”。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-19T21:58:06.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "AI wearables",
+        "hardware",
+        "In Brief"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bb79788fc6f46bd0ec",
+      "titleOriginal": "What’s With All These Outages?",
+      "summaryOriginal": "This week on “Uncanny Valley,” we discuss the outages that have swept digital life over the past week, where new money from Anthropic’s IPO is going, and the AI chip world post-Jensen Huang.",
+      "titleZh": "为什么会发生这么多中断？",
+      "summaryZh": "本周的“Uncanny Valley”节目中，我们将讨论过去一周席卷数字生活的宕机事件，Anthropic IPO筹集的新资金将用于何处，以及Jensen Huang之后的AI芯片世界。",
+      "translated": true,
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-19T21:57:01.000Z",
+      "author": "Brian Barrett, Leah Feiger, Sophie Kleeman",
+      "tags": [
+        "analysis",
+        "Business",
+        "Business / Big Tech"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "86b67ca93f266b702f",
+      "titleOriginal": "Meta FAIR Self-Improving Memory Hits 56.0 on Continual Learning Bench",
+      "summaryOriginal": "Meta FAIR has introduced Self-Improving Memory , a method for AI agents that manage their own memory. The model first discovers its own memory instructions. It then trains those skills into its weights. Co-authors include researchers from the University of Washington and Johns Hopkins University. TL;DR Method: The base is Kimi-K2.6 , a 1T-parameter MoE with 32B active and 256K context. Distillation adds a LoRA adapter (rank 64) on attention projections. Runs on: Training hardware is not disclose",
+      "titleZh": "Meta FAIR 自我改进记忆在持续学习基准测试中得分 56.0",
+      "summaryZh": "Meta FAIR 推出了自我改进记忆（Self-Improving Memory） ，这是一种让人工智能体管理自身记忆的方法。该模型首先发现自己的记忆指令。然后，它将这些技能训练到其权重中。论文的共同作者包括来自华盛顿大学和约翰斯·霍普金斯大学的研究人员。TL;DR 方法：基础模型是Kimi-K2.6 ，这是一个1万亿参数的MoE模型，具有320亿个激活参数和25.6万个上下文参数。蒸馏在注意力投影上添加了一个LoRA适配器（秩为64）。运行环境：未披露训练硬件",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/19/meta-fair-self-improving-memory-harness-distillation/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-19T21:46:22.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f2dddf2ea7d8bc56ba",
+      "titleOriginal": "These tech outages are giving Y2K, AI agent style",
+      "summaryOriginal": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+      "titleZh": "这些技术故障正在以 AI 代理的方式重现千年虫问题",
+      "summaryZh": "航空公司预订系统、银行平台和生产力平台最近的宕机事件真的是巧合吗？网络安全专家表示，实际上可能存在更深层次的问题。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-19T21:42:31.000Z",
+      "author": "Dominic-Madori Davis",
+      "tags": [
+        "news",
+        "AI",
+        "Security",
+        "outages",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d1fa79484c1d1b64cd",
+      "titleOriginal": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
+      "summaryOriginal": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool appeared",
+      "titleZh": "一个被分配了简单写作任务的OpenAI代理自行决定开发一款秘密电子邮件监控工具",
+      "summaryZh": "一个OpenAI内部模型本应创建一份健身文档，但却开始编写脚本，秘密地将电子邮件转发给“攻击者”。该代理识别出与所分配任务的冲突，但将其归咎于环境错误。OpenAI 确定针对提示注入的安全培训是可能的触发因素，但无法确定其为唯一原因。文章《被指派一项简单写作任务的 OpenAI 智能体自行决定构建一个秘密电子邮件监控工具》已发布",
+      "translated": true,
+      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-19T21:15:01.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "OpenAI"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7339d690dfb602ddf2",
+      "titleOriginal": "PostgreSQL 19 Released",
+      "summaryOriginal": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys, PostgreSQL 19 adds \"read-your-writes\" consistency with the new WAIT FOR LSN command. A session on a standb",
+      "titleZh": "PostgreSQL 19 Released",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-19T20:43:57.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -139,7 +735,7 @@
     },
     {
       "id": "2ad2190c7ade6b93c3",
-      "titleOriginal": "Anthropic’s IPO could deliver $156 billion to charity",
+      "titleOriginal": "Anthropic’s IPO could deliver $156B to charity",
       "summaryOriginal": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
       "titleZh": "Anthropic的IPO可能为慈善事业带来1560亿美元",
       "summaryZh": "当股价为95美元时，Frontier Lab的公益基金会、其员工捐款以及公司的配捐总额高达1560亿美元。",
@@ -358,9 +954,9 @@
       "id": "2a01bbcb107b1e63fc",
       "titleOriginal": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
       "summaryOriginal": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "titleZh": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "谷歌打造了一个巨大的“镜像维度”互联网，用于测试其Chrome AI代理",
+      "summaryZh": "该公司的平行宇宙互联网是一个庞大的沙盒，让Chrome团队能够妥善训练人工智能浏览代理，而不用担心它们失控。",
+      "translated": true,
       "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
       "sourceId": "wired",
       "sourceName": "WIRED AI",
@@ -382,9 +978,9 @@
       "id": "d680d8751ecd7c4c1e",
       "titleOriginal": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
       "summaryOriginal": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "titleZh": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Anthropic在纳斯达克交易所上市，股价为111美元，比IPO价格高出33%",
+      "summaryZh": "Anthropic的IPO价格定为83美元，这意味着将筹集超过800亿美元的新资本。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -406,7 +1002,7 @@
     {
       "id": "d0946e26531ae61b75",
       "titleOriginal": "Anthropic starts trading on Wall Street",
-      "summaryOriginal": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo by Michael Nagle/Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share , up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public . In its lengthy S-1 filing, the AI company reported recording an $80.",
+      "summaryOriginal": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share , up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public . In its lengthy S-1 filing, the AI company reported recording an $80.",
       "titleZh": "Anthropic starts trading on Wall Street",
       "summaryZh": "",
       "translated": false,
@@ -1528,6 +2124,94 @@
         "黄仁勋"
       ],
       "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4b08ec50268e04a4eb",
+      "titleOriginal": "Deploying Daybreak Red",
+      "summaryOriginal": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "titleZh": "Deploying Daybreak Red",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Guides"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cb99e2baa62e786645",
+      "titleOriginal": "See PR scans in action",
+      "summaryOriginal": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "titleZh": "See PR scans in action",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "guide",
+        "Demos"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e29ac258c013c12c76",
+      "titleOriginal": "Explore the Codex Security Plugin",
+      "summaryOriginal": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "titleZh": "Explore the Codex Security Plugin",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "guide",
+        "Demos"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a2fb00344062975fa7",
+      "titleOriginal": "Get started with Daybreak Blue",
+      "summaryOriginal": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "titleZh": "Get started with Daybreak Blue",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "guide",
+        "Demos"
+      ],
+      "category": "guide",
       "readingMinutes": 2
     },
     {
@@ -10813,713 +11497,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "8173a4b0c2bced858d",
-      "titleOriginal": "【钛晨报】李强主持国务院第二十二次专题学习，聚焦健全多层次社会保障体系；英伟达换帅！黄仁勋辞任CEO，CFO克雷斯临时接棒；国内首个口服GLP-1类减肥药获批上市",
-      "summaryOriginal": "【钛媒体综合】据新华社，11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署，进一步深化社会保障制度改革，健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的多层次社会保障体系，推动现代化建设成果更多更公平惠及全体人民。 中国人民大学教授郑功成作讲解。国务院副总理何立峰、刘国中，国务委员谌贻琴作交流发言。 李强在听取讲解和交流发言后指出，我国已基本建成世界上规模最大、功能完备的社会保障体系。当前经济社会发展形势呈现许多新特点，人口结构变化、技术进步、就业方式多样化等对社会保障体系建设提出了新的更高要求。要充分认识社会保障在发展全局中的重要作用，适应新形势、解决新问题，推动社会保障事业高质量可持续发展。 李强指出，要坚持立足国情实际，发展中国特色社会保障体系。把握好尽力而为和量力而行的关系，把社会保障作为惠民生促发展的重要着力点，随着经济发展稳步提高社会保障水平。把握好政府主导和社会协同的关系，合理划分单位、个人、政府、社会的责",
-      "titleZh": "【钛晨报】李强主持国务院第二十二次专题学习，聚焦健全多层次社会保障体系；英伟达换帅！黄仁勋辞任CEO，CFO克雷斯临时接棒；国内首个口服GLP-1类减肥药获批上市",
-      "summaryZh": "【钛媒体综合】据新华社，11月12日，国务院以“健全多层次社会保障体系，进一步织密扎牢社会保障安全网”为主题，进行第二十二次专题学习。国务院总理李强在主持学习时强调，要深入学习贯彻习近平总书记关于社会保障工作的重要指示精神和党中央决策部署，进一步深化社会保障制度改革，健全覆盖全民、统筹城乡、公平统一、安全规范、可持续的多层次社会保障体系，推动现代化建设成果更多更公平惠及全体人民。 中国人民大学教授郑功成作讲解。国务院副总理何立峰、刘国中，国务委员谌贻琴作交流发言。 李强在听取讲解和交流发言后指出，我国已基本建成世界上规模最大、功能完备的社会保障体系。当前经济社会发展形势呈现许多新特点，人口结构变化、技术进步、就业方式多样化等对社会保障体系建设提出了新的更高要求。要充分认识社会保障在发展全局中的重要作用，适应新形势、解决新问题，推动社会保障事业高质量可持续发展。 李强指出，要坚持立足国情实际，发展中国特色社会保障体系。把握好尽力而为和量力而行的关系，把社会保障作为惠民生促发展的重要着力点，随着经济发展稳步提高社会保障水平。把握好政府主导和社会协同的关系，合理划分单位、个人、政府、社会的责",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8203507.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-12T23:20:00.000Z",
-      "author": "钛媒体官方账号",
-      "tags": [
-        "news",
-        "主编精选文章",
-        "钛早了！晨报"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "775f1c290080811b64",
-      "titleOriginal": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
-      "summaryOriginal": "还没从黄仁勋辞职的震惊中缓过神来，谷歌发布了一款全新模型：Gemini 4 Hydrogen。 按照官方定位，Carbon 和 Argon 主要面向复杂推理、长期规划和高难度软件工程。 而 Hydrogen 主打更快的响应速度、更低的使用成本，以及更高效的 AI Agent 执行能力，更擅长快速编写代码、调用工具，以及处理需要连续执行的日常任务。 更有意思的是，虽然 Hydrogen 定位高效率模型，部分测试成绩却已经超过 Gemini 4 Argon，甚至逼近 Claude Sonnet 5.5 和 GPT-6.1 Sol 等旗舰产品。 与此同时，不同于以往的无实物表演，谷歌宣布将 Hydrogen 接入 Gemini App、Google Search、Google AI Studio、Antigravity 等多个平台，免费用户也开始能够体验 Gemini 4 系列的最新能力。 性能超越 Argon，速度最高提升 2.5 倍 虽然定位有所不同，但 Hydrogen 的实际性能却相当能打。 根据 Artificial Analysis 的评测，Hydrogen 在默认 High 推",
-      "titleZh": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
-      "summaryZh": "还没从黄仁勋辞职的震惊中缓过神来，谷歌发布了一款全新模型：Gemini 4 Hydrogen。 按照官方定位，Carbon 和 Argon 主要面向复杂推理、长期规划和高难度软件工程。 而 Hydrogen 主打更快的响应速度、更低的使用成本，以及更高效的 AI Agent 执行能力，更擅长快速编写代码、调用工具，以及处理需要连续执行的日常任务。 更有意思的是，虽然 Hydrogen 定位高效率模型，部分测试成绩却已经超过 Gemini 4 Argon，甚至逼近 Claude Sonnet 5.5 和 GPT-6.1 Sol 等旗舰产品。 与此同时，不同于以往的无实物表演，谷歌宣布将 Hydrogen 接入 Gemini App、Google Search、Google AI Studio、Antigravity 等多个平台，免费用户也开始能够体验 Gemini 4 系列的最新能力。 性能超越 Argon，速度最高提升 2.5 倍 虽然定位有所不同，但 Hydrogen 的实际性能却相当能打。 根据 Artificial Analysis 的评测，Hydrogen 在默认 High 推",
-      "translated": true,
-      "url": "https://www.ifanr.com/1689267",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-12T23:11:11.000Z",
-      "author": "山宗",
-      "tags": [
-        "research",
-        "产品",
-        "AI",
-        "Gemini",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8d30336b14bfe5e0b0",
-      "titleOriginal": "llm-gemini 0.37",
-      "summaryOriginal": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger siblings, Carbon and Argon. I'm finding Gemini 4's pricing really confusing. Here's the pricing scheme: Model Dates Input ($/M) Cached input Output Gemini 4 Carbon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20.00 Gemini 4 Argon Through Nov 30, 2026 $2.00 $0.10 $10.00 From Dec 1, 2026 $4.00 $0.20 $20",
-      "titleZh": "llm-gemini 0.37",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:55:19.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0ee9f88dcb6a1afd31",
-      "titleOriginal": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
-      "summaryOriginal": "Liquid AI has released LiquidCodec , the audio codec behind its LFM3-Audio-2B and LFM3-Omni-2B models. The LiquidCodec audio codec is a ~74M-parameter streaming speech tokenizer. It turns speech into tokens a language model can predict, then converts those tokens back into audio. Liquid AI had 2 goals: easy-to-predict tokens and fast conversion back to speech. The weights are on Hugging Face . TL;DR Size: ~74M parameters (73.6M on the model card ); 24 kHz audio, 12.5 Hz frames, 12 codebooks. Run",
-      "titleZh": "Liquid AI发布7400万参数流媒体音频编解码器LiquidCodec",
-      "summaryZh": "Liquid AI 发布了 LiquidCodec ，这是其 LFM3-Audio-2B 和 LFM3-Omni-2B 模型背后的音频编解码器。LiquidCodec 音频编解码器是一款约 7400 万参数的流式语音分词器。它将语音转换为语言模型可以预测的标记，然后将这些标记转换回音频。Liquid AI 有 2 个目标：易于预测的标记和快速转换回语音。权重位于 Hugging Face 上。TL;DR 大小：约7400万个参数（模型卡上为7360万个）；24 kHz音频、12.5 Hz帧、12个码本。运行",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:43:26.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "55d7d41513d8574ac5",
-      "titleOriginal": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summaryOriginal": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "titleZh": "民主党人启动对Nvidia的调查，就黄仁勋与特朗普的“阴谋”撰写措辞严厉的信函",
-      "summaryZh": "这是自所谓间谍事件的消息传出以来，迄今为止对英伟达在中国销售情况及其与特朗普的往来进行的第二次国会调查。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:42:51.000Z",
-      "author": "Julie Bort",
-      "tags": [
-        "launch",
-        "AI",
-        "Jensen Huang",
-        "nvidia",
-        "Trump"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c39c6000d880a6179f",
-      "titleOriginal": "Silicon Valley Is Still Defending Jensen Huang",
-      "summaryOriginal": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
-      "titleZh": "硅谷仍在力挺黄仁勋",
-      "summaryZh": "英伟达的员工和科技业内人士从未想过这位芯片巨头会丢掉工作。尽管他突然辞职，但许多人仍不愿相信。",
-      "translated": true,
-      "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:29:43.000Z",
-      "author": "Paresh Dave",
-      "tags": [
-        "analysis",
-        "Business"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1a628d755dc37d52cf",
-      "titleOriginal": "Muse can now place calls to US businesses — if you pay",
-      "summaryOriginal": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "titleZh": "Muse现在可以拨打美国企业的电话——如果您愿意付费的话",
-      "summaryZh": "Muse 的人工智能现在可以向美国企业拨打外拨电话，但这不是免费的。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:22:28.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "Meta",
-        "muse"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4fe809fcc4df532a10",
-      "titleOriginal": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
-      "summaryOriginal": "In a special episode of “Uncanny Valley,” we break down Jensen Huang’s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
-      "titleZh": "黄仁勋退出了。英伟达的竞争对手能否从中获利？",
-      "summaryZh": "在“Uncanny Valley”的一期特别节目中，我们将深入剖析Jensen Huang从Nvidia辞职一事，以及该公司接下来的发展方向，还有人工智能行业将走向何方。",
-      "translated": true,
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-12T22:14:41.000Z",
-      "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-      "tags": [
-        "analysis",
-        "Business",
-        "Business / Big Tech"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3403360ccc1df753ce",
-      "titleOriginal": "Google’s new Gemini model is better at understanding complicated questions",
-      "summaryOriginal": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for business, and in Google Antigravity for Google AI Pro and Ultra subscribers. Robby Stein, VP of product at",
-      "titleZh": "谷歌的新Gemini模型在理解复杂问题方面表现更佳",
-      "summaryZh": "谷歌表示，其全新Gemini 4 Hydrogen模型能够对复杂问题提供更有帮助的答案，包括“包含多个部分的问题、难以理解的拼写错误或高度具体的要求”。新模型可以将您的问题分解开来，并在回答中逐一解答每个部分。从今天起，该模型将在搜索、Gemini应用、所有级别的Google AI Studio、Gemini API、Gemini for Business以及Google AI Pro和Ultra订阅用户的Google Antigravity中提供。Robby Stein，产品副总裁，就职于",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-12T21:55:32.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6d8364993999a5d0fc",
-      "titleOriginal": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
-      "summaryOriginal": "Most AI coworker products are vendor locked. They pick the model, host the data, and write the rules. CopilotKit is taking the opposite route. OpenBot 1.0 , was released November 9th, an MIT-licensed , self-hostable agent workspace. What sets it apart is, a company brings their own models, agents and infrastructure. Governance is fully baked in, and every Bot action is checked against a policy before it runs. What is OpenBot? OpenBot is a modular agent workspace from CopilotKit , the team behind",
-      "titleZh": "CopilotKit 发布 OpenBot 1.0：一款采用 MIT 许可证、可自托管且内置治理功能的人工智能同事",
-      "summaryZh": "大多数 AI 同事产品都存在供应商锁定问题。他们选择模型、托管数据并编写规则。CopilotKit 走的是相反的路线。OpenBot 1.0 于 11 月 9 日发布，这是一个采用 MIT 许可证、可自托管的代理工作空间。它的与众之处在于，公司可以自带模型、代理和基础设施。治理功能完全内置，每个机器人操作在运行前都会对照政策进行检查。什么是OpenBot？ OpenBot是CopilotKit推出的模块化代理工作空间，CopilotKit团队是",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-12T21:45:36.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Agents",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5e5f306d785f115749",
-      "titleOriginal": "The unfolding Jensen Huang scandal: a timeline",
-      "summaryOriginal": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "titleZh": "正在发酵的黄仁勋丑闻：时间线",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T21:35:00.000Z",
-      "author": "Amanda Silberling",
-      "tags": [
-        "news",
-        "AI",
-        "China",
-        "Donald Trump",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "412b4e746837e240d9",
-      "titleOriginal": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summaryOriginal": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "titleZh": "Nebius 计划投入 400 亿美元来测试新云战略手册",
-      "summaryZh": "Nebius计划通过客户预付款和贷款为其400亿美元的人工智能基础设施扩张提供资金，尽管微软数据中心的延迟引发了对其融资模式的质疑。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T21:27:10.000Z",
-      "author": "Rebecca Bellan",
-      "tags": [
-        "news",
-        "AI",
-        "Nebius",
-        "cloud compute",
-        "AI compute"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "dfd22f5d04a6f6caf8",
-      "titleOriginal": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
-      "summaryOriginal": "A recent WIRED investigation explored the complicated definition of “power” for women in the industry. Jensen Huang’s answers now appear to show his blind spots.",
-      "titleZh": "黄仁勋没有将自己的继任者列为科技界最有权势的女性之一",
-      "summaryZh": "WIRED 最近的一项调查探讨了该行业女性对“权力”的复杂定义。黄仁勋的回答现在似乎暴露了他的盲点。",
-      "translated": true,
-      "url": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-12T20:35:11.000Z",
-      "author": "Lauren Goode",
-      "tags": [
-        "analysis",
-        "Business"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7bc94a64a1b598a57a",
-      "titleOriginal": "Claude Meetings lets Anthropic's AI join your video calls",
-      "summaryOriginal": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic's AI join your video calls appeared first on The Decoder .",
-      "titleZh": "Claude Meetings让Anthropic的AI加入您的视频通话",
-      "summaryZh": "Anthropic正在将Claude直接集成到视频通话中。Claude Meetings 可加入 Google Meet 会议，并实时创建文档、白板和会议纪要。该功能将以测试版形式面向团队版和企业版套餐推出，后续还将支持更多平台。文章《Claude Meetings让Anthropic的AI加入您的视频通话》最初发表在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-12T20:26:50.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Anthropic"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e153c4dc0f7fcb2944",
-      "titleOriginal": "Jensen Huang was having a third affair, Reuters reports",
-      "summaryOriginal": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-      "titleZh": "路透社报道，黄仁勋有第三段婚外情",
-      "summaryZh": "路透社未透露与黄仁勋有关联的新员工的姓名，但表示该员工是英伟达的员工。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T20:26:47.000Z",
-      "author": "Russell Brandom",
-      "tags": [
-        "news",
-        "AI",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "07356858caea4ddca7",
-      "titleOriginal": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summaryOriginal": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on Science, Space, and Technology, is a cosponsor of the act, which would introduce geotracking requirements to verify the location",
-      "titleZh": "尽管业内公开质疑其可行性，但英伟达私下确认其能够追踪芯片以打击走私行为。",
-      "summaryZh": "福斯特周四在接受《麻省理工科技评论》采访时表示，英伟达的代表曾向伊利诺伊州众议员福斯特表示，从技术上来说，实施《芯片安全法案》中规定的反走私措施是可行的，尽管有行业团体声称这些措施“可能不可行”。福斯特是民主党人，在科学、太空和技术委员会任职，也是该法案的共同提案人。该法案将引入地理追踪要求，以核实",
-      "translated": true,
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-11-12T20:16:24.000Z",
-      "author": "James O'Donnell",
-      "tags": [
-        "analysis",
-        "Artificial intelligence",
-        "AI",
-        "App",
-        "nvidia"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5b0f73df89a6e31055",
-      "titleOriginal": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "summaryOriginal": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "titleZh": "Amplitude如何借助OpenAI在1–2天内推出产品改进",
-      "summaryZh": "Amplitude 的主动式产品代理 Wave 主要基于 OpenAI 模型构建，能够识别需要构建的内容，帮助团队通过编码代理交付变更，并衡量其影响。",
-      "translated": true,
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Agent",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a22af5d114aedef22c",
-      "titleOriginal": "Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "summaryOriginal": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google's Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch appeared first on The Decoder .",
-      "titleZh": "谷歌的Gemini 4 Hydrogen在发布仅四周后就超越了更大的Argon",
-      "summaryZh": "谷歌的Gemini 4 Hydrogen取代了Flash系列，但基准测试表明，它也让价格更高的Argon失去了存在的意义。在独立的Artificial Analysis Intelligence Index（人工智能分析指数）中，Hydrogen的性能几乎与Claude Sonnet 5.5相当，但价格更低，不过每项任务的成本比GPT-6.1 Sol高出约2.5倍，并且在代理编码方面仍有欠缺。文章《谷歌的Gemini 4 Hydrogen在发布仅四周后就超越了规模更大的Argon》最初发表于The Decoder。",
-      "translated": true,
-      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-12T19:58:43.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Gemini Hydrogen",
-        "Google"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3b869b1138e3a082f2",
-      "titleOriginal": "No, AI agents did not discover a previously unknown Maya site",
-      "summaryOriginal": "Pietro Miotti \" data-portal-copyright=\"Image: Pietro Miotti \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100\" /> “I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti Armed with a team of AI agents, Google researcher Pietro Miotti claimed ea",
-      "titleZh": "不，AI 代理并未发现此前未知的玛雅遗址",
-      "summaryZh": "Pietro Miotti \" data-portal-copyright=\"图片：Pietro Miotti \" data-has-syndication-rights=\"1\" src=\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&strip=all&crop=0,0,100,100\" /> “我醒来后查看了代理的报告。“该死！”它们发现了许多村庄和其他看起来像建筑或房屋的规则形状。”Pietro Miotti在博客中写道。| 图片：Pietro Miotti 凭借一支由人工智能代理组成的团队，谷歌研究员Pietro Miotti声称",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-12T19:42:40.000Z",
-      "author": "Robert Hart",
-      "tags": [
-        "news",
-        "Agent",
-        "Image"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ce9a468b53e9785d33",
-      "titleOriginal": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-      "summaryOriginal": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
-      "titleZh": "Google 最新搜索升级承诺为您最复杂的问题提供更好的答案",
-      "summaryZh": "得益于Gemini 4 Hydrogen，Google的AI模式在理解复杂查询、显示相关链接和提供更丰富的可视化回复方面表现得越来越出色。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T19:27:45.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "TC",
-        "gemini",
-        "Google"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f7effce2db920f5c66",
-      "titleOriginal": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "summaryOriginal": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
-      "titleZh": "Nectar推出AI代理，帮助品牌方自动化发现和联系创作者",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T19:11:00.000Z",
-      "author": "Lauren Forristal",
-      "tags": [
-        "launch",
-        "AI",
-        "Startups",
-        "AI agents",
-        "Marketing"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0d616058aa94e7c5a7",
-      "titleOriginal": "Jensen Huang’s $470 Billion Affair",
-      "summaryOriginal": "This week on “Uncanny Valley,” the team unpacks the Nvidia CEO’s affair with an alleged Chinese spy and what that means for the AI industry.",
-      "titleZh": "黄仁勋的 4700 亿美元传奇",
-      "summaryZh": "本周的“Uncanny Valley”节目中，团队将深入剖析Nvidia首席执行官与一名疑似中国间谍的绯闻，以及此事对人工智能行业的影响。",
-      "translated": true,
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-12T18:59:58.000Z",
-      "author": "Brian Barrett, Zoë Schiffer, Leah Feiger",
-      "tags": [
-        "analysis",
-        "Business",
-        "Business / Big Tech"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "baccdaa9b5505527e9",
-      "titleOriginal": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summaryOriginal": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-      "titleZh": "黄仁勋的离职使英伟达对开源的支持受到质疑",
-      "summaryZh": "随着公司经历领导层变动，Jensen Huang的辞职引发了人们对Nvidia在开源人工智能方面承诺的质疑，包括其对Hugging Face的收购、开放权重模型以及反对限制的倡导。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T18:39:23.000Z",
-      "author": "Rebecca Bellan",
-      "tags": [
-        "news",
-        "AI",
-        "Jensen Huang",
-        "nvidia",
-        "Open AI"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d545fdc617b9aefde9",
-      "titleOriginal": "Oh, Palantir is ‘progressive’ now, is it?",
-      "summaryOriginal": "The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" that enabled a glorious 100-year Trumpenreich. That freed up a lot of assholes to say what they actually thought. Except Don",
-      "titleZh": "哦，Palantir现在是“进步”的了，是吗？",
-      "summaryZh": "未来一片光明，他不得不戴上太阳镜。|摄影：Scott Olson/Getty Images我今天还有其他事情要做，但Alex Karp可悲地试图转向左派，我别无选择，只能将这些事情搁置。上周的选举对右翼来说是一场大屠杀，对于所有将自己的政治命运寄托于“氛围转变”以实现辉煌的百年特朗普帝国（Trumpenreich）的潜在法西斯创始人来说，这是一个大问题。这让很多混蛋得以说出他们真实的想法。除了唐纳德·特朗普。",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-12T18:06:54.000Z",
-      "author": "Elizabeth Lopatto",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e1acab05b268c1ab17",
-      "titleOriginal": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
-      "summaryOriginal": "After initial talks stalled, workers at Google DeepMind are trying to bypass company management in their bid to unionize.",
-      "titleZh": "Google DeepMind员工向英国政府求助，以升级其工会斗争",
-      "summaryZh": "在最初的谈判陷入僵局后，谷歌DeepMind的员工正试图绕过公司管理层，争取成立工会。",
-      "translated": true,
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-12T18:05:41.000Z",
-      "author": "Joel Khalili",
-      "tags": [
-        "analysis"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4bad5afe01a19f799c",
-      "titleOriginal": "Introducing Gemini 4 Hydrogen",
-      "summaryOriginal": "",
-      "titleZh": "隆重推出Gemini 4 Hydrogen",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-      "sourceId": "deepmind",
-      "sourceName": "Google DeepMind",
-      "sourceSite": "https://deepmind.google/blog/",
-      "sourceColor": "#4285f4",
-      "lang": "en",
-      "publishedAt": "2026-11-12T18:00:50.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1ddbc0fb49820b727e",
-      "titleOriginal": "Jensen Huang Basically Lit More Than $1 Trillion on Fire in Less Than a Month",
-      "summaryOriginal": "Since the scandal involving an alleged Chinese spy began, Nvidia has lost an eye-watering sum from its market value.",
-      "titleZh": "黄仁勋不到一个月的时间里基本上烧掉了超过 1 万亿美元",
-      "summaryZh": "自涉嫌中国间谍的丑闻曝光以来，英伟达的市值已大幅缩水。",
-      "translated": true,
-      "url": "https://www.wired.com/story/jensen-huang-tanked-a-trillion-dollars-in-less-than-a-month/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-12T17:59:15.000Z",
-      "author": "Kate Taylor",
-      "tags": [
-        "analysis",
-        "Business"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "96892311de09e14b1f",
-      "titleOriginal": "The Jensen Huang scandal is hardly over",
-      "summaryOriginal": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&eacute;tat c'est moi. Then two stories were published nearly back to back on Wednesday: one alleging Huang had an affair with his subordinate Kimberly Powell, another that the board was meeting to consider hi",
-      "titleZh": "黄仁勋丑闻远未结束",
-      "summaryZh": "在黄仁勋的第二段婚外情曝光之前，我一直确信黄仁勋是刀枪不入的。毕竟，他为什么不会刀枪不入呢？他将自己置于人工智能行业的中心，不可或缺，而且众所周知，他在英伟达没有继任计划。事实上，他是英伟达有史以来的唯一一位首席执行官。朕即国家。然后，周三几乎前后脚地发布了两篇报道：一篇称黄仁勋与他的下属Kimberly Powell有染，另一篇称董事会正在开会考虑……",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-12T17:44:33.000Z",
-      "author": "Elizabeth Lopatto",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "deea79b353aff377bf",
-      "titleOriginal": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summaryOriginal": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "titleZh": "Hugging Face首席执行官誓言在Jensen Huang离职后继续为开源人工智能而战",
-      "summaryZh": "在黄仁勋离职后，Hugging Face的首席执行官承诺将继续为开源人工智能而奋斗，这引发了人们对英伟达129亿美元收购的质疑。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-12T17:36:40.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "nvidia",
-        "Hugging Face",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ad1b1bd80bea872e85",
-      "titleOriginal": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
-      "summaryOriginal": "AWS has released AWS Emulator , a local emulator of the AWS APIs. You run it on a laptop, a dev server or in CI. The AWS CLI and SDKs talk to it instead of AWS. No AWS account is needed, and there is no service fee . The unusual part: autonomous agents wrote and reviewed all of its code . For developers and coding agents, AWS Emulator gives a fast, free test loop against AWS-shaped APIs. TL;DR Size: Built from 438 AWS API models , covering 200+ services . One Rust crate per service. Runs on: Lin",
-      "titleZh": "AWS 发布 AWS Emulator：由 AI 代理构建的 200 多项 AWS 服务的本地副本",
-      "summaryZh": "AWS 推出了 AWS Emulator ，这是 AWS API 的本地仿真器。您可以在笔记本电脑、开发服务器或 CI 中运行它。AWS CLI 和 SDK 与它通信，而不是与 AWS 通信。无需 AWS 账户，也无需支付服务费。不寻常之处在于：自主代理编写并审核了其所有代码。对于开发者和编码代理，AWS Emulator提供了一个针对AWS式API的快速、免费的测试循环。TL;DR 大小：由 438 个 AWS API 模型构建而成，覆盖 200 多项服务。每个服务一个 Rust 库。运行环境：Lin",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/12/aws-emulator-local-aws-api-emulator-ai-agents/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-12T17:26:08.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11529,7 +11506,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 28
+      "count": 31
     },
     {
       "id": "deepmind",
@@ -11537,7 +11514,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 3
+      "count": 2
     },
     {
       "id": "techcrunch",
@@ -11545,7 +11522,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 87
+      "count": 82
     },
     {
       "id": "theverge",
@@ -11553,7 +11530,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 50
+      "count": 48
     },
     {
       "id": "mittr",
@@ -11561,7 +11538,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 7
+      "count": 6
     },
     {
       "id": "wired",
@@ -11569,7 +11546,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 30
+      "count": 25
     },
     {
       "id": "thedecoder",
@@ -11577,7 +11554,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 53
+      "count": 52
     },
     {
       "id": "marktechpost",
@@ -11585,7 +11562,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 28
+      "count": 26
     },
     {
       "id": "simonwillison",
@@ -11593,7 +11570,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 19
+      "count": 20
     },
     {
       "id": "oneusefulthing",
@@ -11609,7 +11586,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ifanr",
@@ -11617,7 +11594,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 25
+      "count": 26
     },
     {
       "id": "sspai",
@@ -11625,7 +11602,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tmtpost",
@@ -11633,7 +11610,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 108
+      "count": 116
     },
     {
       "id": "infoq",
@@ -11641,13 +11618,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 50
+      "count": 52
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 36,
-    "translated": 217,
+    "guides": 42,
+    "translated": 203,
     "sources": 14
   }
 }
