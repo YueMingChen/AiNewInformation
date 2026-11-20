@@ -1,6 +1,216 @@
 {
-  "generatedAt": "2026-11-20T13:07:50.880Z",
+  "generatedAt": "2026-11-20T21:52:49.046Z",
   "articles": [
+    {
+      "id": "790fce6927eb43ee23",
+      "titleOriginal": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "summaryOriginal": "The word of the year in the AI industry over 2026 has been “slop” — meaning low-quality output from a large language model. And with so much code being AI-generated now, avoiding slop has become a daily concern for software engineers. So how to do that? One way is to use formal verification systems , which use mathematical proofs and logic to verify the correctness of software or hardware. With AI’s growing prowess at solving math problems , there’s now a number of AI companies offering formal v",
+      "titleZh": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://latent.space/p/formal-verification/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-20T21:18:41.000Z",
+      "author": "Richard MacManus",
+      "tags": [
+        "guide",
+        "Coding"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "49973232093df3cfc8",
+      "titleOriginal": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "summaryOriginal": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns. The article OpenAI makes it much harder for attackers to extract how its latest AI models think appeared first on The Decoder .",
+      "titleZh": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T20:31:50.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and China"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "340614cb1d4599fcf9",
+      "titleOriginal": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summaryOriginal": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "titleZh": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T19:53:41.000Z",
+      "author": "Tim De Chant",
+      "tags": [
+        "news",
+        "AI",
+        "Climate",
+        "Startups",
+        "Exclusive"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cd728ceea7675eb122",
+      "titleOriginal": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summaryOriginal": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board’s main issue was the former CEO’s “lack of candor.”",
+      "titleZh": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-20T19:52:21.000Z",
+      "author": "Lauren Goode, Paresh Dave",
+      "tags": [
+        "analysis",
+        "Business",
+        "Business / Big Tech"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b2d3378f104a58d86c",
+      "titleOriginal": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "summaryOriginal": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit. The article Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats appeared first on The Decoder .",
+      "titleZh": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T19:50:27.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI agents"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d6bff5841b5a64e743",
+      "titleOriginal": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "summaryOriginal": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "titleZh": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T19:32:08.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6a73fdd651f90d83f6",
+      "titleOriginal": "Quoting Ravi Vakil",
+      "summaryOriginal": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it seems best to put out the current draft. — Ravi Vakil , Hurried Announcement: Alessandro Masullo GRH Tags:",
+      "titleZh": "Quoting Ravi Vakil",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-20T19:21:49.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "06e3185415af0817f0",
+      "titleOriginal": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "summaryOriginal": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working appeared first on The Decoder .",
+      "titleZh": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T18:50:31.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Gemini"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3a0cb236fd3220dada",
+      "titleOriginal": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summaryOriginal": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a press conference Friday following his summit with China President Xi Jinping and Russia President Vladimir Putin. \"They allowed that to happen with chips and everything else, and",
+      "titleZh": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-20T18:50:19.000Z",
+      "author": "Lauren Feiner",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "7b0eea8f7ba0277b1e",
       "titleOriginal": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
@@ -66,6 +276,79 @@
       "readingMinutes": 2
     },
     {
+      "id": "01449c61c8b86a227c",
+      "titleOriginal": "The most misunderstood graph in AI just got a major update",
+      "summaryOriginal": "AI keeps getting faster at verifiable tasks — METR's updated report confirms that frontier AI models are doubling their performance on measurable tasks every four months. Judgment is where models still stumble — When asked to design new AI evaluations or score philosophical arguments, even the most advanced models fell short of human performance. Some glimmers of progress, but no clean trend lines — A handful of newer models are now scoring \"borderline above the bar\" on evaluation design tasks,",
+      "titleZh": "The most misunderstood graph in AI just got a major update",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-11-20T18:15:15.000Z",
+      "author": "Grace Huckins",
+      "tags": [
+        "research",
+        "Artificial intelligence",
+        "App",
+        "Summary"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7fc1e730882eb2814b",
+      "titleOriginal": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+      "summaryOriginal": "This week RadixArk released DaisyRose-27B , its first open-weight model. DaisyRose-27B is an agentic coding model from RadixArk, post-trained from Qwen3.8-27B with reinforcement learning (RL). The model card page states that it used RL only, with no SFT or distillation. It ships under Apache 2.0 as a drop-in replacement for the base model. The main result: Terminal Bench 4.1 pass@1 rises from 5.6 to 12.0. You can check the deployment options and specs here through our GPULeaderboard.com chrome e",
+      "titleZh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-20T17:42:29.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "079373956374b3c38a",
+      "titleOriginal": "Chips can survive the space environment — can their financing?",
+      "summaryOriginal": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "titleZh": "Chips can survive the space environment — can their financing?",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T17:40:01.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Elon Musk",
+        "SpaceX"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "9c69bbe3ca0805dd82",
       "titleOriginal": "AI 漫剧不缺作品，缺什么？｜QLab直播",
       "summaryOriginal": "",
@@ -80,6 +363,194 @@
       "lang": "zh",
       "publishedAt": "2026-11-20T17:14:29.000Z",
       "author": "木子",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "859ee3ec8c206bcf24",
+      "titleOriginal": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summaryOriginal": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alp&ouml;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into t",
+      "titleZh": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-20T16:34:13.000Z",
+      "author": "Robert Hart",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9e188d65b5accd0c98",
+      "titleOriginal": "Quoting Levent Alpöge",
+      "summaryOriginal": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one",
+      "titleZh": "Quoting Levent Alpöge",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-20T16:30:48.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0ca09a417878a2c7c3",
+      "titleOriginal": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summaryOriginal": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others appeared first on The Decode",
+      "titleZh": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T15:56:03.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and work",
+        "China"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "302263e9b6535552b2",
+      "titleOriginal": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summaryOriginal": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder .",
+      "titleZh": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T15:03:25.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Apple"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "92c1cc867c01424733",
+      "titleOriginal": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summaryOriginal": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
+      "titleZh": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T14:55:44.000Z",
+      "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Tim De Chant",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "anthropic ipo",
+        "Equity podcast"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ac4e692a5c06532c21",
+      "titleOriginal": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+      "summaryOriginal": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would bolster Nvidia's own open-source models and its push into robotics. The article Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup appeared",
+      "titleZh": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T14:53:50.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Inception"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "20109fb1b569d92304",
+      "titleOriginal": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+      "summaryOriginal": "NVIDIA has released Nemotron-Labs-Sigma , a collection of 14 open checkpoints at 3B and 8B scale. Nemotron-Labs-Sigma is a continuous diffusion language model family that denoises text in a 16-D embedding space. Most diffusion LLMs, such as LLaDA and Dream, work on discrete tokens. Sigma works in a smooth latent space instead. NVIDIA team states that this makes few-step distillation and trajectory steering practical for text. TL;DR Size: 3B and 8B parameters, 14 checkpoints. Context is 4,096 tok",
+      "titleZh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-20T14:44:52.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "299291fdd5181a565c",
+      "titleOriginal": "The week everything fell apart",
+      "summaryOriginal": "There was a dayslong Outlook outage . A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working . Even iCloud couldn't stay up and running . This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On this episode of The Vergecast , Nilay and David go through the week's many calamities, and try to explain both what happened in each case - which was generally much milder than",
+      "titleZh": "The week everything fell apart",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-20T14:06:59.000Z",
+      "author": "David Pierce",
       "tags": [
         "news"
       ],
@@ -105,6 +576,55 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7d8981ef547621735a",
+      "titleOriginal": "Six AI-powered gadgets that could make your home office smarter",
+      "summaryOriginal": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "titleZh": "Six AI-powered gadgets that could make your home office smarter",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "author": "Lauren Forristal",
+      "tags": [
+        "news",
+        "AI",
+        "Gadgets",
+        "Hardware"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9ff6be549848861bf7",
+      "titleOriginal": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summaryOriginal": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to history are also launching worldwide. Google Search co-lead Robby Stein says the feature should make it easier for users to continue longer web research. The article Google's latest homepage update pushes its search engine further toward an AI answer engine appeared first on The Decod",
+      "titleZh": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-20T13:19:31.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Google"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -377,6 +897,27 @@
         "Agent"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3ea993db7e3c60d192",
+      "titleOriginal": "Combatting adversarial distillation",
+      "summaryOriginal": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "titleZh": "Combatting adversarial distillation",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "author": "",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
       "readingMinutes": 2
     },
     {
@@ -951,6 +1492,49 @@
       "readingMinutes": 2
     },
     {
+      "id": "d15c45643214b444b1",
+      "titleOriginal": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summaryOriginal": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f4784c30400364a228",
+      "titleOriginal": "Can AI help scientists identify promising drug candidates?",
+      "summaryOriginal": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+      "titleZh": "Can AI help scientists identify promising drug candidates?",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/introducing-medchembench",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Research"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "53258ed2c52a8e7557",
       "titleOriginal": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
       "summaryOriginal": "Open video on YouTube ↗ Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tracking is dead.\" In this episode, we chat with Cristina Cordova , COO of Linear , about how the company navigated that and how its go-to-market changed along the way. Cristina spent seven and a half years at Stripe, led platform and partnerships at Notion, and was a partner at First Round before joining Linear in 2023.",
@@ -996,7 +1580,7 @@
     {
       "id": "a22c687c439c6aed0f",
       "titleOriginal": "Apple is hiring engineers to build its own AI agent",
-      "summaryOriginal": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg , which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse , OpenAI's Dots , Anthropic's Duet , and Google's Tasks . Muse, ChatGPT, and Pe",
+      "summaryOriginal": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg , which said Apple is looking for an engineer to lead the creation of an agentic AI assistant. An AI agent from Apple would put the iPhone maker in the running to compete with the likes of Meta's Muse , OpenAI's Dots , Anthropic's Duet , and Google's Tasks . Muse, Cha",
       "titleZh": "苹果正在招聘工程师，以打造自己的AI代理",
       "summaryZh": "苹果正在开发自己的AI代理，它可以为您执行一系列任务，包括浏览网页、跨应用程序工作、编写代码和调用服务。这是彭博社发现的一则招聘信息所透露的，该信息称苹果正在寻找一名工程师来领导智能体AI助手的开发工作。苹果的AI代理将使这家iPhone制造商能够与Meta的Muse、OpenAI的Dots、Anthropic的Duet和谷歌的Tasks等产品展开竞争。Muse、ChatGPT 和 Pe",
       "translated": true,
@@ -10916,596 +11500,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "fbf6f476757d89de76",
-      "titleOriginal": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "summaryOriginal": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that. The article Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate in",
-      "titleZh": "Anthropic的Claude for Manufacturing将人工智能直接嵌入工厂软件，以实现工业工作流程的自动化",
-      "summaryZh": "Anthropic的新款Claude for Manufacturing插件将人工智能直接连接到Autodesk Fusion、Oracle NetSuite和Infor。该插件具备17项专业技能，使人工智能能够在获得人工批准后起草报价、比较供应商，并在交货延迟时下备用订单。该插件目前尚不能控制物理机器，但Anthropic正在为此单独开发模型硬件标准。文章《Anthropic 的 Claude for Manufacturing 将人工智能直接嵌入工厂软件，实现自动化》",
-      "translated": true,
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-13T16:37:01.000Z",
-      "author": "Manuel Uth",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "AI at work"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "071aacbc0dd6373091",
-      "titleOriginal": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
-      "summaryOriginal": "Perplexity has released pplx-decider-v1.3 and pplx-decider-flash-v1.3 , the latest versions of its open-weight decision models. Perplexity Decider v1.3 is a decision model that returns probabilities, not generated text. It answers yes/no, multiple-choice and score questions about a text or image input. The main addition is Locate, which extracts exact text spans by type or instruction. Weights ship under Apache 2.0 on Hugging Face . Both models also run in the Perplexity Decisions API and on Ope",
-      "titleZh": "Perplexity 发布 Decider v1.3：开放权重决策模型新增 Locate 功能",
-      "summaryZh": "Perplexity 发布了 pplx-decider-v1.3 和 pplx-decider-flash-v1.3 ，这是其开放权重决策模型的最新版本。Perplexity Decider v1.3 是一种决策模型，返回的是概率，而不是生成的文本。它可以回答有关文本或图像输入的“是/否”、多项选择和评分问题。主要新增功能是Locate，它可以按类型或指令提取精确的文本片段。权重在Hugging Face上以Apache 2.0许可发布。这两个模型还可以在 Perplexity Decisions API 和 Ope 上运行",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-13T16:10:02.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c231d25e54b9ad3f28",
-      "titleOriginal": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summaryOriginal": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "titleZh": "ChatGPT 的新钱包让 AI 代理为您购物和结账",
-      "summaryZh": "ChatGPT钱包让AI代理能够代表用户购物并结账，该功能首先将以有限范围向美国Pro版订阅用户推出。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-13T16:00:12.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Commerce",
-        "AI agents",
-        "ChatGPT"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6cf396048e28cf5821",
-      "titleOriginal": "Jensen Huang and the End of the Founder Fairy Tale",
-      "summaryOriginal": "The former tech CEO is obsessed with the power of storytelling. But he hasn't spun his way out of his sex scandals.",
-      "titleZh": "黄仁勋与创始人神话的终结",
-      "summaryZh": "这位前科技公司首席执行官痴迷于讲故事的力量。但他并没有靠讲故事摆脱性丑闻的困扰。",
-      "translated": true,
-      "url": "https://www.wired.com/story/jensen-huang-and-the-end-of-the-founder-fairy-tale/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-13T16:00:00.000Z",
-      "author": "Lauren Goode",
-      "tags": [
-        "analysis",
-        "Business",
-        "Business / Tech Culture"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "59c58e3f39cc6e58a7",
-      "titleOriginal": "The unfolding Jensen Huang scandal: a timeline",
-      "summaryOriginal": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "titleZh": "正在发酵的黄仁勋丑闻：时间线",
-      "summaryZh": "Jensen Huang在曝出婚外情后已从Nvidia辞职，鉴于美国和中国正在竞相开发最先进的人工智能基础设施，此事可能对国家安全产生影响。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:58:00.000Z",
-      "author": "Amanda Silberling",
-      "tags": [
-        "news",
-        "AI",
-        "China",
-        "Donald Trump",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0e98ec7dac1f593ea9",
-      "titleOriginal": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
-      "summaryOriginal": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI. The article Nearly 70 percent of US agencies use generative AI, and unions are finally catching up w",
-      "titleZh": "近70%的美国机构使用生成式人工智能，工会终于赶上了监管步伐",
-      "summaryZh": "美国公共部门工会正日益推动实施针对人工智能监控和自动化解雇的保护措施。在奥克兰，一次罢工投票迫使公司实施再培训计划，而不是裁员；在俄亥俄州，一个交通运输工会获得了对自动驾驶车辆的否决权。加利福尼亚州禁止了所谓的“老板软件”。所有这一切都在发生，而美国近70%的政府机构已经在使用生成式人工智能。文章《近70%的美国政府机构使用生成式人工智能，工会终于开始迎头赶上》",
-      "translated": true,
-      "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:53:49.000Z",
-      "author": "Manuel Uth",
-      "tags": [
-        "news",
-        "AI and society",
-        "Artificial Intelligence",
-        "Short News",
-        "AI and work"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6db00f3416c37790ba",
-      "titleOriginal": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-      "summaryOriginal": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The article Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chin",
-      "titleZh": "OpenAI 前研究员称，他在六款中国人工智能模型中发现了隐藏的 Nvidia Blackwell 指纹",
-      "summaryZh": "OpenAI前研究员Will DePue表示，他提供了首个技术证据，证明尽管有美国的出口管制，但DeepSeek、Moonshot AI、MiniMax和蚂蚁集团仍在<unused55>。他的鉴证方法直接从已发布的模型权重中读取芯片的特征签名。他估计，这五次训练背后的硬件成本超过5亿美元。文章《前OpenAI研究员称，他在六个中国模型中发现了隐藏的Nvidia Blackwell“指纹”》",
-      "translated": true,
-      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:21:04.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "research",
-        "AI and society",
-        "Artificial Intelligence",
-        "AI training",
-        "China"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "aac20b374e2df3f4cc",
-      "titleOriginal": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history",
-      "summaryOriginal": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder .",
-      "titleZh": "Anthropic的IPO认购额超额六倍，有望成为历史上规模最大的公开募股",
-      "summaryZh": "Anthropic 正朝着有史以来规模最大的 IPO 迈进，认购量是可供认购股份的六倍。文章《Anthropic的IPO超额认购六倍，有望成为历史上规模最大的IPO》最初发表在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:15:08.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "launch",
-        "AI and society",
-        "Artificial Intelligence",
-        "Short News",
-        "Anthropic"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "45a56ab3ef68125740",
-      "titleOriginal": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
-      "summaryOriginal": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature, but many businesses hang up as soon as they detect an AI on the line. The article Meta's Muse now calls businesses for you, but many companies might just hang up on the AI appeared first on The Decoder .",
-      "titleZh": "Meta的Muse现在可以为您致电企业，但许多公司可能会直接挂断AI的电话",
-      "summaryZh": "Meta的AI代理Muse现在可以代表付费的美国用户致电企业，处理从有线电视运营商到餐厅的各种事务。据Meta的AI负责人Alexandr Wang透露，该智能体目前已有超过1000万用户。Google Gemini、Instinct和xAI的Grok Bot也提供同样的功能，但许多企业一察觉到通话对方是人工智能，就会立即挂断电话。题为《Meta的Muse现在可以替您给商家打电话，但许多公司可能会直接挂断AI的电话》的文章最初发表在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:12:44.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Meta"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cd6b269846259b4848",
-      "titleOriginal": "OpenAI enters the cybersecurity market with two Daybreak products",
-      "summaryOriginal": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
-      "titleZh": "OpenAI携两款Daybreak产品进军网络安全市场",
-      "summaryZh": "OpenAI已在其Daybreak品牌下推出了两款安全产品。题为“OpenAI携两款Daybreak产品进军网络安全市场”的文章最初发布在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:08:57.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Cybersecurity"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5bf4951adbe9698dd9",
-      "titleOriginal": "Introducing ChatGPT Wallet",
-      "summaryOriginal": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "titleZh": "隆重推出ChatGPT钱包",
-      "summaryZh": "隆重推出 ChatGPT 钱包，这是 ChatGPT Work、Codex 和 dots 中的客服代表在获得用户批准并使用现有银行卡保护措施完成购买的安全方式。",
-      "translated": true,
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-13T15:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Product",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "627c324df106de1bc6",
-      "titleOriginal": "What’s really at stake in the Jensen Huang saga",
-      "summaryOriginal": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness to turn a lot of blind eyes to protect a powerful ally, and about the very stability of the AI industry as a whole. It's a lot. On this episode of The Vergecast , David and Nilay star",
-      "titleZh": "黄仁勋传奇背后的真正利害关系",
-      "summaryZh": "围绕英伟达首席执行官黄仁勋的传奇故事在上周四落下了一幕，当时黄仁勋辞去了这家人工智能领域最重要公司的最高职位。但在接下来的几周和几个月里，一个更大的故事可能即将上演。这个故事涉及英伟达在中国的业务往来，涉及美国政府为保护一个强有力的盟友而愿意睁一只眼闭一只眼，还涉及整个人工智能行业的稳定性。这可不是小事。在本期《The Vergecast》节目中，David和Nilay将出镜。",
-      "translated": true,
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-13T14:47:16.000Z",
-      "author": "David Pierce",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "744da6a2871c93b3ee",
-      "titleOriginal": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "summaryOriginal": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "titleZh": "ElevenLabs 的新应用程序将团队会议笔记和听写功能相结合",
-      "summaryZh": "ElevenAI是一款面向团队和企业的新型会议记录和听写应用程序。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-13T14:44:48.000Z",
-      "author": "Ivan Mehta",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "TC",
-        "ElevenLabs"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cd9d1a105b69dd290c",
-      "titleOriginal": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summaryOriginal": "Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple of months: Instinct gave us an impressive text-based assistant , Meta offered us its cute little guy, Muse, to help us buy things , and Op",
-      "titleZh": "Claude 的 Duet 智能助手有点神经质，但出人意料地有用",
-      "summaryZh": "我们开始工作吧。| 图片：Allison Johnson / The Verge 通常情况下，我测试的产品不会主动提出帮我撰写使用体验。Duet与众不同。Claude Duet是Anthropic面向消费者的AI代理，是一家AI公司为说服我们相信代理对不会写代码的人也有用而作出的最新尝试。过去几个月很有意思：Instinct为我们提供了一位令人印象深刻的文本助手，Meta为我们提供了它那可爱的小家伙Muse来帮助我们购物，还有Op",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-13T14:00:00.000Z",
-      "author": "Allison Johnson",
-      "tags": [
-        "news",
-        "Agent",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f240bb31094b1ee35e",
-      "titleOriginal": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "summaryOriginal": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "titleZh": "以色列的风险投资机构认为，英伟达的动荡为挑战者带来了机会",
-      "summaryZh": "鉴于Nvidia在人工智能领域的强势地位及其在以色列的重要性，该国初创企业生态系统中的许多人都对他的离职所带来的影响感到担忧。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:52:19.000Z",
-      "author": "Anna Heim",
-      "tags": [
-        "news",
-        "AI",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "025949940b1ff6f30f",
-      "titleOriginal": "Jensen Huang didn’t show confidence in his successor, report says",
-      "summaryOriginal": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "titleZh": "据报道，黄仁勋对他的继任者并不抱有信心",
-      "summaryZh": "黄仁勋在夏季的一次会议上将克雷斯形容为“被车灯照到的鹿”。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:28:23.000Z",
-      "author": "Ivan Mehta",
-      "tags": [
-        "news",
-        "AI",
-        "In Brief",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "71dad9da95c2fbfe80",
-      "titleOriginal": "Let’s talk about Jensen Huang’s many affairs!",
-      "summaryOriginal": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity . If things don't decelerate soon, we may be looking at existential risk. Maybe the future of AI really does depend on Jensen's sex life , but not in the way I was thinking ! As much fun (?) as w",
-      "titleZh": "让我们来聊聊黄仁勋的众多绯闻！",
-      "summaryZh": "通常，我们会主动回答您关于新闻事件的问题，但坦白说，对于英伟达到底发生了什么，我们真的没有什么答案。我不能代表尼莱（Nilay）说话，但以黄仁勋新情妇的出现速度，我担心我们正接近一场情事奇点。如果事情不能很快放缓，我们可能就要面临生存风险。也许人工智能的未来真的取决于黄仁勋的性生活，但并不是我所想的那样！虽然这很有趣（？）",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-13T12:00:00.000Z",
-      "author": "Elizabeth Lopatto",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "41eafb7e6a894c79fa",
-      "titleOriginal": "This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood",
-      "summaryOriginal": "Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.",
-      "titleZh": "这家初创公司押注于AI微剧，以期在好莱坞推出更多黑人题材的故事",
-      "summaryZh": "Mansa表示，其AI微剧可以作为黑人受众喜好的概念验证。批评人士称，该工作室正在出卖灵魂。",
-      "translated": true,
-      "url": "https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-13T11:45:00.000Z",
-      "author": "Jason Parham",
-      "tags": [
-        "analysis",
-        "Culture",
-        "Culture / TV"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ac9ece44eea194994a",
-      "titleOriginal": "Docker 呼吁通过隔离与治理保障智能体安全",
-      "summaryOriginal": "",
-      "titleZh": "Docker 呼吁通过隔离与治理保障智能体安全",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/1pCuIRtm5HYwTyR4fIhA",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "author": "作者：Matt Saunders",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e7f7fcb959d01323ef",
-      "titleOriginal": "China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them",
-      "summaryOriginal": "NextFin News — Alibaba said it will take T-Head, its semiconductor arm, to a Hong Kong main-board listing. The parent will keep control. Fundraising size and final valuation were left open. Within a year, Baidu’s Kunlunxin and Kuaishou’s Kling have followed the same broad path: pull a core AI asset out where the market can assign it a number of its own. Those numbers have been aggressive. Target or post-money figures discussed for the subsidiaries have, at times, rivaled or exceeded the market v",
-      "titleZh": "China’s Internet Giants Are Listing AI Units Because the Parent Stock Will Not Price Them",
-      "summaryZh": "NextFin News — Alibaba said it will take T-Head, its semiconductor arm, to a Hong Kong main-board listing. The parent will keep control. Fundraising size and final valuation were left open. Within a year, Baidu’s Kunlunxin and Kuaishou’s Kling have followed the same broad path: pull a core AI asset out where the market can assign it a number of its own. Those numbers have been aggressive. Target or post-money figures discussed for the subsidiaries have, at times, rivaled or exceeded the market v",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204635.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-13T10:52:05.000Z",
-      "author": "Chelsea_Sun",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "376a78733a96562864",
-      "titleOriginal": "大厂搞AI的尽头，是拆家上市？",
-      "summaryOriginal": "（本文作者为 强调Next，钛媒体经授权发布） 文 | 强调Next 11月10日晚，阿里巴巴公告，平头哥将在港交所主板独立上市，A1表格9月11日已经秘密递交。募资额、估值、阿里让出多少股份，公告里一概没有。 这是一年之内第三家把核心AI资产送去单独定价的互联网大厂。百度的昆仑芯1月递表港交所，5月又启动了科创板辅导。快手的可灵10月30日完成 198亿元 增资交割，投后估值 约180亿美元 ，据报道已选定中金、高盛和瑞银筹备2027年赴港上市。 三笔交易有一个共同的结果。昆仑芯传出的目标估值是 500亿美元 ，高过当时百度约385亿美元的市值；可灵的 180亿美元 ，高过快手10月初约163亿美元的市值；摩根大通年初给平头哥测算的 250亿至620亿美元 ，按阿里最新市值算已经相当于 10%到24% 。子公司一个比一个贵，母公司的股价却没有跟上。平头哥的公告发出后，阿里美股盘前只是从跌超2%拉回到平盘。 全栈故事太贵，不如拆开变现 公告里说，分拆之后，平头哥仍然是阿里的子公司。仍是子公司，就仍然并表：每一次流片的开支、每一笔研发费用，照旧进阿里的合并利润表，变化只是报表上多出一栏少",
-      "titleZh": "大厂搞AI的尽头，是拆家上市？",
-      "summaryZh": "（本文作者为 强调Next，钛媒体经授权发布） 文 | 强调Next 11月10日晚，阿里巴巴公告，平头哥将在港交所主板独立上市，A1表格9月11日已经秘密递交。募资额、估值、阿里让出多少股份，公告里一概没有。 这是一年之内第三家把核心AI资产送去单独定价的互联网大厂。百度的昆仑芯1月递表港交所，5月又启动了科创板辅导。快手的可灵10月30日完成 198亿元 增资交割，投后估值 约180亿美元 ，据报道已选定中金、高盛和瑞银筹备2027年赴港上市。 三笔交易有一个共同的结果。昆仑芯传出的目标估值是 500亿美元 ，高过当时百度约385亿美元的市值；可灵的 180亿美元 ，高过快手10月初约163亿美元的市值；摩根大通年初给平头哥测算的 250亿至620亿美元 ，按阿里最新市值算已经相当于 10%到24% 。子公司一个比一个贵，母公司的股价却没有跟上。平头哥的公告发出后，阿里美股盘前只是从跌超2%拉回到平盘。 全栈故事太贵，不如拆开变现 公告里说，分拆之后，平头哥仍然是阿里的子公司。仍是子公司，就仍然并表：每一次流片的开支、每一笔研发费用，照旧进阿里的合并利润表，变化只是报表上多出一栏少",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204039.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-13T10:42:28.000Z",
-      "author": "强调Next",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e7899aa97bafc2bf35",
-      "titleOriginal": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-      "summaryOriginal": "Google Cloud has released TPU Sync , an open-source C++ library for moving KV caches and model weights on Cloud TPUs. The Google TPU Sync KV cache transfer library treats TPU HBM, host DRAM, shared storage and the data center network as one memory hierarchy. It targets a growing bottleneck: moving model state, not computing it. Google reports over 90% lower KV transfer latency on 235B to 480B parameter MoE models. TL;DR Library: Native C++ core with Python wheels for PyTorch and JAX. Tested on 2",
-      "titleZh": "Google 发布 TPU Sync：面向 TPU 的开源 KV 缓存传输",
-      "summaryZh": "Google Cloud发布了TPU Sync ，这是一个开源C++库，用于在Cloud TPU上移动KV缓存和模型权重。Google TPU Sync KV 缓存传输库将 TPU HBM、主机 DRAM、共享存储和数据中心网络视为一个内存层次结构。它针对的是一个日益严重的瓶颈：移动模型状态，而不是计算模型状态。Google报告称，在2350亿至4800亿参数的MoE模型上，KV传输延迟降低了90%以上。TL;DR 库：原生 C++ 核心，带有适用于 PyTorch 和 JAX 的 Python wheels。已在 2 台设备上测试。",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-13T10:32:26.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "98516a537e97440795",
-      "titleOriginal": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
-      "summaryOriginal": "之前凭借「一张图片生成整个 3D 世界」刷屏的李飞飞世界模型，现在终于向所有人开放了。 就在今天，由「AI 教母」李飞飞创办的 World Labs 正式开放世界模型 Atlas，同步上线网页应用和开发者 API，新用户注册即送 10000 积分。 体验地址：atlas.worldlabs.ai 现在，我们也能亲自体验这项曾经只能在演示视频里看到的能力：随手画几栋房子、一条小路，AI 就能把草图变成一个可以自由探索的 3D 世界。甚至还能调整场景布局、规划镜头、生成视频，最后导出到 Blender 或游戏引擎里继续加工。 这次开放还带来了两款全新的 Web 应用 Viewfinder 和 Chisel ，进入 Atlas 网页直接就能上手体验。 李飞飞转发 World Labs 宣布开放的推文并难掩兴奋，表示「Atlas 现已向所有人开放！！我非常期待看到用户能用我们最新的世界模型构建出什么！ 」 a16z 合伙人 Martin Casado 对这次发布也给出了超高的评价，他认为这是自生成式 AI 兴起以来，3D 生成/重建领域最大的一步。 完整的世界模型工具链 登录 Atlas 需要",
-      "titleZh": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
-      "summaryZh": "之前凭借「一张图片生成整个 3D 世界」刷屏的李飞飞世界模型，现在终于向所有人开放了。 就在今天，由「AI 教母」李飞飞创办的 World Labs 正式开放世界模型 Atlas，同步上线网页应用和开发者 API，新用户注册即送 10000 积分。 体验地址：atlas.worldlabs.ai 现在，我们也能亲自体验这项曾经只能在演示视频里看到的能力：随手画几栋房子、一条小路，AI 就能把草图变成一个可以自由探索的 3D 世界。甚至还能调整场景布局、规划镜头、生成视频，最后导出到 Blender 或游戏引擎里继续加工。 这次开放还带来了两款全新的 Web 应用 Viewfinder 和 Chisel ，进入 Atlas 网页直接就能上手体验。 李飞飞转发 World Labs 宣布开放的推文并难掩兴奋，表示「Atlas 现已向所有人开放！！我非常期待看到用户能用我们最新的世界模型构建出什么！ 」 a16z 合伙人 Martin Casado 对这次发布也给出了超高的评价，他认为这是自生成式 AI 兴起以来，3D 生成/重建领域最大的一步。 完整的世界模型工具链 登录 Atlas 需要",
-      "translated": true,
-      "url": "https://www.ifanr.com/1689379",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-13T10:04:55.000Z",
-      "author": "张子豪",
-      "tags": [
-        "guide",
-        "公司",
-        "Atlas",
-        "Viewfinder",
-        "World Labs"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a9b61b058c2dac9ec0",
-      "titleOriginal": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
-      "summaryOriginal": "",
-      "titleZh": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "author": "AICon 全球人工智能开发与应用大会",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4d6ca14d5b3670b8bf",
-      "titleOriginal": "黄仁勋走了，英伟达5300亿美元的承诺谁来签字",
-      "summaryOriginal": "（本文作者为 强调Next，钛媒体经授权发布） 文 | 强调Next 11月12日，英伟达董事会发公告：黄仁勋辞去总裁、CEO和董事职务，即时生效。CFO科莱特&middot;克雷斯（Colette Kress）兼任临时CEO，董事哈维&middot;琼斯（Harvey C. Jones）出任董事长。英伟达成立 33年 ，这是头一回有董事长。 起因是一场私人风波。黄仁勋11月8日向员工承认对妻子不忠，此后又有报道称他与一名公司员工有亲密关系。四天后，他离开了公司。当天英伟达开盘一度跌约 14% ，市值跌破 4万亿美元 ，收盘跌幅收窄到 4.34% ，报 166.19美元 。11月以来，股价已经跌掉约 两成 。伯恩斯坦把目标价从400美元砍到200美元。 可英伟达的生意眼下好得很。上个财季营收 962亿美元 ，毛利率 75% ，下一代平台Vera Rubin已经量产。市场抛售的理由在财报之外。过去三年，黄仁勋一个人替整个AI产业做着两件事：新品先给谁、供应链按什么节奏备货，由他定；客户借不到钱，由他拿英伟达的信用去担保。 这两件事，没有写进公司里任何一个人的岗位职责。 60个直接下属，没",
-      "titleZh": "黄仁勋走了，英伟达5300亿美元的承诺谁来签字",
-      "summaryZh": "（本文作者为 强调Next，钛媒体经授权发布） 文 | 强调Next 11月12日，英伟达董事会发公告：黄仁勋辞去总裁、CEO和董事职务，即时生效。CFO科莱特&middot;克雷斯（Colette Kress）兼任临时CEO，董事哈维&middot;琼斯（Harvey C. Jones）出任董事长。英伟达成立 33年 ，这是头一回有董事长。 起因是一场私人风波。黄仁勋11月8日向员工承认对妻子不忠，此后又有报道称他与一名公司员工有亲密关系。四天后，他离开了公司。当天英伟达开盘一度跌约 14% ，市值跌破 4万亿美元 ，收盘跌幅收窄到 4.34% ，报 166.19美元 。11月以来，股价已经跌掉约 两成 。伯恩斯坦把目标价从400美元砍到200美元。 可英伟达的生意眼下好得很。上个财季营收 962亿美元 ，毛利率 75% ，下一代平台Vera Rubin已经量产。市场抛售的理由在财报之外。过去三年，黄仁勋一个人替整个AI产业做着两件事：新品先给谁、供应链按什么节奏备货，由他定；客户借不到钱，由他拿英伟达的信用去担保。 这两件事，没有写进公司里任何一个人的岗位职责。 60个直接下属，没",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8203934.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-13T09:56:38.000Z",
-      "author": "强调Next",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11515,7 +11509,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 30
+      "count": 32
     },
     {
       "id": "deepmind",
@@ -11547,7 +11541,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 6
+      "count": 7
     },
     {
       "id": "wired",
@@ -11555,7 +11549,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 28
+      "count": 27
     },
     {
       "id": "thedecoder",
@@ -11563,7 +11557,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 53
+      "count": 54
     },
     {
       "id": "marktechpost",
@@ -11579,7 +11573,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 20
+      "count": 22
     },
     {
       "id": "oneusefulthing",
@@ -11595,7 +11589,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 8
+      "count": 9
     },
     {
       "id": "ifanr",
@@ -11603,7 +11597,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 27
+      "count": 26
     },
     {
       "id": "sspai",
@@ -11619,7 +11613,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 113
+      "count": 110
     },
     {
       "id": "infoq",
@@ -11627,13 +11621,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 55
+      "count": 53
     }
   ],
   "stats": {
     "total": 500,
     "guides": 41,
-    "translated": 212,
+    "translated": 193,
     "sources": 14
   }
 }
