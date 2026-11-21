@@ -1,6 +1,125 @@
 {
-  "generatedAt": "2026-11-21T03:16:44.406Z",
+  "generatedAt": "2026-11-21T12:47:45.704Z",
   "articles": [
+    {
+      "id": "cc5c5c9af1c508282b",
+      "titleOriginal": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+      "summaryOriginal": "Thinking Machines Lab has released Inkling 2 Mini , an open-weight looped transformer with 26.4B total parameters. The model reuses its middle layers 3 times per token instead of adding more weights. That keeps the checkpoint near 20GB, small enough for a 32GB Mac or 1 NVIDIA DGX Spark. For developers, Inkling 2 Mini is a local option for agentic coding, tool use and document work. It ships under Apache 2.0 on Hugging Face , with hosted inference and fine-tuning on Tinker . TL;DR Size: 26.4B tot",
+      "titleZh": "认识Thinking Machines的Inkling 2 Mini：在32GB的Mac上运行260亿参数的循环MoE",
+      "summaryZh": "Thinking Machines Lab发布了Inkling 2 Mini ，这是一款开放权重循环Transformer，总参数量为264亿。该模型每个token会重复使用其中间层3次，而不是增加更多权重。这样可以将检查点保持在接近20GB的水平，对于32GB的Mac或1台NVIDIA DGX Spark来说足够小。对于开发者而言，Inkling 2 Mini 是用于代理编码、工具使用和文档工作的本地选项。该模型在Hugging Face上以Apache 2.0许可发布，并在Tinker上提供托管推理和微调。TL;DR 大小：总计 264 亿",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-21T12:13:50.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1be0cb9ade493f4c54",
+      "titleOriginal": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+      "summaryOriginal": "OpenAI has made GPT-Live-1.1 available in its API under the model ID gpt-live-1.1 . The GPT-Live-1.1 voice model is a full-duplex model for multilingual conversations. It can listen while it speaks. OpenAI team states that it speaks with more natural and consistent accents across languages and completes tasks more reliably. The release also adds standby, a cheaper billing state for idle sessions. For teams running voice agents, idle time on a call now costs less. You can check the deployment opt",
+      "titleZh": "OpenAI推出面向语音助手的GPT-Live-1.1，将空闲成本降至0.02美元/分钟",
+      "summaryZh": "OpenAI 已在其 API 中提供 GPT-Live-1.1，模型 ID 为 gpt-live-1.1。GPT-Live-1.1语音模型是一款用于多语言对话的全双工模型。它可以在说话的同时聆听。OpenAI团队表示，该模型在各种语言中都能以更自然、更一致的口音说话，并且能够更可靠地完成任务。此次发布还增加了“待机”状态，这是针对闲置会话的更便宜的计费状态。对于运行语音代理的团队来说，通话中的空闲时间现在成本更低。您可以查看部署选项",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-21T11:46:17.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1c6a9d495eb4407cb3",
+      "titleOriginal": "2026年了，AI能有什么用？",
+      "summaryOriginal": "（本文作者为 止戈见闻，钛媒体经授权发布） 文 | 止戈见闻， 作者 | 李仁杰，编辑 | 李知停 2026年10月，硅谷最懂设计和AI的那个男人——Figma CEO菲尔德，在一档播客里，当着全世界的面承认，自己以前错了。 菲尔德说，“我曾说过AI会抬高创作的上限，那句话是错的。AI降低的是生产的门槛，但它并没有拉高上限。” 过去几年，我们听过太多“AI赋能一切”“人人都是超级个体”的神话，仿佛只要有了AI，就有了一切，就能一步登天。 可现实打脸来得太快，打开自媒体平台，AI批量生成的稿子山呼海啸般涌来，点进去一看，阅读量常年在两位数徘徊，结构工整、辞藻华丽，读完以后却味同嚼蜡。 打开应用商店，App提交量指数级暴涨，人均使用时长却几乎没动；大量套壳AI攒出来的产品上线即死，根本没人买单。 事实是，AI越能制造，产出的东西就越趋于均值，越平庸。 AI给了我们一场“无所不能”的幻觉。那么，看似无所不能的AI，究竟给普罗大众带来了什么？ ① 遍地平庸的AI产品 大模型天生就是个“追求平均值的优等生”。 它的底层逻辑，是把人类过去几十年留下的海量文本、代码和图片喂进模型，再算出一个或若干个",
+      "titleZh": "2026年了，AI能有什么用？",
+      "summaryZh": "（本文作者为 止戈见闻，钛媒体经授权发布） 文 | 止戈见闻， 作者 | 李仁杰，编辑 | 李知停 2026年10月，硅谷最懂设计和AI的那个男人——Figma CEO菲尔德，在一档播客里，当着全世界的面承认，自己以前错了。 菲尔德说，“我曾说过AI会抬高创作的上限，那句话是错的。AI降低的是生产的门槛，但它并没有拉高上限。” 过去几年，我们听过太多“AI赋能一切”“人人都是超级个体”的神话，仿佛只要有了AI，就有了一切，就能一步登天。 可现实打脸来得太快，打开自媒体平台，AI批量生成的稿子山呼海啸般涌来，点进去一看，阅读量常年在两位数徘徊，结构工整、辞藻华丽，读完以后却味同嚼蜡。 打开应用商店，App提交量指数级暴涨，人均使用时长却几乎没动；大量套壳AI攒出来的产品上线即死，根本没人买单。 事实是，AI越能制造，产出的东西就越趋于均值，越平庸。 AI给了我们一场“无所不能”的幻觉。那么，看似无所不能的AI，究竟给普罗大众带来了什么？ ① 遍地平庸的AI产品 大模型天生就是个“追求平均值的优等生”。 它的底层逻辑，是把人类过去几十年留下的海量文本、代码和图片喂进模型，再算出一个或若干个",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213527.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T11:21:40.000Z",
+      "author": "止戈见闻",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9c9ec1c5f1976aab95",
+      "titleOriginal": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summaryOriginal": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up. The article Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft appeare",
+      "titleZh": "在Anthropic声称Claude证明了黎曼猜想数小时后，斯坦福大学发布了一份全由人类撰写的竞争性草案",
+      "summaryZh": "Anthropic的数学家Levent Alpöge表示，他使用Claude证明了黎曼猜想，这是数学界167年来最著名的未决问题，其在Lean中形式化的证明长达25万多页。仅仅几个小时后，斯坦福大学的研究人员就发表了一份独立的、完全由人类完成的竞争性证明，数学家们目前正在核查这两个证明是否都站得住脚。文章《Anthropic声称Claude证明了黎曼猜想数小时后，斯坦福大学发布了一份完全由人类撰写的竞争性草案》发表于",
+      "translated": true,
+      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T11:19:49.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "launch",
+        "AI research",
+        "Artificial Intelligence",
+        "AI and math",
+        "Anthropic"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4d231ad460bf3f1f45",
+      "titleOriginal": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+      "summaryOriginal": "图片来自AI生成 观点 百度 首席执行官：云基础设施投资的回报周期正在缩短 百度首席执行官称，云基础设施投资的回报周期正在缩短，使AI云基础设施成为更健康、更可持续的业务。在GPU云业务领域，越来越多的客户选择预付费用以确保未来算力，并承诺签订更长的合同期限。 美联储理事Barr称AI智能体或加大未来银行挤兑风险 美联储理事Michael Barr警告称，自主AI智能体可能会根据市场信号或利率变化自动转移客户存款，从而加大银行挤兑风险。大型银行已经发现有AI智能体试图在零售账户中执行未经授权的操作。过去客户需要亲自执行转账操作，而现在AI智能体能够立即检测到收益率差异或市场波动信号，并自主高速转移资金，这可能会加速几分钟内发生的挤兑，使传统的流动性管理和监管干预时限难以招架。 “AI教父”辛顿：10年内AI或开创人类无法理解的数学分支 诺奖得主、“人工智能教父”辛顿表示，AI在数学上已比几乎所有数学家都更聪明；多数数学家都判断，未来几年、很可能10年内，AI将发展出人类根本无法理解的数学分支。 李彦宏：AI的价值最终来自应用层 在2026年亚太经合组织（APEC）工商领导人峰会上，百度",
+      "titleZh": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+      "summaryZh": "图片来自AI生成 观点 百度 首席执行官：云基础设施投资的回报周期正在缩短 百度首席执行官称，云基础设施投资的回报周期正在缩短，使AI云基础设施成为更健康、更可持续的业务。在GPU云业务领域，越来越多的客户选择预付费用以确保未来算力，并承诺签订更长的合同期限。 美联储理事Barr称AI智能体或加大未来银行挤兑风险 美联储理事Michael Barr警告称，自主AI智能体可能会根据市场信号或利率变化自动转移客户存款，从而加大银行挤兑风险。大型银行已经发现有AI智能体试图在零售账户中执行未经授权的操作。过去客户需要亲自执行转账操作，而现在AI智能体能够立即检测到收益率差异或市场波动信号，并自主高速转移资金，这可能会加速几分钟内发生的挤兑，使传统的流动性管理和监管干预时限难以招架。 “AI教父”辛顿：10年内AI或开创人类无法理解的数学分支 诺奖得主、“人工智能教父”辛顿表示，AI在数学上已比几乎所有数学家都更聪明；多数数学家都判断，未来几年、很可能10年内，AI将发展出人类根本无法理解的数学分支。 李彦宏：AI的价值最终来自应用层 在2026年亚太经合组织（APEC）工商领导人峰会上，百度",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213535.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T11:19:38.000Z",
+      "author": "TechPulse",
+      "tags": [
+        "news",
+        "数智周报",
+        "投稿"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "bf548ec3fa5bf5aa45",
       "titleOriginal": "智能体 AI 架构：当前挑战与未来机遇",
@@ -18,6 +137,56 @@
       "author": "作者：Rafał Gancarz",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0ece8dea7c19c4a20e",
+      "titleOriginal": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "summaryOriginal": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost. The article New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop appeared first on The Decoder .",
+      "titleZh": "新型开放模型 Inkling 2 Mini 以循环方式思考，用更少的词语解决问题，并且仍然可以在笔记本电脑上运行",
+      "summaryZh": "Thinking Machines 推出了 Inkling 2 Mini，这是一款开环式Transformer，其 24 个层中有 12 个每个token运行三次。这使模型能够在内部进行更长时间的推理，而不会生成额外的文本。在Artificial Analysis的智能指数中，它与Qwen3.8 27B持平，但成本大约低了六倍。文章《新型开源模型Inkling 2 Mini通过循环思考来用更少的词语解决问题，并且仍然可以在笔记本电脑上运行》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T10:33:02.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Inkling"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "88798943b114e6b6f1",
+      "titleOriginal": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+      "summaryOriginal": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once. The article US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up appeared first on The Decoder .",
+      "titleZh": "随着对人工智能的疑虑日益加剧，美国科技股遭遇自疫情以来的最大单周跌幅",
+      "summaryZh": "纳斯达克100指数经历了自新冠疫情危机以来的最大单周跌幅，已陷入熊市。由于美国证券交易委员会正在审查其会计账目，英伟达股价暴跌14%，而Anthropic在创纪录的IPO上市一天后几乎失去了所有涨幅。对人工智能的疑虑、丑闻、利率上升和政治逆风正同时冲击着过热的估值。文章《随着对人工智能的疑虑日益加剧，美国科技股遭遇自新冠疫情以来的最大单周跌幅》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T10:27:44.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Big Tech"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -61,6 +230,339 @@
       "author": "Sergio De Simone",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e8d8b83c69d5f63564",
+      "titleOriginal": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "summaryOriginal": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available. The article Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model appeared first on The Decoder .",
+      "titleZh": "字节跳动认为大多数人工智能训练阶段都是不必要的，并以一款有竞争力的开源模型来佐证这一观点",
+      "summaryZh": "字节跳动和多家美国大学推出了Axion 1.0，这是一款人工智能代理，仅经过三个训练阶段，在基准测试中就能与OpenAI和Anthropic的顶级商业模型相媲美。研究人员将这一成果归功于精心挑选的训练数据，而不是更多的训练步骤。该模型、数据和代码均可免费使用。文章《字节跳动认为大多数人工智能训练阶段都是不必要的，并以一款有竞争力的开源模型为佐证》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T09:17:24.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "ByteDance",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "43d2a036c0cb5c96ba",
+      "titleOriginal": "马化腾第四次改腾讯AI航道",
+      "summaryOriginal": "（本文作者为 木禾商业财经，钛媒体经授权发布） 文 | 木禾商业财经，作者 I 龚正，编辑 I 杨晶 11月11日，深圳企鹅岛，腾讯28 周年 LinkTime 的内部会场，白天还在派发周年蛋糕的马化腾，当晚露出另一面：“浪已经杀过来了。远处的浪潮已经吞没一个个山丘，不能坐着欣赏。陆战变海战，陆军变海军。” 老板擅长制造危机感，不知道这种激将法，对腾讯这种被称为“适合养老”的大厂，是否还受用。但这次，市场姑且愿意相信，腾讯是真急了。 这不是马化腾一次心血来潮的喊话。 看看这一轮AI潮以来，他的过往表态就知道，这是他在推翻自己过去三年三次对 AI 的判断之后，不得不做出的第四次转向。腾讯今天的急切和焦虑，某种程度上，来自大老板当年做下的一轮又一轮决策。 来自竞争对手的突飞猛进，只是外部变量，关键在于自己，在怎么想，然后决定怎么做。 大家都说，AI才刚开始，腾讯还有机会，至少现在还有一个WorkBuddy，支棱了起来，还有火种可以点燃。 焦虑之前，马化腾已经改了三次航道 “AI 不是独立赛道，是服务游戏、广告、推荐、医疗影像的底层插件，用来优化已有业务效率，不单独做面向 C 端的 AI 入",
+      "titleZh": "马化腾第四次改腾讯AI航道",
+      "summaryZh": "（本文作者为 木禾商业财经，钛媒体经授权发布） 文 | 木禾商业财经，作者 I 龚正，编辑 I 杨晶 11月11日，深圳企鹅岛，腾讯28 周年 LinkTime 的内部会场，白天还在派发周年蛋糕的马化腾，当晚露出另一面：“浪已经杀过来了。远处的浪潮已经吞没一个个山丘，不能坐着欣赏。陆战变海战，陆军变海军。” 老板擅长制造危机感，不知道这种激将法，对腾讯这种被称为“适合养老”的大厂，是否还受用。但这次，市场姑且愿意相信，腾讯是真急了。 这不是马化腾一次心血来潮的喊话。 看看这一轮AI潮以来，他的过往表态就知道，这是他在推翻自己过去三年三次对 AI 的判断之后，不得不做出的第四次转向。腾讯今天的急切和焦虑，某种程度上，来自大老板当年做下的一轮又一轮决策。 来自竞争对手的突飞猛进，只是外部变量，关键在于自己，在怎么想，然后决定怎么做。 大家都说，AI才刚开始，腾讯还有机会，至少现在还有一个WorkBuddy，支棱了起来，还有火种可以点燃。 焦虑之前，马化腾已经改了三次航道 “AI 不是独立赛道，是服务游戏、广告、推荐、医疗影像的底层插件，用来优化已有业务效率，不单独做面向 C 端的 AI 入",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213477.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T07:55:05.000Z",
+      "author": "木禾商业财经",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ca615ba67bb0b9bb36",
+      "titleOriginal": "生死存亡时刻，老钱腾讯也“慌”了",
+      "summaryOriginal": "（本文作者为 高恒说，钛媒体经授权发布） 文 | 高恒说 一向不喜欢着急的马化腾，这一次开始催腾讯跑起来了。 近日，腾讯控股有限公司（以下简称“腾讯”）旗下微信公众号“腾讯文化”公布了公司28周年总办LinkTime的现场内容。面对AI，腾讯管理层用上了一组过去很少出现的词： “生死存亡”“重新创业”，以及“浪已经杀过来了”。 这与三年前那个不急着拿出AI产品的腾讯，已经判若两人。 这种紧迫感并非毫无来由。 历史上，伊士曼柯达公司（以下简称“柯达”）曾长期称霸全球胶卷市场。1975年，它就研制出了第一台数码相机原型；2004年和2005年，柯达还连续占据美国数码相机市场份额第一。 但随着数码摄影逐渐取代胶卷，柯达始终没能摆脱对传统业务的依赖，也没能建立起足以支撑公司的新盈利模式，最终于2012年申请破产保护。 这家曾经击败无数竞争对手的巨头，最后没能守住自己在新时代的位置。 商业竞争的残酷之处正在于此：一家企业可以赢下旧时代的所有对手，却仍然可能被下一个时代抛下。 如今，类似的考验开始摆在腾讯面前。 三年前，腾讯还认为AI没有必要抢跑。如今，它不仅要追赶新的AI市场，还要防止AI改变微",
+      "titleZh": "生死存亡时刻，老钱腾讯也“慌”了",
+      "summaryZh": "（本文作者为 高恒说，钛媒体经授权发布） 文 | 高恒说 一向不喜欢着急的马化腾，这一次开始催腾讯跑起来了。 近日，腾讯控股有限公司（以下简称“腾讯”）旗下微信公众号“腾讯文化”公布了公司28周年总办LinkTime的现场内容。面对AI，腾讯管理层用上了一组过去很少出现的词： “生死存亡”“重新创业”，以及“浪已经杀过来了”。 这与三年前那个不急着拿出AI产品的腾讯，已经判若两人。 这种紧迫感并非毫无来由。 历史上，伊士曼柯达公司（以下简称“柯达”）曾长期称霸全球胶卷市场。1975年，它就研制出了第一台数码相机原型；2004年和2005年，柯达还连续占据美国数码相机市场份额第一。 但随着数码摄影逐渐取代胶卷，柯达始终没能摆脱对传统业务的依赖，也没能建立起足以支撑公司的新盈利模式，最终于2012年申请破产保护。 这家曾经击败无数竞争对手的巨头，最后没能守住自己在新时代的位置。 商业竞争的残酷之处正在于此：一家企业可以赢下旧时代的所有对手，却仍然可能被下一个时代抛下。 如今，类似的考验开始摆在腾讯面前。 三年前，腾讯还认为AI没有必要抢跑。如今，它不仅要追赶新的AI市场，还要防止AI改变微",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213296.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T05:05:32.000Z",
+      "author": "高恒说",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e8f96bbdf96b59778a",
+      "titleOriginal": "锡价一周跌超10%，全球突然不缺锡了？",
+      "summaryOriginal": "（本文作者为 万联万象，钛媒体经授权发布） 文 | 万联万象 AI数据中心仍在扩张，半导体产业持续发展，锡价却在近一周下跌逾一成。 11月13日至20日，上海有色网（SMM）1号锡现货均价从359300元/吨跌至321500元/吨，累计下跌10.5%。11月20日，沪锡SN2612合约收于319000元/吨，下跌3.61%。此前，伦敦金属交易所（LME）三个月期锡已跌破42000美元/吨。 这轮下跌发生在全球锡库存仍然偏低的背景下。 过去几个月，缅甸矿山复产缓慢、印尼出口受限，以及AI产业带来的需求增长预期，一直是支撑锡价的重要因素。 就在市场重新评估全球锡供需前景之际，重要锡生产国印尼又传出新的矿业政策消息，为未来供应增添了不确定性。 锡价持续下跌，究竟意味着全球锡供应正在转向宽松，还是此前市场对未来短缺的担忧被定价得太高？ 印尼新政增加矿业投资变数 锡价走低之际，印尼矿业企业正在等待政府明确一项新的收益分配要求。 11月20日，路透社援引研究机构CreditSights的报告指出，印尼提高国家矿业收益份额的要求，以及部分大宗商品出口新增核验收费的安排，可能增加当地矿企的成本压力。",
+      "titleZh": "锡价一周跌超10%，全球突然不缺锡了？",
+      "summaryZh": "（本文作者为 万联万象，钛媒体经授权发布） 文 | 万联万象 AI数据中心仍在扩张，半导体产业持续发展，锡价却在近一周下跌逾一成。 11月13日至20日，上海有色网（SMM）1号锡现货均价从359300元/吨跌至321500元/吨，累计下跌10.5%。11月20日，沪锡SN2612合约收于319000元/吨，下跌3.61%。此前，伦敦金属交易所（LME）三个月期锡已跌破42000美元/吨。 这轮下跌发生在全球锡库存仍然偏低的背景下。 过去几个月，缅甸矿山复产缓慢、印尼出口受限，以及AI产业带来的需求增长预期，一直是支撑锡价的重要因素。 就在市场重新评估全球锡供需前景之际，重要锡生产国印尼又传出新的矿业政策消息，为未来供应增添了不确定性。 锡价持续下跌，究竟意味着全球锡供应正在转向宽松，还是此前市场对未来短缺的担忧被定价得太高？ 印尼新政增加矿业投资变数 锡价走低之际，印尼矿业企业正在等待政府明确一项新的收益分配要求。 11月20日，路透社援引研究机构CreditSights的报告指出，印尼提高国家矿业收益份额的要求，以及部分大宗商品出口新增核验收费的安排，可能增加当地矿企的成本压力。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213240.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T05:05:30.000Z",
+      "author": "万联万象",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8e53d8a1bab7bd608d",
+      "titleOriginal": "东南亚AI中间商之死",
+      "summaryOriginal": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画 2015年，一家名叫7 Road International的公司在新加坡注册。 最初几年，它并不起眼。谁也不会想到，十年后，这家公司会成为英伟达先进AI芯片供应链上一个引人注目的名字。 2023年，公司更名为Megaspeed International，业务重心也开始转向云计算和AI基础设施。 随后，它的生意急速膨胀。 根据披露的贸易记录，2024年5月至2026年2月，Megaspeed相关业务进口英伟达产品的金额达到41.3亿美元。仅2025年11月，公司就进口了17454颗GB300，价值约7.87亿美元。 一家有游戏业务背景的公司，突然成为AI芯片贸易的重要玩家。 但这门生意很快引来了调查。 2025年6月，美国商务部调查人员进入Megaspeed在新加坡的业务现场。新加坡警方也介入调查，时任CEO黄乐被扣留护照，后来被禁止重新入境新加坡。 更引人注意的是，英伟达向美国政府提供的芯片库存数据，与外部贸易记录之间出现了约5万颗芯片的差额。 一家原本并不起眼的公司，为什么能在短时间内成为数十亿美元的AI基",
+      "titleZh": "东南亚AI中间商之死",
+      "summaryZh": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画 2015年，一家名叫7 Road International的公司在新加坡注册。 最初几年，它并不起眼。谁也不会想到，十年后，这家公司会成为英伟达先进AI芯片供应链上一个引人注目的名字。 2023年，公司更名为Megaspeed International，业务重心也开始转向云计算和AI基础设施。 随后，它的生意急速膨胀。 根据披露的贸易记录，2024年5月至2026年2月，Megaspeed相关业务进口英伟达产品的金额达到41.3亿美元。仅2025年11月，公司就进口了17454颗GB300，价值约7.87亿美元。 一家有游戏业务背景的公司，突然成为AI芯片贸易的重要玩家。 但这门生意很快引来了调查。 2025年6月，美国商务部调查人员进入Megaspeed在新加坡的业务现场。新加坡警方也介入调查，时任CEO黄乐被扣留护照，后来被禁止重新入境新加坡。 更引人注意的是，英伟达向美国政府提供的芯片库存数据，与外部贸易记录之间出现了约5万颗芯片的差额。 一家原本并不起眼的公司，为什么能在短时间内成为数十亿美元的AI基",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213274.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T05:05:28.000Z",
+      "author": "版面之外",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7406810d7b2de4a6eb",
+      "titleOriginal": "在泡泡玛特拆盒的人，不为谁拆",
+      "summaryOriginal": "（本文作者为 来咖智库，钛媒体经授权发布） 文 | 来咖智库 在巨大的时代浪潮之下，泡泡玛特这家公司是一个很好的观察样本。 各地经济发展不平衡、社交媒体对不同族群的割裂、AI技术的快速变化……都是时代底色。 人们消费方式也变了。 关于泡泡玛特最新的近况，上一季度的业绩发布，大幅下降是关键词。然后这周公司又发布了16周年的推文，说今年是“修车”之年。 经营的大起大落，伴随着股价从去年到今年的近乎腰斩，泡泡玛特慢了下来。第三季度整体收益（未经审核）同比下降45%至50%，中国下降25%至30%，亚太下降65%至70%，美洲下降70%至75%，欧洲及其他下降50%至55%。 去年LABUBU的爆火带来了泼天的富贵，2025年三季度是它历史上卖得最好的一个季度，整体收益同比增245%至250%，美洲一度增1265%至1270%。 跌幅这么深，很大程度是去年同期的基数太高了。 这不是公司第一次在股市里的大起大落了。只是此前失速的泡泡玛特，正在找回自己本来的节奏。 01 笔者最近越来越强烈的一种感受是，泡泡玛特是现代人们消费原子化的显化。 什么是消费原子化？这并不是一个严谨的学术概念，而是与“社会",
+      "titleZh": "在泡泡玛特拆盒的人，不为谁拆",
+      "summaryZh": "（本文作者为 来咖智库，钛媒体经授权发布） 文 | 来咖智库 在巨大的时代浪潮之下，泡泡玛特这家公司是一个很好的观察样本。 各地经济发展不平衡、社交媒体对不同族群的割裂、AI技术的快速变化……都是时代底色。 人们消费方式也变了。 关于泡泡玛特最新的近况，上一季度的业绩发布，大幅下降是关键词。然后这周公司又发布了16周年的推文，说今年是“修车”之年。 经营的大起大落，伴随着股价从去年到今年的近乎腰斩，泡泡玛特慢了下来。第三季度整体收益（未经审核）同比下降45%至50%，中国下降25%至30%，亚太下降65%至70%，美洲下降70%至75%，欧洲及其他下降50%至55%。 去年LABUBU的爆火带来了泼天的富贵，2025年三季度是它历史上卖得最好的一个季度，整体收益同比增245%至250%，美洲一度增1265%至1270%。 跌幅这么深，很大程度是去年同期的基数太高了。 这不是公司第一次在股市里的大起大落了。只是此前失速的泡泡玛特，正在找回自己本来的节奏。 01 笔者最近越来越强烈的一种感受是，泡泡玛特是现代人们消费原子化的显化。 什么是消费原子化？这并不是一个严谨的学术概念，而是与“社会",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213227.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T05:05:24.000Z",
+      "author": "来咖智库",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "702392f88d36522300",
+      "titleOriginal": "腾讯，终于有了“赌性”",
+      "summaryOriginal": "（本文作者为 互联网江湖，钛媒体经授权发布） 文 | 互联网江湖，作者 | Evin，编辑 | 刘致呈 在喊出“生死存亡”时刻后，近日，腾讯又发布了2026年第三季度财报。 结果给了市场一激灵。 同期，营收2073.36亿元，同比增长8%；经营盈利591.47亿元，同比下滑7%；非国际财务报告准则经营盈利681亿元，同比下滑6%；录得负自由现金流691亿元…… 这个表现几乎都没有达到市场的预期。 而 “罪魁祸首”还是AI——比如在剔除掉新AI产品（以Hy、元宝、CodeBuddy、WorkBuddy及小微为主）贡献后，腾讯非国际财务报告准则经营利润就可以达到833亿元，同比增长8%； 比如在剔除掉算力采购的预付款后，腾讯的自由现金流将转正至169亿元…… 这样的情形在二季度已经上演过一回了，只是没想到此次投入的更大、下滑的更直接了。 不过就算如此，现在腾讯大力投入AI、押注未来的选择似乎也无可指责，那么市场究竟在争议什么呢？ 其实就一点：腾讯加码AI，到底是因为快到生死存亡时刻的“心里慌了”，还是在AI上“看到光了”？ 这背后，一个代表成本项，一个代表投资项，两者的估值逻辑天差地别……",
+      "titleZh": "腾讯，终于有了“赌性”",
+      "summaryZh": "（本文作者为 互联网江湖，钛媒体经授权发布） 文 | 互联网江湖，作者 | Evin，编辑 | 刘致呈 在喊出“生死存亡”时刻后，近日，腾讯又发布了2026年第三季度财报。 结果给了市场一激灵。 同期，营收2073.36亿元，同比增长8%；经营盈利591.47亿元，同比下滑7%；非国际财务报告准则经营盈利681亿元，同比下滑6%；录得负自由现金流691亿元…… 这个表现几乎都没有达到市场的预期。 而 “罪魁祸首”还是AI——比如在剔除掉新AI产品（以Hy、元宝、CodeBuddy、WorkBuddy及小微为主）贡献后，腾讯非国际财务报告准则经营利润就可以达到833亿元，同比增长8%； 比如在剔除掉算力采购的预付款后，腾讯的自由现金流将转正至169亿元…… 这样的情形在二季度已经上演过一回了，只是没想到此次投入的更大、下滑的更直接了。 不过就算如此，现在腾讯大力投入AI、押注未来的选择似乎也无可指责，那么市场究竟在争议什么呢？ 其实就一点：腾讯加码AI，到底是因为快到生死存亡时刻的“心里慌了”，还是在AI上“看到光了”？ 这背后，一个代表成本项，一个代表投资项，两者的估值逻辑天差地别……",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213199.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T05:05:22.000Z",
+      "author": "互联网江湖",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a8aa16f79eaa977dd5",
+      "titleOriginal": "Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？",
+      "summaryOriginal": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 最近，AI 画图模型又热闹起来了。 11 月 9 日，字节发布 Seedream 5.5；11 月 10 日，MiniMax 发布 H3-Image，还同步开源了模型权重。再加上阿里此前推出的 Qwen-Image-3.0-Pro，几家热门模型刚好凑到了一起。 AI 画图有个比较现实的问题：图生成得好不好，指定的文字有没有错误、风格对不对；为了局部修改和抽卡，结果模型却把整张图重画了，那其实也挺让人头疼的。 所以这次的测试，我们把三家放在一起，分别测试五种绘画风格，然后再拿生成的图片做三轮连续修改，重点观察几家的局部调整能力。 五轮生图，三家各有风格 参与测试的三家分别是：MiniMax 的 H3-Image，使用 MiniMax Code 客户端；字节的 Seedream 5.5，使用豆包的 AI 创作入口；阿里的 Qwen-Image-3.0-Pro，使用千问 AI 平台。 三家都使用同一套基础场景要求：一个穿红色雨衣的女孩站在雨夜便利店门口，手里拎着一袋牛奶。之后分别要求它们生成写实摄影、儿童插画、盲盒手办、赛博朋克和扁平",
+      "titleZh": "Seedance、MiniMax和Qwen image修改能力测试：3轮连改，谁更好用？",
+      "summaryZh": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 最近，AI 画图模型又热闹起来了。 11 月 9 日，字节发布 Seedream 5.5；11 月 10 日，MiniMax 发布 H3-Image，还同步开源了模型权重。再加上阿里此前推出的 Qwen-Image-3.0-Pro，几家热门模型刚好凑到了一起。 AI 画图有个比较现实的问题：图生成得好不好，指定的文字有没有错误、风格对不对；为了局部修改和抽卡，结果模型却把整张图重画了，那其实也挺让人头疼的。 所以这次的测试，我们把三家放在一起，分别测试五种绘画风格，然后再拿生成的图片做三轮连续修改，重点观察几家的局部调整能力。 五轮生图，三家各有风格 参与测试的三家分别是：MiniMax 的 H3-Image，使用 MiniMax Code 客户端；字节的 Seedream 5.5，使用豆包的 AI 创作入口；阿里的 Qwen-Image-3.0-Pro，使用千问 AI 平台。 三家都使用同一套基础场景要求：一个穿红色雨衣的女孩站在雨夜便利店门口，手里拎着一袋牛奶。之后分别要求它们生成写实摄影、儿童插画、盲盒手办、赛博朋克和扁平",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213159.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T05:05:03.000Z",
+      "author": "象先志",
+      "tags": [
+        "launch",
+        "投稿",
+        "Image",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "45149ab56aed8c28c7",
+      "titleOriginal": "[AINews] Riemann Hypothesis proved...twice independently",
+      "summaryOriginal": "Within a few hours of each other ( timeline ), two mathematicians claimed independent proofs of the Riemann Hypothesis, the most famous open problem in mathematics ( Scientific American ). Levent Alpöge of Anthropic first made his Claude-driven proof in a note released with Lean code (1.3GB worth, ~250,000 page equivalent) rather than a full paper. Elliot Glazer confirms that the formalized statement is GRH and puts the chance of a Lean bug well under 1%. So if it finishes compiling with no extr",
+      "titleZh": "[AINews]黎曼猜想被证明……且是两次独立证明",
+      "summaryZh": "在短短几个小时内（ 时间线 ），两位数学家分别声称独立证明了黎曼猜想，这是数学界最著名的未解难题（ 《科学美国人》 ）。Anthropic 的 Levent Alpöge 首先在一份附有 Lean 代码（1.3GB，约合 25 万页）的说明中给出了由 Claude 驱动的证明，而不是一篇完整的论文。Elliot Glazer确认该形式化陈述是GRH，并将Lean存在漏洞的可能性定在远低于1%的水平。因此，如果它在没有额外……的情况下完成编译",
+      "translated": true,
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-21T05:02:13.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "research",
+        "Coding"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d28862f52e1496b022",
+      "titleOriginal": "阿里云，开始赚AI的钱了",
+      "summaryOriginal": "（本文作者为 节点AI，钛媒体经授权发布） 文 / 节点AI 过去两年，科技行业有一个挺有意思的现象。 几乎所有大公司都在谈AI，几乎所有科技巨头都在增加算力投入，但如果追问一句：AI到底给你赚了多少钱？很多企业还真不好回答。 有人靠模型融资，有人靠应用吸引用户，有人忙着买GPU、建数据中心。AI产业看起来热火朝天，但真正能把技术热度变成收入，再把收入变成利润的公司，依然没有想象中那么多。 11月19日，阿里巴巴交出了一份值得琢磨的财报。 集团季度收入2715.19亿元，同比增长10%。相比集团整体表现，阿里云的数据更值得关注。 本季度，阿里云AI云与算力服务收入达到609.73亿元，同比增长53%；外部客户收入同比增长64%；经调整EBITA达到88.38亿元，同比增长121%，利润率提升至14.5%。 还有一个数据：AI相关产品收入已经连续13个季度实现三位数同比增长。这几组数字放在一起，释放了一个值得重视的信号：阿里云不仅在增长，而且增长正在改善它的盈利能力。 节点AI认为，这份财报最值得讨论的，不是阿里云又增长了多少，而是中国AI产业正在出现一个变化：AI的商业竞争，开始从谁的",
+      "titleZh": "阿里云，开始赚AI的钱了",
+      "summaryZh": "（本文作者为 节点AI，钛媒体经授权发布） 文 / 节点AI 过去两年，科技行业有一个挺有意思的现象。 几乎所有大公司都在谈AI，几乎所有科技巨头都在增加算力投入，但如果追问一句：AI到底给你赚了多少钱？很多企业还真不好回答。 有人靠模型融资，有人靠应用吸引用户，有人忙着买GPU、建数据中心。AI产业看起来热火朝天，但真正能把技术热度变成收入，再把收入变成利润的公司，依然没有想象中那么多。 11月19日，阿里巴巴交出了一份值得琢磨的财报。 集团季度收入2715.19亿元，同比增长10%。相比集团整体表现，阿里云的数据更值得关注。 本季度，阿里云AI云与算力服务收入达到609.73亿元，同比增长53%；外部客户收入同比增长64%；经调整EBITA达到88.38亿元，同比增长121%，利润率提升至14.5%。 还有一个数据：AI相关产品收入已经连续13个季度实现三位数同比增长。这几组数字放在一起，释放了一个值得重视的信号：阿里云不仅在增长，而且增长正在改善它的盈利能力。 节点AI认为，这份财报最值得讨论的，不是阿里云又增长了多少，而是中国AI产业正在出现一个变化：AI的商业竞争，开始从谁的",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213152.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T04:44:45.000Z",
+      "author": "节点AI",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9c6abb0833bbfd12c4",
+      "titleOriginal": "从《权游》到《三体》，从实体模型到AI，这位参与20000个视效镜头的大师，道出特效的终极秘密",
+      "summaryOriginal": "（本文作者为 极客电影Geekmovie，钛媒体经授权发布） 文｜极客电影，作者 | 臧剑 在视觉特效行业一路狂奔进入人工智能与虚拟制片时代的今天，在银幕上制造奇观变得比以往任何时候都更容易。 然而，当代电影工业真正面临的挑战，已经不是如何做出更宏大的画面，而是如何让这些画面让人觉得“可信”。 乔&middot;鲍尔（Joe Bauer） 是为数不多完整经历并深度参与了这场技术变革的好莱坞视效大师。 乔&middot;鲍尔 从早期的模型摄影、实体特效，到数字特效的黄金时代，再到流媒体剧集的工业化革命，以及当下的人工智能浪潮—— 他的职业生涯，几乎就是一部现代视觉特效史的缩影。 乔&middot;鲍尔（左）和乔治&middot;卢卡斯（右） 他曾八次获得黄金时段艾美奖最佳视觉特效奖。 他从 《权力的游戏》 第三季开始负责该剧的全部视效工作，参与过的作品还包括《星际迷航：下一代》《圣诞精灵》《死神来了2》《曼达洛人》，以及即将上线的Netflix版《三体》第二季。 最近，笔者有幸在洛杉矶见到了这位行业大佬。在交谈过程中，鲍尔并没有滔滔不绝地讲那些晦涩的技术名词，反而一直强调一个词： 可信性",
+      "titleZh": "从《权游》到《三体》，从实体模型到AI，这位参与20000个视效镜头的大师，道出特效的终极秘密",
+      "summaryZh": "（本文作者为 极客电影Geekmovie，钛媒体经授权发布） 文｜极客电影，作者 | 臧剑 在视觉特效行业一路狂奔进入人工智能与虚拟制片时代的今天，在银幕上制造奇观变得比以往任何时候都更容易。 然而，当代电影工业真正面临的挑战，已经不是如何做出更宏大的画面，而是如何让这些画面让人觉得“可信”。 乔&middot;鲍尔（Joe Bauer） 是为数不多完整经历并深度参与了这场技术变革的好莱坞视效大师。 乔&middot;鲍尔 从早期的模型摄影、实体特效，到数字特效的黄金时代，再到流媒体剧集的工业化革命，以及当下的人工智能浪潮—— 他的职业生涯，几乎就是一部现代视觉特效史的缩影。 乔&middot;鲍尔（左）和乔治&middot;卢卡斯（右） 他曾八次获得黄金时段艾美奖最佳视觉特效奖。 他从 《权力的游戏》 第三季开始负责该剧的全部视效工作，参与过的作品还包括《星际迷航：下一代》《圣诞精灵》《死神来了2》《曼达洛人》，以及即将上线的Netflix版《三体》第二季。 最近，笔者有幸在洛杉矶见到了这位行业大佬。在交谈过程中，鲍尔并没有滔滔不绝地讲那些晦涩的技术名词，反而一直强调一个词： 可信性",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213050.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T04:44:43.000Z",
+      "author": "极客电影Geekmovie",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f5ea7ad6bc641fd880",
+      "titleOriginal": "清析智研王欢：大模型学完了人类知识，下一步去哪儿？",
+      "summaryOriginal": "（本文作者为 霞光AI实验室，钛媒体经授权发布） 文 | 霞光AI实验室，作者｜Vinco，编辑｜李小天 当大模型把人类已经生产出来的论文、书籍和互联网信息学得越来越多，一个更尖锐的问题随之出现： AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？ 这正是 霞光社 X-Hub 旗下Y-Talk （一档面向新一代行业决策者的直播栏目）近期对话 清析智研联合创始人、首席科学家王欢 时，讨论的核心。王欢是清华大学工学博士、全球前2%科学家，长期关注多模态大模型、复杂科学系统智能化与AI赋能材料研发。 我们认为，AI for Science（以下简称AI4S）的下一次突破将发生在物理世界。以 AI 原生科学设备为入口，从真实物理实验结果中持续学习，进而创造新材料、新物质，是 AI4S 最核心的突破方向。 ——王欢，清析智研联合创始人、首席科学家 “现在大模型的能力，都是在数字空间或者说虚拟空间所获得的。它主要的能力，就是AI已经充分地掌握了人类已有的知识。”王欢说。但“已有”恰恰也是边界：\"对于人类还没有总结、还没有发现的领域，大模型还有很长的路要走。而AI4S恰恰是一个需要创造新",
+      "titleZh": "清析智研王欢：大模型学完了人类知识，下一步去哪儿？",
+      "summaryZh": "（本文作者为 霞光AI实验室，钛媒体经授权发布） 文 | 霞光AI实验室，作者｜Vinco，编辑｜李小天 当大模型把人类已经生产出来的论文、书籍和互联网信息学得越来越多，一个更尖锐的问题随之出现： AI能不能不只“掌握已有知识”，而是进入真实世界，创造新知识？ 这正是 霞光社 X-Hub 旗下Y-Talk （一档面向新一代行业决策者的直播栏目）近期对话 清析智研联合创始人、首席科学家王欢 时，讨论的核心。王欢是清华大学工学博士、全球前2%科学家，长期关注多模态大模型、复杂科学系统智能化与AI赋能材料研发。 我们认为，AI for Science（以下简称AI4S）的下一次突破将发生在物理世界。以 AI 原生科学设备为入口，从真实物理实验结果中持续学习，进而创造新材料、新物质，是 AI4S 最核心的突破方向。 ——王欢，清析智研联合创始人、首席科学家 “现在大模型的能力，都是在数字空间或者说虚拟空间所获得的。它主要的能力，就是AI已经充分地掌握了人类已有的知识。”王欢说。但“已有”恰恰也是边界：\"对于人类还没有总结、还没有发现的领域，大模型还有很长的路要走。而AI4S恰恰是一个需要创造新",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213250.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T04:44:41.000Z",
+      "author": "霞光AI实验室",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "495ad20da43d130aa8",
+      "titleOriginal": "AI硬件离开手机以后，先遇到了人的限制",
+      "summaryOriginal": "2026年，AI硬件行业出现了一个明显的反差。模型能力快速普及，新品密集上市，手机作为个人计算中心的位置却没有被明显动摇。 厂商仍在寻找手机之外的机会。戒指首先进入身体数据，耳机和录音卡片保存语音内容。眼镜厂商尝试获取视觉信息，脑机设备仍在验证动作意图识别。这些探索共同指向一个判断，未来的交互入口会分散在人体周围。 这个判断有现实基础。手机要求用户主动打开屏幕，很多身体数据和环境信息却在持续产生。设备如果能够低打扰地采集这些信息，AI就有机会在用户发出明确指令之前给予帮助。 困难也从这里开始。交互入口一旦靠近身体，产品评价标准会立刻改变。佩戴舒适度、数据可信度、隐私边界和长期维护成本，都会比模型演示更早影响用户选择。 过去，消费者愿意为一块更大的屏幕、一颗更强的芯片或一个新奇功能付费。AI硬件进入市场以后，参数仍然重要，但单次演示已经难以说明产品价值。 一款设备进入日常生活以后，要持续面对充电、配对、授权、误报和维修。AI节省下来的操作，很可能被这些新增环节消耗掉。 因此，2026年的智能硬件盘点，不能只看新品数量和技术概念。更可靠的线索来自稳定使用、持续服务和多设备协同。 公开资料和",
+      "titleZh": "AI硬件离开手机以后，先遇到了人的限制",
+      "summaryZh": "2026年，AI硬件行业出现了一个明显的反差。模型能力快速普及，新品密集上市，手机作为个人计算中心的位置却没有被明显动摇。 厂商仍在寻找手机之外的机会。戒指首先进入身体数据，耳机和录音卡片保存语音内容。眼镜厂商尝试获取视觉信息，脑机设备仍在验证动作意图识别。这些探索共同指向一个判断，未来的交互入口会分散在人体周围。 这个判断有现实基础。手机要求用户主动打开屏幕，很多身体数据和环境信息却在持续产生。设备如果能够低打扰地采集这些信息，AI就有机会在用户发出明确指令之前给予帮助。 困难也从这里开始。交互入口一旦靠近身体，产品评价标准会立刻改变。佩戴舒适度、数据可信度、隐私边界和长期维护成本，都会比模型演示更早影响用户选择。 过去，消费者愿意为一块更大的屏幕、一颗更强的芯片或一个新奇功能付费。AI硬件进入市场以后，参数仍然重要，但单次演示已经难以说明产品价值。 一款设备进入日常生活以后，要持续面对充电、配对、授权、误报和维修。AI节省下来的操作，很可能被这些新增环节消耗掉。 因此，2026年的智能硬件盘点，不能只看新品数量和技术概念。更可靠的线索来自稳定使用、持续服务和多设备协同。 公开资料和",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213070.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T04:14:36.000Z",
+      "author": "钱微镜",
+      "tags": [
+        "news",
+        "主编精选文章"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cdc6e41e55534ec841",
+      "titleOriginal": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
+      "summaryOriginal": "Baseten has released bison-1 and groundhog-1, 2 open-weight decision models built on Google’s Gemma 4 . Decision models do not write text. They return calibrated probabilities for yes/no, choice and score questions. The Baseten bison-1 decision model scores 76 on the Artificial Analysis Decision Index v2.1 . That ranks #1 of 19. Both models raise context from 16k to 128k tokens and accept images. For routing, triage and guardrail pipelines, that means full policies and histories in one call. TL;",
+      "titleZh": "Baseten发布Bison-1和Groundhog-1，荣登决策模型指数榜首",
+      "summaryZh": "Baseten发布了bison-1和groundhog-1，这是基于Google Gemma 4构建的2个开放权重决策模型。决策模型不会撰写文本。它们针对是/否、选择和评分问题返回经过校准的概率。Baseten bison-1决策模型在人工智能分析决策指数v2.1中的得分为76分。在19个模型中排名第1。两种模型都将上下文从1.6万个token提升至12.8万个token，并可接受图像。对于路由、分流和防护管道，这意味着一次调用即可获得完整的策略和历史记录。TL;",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-21T04:01:04.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2a5ffc9af0187b7d9e",
+      "titleOriginal": "美股一夜崩盘，AI 泡沫真要破了？",
+      "summaryOriginal": "持续多年的 AI 狂欢，正在遭遇一场前所未有的信任危机。 图｜盘中截图 今天凌晨，美股遭遇猛烈抛售，科技股集体重挫， 曾经支撑美股牛市的 AI 概念股，如今成了拖累整个市场的主要力量。 更加耐人寻味的是，美股暴跌恰好发生在 AI 行业迎来两大重要利好之后。 一家是全球最受关注的 AI 初创公司成功上市，另一家是全球 AI 算力龙头交出强劲财报，但市场似乎已经不愿意继续为 AI 的增长故事买单。 图｜盘后截图 先看看今天凌晨经历了怎样一个疯狂的交易日。 根据路透社公布的最终收盘数据，道琼斯工业平均指数下跌 949.73 点，跌幅 1.93%，收于 48147.33 点；标普 500 指数下跌 3.70%，收于 6910.39 点；纳斯达克综合指数则暴跌 5.28%，收于 22617.73 点。 其中，标普 500 指数连续第七个交易日下跌，创下 2020 年 2 月以来最长的连跌纪录。 道指和标普 500 指数均从此前的历史高点回撤超过 10%，正式进入技术性调整区间。 图｜ https://www.reuters.com/legal/transactional/wall-st-futu",
+      "titleZh": "美股一夜崩盘，AI 泡沫真要破了？",
+      "summaryZh": "持续多年的 AI 狂欢，正在遭遇一场前所未有的信任危机。 图｜盘中截图 今天凌晨，美股遭遇猛烈抛售，科技股集体重挫， 曾经支撑美股牛市的 AI 概念股，如今成了拖累整个市场的主要力量。 更加耐人寻味的是，美股暴跌恰好发生在 AI 行业迎来两大重要利好之后。 一家是全球最受关注的 AI 初创公司成功上市，另一家是全球 AI 算力龙头交出强劲财报，但市场似乎已经不愿意继续为 AI 的增长故事买单。 图｜盘后截图 先看看今天凌晨经历了怎样一个疯狂的交易日。 根据路透社公布的最终收盘数据，道琼斯工业平均指数下跌 949.73 点，跌幅 1.93%，收于 48147.33 点；标普 500 指数下跌 3.70%，收于 6910.39 点；纳斯达克综合指数则暴跌 5.28%，收于 22617.73 点。 其中，标普 500 指数连续第七个交易日下跌，创下 2020 年 2 月以来最长的连跌纪录。 道指和标普 500 指数均从此前的历史高点回撤超过 10%，正式进入技术性调整区间。 图｜ https://www.reuters.com/legal/transactional/wall-st-futu",
+      "translated": true,
+      "url": "https://www.ifanr.com/1690789",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T03:30:42.000Z",
+      "author": "山宗",
+      "tags": [
+        "news",
+        "产品",
+        "AI"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -181,6 +683,30 @@
       "readingMinutes": 2
     },
     {
+      "id": "fe5659d731548dfe5d",
+      "titleOriginal": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+      "summaryOriginal": "困扰人类数学界 167 年的世界级难题，可能真的要被 AI 解决了。 就在刚刚，Anthropic 数学家 Levent Alpöge 在个人网站发布声明，宣布自己与 Claude 合作，找到了著名的黎曼猜想（Riemann Hypothesis）的证明。 更夸张的是，Alpöge 声称，他们甚至进一步证明了难度更高、适用范围更广的广义黎曼猜想（Generalized Riemann Hypothesis）。 图｜Levent Alpöge 有意思的是，Alpöge 此次没有发布传统意义上的完整数学论文，而是公开了一套使用 Lean 形式化证明语言编写的代码，试图让计算机验证整个数学推理过程。 而在回顾研究经历时，他还透露了一个相当魔幻的细节。 作为一名从学生时代就梦想解决黎曼猜想的数学家，他原本计划用几十年时间攻克这个问题。 结果临近终点，Claude 的推理速度已经快到让他难以跟上。他甚至用诗一般的语言感叹，Claude 在终点线附近飞翔、起舞、闪耀，而自己只能惊叹于眼前发生的一切。 对于一项让无数顶尖数学家苦思一个多世纪的难题而言，眼下发生的事情多少有些超现实。 人类研究了 16",
+      "titleZh": "刚刚，曝黎曼猜想被证明，Claude 立大功",
+      "summaryZh": "困扰人类数学界 167 年的世界级难题，可能真的要被 AI 解决了。 就在刚刚，Anthropic 数学家 Levent Alpöge 在个人网站发布声明，宣布自己与 Claude 合作，找到了著名的黎曼猜想（Riemann Hypothesis）的证明。 更夸张的是，Alpöge 声称，他们甚至进一步证明了难度更高、适用范围更广的广义黎曼猜想（Generalized Riemann Hypothesis）。 图｜Levent Alpöge 有意思的是，Alpöge 此次没有发布传统意义上的完整数学论文，而是公开了一套使用 Lean 形式化证明语言编写的代码，试图让计算机验证整个数学推理过程。 而在回顾研究经历时，他还透露了一个相当魔幻的细节。 作为一名从学生时代就梦想解决黎曼猜想的数学家，他原本计划用几十年时间攻克这个问题。 结果临近终点，Claude 的推理速度已经快到让他难以跟上。他甚至用诗一般的语言感叹，Claude 在终点线附近飞翔、起舞、闪耀，而自己只能惊叹于眼前发生的一切。 对于一项让无数顶尖数学家苦思一个多世纪的难题而言，眼下发生的事情多少有些超现实。 人类研究了 16",
+      "translated": true,
+      "url": "https://www.ifanr.com/1690750",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-21T01:29:09.000Z",
+      "author": "山宗",
+      "tags": [
+        "research",
+        "公司",
+        "AI",
+        "Claude"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "3eb4076fc2e736338e",
       "titleOriginal": "Edge AI Daily 早报（11月21日）",
       "summaryOriginal": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、Anthropic创纪录IPO考验AI商业化 1.Anthropic于11月19日登陆纳斯达克（代码“ANT”），以每股83美元发行约9.8亿股，募资813.4亿美元，超过SpaceX今年6月的750亿美元纪录，成为史上最大IPO；发行价高于70至78美元推介区间，显示机构需求强劲。 2.2026年前九个月收入332.4亿美元、同比增长约1200%，同期净亏损104亿美元（上年同期亏25.1亿美元），其中相当部分来自可转换票据与衍生负债公允价值变动，并非全部为经营现金消耗；收入高增与巨额亏损并存是核心矛盾。 3.此次上市有望短期提振AI板块（芯片、云计算、数据中心、电力、软件服务），并抬高行业估值标杆与证明责任；但成功难以复制，后续关键指标是单位算力收入、客户留存、企业合同质量与自由现金流，而非股价涨跌本身。 二、英伟达财报暴增，股价为何跌近40% 1.英伟达2027财年第三季度（截至2026年10月25日）营收1158亿美元、同比增长103%，数据中心营收1076亿美元、同比增长110%，GAAP毛利率74",
@@ -232,9 +758,9 @@
       "id": "a7d20c80270e4a7f9a",
       "titleOriginal": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
       "summaryOriginal": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
-      "titleZh": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "警察正在大力推广极其俗气的“侠盗猎车手6”垃圾游戏",
+      "summaryZh": "这款热门游戏毫不掩饰其对执法部门的蔑视。现实中的警察部门利用这款游戏来招募新成员并斥责公众，他们显然没有收到这份备忘录。",
+      "translated": true,
       "url": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
       "sourceId": "wired",
       "sourceName": "WIRED AI",
@@ -10971,528 +11497,6 @@
       ],
       "category": "guide",
       "readingMinutes": 2
-    },
-    {
-      "id": "1c4e572d1ed1dca705",
-      "titleOriginal": "Runway's open-source Praxis-1 turns video AI into a robot controller",
-      "summaryOriginal": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway's open-source Praxis-1 turns video AI into a robot controller appeared first on The Decoder .",
-      "titleZh": "Runway的开源Praxis-1将视频AI转变为机器人控制器",
-      "summaryZh": "Runway发布了其机器人模型Praxis-1，该模型采用Apache 2.0许可证，提供开放权重和源代码。该模型利用视频训练获得的知识来进行机器人控制，并在英伟达的RoboLab-120基准测试中领跑世界动作模型类别。不过，它还不能自行规划复杂的动作序列。文章《Runway 的开源 Praxis-1 将视频 AI 转化为机器人控制器》最初发表在 The Decoder 上。",
-      "translated": true,
-      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-14T09:45:45.000Z",
-      "author": "Tomislav Bezmalinović",
-      "tags": [
-        "research",
-        "AI research",
-        "Artificial Intelligence",
-        "Robotics",
-        "Robots"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0018788f33961e1a9f",
-      "titleOriginal": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
-      "summaryOriginal": "（本文作者为 游戏茶馆，钛媒体经授权发布） 文 | 游戏茶馆 最近，有批游戏内容型素材正在被观众追着更新，这些视频里没有明星代言，也没有实机演示，只有和游戏内容相关的角色在整活。 比如《疯狂水世界》，就塑造出名为“肥强”的秃头中年男人，在末日洪水里反复打捞一台海水过滤器，引发评论区观众们催更、玩梗。 同样在广州，另一支三十多人的小团队正在经历类似的事。他们发行的暗黑西游题材放置卡牌游戏《永夜起源》，把唐僧做成肌肉硬汉形象，让他在视频里开口唱歌。这条“唐僧唱歌”的素材在视频号获得700万次播放，用户在评论区点歌，还有人留言说，你们做短剧我肯定充钱。 “做买量这么多年，这是第一次遇到用户追着广告看。”《永夜起源》发行负责人刘毅有些感慨，“甚至有用户因为广告才来关注我们的账号。” 广告被设计出来的目的，历来是打断内容、催促消费。如今一部分游戏广告开始具备内容本身的属性，观众自愿停留，主动追更，随后被导入游戏完成消费。据DataEye研究院数据，《永夜起源》自2026年8月上旬启动效果广告投放，单日投放素材量一度突破一万条，素材以AI生成为主。游戏上线第八天进入微信小游戏畅销榜，此后排名持续攀",
-      "titleZh": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
-      "summaryZh": "（本文作者为 游戏茶馆，钛媒体经授权发布） 文 | 游戏茶馆 最近，有批游戏内容型素材正在被观众追着更新，这些视频里没有明星代言，也没有实机演示，只有和游戏内容相关的角色在整活。 比如《疯狂水世界》，就塑造出名为“肥强”的秃头中年男人，在末日洪水里反复打捞一台海水过滤器，引发评论区观众们催更、玩梗。 同样在广州，另一支三十多人的小团队正在经历类似的事。他们发行的暗黑西游题材放置卡牌游戏《永夜起源》，把唐僧做成肌肉硬汉形象，让他在视频里开口唱歌。这条“唐僧唱歌”的素材在视频号获得700万次播放，用户在评论区点歌，还有人留言说，你们做短剧我肯定充钱。 “做买量这么多年，这是第一次遇到用户追着广告看。”《永夜起源》发行负责人刘毅有些感慨，“甚至有用户因为广告才来关注我们的账号。” 广告被设计出来的目的，历来是打断内容、催促消费。如今一部分游戏广告开始具备内容本身的属性，观众自愿停留，主动追更，随后被导入游戏完成消费。据DataEye研究院数据，《永夜起源》自2026年8月上旬启动效果广告投放，单日投放素材量一度突破一万条，素材以AI生成为主。游戏上线第八天进入微信小游戏畅销榜，此后排名持续攀",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205248.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T08:54:00.000Z",
-      "author": "游戏茶馆",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "70371bc28443c2f75e",
-      "titleOriginal": "字节的2029与腾讯的“一半人”",
-      "summaryOriginal": "（本文作者为 AGI-Signal，钛媒体经授权发布） 衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最",
-      "titleZh": "字节的2029与腾讯的“一半人”",
-      "summaryZh": "（本文作者为 AGI-Signal，钛媒体经授权发布） 衡量一家互联网公司，过去主要看用户时长。围绕这个指标，行业里最近有过一轮持续十天的争论，焦点在数据口径和概念边界。 争论之外，字节和腾讯在同一时期各自给出了另一组数字，回答的是另一个问题： AI时代，互联网公司靠什么给自己争取时间 。 据第三方机构转引的QuestMobile月度追踪估算，7月移动端使用时长Top50的App中，字节系时长占比40.9%，腾讯系29.1%，这是外界评判两家公司的常规依据。这个口径只覆盖移动端头部应用，不包含长尾应用和PC端，这是此次争论的起点。 后不久，两家公司先后公开了各自在AI上的投入。据报道，张一鸣在字节AI团队的内部会议上给出了一个追赶前沿的期限：2029年或2030年。同一时期，腾讯“裁员50%”的传闻登上热搜，公关总监张军称其为误会和谣言，这一传闻来自腾讯28周年讲话中，马化腾提出，将一半人力用于核心业务提效，另一半投入AI Native探索。 字节：把与前沿的距离，换算成一个年份 据报道，张一鸣在字节AI团队内部会议上称，字节有能力与OpenAI和Anthropic竞争，真正追平前沿最",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8201267.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T08:39:41.000Z",
-      "author": "AGI-Signal",
-      "tags": [
-        "launch",
-        "主编精选文章",
-        "AGI",
-        "大模型",
-        "腾讯"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a480e3b592ffbe3074",
-      "titleOriginal": "[AINews] The No AI Slop Manifesto",
-      "summaryOriginal": "Congrats to both llama.ccp and ggml for reaching 1.0 (declaring stability and removing 35 deprecated functions from llama.cpp’s public header) and with SGLang also announcing 1.0 at the recent SGLang Summit . However, today’s title story goes to the No AI Slop manifesto , which arose out of the conference discussions at AIE CODE and which Dex introduced in the closing keynote after cosignatures by many of the speakers at the conference. It seems Hacker News also liked it , voting it up to the fr",
-      "titleZh": "[AINews]《反AI垃圾宣言》",
-      "summaryZh": "祝贺llama.ccp和ggml双双达到1.0版本（宣布稳定并从llama.cpp的公共头文件中删除了35个已弃用的函数），SGLang也在最近的SGLang峰会上宣布了1.0版本。然而，今天的头条新闻属于《No AI Slop》宣言，该宣言源于 AIE CODE 会议的讨论，在会议的许多发言者共同签署后，Dex 在闭幕主旨演讲中介绍了该宣言。Hacker News 似乎也很喜欢它，将其顶到了首页。",
-      "translated": true,
-      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-11-14T08:31:02.000Z",
-      "author": "swyx .ai",
-      "tags": [
-        "analysis",
-        "ainews: weekday roundups",
-        "Coding"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e8e02c3de35a9771d8",
-      "titleOriginal": "黄仁勋传",
-      "summaryOriginal": "（本文作者为 芯智能头条，钛媒体经授权发布） 文 | 芯智能头条，作者 | Time，编辑 | Mark 2024年3月，黄仁勋站在圣何塞SAP Center的舞台上，先提醒台下的人：“这不是一场演唱会。” 场馆里坐着超过1.2万名观众，背后的屏幕有网球场那么大。61岁的他穿着黑色皮衣，向企业家、程序员和创业者介绍新一代芯片。三十多年前，他还得向人解释，为什么电脑需要一块专门处理图形的芯片。如今，人们专程赶来，等着听英伟达接下来会做什么。 两年多后，英伟达宣布，黄仁勋已辞去总裁、CEO和董事职务。他在这家公司的33年CEO任期结束了。 董事会开始寻找接替他的人。 黄仁勋常对同事说，公司离倒闭只有30天。后来，这句话成了他的口头禅。创业最初的几年，公司有几次确实快撑不下去了。 成名以后，他仍然很少休息。从醒来到睡觉，一周七天，脑子里总有没解决的问题。有些研发项目，几年都没带来多少收入，他却能一直等，继续往里投钱。 黄仁勋出生于1963年，童年有几年在泰国度过。不到十岁，他和哥哥先于父母来到美国，后来进入肯塔基州的一所寄宿学校。校内的杂活由学生分担，哥哥去农场，他负责清理男生的卫生间。 上",
-      "titleZh": "黄仁勋传",
-      "summaryZh": "（本文作者为 芯智能头条，钛媒体经授权发布） 文 | 芯智能头条，作者 | Time，编辑 | Mark 2024年3月，黄仁勋站在圣何塞SAP Center的舞台上，先提醒台下的人：“这不是一场演唱会。” 场馆里坐着超过1.2万名观众，背后的屏幕有网球场那么大。61岁的他穿着黑色皮衣，向企业家、程序员和创业者介绍新一代芯片。三十多年前，他还得向人解释，为什么电脑需要一块专门处理图形的芯片。如今，人们专程赶来，等着听英伟达接下来会做什么。 两年多后，英伟达宣布，黄仁勋已辞去总裁、CEO和董事职务。他在这家公司的33年CEO任期结束了。 董事会开始寻找接替他的人。 黄仁勋常对同事说，公司离倒闭只有30天。后来，这句话成了他的口头禅。创业最初的几年，公司有几次确实快撑不下去了。 成名以后，他仍然很少休息。从醒来到睡觉，一周七天，脑子里总有没解决的问题。有些研发项目，几年都没带来多少收入，他却能一直等，继续往里投钱。 黄仁勋出生于1963年，童年有几年在泰国度过。不到十岁，他和哥哥先于父母来到美国，后来进入肯塔基州的一所寄宿学校。校内的杂活由学生分担，哥哥去农场，他负责清理男生的卫生间。 上",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204575.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T07:57:00.000Z",
-      "author": "芯智能头条",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5d2a679ed5659a3823",
-      "titleOriginal": "AI时代，公司越来越扁平，也越来越官僚",
-      "summaryOriginal": "（本文作者为 防冷涂的蜡，钛媒体经授权发布） 文 | 防冷涂的蜡 假设你是一家连锁餐饮店的店长。上午十一点，顾客开始排队，你刚准备进后厨帮忙，手机又收到总部发来的经营异常清单：昨天有一项指标低于标准，需要解释原因、提交处理办法。昨天的回复刚发完，今天的新清单又到了。门店没有多一个员工，总部却好像突然多出了一双每天盯着你的眼睛。 这样的场景有了现实中的技术基础。2026年9月，徐升记高级副总裁刘帅介绍，公司过去每周需要8名运营人员花一天半，才能整理340多家门店、50多项经营数据。接入美团“妙手&middot;智能掌柜”后，相关分析可以按天完成，再分发给区域负责人和门店，系统还能生成巡检报告与经营报表。 从总部看，这是一笔漂亮的效率账：以前八个人忙一天半的工作，现在每天都能做。可如果经营分析每天更新，整改要求也跟着变成每日任务，门店节省下来的时间未必有总部那么多。总部终于能随时看到问题，店长却可能需要不断停下手头的事，说明自己为什么还没解决问题。 我们一直期待AI帮公司少开会、少审批、少几个催报表的领导。然而，领导少了，盯着你工作的东西就一定会少吗？ 在赞美组织扁平化之前，恐怕得先弄清一",
-      "titleZh": "AI时代，公司越来越扁平，也越来越官僚",
-      "summaryZh": "（本文作者为 防冷涂的蜡，钛媒体经授权发布） 文 | 防冷涂的蜡 假设你是一家连锁餐饮店的店长。上午十一点，顾客开始排队，你刚准备进后厨帮忙，手机又收到总部发来的经营异常清单：昨天有一项指标低于标准，需要解释原因、提交处理办法。昨天的回复刚发完，今天的新清单又到了。门店没有多一个员工，总部却好像突然多出了一双每天盯着你的眼睛。 这样的场景有了现实中的技术基础。2026年9月，徐升记高级副总裁刘帅介绍，公司过去每周需要8名运营人员花一天半，才能整理340多家门店、50多项经营数据。接入美团“妙手&middot;智能掌柜”后，相关分析可以按天完成，再分发给区域负责人和门店，系统还能生成巡检报告与经营报表。 从总部看，这是一笔漂亮的效率账：以前八个人忙一天半的工作，现在每天都能做。可如果经营分析每天更新，整改要求也跟着变成每日任务，门店节省下来的时间未必有总部那么多。总部终于能随时看到问题，店长却可能需要不断停下手头的事，说明自己为什么还没解决问题。 我们一直期待AI帮公司少开会、少审批、少几个催报表的领导。然而，领导少了，盯着你工作的东西就一定会少吗？ 在赞美组织扁平化之前，恐怕得先弄清一",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205239.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T07:21:00.000Z",
-      "author": "防冷涂的蜡",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f47fb08e8896deb616",
-      "titleOriginal": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
-      "summaryOriginal": "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 据彭博社11月12日援引知情人士称， SpaceX与特斯拉的合并谈判已推进到交易条款与治理架构，最快12月官宣，也可能推到2027年初。 按当天收盘市值， 两家公司合计约3.47万亿美元 ，落地即刷新全球并购纪录。 旧纪录靠的都是股票：2000年沃达丰换股拿下曼内斯曼，作价约1810亿美元；同年美国在线以约1640亿美元市值换下时代华纳，两年后计提989亿美元商誉减值，全年亏损987亿美元。 这笔交易同样不动现金，它要换的是一张能为算力开支持续融资的资产负债表，顺带把控制权收紧。 签字的不只是两家公司的独立董事特别委员会，还有几十万份没寄回去的委托书。 车企与航天资产往后按什么价码估值，都压在这条线上。 一张股票， 两张报表 整合其实从2025年就开始了： X并入xAI，2026年2月SpaceX以约1.25万亿美元的整体估值换股吞下xAI，6月以135美元发行价完成史上最大IPO，马斯克握着八成以上投票权。 SpaceX总裁肖特韦尔当时留了句话，合并“或许能让埃隆的生活轻松一点”。 3.47万亿美元只是两家公司的市值之和，没有",
-      "titleZh": "特斯拉和SpaceX最快12月合并？没那么简单，还有3.47万亿美元卡在弃权票上",
-      "summaryZh": "（本文作者为 财能圈，钛媒体经授权发布） 文 | 财能圈 据彭博社11月12日援引知情人士称， SpaceX与特斯拉的合并谈判已推进到交易条款与治理架构，最快12月官宣，也可能推到2027年初。 按当天收盘市值， 两家公司合计约3.47万亿美元 ，落地即刷新全球并购纪录。 旧纪录靠的都是股票：2000年沃达丰换股拿下曼内斯曼，作价约1810亿美元；同年美国在线以约1640亿美元市值换下时代华纳，两年后计提989亿美元商誉减值，全年亏损987亿美元。 这笔交易同样不动现金，它要换的是一张能为算力开支持续融资的资产负债表，顺带把控制权收紧。 签字的不只是两家公司的独立董事特别委员会，还有几十万份没寄回去的委托书。 车企与航天资产往后按什么价码估值，都压在这条线上。 一张股票， 两张报表 整合其实从2025年就开始了： X并入xAI，2026年2月SpaceX以约1.25万亿美元的整体估值换股吞下xAI，6月以135美元发行价完成史上最大IPO，马斯克握着八成以上投票权。 SpaceX总裁肖特韦尔当时留了句话，合并“或许能让埃隆的生活轻松一点”。 3.47万亿美元只是两家公司的市值之和，没有",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205220.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T07:13:00.000Z",
-      "author": "财能圈",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "38403b50d73ac07152",
-      "titleOriginal": "2026欧洲生鲜零售现状",
-      "summaryOriginal": "（本文作者为 霞光智库，钛媒体经授权发布） 文 | 霞光智库 2025年是欧洲生鲜零售行业企稳的一年。与2024年相比，消费者支出模式基本保持不变，而零售商仍在持续应对成本压力。2026年初，64%的生鲜零售CEO预计市场环境将与2025年持平或改善。然而，行业环境依然充满挑战：利润率压力仍是首要关切，竞争激烈，中期增长前景有限。 展望2026年，生鲜零售高管面临机遇与挑战并存的局面。随着投入成本在2026年初出现缓和迹象，零售商如何应对地缘政治动荡？在恢复利润率与为消费者提供价值之间如何取得平衡？零售商又如何利用数据、AI和技术实现可衡量的商业影响——尤其是在代理式AI开始重塑消费者购物方式和零售商运营模式的当下？ 本报告基于扎实的数据基础：我们调研了14个欧洲国家的35位以上零售高管和15,000多名消费者，同时分析了这些国家的市场数据和企业动态。所有研究均于2026年初完成。为体现AI日益增长的重要性，今年报告重点介绍四个AI机遇：拥抱代理式商务、以代理式AI重构组织、以物理AI推动门店自动化、以及确保技术投资的充分回报。 本报告由EuroCommerce（代表欧洲500万零售商",
-      "titleZh": "2026欧洲生鲜零售现状",
-      "summaryZh": "（本文作者为 霞光智库，钛媒体经授权发布） 文 | 霞光智库 2025年是欧洲生鲜零售行业企稳的一年。与2024年相比，消费者支出模式基本保持不变，而零售商仍在持续应对成本压力。2026年初，64%的生鲜零售CEO预计市场环境将与2025年持平或改善。然而，行业环境依然充满挑战：利润率压力仍是首要关切，竞争激烈，中期增长前景有限。 展望2026年，生鲜零售高管面临机遇与挑战并存的局面。随着投入成本在2026年初出现缓和迹象，零售商如何应对地缘政治动荡？在恢复利润率与为消费者提供价值之间如何取得平衡？零售商又如何利用数据、AI和技术实现可衡量的商业影响——尤其是在代理式AI开始重塑消费者购物方式和零售商运营模式的当下？ 本报告基于扎实的数据基础：我们调研了14个欧洲国家的35位以上零售高管和15,000多名消费者，同时分析了这些国家的市场数据和企业动态。所有研究均于2026年初完成。为体现AI日益增长的重要性，今年报告重点介绍四个AI机遇：拥抱代理式商务、以代理式AI重构组织、以物理AI推动门店自动化、以及确保技术投资的充分回报。 本报告由EuroCommerce（代表欧洲500万零售商",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205180.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T06:52:37.000Z",
-      "author": "霞光智库",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "87b8686439b2776fc6",
-      "titleOriginal": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
-      "summaryOriginal": "Vercel Labs has released UI SDK , an open-source beta library of interface behaviors built for coding agents. Vercel UI SDK is a headless library that ships behaviors, not finished components. Agents combine those behaviors into accessible components for React, Vue, Svelte, Solid and Web Components. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . TL;DR Size: 50+ behaviors, 51 component modules in the repo, 6 npm packages at 0.1.0-beta.1 Runs",
-      "titleZh": "Vercel 发布 UI SDK：面向 AI 编码代理的 50 多种 UI 行为",
-      "summaryZh": "Vercel Labs 发布了 UI SDK ，这是一个为编码代理构建的界面行为开源测试版库。Vercel UI SDK 是一个无头库，提供行为而非成品组件。代理将这些行为组合成适用于React、Vue、Svelte、Solid和Web组件的无障碍组件。您可以通过我们的GPULeaderboard.com Chrome扩展程序在此处查看部署选项和规格。TL;DR 规模：50 多种行为，代码库中有 51 个组件模块，6 个 npm 包，版本为 0.1.0-beta.1 运行",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-14T06:38:14.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Agents",
-        "Editors Pick",
-        "For Devs"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "34f50a99b262d444de",
-      "titleOriginal": "想用AI造芯片？芯片工程师笑了",
-      "summaryOriginal": "（本文作者为 霞光AI实验室，钛媒体经授权发布） 文 | 霞光AI实验室，作者｜Vinco，编辑｜李小天 AI4Chip，是不是下一个Coding场景？ 同一个问题，两个“截然相反”的答案。 一位是某基础大模型厂商（以下简称“基模厂”）的研究员剁椒酱。他站在大模型公司的视角看芯片设计：AI智力越来越高，人类分工的本质是因为“context有限”，而AI没有这个限制。芯片设计几千人的协作，迟早会被一个足够聪明的AI压缩。他判断，AI4Chip就是下一个Coding场景——先从帮工程师提效30%开始，再端到端做简单芯片，最后走向self-improve的芯片设计。他甚至在社交平台上放了一句自己的“暴论”： 基模厂迟早都会有自己的芯片厂。 另一位则是数字芯片设计从业近十年的晒哥，同时也是AI芯片设计领域的知识博主。他听到“下一个Coding场景”这个说法时，第一反应是笑。然后他给出了一个毫不客气的判断： “它不是下一个vibe coding的场景。因为芯片设计本身不只单纯那点代码。” 两个人说的都有道理。而这场分歧本身，恰恰是理解AI4Chip最好的入口。 但在进入他们的观点之前，有一个背景",
-      "titleZh": "想用AI造芯片？芯片工程师笑了",
-      "summaryZh": "（本文作者为 霞光AI实验室，钛媒体经授权发布） 文 | 霞光AI实验室，作者｜Vinco，编辑｜李小天 AI4Chip，是不是下一个Coding场景？ 同一个问题，两个“截然相反”的答案。 一位是某基础大模型厂商（以下简称“基模厂”）的研究员剁椒酱。他站在大模型公司的视角看芯片设计：AI智力越来越高，人类分工的本质是因为“context有限”，而AI没有这个限制。芯片设计几千人的协作，迟早会被一个足够聪明的AI压缩。他判断，AI4Chip就是下一个Coding场景——先从帮工程师提效30%开始，再端到端做简单芯片，最后走向self-improve的芯片设计。他甚至在社交平台上放了一句自己的“暴论”： 基模厂迟早都会有自己的芯片厂。 另一位则是数字芯片设计从业近十年的晒哥，同时也是AI芯片设计领域的知识博主。他听到“下一个Coding场景”这个说法时，第一反应是笑。然后他给出了一个毫不客气的判断： “它不是下一个vibe coding的场景。因为芯片设计本身不只单纯那点代码。” 两个人说的都有道理。而这场分歧本身，恰恰是理解AI4Chip最好的入口。 但在进入他们的观点之前，有一个背景",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205198.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T06:33:00.000Z",
-      "author": "霞光AI实验室",
-      "tags": [
-        "research",
-        "投稿",
-        "Coding"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "484b228cf1fd503db6",
-      "titleOriginal": "97%支持率，最怕黄仁勋离开的，为何是员工",
-      "summaryOriginal": "（本文作者为 财经故事荟，钛媒体经授权发布） 文 | 财经故事荟 11月12日，英伟达官宣：黄仁勋辞去总裁、CEO及董事职务，即刻生效。 CFO科莱特&middot;克蕾丝出任临时CEO，董事会任命哈维&middot;琼斯为公司史上首任董事长。 据彭博社报道，辞职前的黄仁勋，早已不是那个事事主导、雷厉风行的“AI教父”——心力交瘁，昔日的强势荡然无存，自嘲“我算个什么东西”，“随便吧”，“我不在乎”。 但股价在乎，员工在乎。辞职后，英伟达股价先跌为敬，盘中一度暴跌14%；自黄仁勋承认出轨以来，英伟达市值累计跌幅约5000亿美元。 英伟达内网也炸了，1600条留言、数百人联名请愿、传闻97%的投票留任率，员工集体喊话——把黄仁勋还回来，既是认可黄仁勋的价值，也是为了捍卫自己的利益。 员工请愿黄仁勋回来 黄仁勋辞职后，一名资深工程师在英伟达内部意见箱发帖，本意只是请董事会在调查结论出来之前，先听听员工的想法。结果这个帖子涌进了超过1600条留言，绝大多数旗帜鲜明：要黄仁勋回来当CEO。 留言区的画风是这样的—— \"如果你相信这家公司的使命，就把老板还回来。\" \"我们都是人，都会犯错。Jen",
-      "titleZh": "97%支持率，最怕黄仁勋离开的，为何是员工",
-      "summaryZh": "（本文作者为 财经故事荟，钛媒体经授权发布） 文 | 财经故事荟 11月12日，英伟达官宣：黄仁勋辞去总裁、CEO及董事职务，即刻生效。 CFO科莱特&middot;克蕾丝出任临时CEO，董事会任命哈维&middot;琼斯为公司史上首任董事长。 据彭博社报道，辞职前的黄仁勋，早已不是那个事事主导、雷厉风行的“AI教父”——心力交瘁，昔日的强势荡然无存，自嘲“我算个什么东西”，“随便吧”，“我不在乎”。 但股价在乎，员工在乎。辞职后，英伟达股价先跌为敬，盘中一度暴跌14%；自黄仁勋承认出轨以来，英伟达市值累计跌幅约5000亿美元。 英伟达内网也炸了，1600条留言、数百人联名请愿、传闻97%的投票留任率，员工集体喊话——把黄仁勋还回来，既是认可黄仁勋的价值，也是为了捍卫自己的利益。 员工请愿黄仁勋回来 黄仁勋辞职后，一名资深工程师在英伟达内部意见箱发帖，本意只是请董事会在调查结论出来之前，先听听员工的想法。结果这个帖子涌进了超过1600条留言，绝大多数旗帜鲜明：要黄仁勋回来当CEO。 留言区的画风是这样的—— \"如果你相信这家公司的使命，就把老板还回来。\" \"我们都是人，都会犯错。Jen",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204717.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T06:27:26.000Z",
-      "author": "财经故事荟",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0faed0833f34303f48",
-      "titleOriginal": "黄仁勋创办了英伟达，英伟达为什么还能让他走？",
-      "summaryOriginal": "（本文作者为 吴怼怼，钛媒体经授权发布） 文 | 吴怼怼 两周前，如果有人预言黄仁勋会在15天内交出英伟达的权杖，硅谷和华尔街大概率会把它当成年度最荒诞的冷笑话。 毕竟，这位穿黑皮衣的创始人在过去33年里几乎与英伟达划上了等号——他把一家在丹尼餐厅里诞生、第一代产品NV1险些破产的显卡作坊，一路带成了市值巅峰突破5.2万亿美元的全球AI总龙头。 然而到了2026年11月12日，剧本以最剧烈的方式翻篇：英伟达董事会正式宣布黄仁勋辞去首席执行官及董事职务，由担任CFO十余年的科莱特&middot;克雷斯（Colette Kress）出任临时CEO，元老董事哈维&middot;琼斯（Harvey C. Jones）出任公司首任董事会主席。 最后数小时画面令人唏嘘——这位向来事无巨细、掌控欲极强的硅谷强人，在周三深夜彻底放弃了抵抗，精疲力竭地自责“我是个混蛋”，嘴里反复念叨着“随便吧（whatever）”和“我不在乎（I don't care）”。 外界最朴素的困惑随之而来：英伟达是黄仁勋一手创办的，连内网都有超过1600名员工留言请愿、以高达97%的支持率喊话“把Jensen还回来”，为什么",
-      "titleZh": "黄仁勋创办了英伟达，英伟达为什么还能让他走？",
-      "summaryZh": "（本文作者为 吴怼怼，钛媒体经授权发布） 文 | 吴怼怼 两周前，如果有人预言黄仁勋会在15天内交出英伟达的权杖，硅谷和华尔街大概率会把它当成年度最荒诞的冷笑话。 毕竟，这位穿黑皮衣的创始人在过去33年里几乎与英伟达划上了等号——他把一家在丹尼餐厅里诞生、第一代产品NV1险些破产的显卡作坊，一路带成了市值巅峰突破5.2万亿美元的全球AI总龙头。 然而到了2026年11月12日，剧本以最剧烈的方式翻篇：英伟达董事会正式宣布黄仁勋辞去首席执行官及董事职务，由担任CFO十余年的科莱特&middot;克雷斯（Colette Kress）出任临时CEO，元老董事哈维&middot;琼斯（Harvey C. Jones）出任公司首任董事会主席。 最后数小时画面令人唏嘘——这位向来事无巨细、掌控欲极强的硅谷强人，在周三深夜彻底放弃了抵抗，精疲力竭地自责“我是个混蛋”，嘴里反复念叨着“随便吧（whatever）”和“我不在乎（I don't care）”。 外界最朴素的困惑随之而来：英伟达是黄仁勋一手创办的，连内网都有超过1600名员工留言请愿、以高达97%的支持率喊话“把Jensen还回来”，为什么",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204790.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T04:57:00.000Z",
-      "author": "吴怼怼",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ca5010c784311f6650",
-      "titleOriginal": "原厂宽体+碳纤大尾翼！用 13.38 万，买到一辆「领克 03+」",
-      "summaryOriginal": "2026 年接近尾声，中国汽车市场的语境已经高度统一。看遍近期的新车发布会，高频词基本集中在辅助驾驶、AI 大模型、芯片算力和零重力座椅上，整个行业都在向「移动智能终端」演进。 在这样的大环境下，再去探讨一台油车的声浪和性能，总显得有些逆潮流。 但领克偏偏选择了这条与众不同的路。 昨晚，2027 款领克 03 家族正式上市，一共有四个常规版本，指导价为 11.38 万至 14.38 万元；叠加购车权益后，价格区间下探至 10.38 万至 13.38 万元。 与此同时，功率达到 350 马力的全新领克 03+ 也同步亮相，售价 24.98 万元，限量发售 300 台。 不过，比起限量的玩具，更多人关注的肯定还是普通的领克 03，更何况，这次的领克 03，长得一点都不普通。 用 03 的价格，买到 03+ 的性能 有逛过改装车展的朋友应该知道，在改装车领域，除了改色、换轮毂和升级减振这些常规操作外，还有上宽体这种进阶玩法。 但在国内现行法规下，加装宽体属于明令禁止的改变车辆外廓尺寸行为，因此，那些姿态战斗的改装车并不能合法上路，要么拉去封闭场地跑跑，要么就只能静静待在展台上当「盆栽」。 直",
-      "titleZh": "原厂宽体+碳纤大尾翼！用 13.38 万，买到一辆「领克 03+」",
-      "summaryZh": "2026 年接近尾声，中国汽车市场的语境已经高度统一。看遍近期的新车发布会，高频词基本集中在辅助驾驶、AI 大模型、芯片算力和零重力座椅上，整个行业都在向「移动智能终端」演进。 在这样的大环境下，再去探讨一台油车的声浪和性能，总显得有些逆潮流。 但领克偏偏选择了这条与众不同的路。 昨晚，2027 款领克 03 家族正式上市，一共有四个常规版本，指导价为 11.38 万至 14.38 万元；叠加购车权益后，价格区间下探至 10.38 万至 13.38 万元。 与此同时，功率达到 350 马力的全新领克 03+ 也同步亮相，售价 24.98 万元，限量发售 300 台。 不过，比起限量的玩具，更多人关注的肯定还是普通的领克 03，更何况，这次的领克 03，长得一点都不普通。 用 03 的价格，买到 03+ 的性能 有逛过改装车展的朋友应该知道，在改装车领域，除了改色、换轮毂和升级减振这些常规操作外，还有上宽体这种进阶玩法。 但在国内现行法规下，加装宽体属于明令禁止的改变车辆外廓尺寸行为，因此，那些姿态战斗的改装车并不能合法上路，要么拉去封闭场地跑跑，要么就只能静静待在展台上当「盆栽」。 直",
-      "translated": true,
-      "url": "https://www.ifanr.com/1689570",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T04:02:40.000Z",
-      "author": "李华",
-      "tags": [
-        "launch",
-        "董车会",
-        "吉利",
-        "领克",
-        "领克 03"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f2297a8b17dbff0c3c",
-      "titleOriginal": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍",
-      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） Liftoff Mobile的利润增长速度比预期还要快。 这家人工智能驱动的广告公司在最新财报中公布了超出市场预期的强劲业绩，第三季度营收达到2.375亿美元，同比增长32%。经调整后每股收益为47美分，远超市场预期的18美分，显示出其盈利能力的显著提升。 公司将全年营收预期上调至9.07亿至9.12亿美元，反映出其AI平台的持续改进和市场需求的强劲。分析师指出，Liftoff的日均收入增长显著，现有客户和新客户的贡献均衡，推动了整体业绩的提升。 此外，RBC资本市场和Cantor Fitzgerald均对Liftoff的股票维持“增持”评级，目标价分别上调至38美元和26美元，显示出市场对其未来增长的信心。 你是否想了解更多关于Liftoff如何利用AI技术提升广告效果的细节？ 订阅巴伦创始菁英会员，阅读全文。 更多精彩内容，关注钛媒体微信号（ID：taimeiti），或者下载钛媒体App",
-      "titleZh": "这只AI广告股迎史上最强单日表现，分析师称其股价可能翻倍",
-      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） Liftoff Mobile的利润增长速度比预期还要快。 这家人工智能驱动的广告公司在最新财报中公布了超出市场预期的强劲业绩，第三季度营收达到2.375亿美元，同比增长32%。经调整后每股收益为47美分，远超市场预期的18美分，显示出其盈利能力的显著提升。 公司将全年营收预期上调至9.07亿至9.12亿美元，反映出其AI平台的持续改进和市场需求的强劲。分析师指出，Liftoff的日均收入增长显著，现有客户和新客户的贡献均衡，推动了整体业绩的提升。 此外，RBC资本市场和Cantor Fitzgerald均对Liftoff的股票维持“增持”评级，目标价分别上调至38美元和26美元，显示出市场对其未来增长的信心。 你是否想了解更多关于Liftoff如何利用AI技术提升广告效果的细节？ 订阅巴伦创始菁英会员，阅读全文。 更多精彩内容，关注钛媒体微信号（ID：taimeiti），或者下载钛媒体App",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205214.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T03:25:40.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "38ed55eecc21c8c2ed",
-      "titleOriginal": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？",
-      "summaryOriginal": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 老黄离场，平头哥和昆仑芯能吃饱吗？ 11月12日，黄仁勋辞去英伟达CEO等职务。就在这一周， 阿里披露了平头哥赴港上市的进展；昆仑芯则早在年初就递交了港股上市申请。 有点巧妙。 这是不是属于国产芯片最好的时候？ 平头哥和昆仑芯已经被谈到数百亿美元的身价，市场在给它们未来的份额和利润出价。国产芯片接替市场空缺的故事很值得期待，客户更换设备却要重新测试模型、迁移软件。抢下订单之后，厂商还得把利润留下来。 如何定义平头哥 今年1月，媒体转述摩根大通对平头哥的情景测算，潜在估值为250亿至620亿美元。6月，路透社援引The Information报道称，昆仑芯寻求的香港IPO估值约为500亿美元。一个来自机构模型，一个来自消息人士描述的上市目标，两家都没有在这两个定价上完成公开发行。 两家公司公开报道中的估值预期，统一以亿美元列示 昆仑芯有实际融资可作参照。据路透社2025年12月报道，公司一轮融资的估值约为210亿元人民币，2024年收入约20亿元，净亏损约2亿元。用这轮融资估值除以报道中的历史收入，大约是10.5倍P/S。同篇报道",
-      "titleZh": "英伟达“跌倒”，会是平头哥和昆仑芯的窗口期吗？",
-      "summaryZh": "（本文作者为 象先志，钛媒体经授权发布） 文 | 象先志 老黄离场，平头哥和昆仑芯能吃饱吗？ 11月12日，黄仁勋辞去英伟达CEO等职务。就在这一周， 阿里披露了平头哥赴港上市的进展；昆仑芯则早在年初就递交了港股上市申请。 有点巧妙。 这是不是属于国产芯片最好的时候？ 平头哥和昆仑芯已经被谈到数百亿美元的身价，市场在给它们未来的份额和利润出价。国产芯片接替市场空缺的故事很值得期待，客户更换设备却要重新测试模型、迁移软件。抢下订单之后，厂商还得把利润留下来。 如何定义平头哥 今年1月，媒体转述摩根大通对平头哥的情景测算，潜在估值为250亿至620亿美元。6月，路透社援引The Information报道称，昆仑芯寻求的香港IPO估值约为500亿美元。一个来自机构模型，一个来自消息人士描述的上市目标，两家都没有在这两个定价上完成公开发行。 两家公司公开报道中的估值预期，统一以亿美元列示 昆仑芯有实际融资可作参照。据路透社2025年12月报道，公司一轮融资的估值约为210亿元人民币，2024年收入约20亿元，净亏损约2亿元。用这轮融资估值除以报道中的历史收入，大约是10.5倍P/S。同篇报道",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204784.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T02:25:00.000Z",
-      "author": "象先志",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c0f00eec609738b172",
-      "titleOriginal": "苹果不想一直“躺赢”",
-      "summaryOriginal": "（本文作者为 伯虎财经，钛媒体经授权发布） 文 | 伯虎财经，作者 | 楷楷 最近苹果的好消息不少。 前脚苹果宣布刚Apple智能即将在中国推出，接入阿里通义千问大模型，于11月4日开放测试，12月随iOS 27.3正式落地。后脚苹果交出2026财年第四财季成绩单：营收和每股盈利均超出市场预期，iPhone收入创下史上同期季度新高，给“史上最佳财年”画上了一个完美的句号。 不过新任 CEO 约翰&middot;特努斯对于苹果的现状并不满意。据报道，上周，在 Apple Park 一间关起门来的会议室里，他向软件团队发出了前所未有的严厉提醒： 苹果在 AI 上已远落后于竞争对手，必须拿出与对手同等的紧迫感拥抱 AI，加速推进路线图，迅速超越“仅仅对 Siri 进行必要修补”的阶段。 这大概才是苹果真正的好消息——新大哥并不满足于躺赢。 过去一年，苹果在AI上的无为，就赢过了大部分公司；甚至AI引发的存储风暴还进一步加深让iPhone在高端市场的份额。但AI正在从根本上改变智能手机的价值、用户入口和科技公司的盈利模式，而这恰好是苹果最核心的商业价值。 作为智能手机的定义者，苹果是移动互联网",
-      "titleZh": "苹果不想一直“躺赢”",
-      "summaryZh": "（本文作者为 伯虎财经，钛媒体经授权发布） 文 | 伯虎财经，作者 | 楷楷 最近苹果的好消息不少。 前脚苹果宣布刚Apple智能即将在中国推出，接入阿里通义千问大模型，于11月4日开放测试，12月随iOS 27.3正式落地。后脚苹果交出2026财年第四财季成绩单：营收和每股盈利均超出市场预期，iPhone收入创下史上同期季度新高，给“史上最佳财年”画上了一个完美的句号。 不过新任 CEO 约翰&middot;特努斯对于苹果的现状并不满意。据报道，上周，在 Apple Park 一间关起门来的会议室里，他向软件团队发出了前所未有的严厉提醒： 苹果在 AI 上已远落后于竞争对手，必须拿出与对手同等的紧迫感拥抱 AI，加速推进路线图，迅速超越“仅仅对 Siri 进行必要修补”的阶段。 这大概才是苹果真正的好消息——新大哥并不满足于躺赢。 过去一年，苹果在AI上的无为，就赢过了大部分公司；甚至AI引发的存储风暴还进一步加深让iPhone在高端市场的份额。但AI正在从根本上改变智能手机的价值、用户入口和科技公司的盈利模式，而这恰好是苹果最核心的商业价值。 作为智能手机的定义者，苹果是移动互联网",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204097.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T02:17:00.000Z",
-      "author": "伯虎财经",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "60878b20dd5c5d9e5e",
-      "titleOriginal": "英伟达第一次没有黄仁勋",
-      "summaryOriginal": "（本文作者为 全球财说，钛媒体经授权发布） 文 | 全球财说，作者 | 林洛栩，编辑 | 魏樊曦 11月12日美股开盘后，英伟达股价一度跌近14%，触及约149美元，最终收跌4.34%，市值蒸发1820亿美元（约合人民币1.21万亿元），最新市值仍超4万亿美元。 英伟达董事会宣布，联合创始人黄仁勋辞去总裁、首席执行官和董事职务，即刻生效。一纸公告结束了黄仁勋执掌英伟达的33年。 屏幕上除去下跌的K线图，还留下了一个英伟达从未回答过的问题。 黄仁勋离开CEO的位置，这家公司将怎样继续运转。英伟达成立至今，换过产品和市场身份，首席执行官始终只有一个。 辞职公告发布前数小时，有人在社交媒体上公开喊话马斯克“Elon please hire Jensen”，马斯克回了一句“That would be an honor”。 没有职位，也没有公司名称，却把黄仁勋的下一站提前摆上了桌面。 33年的最后四天 事情从11月8日开始急转。 黄仁勋当天向员工发出一封很短的内部信。他承认对妻子不忠，称自己的行为辜负了同事、董事会、合作伙伴和股东的信任，并表示将配合独立调查。 英伟达董事会随后发表声明称，当时没",
-      "titleZh": "英伟达第一次没有黄仁勋",
-      "summaryZh": "（本文作者为 全球财说，钛媒体经授权发布） 文 | 全球财说，作者 | 林洛栩，编辑 | 魏樊曦 11月12日美股开盘后，英伟达股价一度跌近14%，触及约149美元，最终收跌4.34%，市值蒸发1820亿美元（约合人民币1.21万亿元），最新市值仍超4万亿美元。 英伟达董事会宣布，联合创始人黄仁勋辞去总裁、首席执行官和董事职务，即刻生效。一纸公告结束了黄仁勋执掌英伟达的33年。 屏幕上除去下跌的K线图，还留下了一个英伟达从未回答过的问题。 黄仁勋离开CEO的位置，这家公司将怎样继续运转。英伟达成立至今，换过产品和市场身份，首席执行官始终只有一个。 辞职公告发布前数小时，有人在社交媒体上公开喊话马斯克“Elon please hire Jensen”，马斯克回了一句“That would be an honor”。 没有职位，也没有公司名称，却把黄仁勋的下一站提前摆上了桌面。 33年的最后四天 事情从11月8日开始急转。 黄仁勋当天向员工发出一封很短的内部信。他承认对妻子不忠，称自己的行为辜负了同事、董事会、合作伙伴和股东的信任，并表示将配合独立调查。 英伟达董事会随后发表声明称，当时没",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204046.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T02:09:00.000Z",
-      "author": "全球财说",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ccc78930442bee8ef8",
-      "titleOriginal": "汽车芯片再次告急，这次是晶圆厂不想生产了",
-      "summaryOriginal": "（本文作者为 汽车财报，钛媒体经授权发布） 文 | 汽车财报 11月10日，德国慕尼黑电子展上，荷兰芯片制造商安世半导体临时CEO Stefan Tilger向路透社透露，公司收到的订单需求已经远远超过产能。 安世主要生产二极管、晶体管、MOSFET等基础半导体器件，许多产品单价只有几美分，广泛应用于汽车电子和工业设备。 Tilger认为，过去几年行业对基础半导体技术的投资持续滞后，而AI数据中心正在吸引更多制造资源。 前一天，意法半导体CEO Jean-Marc Chery也发出了类似警告。他观察到，部分晶圆代工厂和封装测试企业正在调整业务结构，将资源转向回报更高的市场，传统汽车和工业芯片的供应可能因此受到影响。 两家公司的经营模式存在明显差异。安世以基础分立器件为主，意法的产品覆盖汽车MCU、功率半导体、模拟芯片和工业控制。如今，两家公司都开始担心成熟半导体的制造资源。 安世还有自身的特殊情况。2025年以来，荷兰业务与中国业务之间的控制权纠纷影响了原有生产体系。 公司正在扩大马来西亚封装测试能力，相关产能仍在恢复过程中。这也是当前安世供给紧张的重要原因。 但意法半导体的警告，使问",
-      "titleZh": "汽车芯片再次告急，这次是晶圆厂不想生产了",
-      "summaryZh": "（本文作者为 汽车财报，钛媒体经授权发布） 文 | 汽车财报 11月10日，德国慕尼黑电子展上，荷兰芯片制造商安世半导体临时CEO Stefan Tilger向路透社透露，公司收到的订单需求已经远远超过产能。 安世主要生产二极管、晶体管、MOSFET等基础半导体器件，许多产品单价只有几美分，广泛应用于汽车电子和工业设备。 Tilger认为，过去几年行业对基础半导体技术的投资持续滞后，而AI数据中心正在吸引更多制造资源。 前一天，意法半导体CEO Jean-Marc Chery也发出了类似警告。他观察到，部分晶圆代工厂和封装测试企业正在调整业务结构，将资源转向回报更高的市场，传统汽车和工业芯片的供应可能因此受到影响。 两家公司的经营模式存在明显差异。安世以基础分立器件为主，意法的产品覆盖汽车MCU、功率半导体、模拟芯片和工业控制。如今，两家公司都开始担心成熟半导体的制造资源。 安世还有自身的特殊情况。2025年以来，荷兰业务与中国业务之间的控制权纠纷影响了原有生产体系。 公司正在扩大马来西亚封装测试能力，相关产能仍在恢复过程中。这也是当前安世供给紧张的重要原因。 但意法半导体的警告，使问",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8204916.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T02:02:11.000Z",
-      "author": "汽车财报",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c53d0cece6ea0c834e",
-      "titleOriginal": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
-      "summaryOriginal": "英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论 余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工 DeepSeek 开放 App 工具接口，开发者可接入搜索、文件和语音 Microsoft 365 故障仍在恢复，微软将邮件超时窗口延长至 48 小时 OpenAI 撤销独立机器人团队，研究人员并入通用模型团队 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 灵光产品经理谈个人 AI 助手：团队开始数用户愿意托管多少件事 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 东风日产 NX7 亮相，车内展示可拆卸磁吸垃圾桶 索尼新一代 Walkman 开启国行预售，ZX900 售 10999 元 保时捷 CEO 谈 Mission S：瞄准比 911 更高的市场 虾米音乐关停五年后，阿里上线 AI 写歌应用「快乐虾米」 宁德时代发布巧克力电池管家，换电时可查电池健康状况 Gemini 接入 Google 钱包，可以整理账单和查找订阅扣款 腾讯混元发布 Hy Rea",
-      "titleZh": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
-      "summaryZh": "英伟达员工呼吁董事会请回黄仁勋，内网帖收到逾 1600 条评论 余承东和张兴海同台发布问界新 M8，重申华为与赛力斯分工 DeepSeek 开放 App 工具接口，开发者可接入搜索、文件和语音 Microsoft 365 故障仍在恢复，微软将邮件超时窗口延长至 48 小时 OpenAI 撤销独立机器人团队，研究人员并入通用模型团队 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 灵光产品经理谈个人 AI 助手：团队开始数用户愿意托管多少件事 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 东风日产 NX7 亮相，车内展示可拆卸磁吸垃圾桶 索尼新一代 Walkman 开启国行预售，ZX900 售 10999 元 保时捷 CEO 谈 Mission S：瞄准比 911 更高的市场 虾米音乐关停五年后，阿里上线 AI 写歌应用「快乐虾米」 宁德时代发布巧克力电池管家，换电时可查电池健康状况 Gemini 接入 Google 钱包，可以整理账单和查找订阅扣款 腾讯混元发布 Hy Rea",
-      "translated": true,
-      "url": "https://www.ifanr.com/1689450",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T00:00:42.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "research",
-        "早报",
-        "OpenAI",
-        "余承东"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "04367a7d0b10c58a54",
-      "titleOriginal": "Amazon has a plan to index the world’s online shopping data",
-      "summaryOriginal": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters . The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their product research on Reddit or Google, and make it more likely shoppers end up at Amazon even if they're searching for a product sold elsewhere. The same goes for AI agents - if",
-      "titleZh": "亚马逊计划为全球在线购物数据编制索引",
-      "summaryZh": "据路透社报道，亚马逊计划建立一个数据库，储存互联网上所有销售产品的相关数据，即使是亚马逊不销售的产品也不例外，并通过自己的网站提供这些信息。该项目名为“世界产品图谱”（World Product Graph），旨在降低购物者离开亚马逊而去Reddit或Google上进行产品调研的可能性，并提高购物者最终在亚马逊上购物的可能性，即使他们正在搜索其他地方销售的产品。对于人工智能代理也是如此——如果",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:49:11.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "research",
-        "Agent"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a41cf41c3f01352771",
-      "titleOriginal": "datasette-cluster-map 0.19",
-      "summaryOriginal": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial , openstreetmap",
-      "titleZh": "datasette-cluster-map 0.19",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-13T23:02:45.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ec577d4c46a6d8cee6",
-      "titleOriginal": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summaryOriginal": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-      "titleZh": "风险投资人和创始人表示，Jensen Huang的离职在人工智能初创企业的融资方面留下了巨大的缺口",
-      "summaryZh": "在黄仁勋的领导下，英伟达向人工智能初创企业投入了数百亿美元。没有他掌舵，创始人与风险投资机构正为更少的投资和更低的估值做好准备。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:43:00.000Z",
-      "author": "Marina Temkin, Dominic-Madori Davis",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "Venture",
-        "open source"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2ff8c47f48f01f5cd7",
-      "titleOriginal": "datasette-leaflet 0.3",
-      "summaryOriginal": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on it. It now sets the referrer policy on the tile requests themselves to strict-origin-when-cross-origin",
-      "titleZh": "datasette-leaflet 0.3",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-13T22:30:54.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11518,7 +11522,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 80
+      "count": 79
     },
     {
       "id": "theverge",
@@ -11526,7 +11530,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 48
+      "count": 47
     },
     {
       "id": "mittr",
@@ -11550,7 +11554,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 51
+      "count": 54
     },
     {
       "id": "marktechpost",
@@ -11558,7 +11562,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 24
+      "count": 26
     },
     {
       "id": "simonwillison",
@@ -11566,7 +11570,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 22
+      "count": 20
     },
     {
       "id": "oneusefulthing",
@@ -11606,7 +11610,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 116
+      "count": 115
     },
     {
       "id": "infoq",
@@ -11619,8 +11623,8 @@
   ],
   "stats": {
     "total": 500,
-    "guides": 40,
-    "translated": 185,
+    "guides": 39,
+    "translated": 189,
     "sources": 14
   }
 }
