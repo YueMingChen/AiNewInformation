@@ -1,6 +1,215 @@
 {
-  "generatedAt": "2026-11-21T12:47:45.704Z",
+  "generatedAt": "2026-11-21T20:36:02.976Z",
   "articles": [
+    {
+      "id": "234da3fc18675af9c4",
+      "titleOriginal": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summaryOriginal": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR : Before the negotiations got underway, the International Committee of the Red Cross, the guardian of the Geneva Conventions, said it was urgent for legally binding rules to be",
+      "titleZh": "联合国未能就“杀手机器人”的监管规则达成一致",
+      "summaryZh": "本周在日内瓦举行的联合国外交官会议的议程之一是制定关于使用自主武器（或所谓的“杀手机器人”）的规则。经过一周基本毫无成果的谈判后，代表们最终在会议结束时同意“开始讨论各种方案”。据NPR报道：在谈判开始之前，作为《日内瓦公约》的守护者，红十字国际委员会表示，迫切需要制定具有法律约束力的规则。",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-21T20:03:37.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "01945f6a907c761837",
+      "titleOriginal": "Here are the top AI agents that can live in your text messages",
+      "summaryOriginal": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "titleZh": "以下是可以在您的短信中使用的顶级 AI 代理",
+      "summaryZh": "我们列出了一份最值得关注的 AI 智能体清单，这些智能体可以存在于您的短信中，包括通用助手以及专为家庭、旅行和工作设计的智能体。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-21T17:00:00.000Z",
+      "author": "Lauren Forristal",
+      "tags": [
+        "news",
+        "AI",
+        "instinct",
+        "AI agents",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "033823f6f4fd56f86c",
+      "titleOriginal": "Nvidia researchers argue huge AI context windows are a dead end",
+      "summaryOriginal": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword search usually matched full-context results at a fraction of the cost. The team even proposes a new class of models that works with short notes instead of long context. The article Nvidia researchers argue huge AI context windows are a dead end appeared first on The Decoder .",
+      "titleZh": "Nvidia研究人员认为，超大AI上下文窗口是一条死胡同",
+      "summaryZh": "Nvidia的研究人员认为，语言模型通常不需要使用其完整的上下文窗口（速度慢、成本高且容易出错），并提出了一个替代方案。在测试中，定期摘要和有针对性的关键词搜索通常能够以极低的成本与全上下文结果相匹配。该团队甚至提出了一种新型模型，这种模型使用简短的注释而非冗长的上下文。这篇文章《Nvidia研究人员认为庞大的AI上下文窗口是死胡同》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T16:23:45.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "Context Engineering"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a35786f03510644fbf",
+      "titleOriginal": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+      "summaryOriginal": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every breath its members take to train an AI in his image. Former members report manipulation and psychological breakdowns. The article Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion appeared first on The Decoder .",
+      "titleZh": "硅谷对人工智能末日的痴迷与日俱增，正使科技行业的某些部分转向近乎邪教般的狂热。",
+      "summaryZh": "佛蒙特州的一座名为Maple的佛教寺院希望将自己打造成硅谷的精神权威，同时创造出自己的AI神。据《纽约客》报道，领袖Soryu Forall的团体记录了其成员的每一次呼吸，以训练一个与他形象相符的人工智能。前成员报告称存在操纵行为和心理崩溃的情况。这篇文章《硅谷对人工智能末日的痴迷与日俱增，正在使科技行业的部分人士转向类似邪教的狂热崇拜》最初发表在《解码器》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T16:04:29.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Religion",
+        "Image"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "89298d3b7fb057701d",
+      "titleOriginal": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summaryOriginal": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "titleZh": "将自己面孔的AI版本出售给这家微短剧初创公司，是好莱坞的未来吗？",
+      "summaryZh": "一位演员将自己的面部形象授权给了一家微短剧初创公司——这在中国已经成为一种流行趋势。专家们对如果这也成为好莱坞的趋势，会产生什么样的长期后果表示质疑。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-21T16:00:00.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "Media & Entertainment",
+        "AI",
+        "Hollywood",
+        "entertainment"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a9f34b76fcc6d54c37",
+      "titleOriginal": "Can Anthropic afford to put safety first?",
+      "summaryOriginal": "Today, I’m talking with Hayden Field, The Verge ’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to say that Anthropic has become one of the most valuable companies on the planet. The real story is what happens now — and whether Anthropic can continue to thread the needle of carin",
+      "titleZh": "Anthropic是否有能力将安全放在首位？",
+      "summaryZh": "今天，我将与The Verge的高级人工智能记者Hayden Field聊聊Anthropic的IPO，这是我们关于人工智能在现实生活中的系列节目的第三期，也是最后一期。Claude背后的这家人工智能实验室于上周四在纳斯达克上市。数字非常庞大，但对于这次谈话来说并不那么重要，只是想说Anthropic已经成为全球最有价值的公司之一。真正值得关注的是现在会发生什么——以及Anthropic能否继续在商业利益与社会责任之间找到微妙的平衡。",
+      "translated": true,
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-21T15:00:00.000Z",
+      "author": "Nilay Patel",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e74727ec8af7011620",
+      "titleOriginal": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summaryOriginal": "Chess.com is ready to go a lot bigger than chess. After launching Gambit , a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word . They're all part of Chess's new Classic Games platform, which is launching its public beta on Saturday on the web and through a new app for iOS and Android . \"Our cofounders have had many people come up to them and say",
+      "titleZh": "Chess.com 的下一步是打造一个经典游戏的新平台，从麻将到数独应有尽有",
+      "summaryZh": "Chess.com已准备好将业务拓展到远远超出国际象棋的范畴。今年早些时候，该公司推出了一个无赌博性质的扑克网站Gambit，现在又增加了10款游戏：西洋双陆棋、跳棋、围棋、红心大战、麻将、将棋、数独、纸牌、象棋以及一款名为Word的拼字游戏替代品。这些游戏都是Chess新推出的经典游戏平台的一部分，该平台将于周六在网页上以及通过iOS和Android的新应用程序发布公开测试版。“我们的联合创始人经常有人来找他们说：",
+      "translated": true,
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-21T14:00:00.000Z",
+      "author": "Stevie Bonifield",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d536e38a7a199d0e67",
+      "titleOriginal": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summaryOriginal": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality. The article OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions appeared first on The Decoder .",
+      "titleZh": "OpenAI 分享了 GPT-6.2 Astra 和 Sol 的新提示技巧，以解决答案过于简短和出现不必要的问题等问题",
+      "summaryZh": "OpenAI发布了GPT-6.2 Astra和Sol的新提示模板，旨在纠正常见的模型行为，例如答案过于简短、不必要的跟进问题以及编码时过度测试。API 也在发生变化，因为编辑对话历史记录可能会舍弃推理内容，并降低回复质量。文章《OpenAI分享GPT-6.2 Astra和Sol的新提示技巧，以解决答案过于简短和提出不必要问题的问题》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-21T13:32:35.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "guide",
+        "AI in practice",
+        "Artificial Intelligence",
+        "OpenAI",
+        "Prompt Engineering"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9dd04be51f1df2a0e0",
+      "titleOriginal": "The Outages Are Just Getting Started",
+      "summaryOriginal": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "titleZh": "停电才刚刚开始",
+      "summaryZh": "随着攻击者争先恐后地利用新发现的漏洞，人工智能正迫使公司更快地修补其系统。欢迎来到互联网中断的地狱。",
+      "translated": true,
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "author": "Lily Hay Newman, Matt Burgess",
+      "tags": [
+        "guide",
+        "Security"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
     {
       "id": "cc5c5c9af1c508282b",
       "titleOriginal": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
@@ -339,7 +548,8 @@
       "publishedAt": "2026-11-21T05:05:28.000Z",
       "author": "版面之外",
       "tags": [
-        "launch"
+        "launch",
+        "主编精选文章"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -781,9 +991,9 @@
       "id": "790fce6927eb43ee23",
       "titleOriginal": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
       "summaryOriginal": "The word of the year in the AI industry over 2026 has been “slop” — meaning low-quality output from a large language model. And with so much code being AI-generated now, avoiding slop has become a daily concern for software engineers. So how to do that? One way is to use formal verification systems , which use mathematical proofs and logic to verify the correctness of software or hardware. With AI’s growing prowess at solving math problems , there’s now a number of AI companies offering formal v",
-      "titleZh": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "与“垃圾”的斗争，以及与之抗争的新兴武器：形式化验证",
+      "summaryZh": "2026年人工智能行业的年度热词是“slop”，意指大型语言模型生成的低质量输出。如今，有如此多的代码由人工智能生成，避免“垃圾”已成为软件工程师的日常关切。那么，该如何做到这一点呢？一种方法是使用形式化验证系统，该系统使用数学证明和逻辑来验证软件或硬件的正确性。随着人工智能在解决数学问题方面的能力日益增强，现在有许多人工智能公司提供形式化验证服务。",
+      "translated": true,
       "url": "https://latent.space/p/formal-verification/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -803,9 +1013,9 @@
       "id": "49973232093df3cfc8",
       "titleOriginal": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
       "summaryOriginal": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns. The article OpenAI makes it much harder for attackers to extract how its latest AI models think appeared first on The Decoder .",
-      "titleZh": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "OpenAI 让攻击者更难弄清其最新人工智能模型的思考方式",
+      "summaryZh": "OpenAI 大幅加强了防止从 GPT-6.2 Astra 和 GPT-6.2 Sol 中提取内部推理的防护措施。在自适应红队测试中，提取受保护推理的成功率从54%降至0.2%。该公司还因有组织的提炼活动，每周暂停数千至数万个账户。这篇文章《OpenAI 让攻击者更难提取其最新人工智能模型的思考方式》最初发表在《The Decoder》上。",
+      "translated": true,
       "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -1924,6 +2134,27 @@
         "Business"
       ],
       "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d63c6404d469aaa26a",
+      "titleOriginal": "llm-gemini 0.38.1",
+      "summaryOriginal": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I missed that when I added those models to the llm-gemini plugin, which is now fixed in this dot release. The xhigh setting for Hydrogen makes a significant difference. I updated my Gemini 4 comparison grid - note how Hydrogen at high used 5,311 output tokens and cost 3.99 cents, but the same model at xhigh used 31,477 output to",
+      "titleZh": "llm-gemini 0.38.1",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-20T03:01:57.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -11275,228 +11506,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "e2d674adf4bcc16782",
-      "titleOriginal": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "summaryOriginal": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon appeared fir",
-      "titleZh": "前研究员Coxon表示，Anthropic已经能够用“最初所需计算量的一小部分”来重新训练Mythos。",
-      "summaryZh": "OpenAI和Anthropic的前研究员Jacob Coxon指出，Anthropic的IPO路演中的一张幻灯片是他离职的原因，他说这张幻灯片表明，该公司的算法不仅在快速改进，而且改进速度还在加快。Coxon继续呼吁暂停尖端模型开发，以便竞争对手能够赶上，并且人类水平的人工智能能够成为一种商品。前研究员Coxon表示，Anthropic已经能够“用最初所需计算量的一小部分”来重新训练Mythos，这篇文章首次发表在",
-      "translated": true,
-      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-14T11:21:41.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI research",
-        "Artificial Intelligence",
-        "AI and security",
-        "Anthropic"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b84b4c49c41de92a05",
-      "titleOriginal": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
-      "summaryOriginal": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
-      "titleZh": "没有飞行员。空中交通管制员寥寥无几。会出什么问题呢？",
-      "summaryZh": "通常，航空业在拥抱新技术方面较为缓慢，但人工智能已经飞入蓝天。",
-      "translated": true,
-      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-14T11:00:00.000Z",
-      "author": "Jeff Wise",
-      "tags": [
-        "analysis",
-        "The Big Story",
-        "Business",
-        "Business / Transportation"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "545d3ee004cb236ac1",
-      "titleOriginal": "库克接班，可能真是英伟达的最优解",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋辞职的消息刚传出来，硅谷还在消化这场大地震，特朗普已经先出来指点江山了。 他直接点名刚刚卸任苹果CEO、转任董事长的库克去接英伟达的班，还给了一句排面十足的评价：“一个传奇接替另一个传奇。” 网友瞬间炸锅了。 很多人的第一反应是离谱，评论区里满屏都在刷：“This is a joke, right？”（这是在开玩笑吧？）英伟达投资人Ross Gerber更是公开炮轰：“我甚至不确定库克知不知道AI到底是干嘛的。” 有人讽刺他最大的成就，是把苹果变成了一家奢侈品公司，而不是科技公司；知名芯片分析师Patrick Moorhead也泼冷水，说库克是个运营天才，但绝不是英伟达现在需要的人。 吃瓜群众则开始琢磨特朗普的真实意图。有人调侃这是“踩低捧高”，老黄刚走就急着推新人；也有网友开脑洞，特朗普大概是想把库克彻底从苹果支走，好逼着iPhone工厂赶紧搬回美国。 不过，也有人认真考虑起了这个提议。科技分析师Dan Ives就认为，库克是接任英伟达CEO的最佳人选。毕竟，库克把苹果市值从3000多亿美元带到一度突破5万亿美元，总",
-      "titleZh": "库克接班，可能真是英伟达的最优解",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋辞职的消息刚传出来，硅谷还在消化这场大地震，特朗普已经先出来指点江山了。 他直接点名刚刚卸任苹果CEO、转任董事长的库克去接英伟达的班，还给了一句排面十足的评价：“一个传奇接替另一个传奇。” 网友瞬间炸锅了。 很多人的第一反应是离谱，评论区里满屏都在刷：“This is a joke, right？”（这是在开玩笑吧？）英伟达投资人Ross Gerber更是公开炮轰：“我甚至不确定库克知不知道AI到底是干嘛的。” 有人讽刺他最大的成就，是把苹果变成了一家奢侈品公司，而不是科技公司；知名芯片分析师Patrick Moorhead也泼冷水，说库克是个运营天才，但绝不是英伟达现在需要的人。 吃瓜群众则开始琢磨特朗普的真实意图。有人调侃这是“踩低捧高”，老黄刚走就急着推新人；也有网友开脑洞，特朗普大概是想把库克彻底从苹果支走，好逼着iPhone工厂赶紧搬回美国。 不过，也有人认真考虑起了这个提议。科技分析师Dan Ives就认为，库克是接任英伟达CEO的最佳人选。毕竟，库克把苹果市值从3000多亿美元带到一度突破5万亿美元，总",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205427.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T10:37:06.000Z",
-      "author": "字母AI",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ad306b16c1bb8d28ef",
-      "titleOriginal": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
-      "summaryOriginal": "Stanford researchers have released Memorilla , an open-source memory system for LLMs. The Memorilla memory system reads a whole document collection and hands a frozen LLM just 16 memory tokens. On FactKG, a frozen Qwen3-8B scored 84.33% with Memorilla, against 80.43% with every document in context . It did that with 108x fewer document tokens. Code, training recipes and checkpoints are public under Apache 2.0 . You can check the deployment options and specs here through our GPULeaderboard.com ch",
-      "titleZh": "斯坦福大学研究团队开源Memorilla，一种用于冻结大语言模型的潜在记忆模块",
-      "summaryZh": "斯坦福大学的研究人员发布了 Memorilla ，这是一个面向大语言模型的开源记忆系统。Memorilla 记忆系统会读取整个文档集合，并仅向冻结的 LLM 提供 16 个记忆标记。在FactKG上，使用Memorilla的冻结Qwen3-8B得分84.33%，而使用所有上下文文档的得分仅为80.43%。它使用少108倍的文档token实现了这一点。代码、训练方案和检查点均根据 Apache 2.0 许可证公开。您可以通过我们的GPULeaderboard.com频道在此处查看部署选项和规格。",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-14T10:21:21.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Agents",
-        "Context Engineering",
-        "Editors Pick"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2f7be79c9a9844c0cc",
-      "titleOriginal": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
-      "summaryOriginal": "",
-      "titleZh": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T10:00:00.000Z",
-      "author": "作者：Leela Kumili",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "42d3b40326a9667d88",
-      "titleOriginal": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
-      "summaryOriginal": "",
-      "titleZh": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T10:00:00.000Z",
-      "author": "AICon 全球人工智能开发与应用大会",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "58962dbe06f21e14e0",
-      "titleOriginal": "A股一级行业，PS偏离度分布与深潜分析",
-      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃",
-      "titleZh": "A股一级行业，PS偏离度分布与深潜分析",
-      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 截面时点 2026 年 9 月 | 中位数主口径 | 44 个非金融一级行业（全样本 45 个一级行业含金融业） 估值的高低，只有在可比的坐标中才见意义。市销率标定的是一个行业的绝对倍数，而行业贵贱唯有放在同期同行的横向比较里才可判读。本文以 2026 年 9 月 30 日截面为基准，用“PS 偏离度”衡量 44 个非金融一级行业相对全市场中位的估值位置，先厘清这一指标的内涵与边界，再刻画其分布形态，进而深入分布两端，辨析两端各自代表行业的成因，并下沉到二级与三级行业，辨析一级读数之内的估值分布差异。 就分布看，偏离度的中位为 &minus;23.7%，半数行业落在 &minus;42.6% 至 +30.5% 之间，两端的少数行业才见估值离散。就两端看，偏离度为正的一端多由高增长预期与稀缺溢价支撑，以 AI 与半导体链、医药生物、稀缺资源与教育为代表；偏离度为负的一端多反映低增长现实与周期底部，以黑色金属、煤炭、油气、建筑、造纸等传统周期与制造为代表。就层级看，一级读数之下还有结构：同一个一级行业之内，二级、三级的估值可以相差数倍乃",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205459.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T09:58:58.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c2b71192af9fed4c45",
-      "titleOriginal": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品",
-      "titleZh": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数早盘冲高，此后一路走低。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30%，北证 50 跌 3.50%。沪深两市成交额 16557 亿元，较前一交易日缩量 2764 亿元。个股涨跌家数为 765 比 4748，跌停 39 只，比涨停多出一只。 跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。 二、首次跌停板的投资机会 1. 南卫股份（603880）：题材退潮的高位估值修正 南卫股份主营创可贴、医用胶布胶带与防护用品，创可贴与防护用品",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205442.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T09:57:13.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "424688d057d7d61252",
-      "titleOriginal": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗",
-      "titleZh": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
-      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 一、市场概览 11月13日，A 股五大指数高开后冲高回落，午后单边走低，收盘全线下跌。沪指跌 0.59% 报 3634.35 点，深证成指跌 2.05% 报 10968.79 点，创业板指跌 3.32% 报 2426.08 点，科创 50 跌 2.30% 报 1279.66 点，北证 50 跌 3.50%。沪深两市成交额 16556.68 亿元，较前一交易日缩量 2764.14 亿元。个股涨跌家数为 765 比 4748，涨停 38 只，跌停 39 只。 盘面是硬件的一次崩塌与低位板块的接棒。英伟达前夜宣布黄仁勋辞任首席执行官，股价收跌四个多点，A 股算力硬件应声倒下，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停；资金转向影视院线、白酒、白色家电、养殖与银行，抖音的互动剧征集把短剧再推一波，猪价回升带起饲料与生猪。算力并非全线退潮：阿里分拆平头哥赴港上市，国产芯片与算力租赁逆势走强，华东重机以涨停价开盘，华孚时尚一分钟直线拉板；摘帽叠加一元甩卖负资产，美晨科技放量封上二十厘米。连板高度只剩天普股份一根独苗",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205437.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T09:57:00.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4bf39f867643ad31b9",
-      "titleOriginal": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
-      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，",
-      "titleZh": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
-      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 前四篇文章分别从技术、地缘、制度和全球格局四个维度，讨论了美国债务困局：AI能否带来超常规增长，军事霸权、局部冲突与金融制裁能否为债务争取时间，财政与货币政策边界混淆如何成为制度性根源，以及美债风险一旦释放将怎样传导至全球资产、国家利益和社会阶层。由此，一个问题自然浮现：美国政商、金融和智库精英掌握着顶尖的数据、模型与经济学人才，难道看不到这套体系的长期风险？如果看得到，为什么政策选择仍可能不断推高债务？ 要回答这一问题，既需要考察美国精英阶层对债务风险的不同认知，也需要分析其政策选择背后的理论依据与现实利益。本文首先梳理美国精英群体内部的认知分化，分析一部分人为何选择拖延改革、转移风险，以及另一部分人为何基于特定经济学范式，认为现有债务模式仍具有可持续性；继而从芝加哥学派、剑桥学派和奥地利（维也纳）学派三条思想脉络出发，比较它们对政府债务、央行干预、财政扩张和市场纪律的不同判断。 本文的核心观点是，美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。经济学理论可以提供不同的解释框架，",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205430.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-14T09:56:39.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11522,7 +11531,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 79
+      "count": 81
     },
     {
       "id": "theverge",
@@ -11530,7 +11539,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 47
+      "count": 50
     },
     {
       "id": "mittr",
@@ -11554,7 +11563,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 54
+      "count": 56
     },
     {
       "id": "marktechpost",
@@ -11562,7 +11571,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 26
+      "count": 25
     },
     {
       "id": "simonwillison",
@@ -11570,7 +11579,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 20
+      "count": 21
     },
     {
       "id": "oneusefulthing",
@@ -11610,7 +11619,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 115
+      "count": 110
     },
     {
       "id": "infoq",
@@ -11618,13 +11627,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 53
+      "count": 51
     }
   ],
   "stats": {
     "total": 500,
     "guides": 39,
-    "translated": 189,
+    "translated": 197,
     "sources": 14
   }
 }
