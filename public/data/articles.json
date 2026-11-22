@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-11-22T12:41:20.050Z",
+  "generatedAt": "2026-11-22T20:46:29.267Z",
   "articles": [
+    {
+      "id": "fac1fd6dfa8099be27",
+      "titleOriginal": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+      "summaryOriginal": "NVIDIA has released Alpamayo 2 Edge , a compact reasoning vision-language-action (VLA) model for autonomous driving. Alpamayo 2 Edge is a 2B-parameter model that plans trajectories and explains them inside the vehicle. It targets NVIDIA DRIVE AGX Thor , not a datacenter GPU. The goal: reasoning-based planning within onboard compute and latency budgets. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . TL;DR Size: 2B-class. Card breakdown: 2.45B",
+      "titleZh": "NVIDIA 发布 Alpamayo 2 Edge：面向 DRIVE Thor 的 20 亿参数推理 VLA",
+      "summaryZh": "NVIDIA 推出了 Alpamayo 2 Edge ，这是一款用于自动驾驶的紧凑型推理视觉-语言-行动 (VLA) 模型。Alpamayo 2 Edge 是一款 20 亿参数模型，能够在车内规划轨迹并进行解释。它针对的是 NVIDIA DRIVE AGX Thor ，而不是数据中心 GPU。目标：在车载计算和延迟预算范围内进行基于推理的规划。您可以通过我们的 GPULeaderboard.com Chrome 扩展程序在此处查看部署选项和规格。TL;DR 大小：20 亿参数级。卡片明细：24.5 亿",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:37:57.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "74f939e081ec8d04b0",
+      "titleOriginal": "Why data centers are at the center of the Big Tech backlash",
+      "summaryOriginal": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "titleZh": "为什么数据中心成为科技巨头遭遇强烈反弹的焦点",
+      "summaryZh": "记者Paris Marx解读他的新书《超大规模》。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-22T18:08:43.000Z",
+      "author": "Anthony Ha",
+      "tags": [
+        "news",
+        "AI",
+        "Government & Policy",
+        "Media & Entertainment",
+        "data centers"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "2eb1f0477cf2bb96da",
       "titleOriginal": "财务团队的 AI 蓝图",
@@ -60,6 +110,187 @@
       "author": "王玮",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "265c68ec3a4cc76bab",
+      "titleOriginal": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "summaryOriginal": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music . Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto -themed section. They found several audio files with Suno metadata that pointed back to the tracks on Suno's site. Creator Edmund McMillen took to X to apologize and claimed he \"had no idea\" the in-game GTA parody used generative AI music. Adding t",
+      "titleZh": "《以撒的结合》开发商从《忏悔+》中删除了 AI 音乐",
+      "summaryZh": "在发现游戏的一个特定部分使用了AI音乐后，《以撒的结合：忏悔+》在过去几天里在Steam上遭遇了差评轰炸。Reddit用户ShweetsStuff发现了在《侠盗猎车手》主题关卡中使用的歌曲。他们发现了几个带有Suno元数据的音频文件，这些元数据指向Suno网站上的曲目。创作者Edmund McMillen在X上道歉，并声称他“完全不知道”游戏中的《GTA》模仿段落使用了生成式AI音乐。他还补充说，",
+      "translated": true,
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-22T17:25:20.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7cda7525825c687b1d",
+      "titleOriginal": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summaryOriginal": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they lose track as autonomous developers. The article AI coding agents ace isolated tests but complete f",
+      "titleZh": "AI 编码代理在独立测试中表现出色，但在模拟工作场所中完成的任务不到十分之一",
+      "summaryZh": "一项新的真实世界测试将 AI 编码代理置于模拟的开发人员工作中，其中有同事、项目看板和不完整的交接，它们必须在混乱的日常工作流程中自行继续开发软件，并可靠地关闭未结工单。即使是Opus 5.5和Astra也远远达不到要求，完全解决的任务不到十分之一。这些模型能够快速完成明确的独立任务，但作为自主开发者，它们会迷失方向。文章《AI 编程代理在独立测试中表现出色，但在实际工作中却完全失败》",
+      "translated": true,
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-22T15:15:48.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "guide",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Agent"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bd868b7bc3c2ee507f",
+      "titleOriginal": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
+      "summaryOriginal": "一、市场概览 11月20日，A股三大指数集体下跌，跌幅较前一交易日明显扩大。沪指跌1.23%报3533.79点，深证成指跌3.09%报10256.39点，创业板指跌3.54%报2212.13点，科创50跌3.12%，北证50跌4.85%。沪深两市成交额14222亿元，较前一交易日放量1171亿元。三百余只个股上涨、五千二百余只下跌，涨停30只、跌停61只。 跌停的构成主要是前期题材退潮与业绩瑕疵两条线。隔夜海外科技股大幅下挫，半导体、CPO与通信方向领跌，通富微电、九安医疗跌停；小盘股加速出清，微盘股指数连续第七日收跌。算力供电与AI安防题材同步降温，动力源、苏州科达跌停；特种纸板块走弱，松炀资源封跌停。影视院线继续下挫，浙文影业走出第四个跌停，凯撒文化与阳光照明连续三日跌停。本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。 二、首次跌停板的投资机会 1.苏州科达（603660）：AI安防退潮的高位估值修正 苏州科达主营视频监控与网络视讯产品，服务公安与政企信息化。溢价来自AI安防与低",
+      "titleZh": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
+      "summaryZh": "一、市场概览 11月20日，A股三大指数集体下跌，跌幅较前一交易日明显扩大。沪指跌1.23%报3533.79点，深证成指跌3.09%报10256.39点，创业板指跌3.54%报2212.13点，科创50跌3.12%，北证50跌4.85%。沪深两市成交额14222亿元，较前一交易日放量1171亿元。三百余只个股上涨、五千二百余只下跌，涨停30只、跌停61只。 跌停的构成主要是前期题材退潮与业绩瑕疵两条线。隔夜海外科技股大幅下挫，半导体、CPO与通信方向领跌，通富微电、九安医疗跌停；小盘股加速出清，微盘股指数连续第七日收跌。算力供电与AI安防题材同步降温，动力源、苏州科达跌停；特种纸板块走弱，松炀资源封跌停。影视院线继续下挫，浙文影业走出第四个跌停，凯撒文化与阳光照明连续三日跌停。本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。 二、首次跌停板的投资机会 1.苏州科达（603660）：AI安防退潮的高位估值修正 苏州科达主营视频监控与网络视讯产品，服务公安与政企信息化。溢价来自AI安防与低",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8214152.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T14:44:44.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7bb6862f621403ea16",
+      "titleOriginal": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "summaryOriginal": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools. The article Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog appeared first on The Decoder .",
+      "titleZh": "Perplexity 的新 Monitor API 将网络搜索从一次性查询转变为不间断的“看门狗",
+      "summaryZh": "Perplexity 即将推出一个 Monitor API，该 API 会按计划搜索网络，并且仅在发生相关变化时通过 Webhook 向代理发出提醒。其自有的决策模型会过滤掉不重要的结果。对于Perplexity而言，该API是其更广泛战略的一部分，旨在通过开发者工具，在日益同质化的聊天机器人业务中脱颖而出。文章《Perplexity的新Monitor API将网络搜索从一次性查询转变为不间断的“监视器”》最初发表在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-22T14:20:28.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI search",
+        "Perplexity"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9110ca816a265ca4ef",
+      "titleOriginal": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
+      "summaryOriginal": "一、市场概览 11月20日，A股三大指数集体下跌，跌幅较前一交易日明显扩大。沪指跌1.23%报3533.79点，深证成指跌3.09%报10256.39点，创业板指跌3.54%报2212.13点，科创50跌3.12%，北证50跌4.85%。沪深两市成交额14222亿元，较前一交易日放量1171亿元。三百余只个股上涨、五千二百余只下跌，涨停30只、跌停61只。 盘面主线是防御与题材并存。银行板块逆势走强，建设银行、长江电力等红利股创历史新高；题材端华为算力与先进封装局部活跃，真视通、盛剑科技四连板，中京电子两连板，荣联科技、华微电子等首板封板。下跌方向是激光产业、CPO、半导体与通信，通富微电、九安医疗跌停。本期五只标的分为两端：三只首板收盘落在定价的五成八与六成二，折价成因各异；两只四连板收在定价的两倍四之上，一只两连板收在定价的一点六倍，溢价集中在算力与半导体材料。 二、首次涨停板的投资机会 1.好当家（600467）：消费复苏预期推动的海产折价标的 好当家主营海水养殖与食品加工，海参产品与冷冻调理食品是主要收入来源，处于水产养殖环节。收盘不到济安定价的六成，折价来自养殖周期与消费需求",
+      "titleZh": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
+      "summaryZh": "一、市场概览 11月20日，A股三大指数集体下跌，跌幅较前一交易日明显扩大。沪指跌1.23%报3533.79点，深证成指跌3.09%报10256.39点，创业板指跌3.54%报2212.13点，科创50跌3.12%，北证50跌4.85%。沪深两市成交额14222亿元，较前一交易日放量1171亿元。三百余只个股上涨、五千二百余只下跌，涨停30只、跌停61只。 盘面主线是防御与题材并存。银行板块逆势走强，建设银行、长江电力等红利股创历史新高；题材端华为算力与先进封装局部活跃，真视通、盛剑科技四连板，中京电子两连板，荣联科技、华微电子等首板封板。下跌方向是激光产业、CPO、半导体与通信，通富微电、九安医疗跌停。本期五只标的分为两端：三只首板收盘落在定价的五成八与六成二，折价成因各异；两只四连板收在定价的两倍四之上，一只两连板收在定价的一点六倍，溢价集中在算力与半导体材料。 二、首次涨停板的投资机会 1.好当家（600467）：消费复苏预期推动的海产折价标的 好当家主营海水养殖与食品加工，海参产品与冷冻调理食品是主要收入来源，处于水产养殖环节。收盘不到济安定价的六成，折价来自养殖周期与消费需求",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8214137.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T14:12:03.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8c292177d000d31fd8",
+      "titleOriginal": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+      "summaryOriginal": "上一篇讨论了机会主义者、外交家型和专家型三种行为逻辑。 机会主义者把个人收益放在首位，容易陷入短期套利；外交家型过度维护关系和组织稳定，容易错过调整时机；专家型依赖个人专业能力，容易把局部最优当成企业整体最优。 这三种行为逻辑的问题并不完全相同，但有一个共同点：领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。 再往上走，行为逻辑开始发生变化。 实干家型首先解决的是如何在多个约束条件下，把事情稳定地做成；个人主义者开始突破既有规则，寻找新的可能性；战略家不再只看单个项目，而是把组织、产业乃至社会放进同一个决策框架；到了炼金术士型，领导者甚至会重新思考企业为什么存在，以及什么样的价值能够跨越一个商业周期。 这四种行为逻辑并不是四种“更聪明”的人，而是四种不同的决策边界。 （四）实干家型：多约束线性规划，稳健复利错失指数红利 实干家型是相对稳定环境下的多约束线性规划：在短期业绩与长期成长之间求平衡，把团队能力、资源边界、市场规则一并写进约束条件，求一个可行且稳定的解。他们擅长搭建标准化协作体系，把中长期规划落到实处",
+      "titleZh": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+      "summaryZh": "上一篇讨论了机会主义者、外交家型和专家型三种行为逻辑。 机会主义者把个人收益放在首位，容易陷入短期套利；外交家型过度维护关系和组织稳定，容易错过调整时机；专家型依赖个人专业能力，容易把局部最优当成企业整体最优。 这三种行为逻辑的问题并不完全相同，但有一个共同点：领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。 再往上走，行为逻辑开始发生变化。 实干家型首先解决的是如何在多个约束条件下，把事情稳定地做成；个人主义者开始突破既有规则，寻找新的可能性；战略家不再只看单个项目，而是把组织、产业乃至社会放进同一个决策框架；到了炼金术士型，领导者甚至会重新思考企业为什么存在，以及什么样的价值能够跨越一个商业周期。 这四种行为逻辑并不是四种“更聪明”的人，而是四种不同的决策边界。 （四）实干家型：多约束线性规划，稳健复利错失指数红利 实干家型是相对稳定环境下的多约束线性规划：在短期业绩与长期成长之间求平衡，把团队能力、资源边界、市场规则一并写进约束条件，求一个可行且稳定的解。他们擅长搭建标准化协作体系，把中长期规划落到实处",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8214129.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T14:09:45.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5f8d980aa0c19c10d0",
+      "titleOriginal": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summaryOriginal": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actually do. The article AI is getting better faster than experts can reliably test whether new systems are safe, METR warns appeared first on The Decoder .",
+      "titleZh": "METR 警告称，人工智能的进步速度超过了专家能够可靠地测试新系统是否安全的速度。",
+      "summaryZh": "METR报告称，Opus 5.5和GPT-6 Astra等领先的人工智能模型在研究任务方面的表现正在迅速提升，但其性能也变得越来越难以衡量。该组织警告称，当前的数据无法排除人工智能发展出现危险加速的可能性，但该组织也表示，常见的测试可能会高估模型实际能够做到的事情。METR警告称，人工智能的进步速度快于专家能够可靠地测试新系统是否安全的速度。这篇文章最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-22T13:00:43.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and safety"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0f50037c76f25ff3a0",
+      "titleOriginal": "The vibe-coding revolution is coming to all the gadgets",
+      "summaryOriginal": "This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started Like so many things with AI, it's not that large language models opened up some wholly new capability. For as long as there have been gadgets, a few users have been hacking, modding, jailbreaking, and tweaking them to th",
+      "titleZh": "振动编码革命即将席卷所有小工具",
+      "summaryZh": "本期是《The Stepback》，这是一份每周通讯，深入剖析科技界的一则重要新闻。如需了解有关“一切皆可氛围黑客”的更多信息，请关注David Pierce。《The Stepback》于美国东部时间周日上午8点送达订阅者的收件箱。请在此处订阅《The Stepback》。这一切是如何开始的与人工智能相关的许多事物一样，并不是大型语言模型开辟了一些全新的功能。自从有了小工具以来，就一直有少数用户对它们进行黑客攻击、改装、越狱和调整，以达到……",
+      "translated": true,
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "author": "David Pierce",
+      "tags": [
+        "news",
+        "Coding"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -349,7 +580,7 @@
     {
       "id": "4d4ae651aed9b9446a",
       "titleOriginal": "A Team of Researchers from Columbia and CertiK Introduce TensorLean for Formal Verification of GPU Kernels",
-      "summaryOriginal": "Researchers from Columbia University and CertiK have introduced TensorLean , a framework for formal verification of GPU kernels at the PTX level. TensorLean is a Lean-based verifier that proves compiled kernels match a tensor-level math spec. The research team checked 149 kernel instances , including every kernel of FlashAttention-2, -3 and -4 plus DeepGEMM. It proved 83 correct. The remaining 66 led to 38 correctness bugs. TL;DR Size: 1.8K-line PTX parser. Specs total 10,278 lines against 151,2",
+      "summaryOriginal": "Researchers from Columbia University and CertiK have introduced TensorLean , a framework for formal verification of GPU kernels at the PTX level. TensorLean is a Lean-based verifier that proves compiled kernels match a tensor-level math spec. The research team checked 149 kernel instances , including every kernel of FlashAttention-2, -3 and -4 plus DeepGEMM. It proved 83 correct. The remaining 66 led to 38 correctness bugs. You can check the deployment options and specs here through our GPULeade",
       "titleZh": "哥伦比亚大学和CertiK的研究人员团队推出用于GPU内核形式化验证的TensorLean",
       "summaryZh": "哥伦比亚大学和CertiK的研究人员推出了TensorLean ，这是一个在PTX级别对GPU内核进行形式化验证的框架。TensorLean 是一种基于 Lean 的验证器，用于证明编译后的内核与张量级数学规范相匹配。研究团队检查了149个内核实例，包括FlashAttention-2、-3和-4的每个内核以及DeepGEMM。它证明了其中83个是正确的。其余66个实例导致了38个正确性漏洞。TL;DR 大小：1.8K 行 PTX 解析器。规范总计 10,278 行，而代码总计 151,2",
       "translated": true,
@@ -484,6 +715,28 @@
         "投稿"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "de5cd1a6d51dc917ab",
+      "titleOriginal": "Perplexity and Intelligence",
+      "summaryOriginal": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "titleZh": "困惑度和智能",
+      "summaryZh": "困惑度如何衡量人工智能模型的进步，以及它为何有助于开发人员建立一种评估新兴能力的共同方法。",
+      "translated": true,
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Research"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -669,10 +922,10 @@
       "author": "Lucas Ropek",
       "tags": [
         "news",
-        "Media & Entertainment",
         "AI",
-        "Hollywood",
-        "entertainment"
+        "Media & Entertainment",
+        "entertainment",
+        "Hollywood"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -769,7 +1022,7 @@
     {
       "id": "cc5c5c9af1c508282b",
       "titleOriginal": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
-      "summaryOriginal": "Thinking Machines Lab has released Inkling 2 Mini , an open-weight looped transformer with 26.4B total parameters. The model reuses its middle layers 3 times per token instead of adding more weights. That keeps the checkpoint near 20GB, small enough for a 32GB Mac or 1 NVIDIA DGX Spark. For developers, Inkling 2 Mini is a local option for agentic coding, tool use and document work. It ships under Apache 2.0 on Hugging Face , with hosted inference and fine-tuning on Tinker . TL;DR Size: 26.4B tot",
+      "summaryOriginal": "Thinking Machines Lab has released Inkling 2 Mini , an open-weight looped transformer with 26.4B total parameters. The model reuses its middle layers 3 times per token instead of adding more weights. That keeps the checkpoint near 20GB, small enough for a 32GB Mac or 1 NVIDIA DGX Spark. For developers, Inkling 2 Mini is a local option for agentic coding, tool use and document work. It ships under Apache 2.0 on Hugging Face , with hosted inference and fine-tuning on Tinker . You can check the dep",
       "titleZh": "认识Thinking Machines的Inkling 2 Mini：在32GB的Mac上运行260亿参数的循环MoE",
       "summaryZh": "Thinking Machines Lab发布了Inkling 2 Mini ，这是一款开放权重循环Transformer，总参数量为264亿。该模型每个token会重复使用其中间层3次，而不是增加更多权重。这样可以将检查点保持在接近20GB的水平，对于32GB的Mac或1台NVIDIA DGX Spark来说足够小。对于开发者而言，Inkling 2 Mini 是用于代理编码、工具使用和文档工作的本地选项。该模型在Hugging Face上以Apache 2.0许可发布，并在Tinker上提供托管推理和微调。TL;DR 大小：总计 264 亿",
       "translated": true,
@@ -2082,9 +2335,9 @@
       "id": "299291fdd5181a565c",
       "titleOriginal": "The week everything fell apart",
       "summaryOriginal": "There was a dayslong Outlook outage . A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working . Even iCloud couldn't stay up and running . This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On this episode of The Vergecast , Nilay and David go through the week's many calamities, and try to explain both what happened in each case - which was generally much milder than",
-      "titleZh": "The week everything fell apart",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "一切分崩离析的那一周",
+      "summaryZh": "Outlook 曾出现长达数天的服务中断。这是25年来仅有的第二次全国性航班停飞。银行似乎突然停止了营业。就连iCloud也无法保持正常运行。本周，感觉科技世界仿佛一夜之间崩塌了。而且感觉这可能只是更大事件的开端。在本期《The Vergecast》节目中，Nilay和David回顾了本周发生的众多灾难，并试图解释每起事件的具体情况——总体而言，这些情况都比",
+      "translated": true,
       "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -2124,9 +2377,9 @@
       "id": "7d8981ef547621735a",
       "titleOriginal": "Six AI-powered gadgets that could make your home office smarter",
       "summaryOriginal": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "titleZh": "Six AI-powered gadgets that could make your home office smarter",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "六款可让您的居家办公更智能的AI驱动的小工具",
+      "summaryZh": "从笔记工具到网络摄像头，以下是六款由人工智能驱动的小工具，可助您升级工作空间。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -2446,9 +2699,9 @@
       "id": "3ea993db7e3c60d192",
       "titleOriginal": "Combatting adversarial distillation",
       "summaryOriginal": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "titleZh": "Combatting adversarial distillation",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "对抗对抗性蒸馏",
+      "summaryZh": "OpenAI 对对抗性蒸馏的分层方法结合了模型训练、保障措施、检测和执行，以防范能力提取。",
+      "translated": true,
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -3059,9 +3312,9 @@
       "id": "d15c45643214b444b1",
       "titleOriginal": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "summaryOriginal": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "titleZh": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Hebbia 借助 GPT-6 Astra 实现了财务研究的改进",
+      "summaryZh": "Hebbia 对 GPT-6 Astra 进行了金融研究方面的测试。其预发布评估发现，在来源覆盖范围、引用相关性和呈现质量方面均有提升。",
+      "translated": true,
       "url": "https://openai.com/business/customer-stories/hebbia",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -3080,9 +3333,9 @@
       "id": "f4784c30400364a228",
       "titleOriginal": "Can AI help scientists identify promising drug candidates?",
       "summaryOriginal": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-      "titleZh": "Can AI help scientists identify promising drug candidates?",
+      "titleZh": "人工智能能否帮助科学家识别有前景的候选药物？",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://openai.com/index/introducing-medchembench",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -11257,262 +11510,6 @@
       ],
       "category": "analysis",
       "readingMinutes": 2
-    },
-    {
-      "id": "fd252e616a38b9a2d5",
-      "titleOriginal": "This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets",
-      "summaryOriginal": "A Carnegie Mellon student’s tiny E Ink gadgets, called OATs, give houseplants, skateboards, and dumbbells expressive personalities to nudge you toward better habits.",
-      "titleZh": "这款AI版“电子宠物”将日常物品变成需要关爱的虚拟宠物",
-      "summaryZh": "卡内基梅隆大学的一名学生发明了一种名为OATs的微型电子墨水小工具，它可以为室内植物、滑板和哑铃赋予富有表现力的个性，从而促使您养成更好的习惯。",
-      "translated": true,
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-15T11:00:00.000Z",
-      "author": "Julian Chokkattu",
-      "tags": [
-        "analysis",
-        "Gear",
-        "Gear / Gear News and Events"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a04aaf1b9d7550bd2b",
-      "titleOriginal": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
-      "summaryOriginal": "Australia's central bank sees early signs that AI is hitting young entry-level workers in highly exposed jobs like software development and customer service. Since ChatGPT launched, job postings and employment among 15- to 24-year-olds in those fields have dropped more sharply than among older workers. Author Mike Major cautions against jumping to conclusions, however, noting that business cycle shifts and remote work trends could also explain the numbers. The article Australia's central bank fi",
-      "titleZh": "澳大利亚央行发现，人工智能首先影响到的是年轻工人，尤其是在软件和客户服务领域。",
-      "summaryZh": "澳大利亚央行已发现早期迹象表明，人工智能正在冲击软件开发和客户服务等高风险岗位上的年轻入门级员工。自ChatGPT推出以来，这些领域15至24岁年轻人的招聘岗位和就业人数的下降幅度大于年龄较大的劳动者。不过，作者Mike Major告诫人们不要轻易下结论，他指出，商业周期的变化和远程办公的趋势也可能解释这些数字。文章《澳大利亚央行发现……》",
-      "translated": true,
-      "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-15T10:45:58.000Z",
-      "author": "Manuel Uth",
-      "tags": [
-        "news",
-        "AI and society",
-        "Artificial Intelligence",
-        "Short News",
-        "AI and work"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d2e63c5f2661d937b8",
-      "titleOriginal": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
-      "summaryOriginal": "Bland, the San Francisco voice-AI company, has released Tofu-1 , a full-duplex speech-to-speech model in research preview. The Tofu-1 speech-to-speech model targets calls from moving cars, hospital rooms and weak-signal lines. It listens while it speaks and reasons while it talks. For phone-agent teams, one model now handles audio in and audio out, with no transcript between. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . What is Tofu-1? Tof",
-      "titleZh": "Bland推出Tofu-1，一款用于通话的全双工语音转语音模型",
-      "summaryZh": "旧金山语音人工智能公司Bland发布了Tofu-1 ，这是一款全双工语音到语音模型，目前处于研究预览阶段。Tofu-1语音到语音模型针对的是来自行驶中的汽车、病房和信号较弱的线路的通话。它在说话的同时聆听，在交谈的同时进行推理。对于电话客服团队来说，现在一个模型就能处理音频输入和音频输出，中间无需转录。您可以通过我们的GPULeaderboard.com Chrome扩展程序在此处查看部署选项和规格。什么是Tofu-1？Tof",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-15T10:06:21.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5ecf69042f649351b4",
-      "titleOriginal": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summaryOriginal": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder .",
-      "titleZh": "美团发布一款从未接触过英伟达GPU的1.6万亿参数代理模型",
-      "summaryZh": "美团发布了LongCat-2.5的权重，这是一个专为AI代理构建的1.6万亿参数模型，完全在中国硬件上训练。在Terminal Bench上，它得分88.4分，仅次于Claude Opus 5。该样本部署在194块华为昇腾芯片上运行，美团并未提及英伟达GPU。文章《美团发布一款从未接触过Nvidia GPU的1.6万亿参数代理模型》最初发表在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-15T10:06:06.000Z",
-      "author": "Jonathan Kemper",
-      "tags": [
-        "launch",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Longcat",
-        "Meituan"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "509e3a29a093c8bd7b",
-      "titleOriginal": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
-      "summaryOriginal": "",
-      "titleZh": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "author": "AICon 全球人工智能开发与应用大会",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "11ad59b406403aca1a",
-      "titleOriginal": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
-      "summaryOriginal": "",
-      "titleZh": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T09:00:00.000Z",
-      "author": "作者：Craig Risi",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9bfcd451fa15908ebc",
-      "titleOriginal": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”",
-      "summaryOriginal": "（本文作者为 吴怼怼，钛媒体经授权发布） 文 ｜吴怼怼 在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。 大洋彼岸的硅谷，早已退居幕后的 Google 联合创始人 Sergey Brin （谢尔盖布林）重新走进办公室，与一线研究员并肩推演大模型架构。 而在亚洲，2021 年便将字节跳动 CEO 权杖交给梁汝波、此后极少公开露面的张一鸣，也正以一种高密度、深介入的姿态重回技术腹地。 有趣的是，之前谷歌的Gemini被嘲笑为美国版豆包。 两人的人生轨迹在 AI 时代呈现出高度的相似性： 都已卸下繁琐的日常企业管理职务，却又不约而同地将最宝贵的时间重新倾注于人工智能，并将目光锚定在了同一个远期路标上——在2030年追平 OpenAI 与 Anthropic。 2030年是字节的时间表，对谷歌来说，这个时间表更为迫切。 判断一家巨头真正的战略重心，不要只看它的对外发布会，而要看它最高决策者的日程表。 自 2021 年卸任 CEO 后，张一鸣在公众视野中几乎处于“隐身”状态。但水面之下，他对 AI 的介入从未停止，甚至在近两年呈现出明显的加速态势。 从 2024 年下半年起，张一鸣开始每月固定",
-      "titleZh": "当Gemini被戏称为“美国豆包”，张一鸣也活成了“中国布林”",
-      "summaryZh": "（本文作者为 吴怼怼，钛媒体经授权发布） 文 ｜吴怼怼 在太平洋两岸的科技版图上，一种奇妙的镜像正在发生。 大洋彼岸的硅谷，早已退居幕后的 Google 联合创始人 Sergey Brin （谢尔盖布林）重新走进办公室，与一线研究员并肩推演大模型架构。 而在亚洲，2021 年便将字节跳动 CEO 权杖交给梁汝波、此后极少公开露面的张一鸣，也正以一种高密度、深介入的姿态重回技术腹地。 有趣的是，之前谷歌的Gemini被嘲笑为美国版豆包。 两人的人生轨迹在 AI 时代呈现出高度的相似性： 都已卸下繁琐的日常企业管理职务，却又不约而同地将最宝贵的时间重新倾注于人工智能，并将目光锚定在了同一个远期路标上——在2030年追平 OpenAI 与 Anthropic。 2030年是字节的时间表，对谷歌来说，这个时间表更为迫切。 判断一家巨头真正的战略重心，不要只看它的对外发布会，而要看它最高决策者的日程表。 自 2021 年卸任 CEO 后，张一鸣在公众视野中几乎处于“隐身”状态。但水面之下，他对 AI 的介入从未停止，甚至在近两年呈现出明显的加速态势。 从 2024 年下半年起，张一鸣开始每月固定",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205798.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T08:06:47.000Z",
-      "author": "吴怼怼",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ef144e6fe239877655",
-      "titleOriginal": "T-EDGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
-      "summaryOriginal": "对影视行业来说，2026年很难用一个单一事件来概括。它没有重复过去那种突然爆火又迅速冷却的技术故事。视频生成能力从年初开始进入生产现场，到了年底，影响已经越过制作环节，伸向融资、渠道、组织方式和利益分配。 年初，Seedance 2.0发布。它最受关注的地方在可控性。创作者可以指定角色、场景和镜头风格，过去需要不断试错的生成过程，第一次有了可以预估成本、周期和交付结果的可能。 这一变化很快传导到资本端。7月，快手将可灵AI相关资产分拆融资，投后估值约180亿美元。生数科技和爱诗科技也在年内完成融资。视频模型由此从母公司内部的一项业务，变成可以被单独估值的资产。 技术能力有了价格以后，内容端开始出现更大规模的供给。短剧因为制作周期短、商业模式成熟、对画面连续性的要求相对可控，成为最先放量的一类内容。今年上线的AI短剧超过50万部，《持械入宋》的走红，又让行业看到了小团队做出爆款的可能。 但供给增加并没有让更多创作者赚到钱。平台掌握流量和分账规则，上游IP获得授权收入，中游制作方承担算力与投流成本。制作门槛被压低以后，利润反而更快地向少数掌握渠道和版权的公司集中。 传统影视行业也在同一年被",
-      "titleZh": "T-EDGE 2026前瞻①｜AI如何重写影视业的成本、资本与权力",
-      "summaryZh": "对影视行业来说，2026年很难用一个单一事件来概括。它没有重复过去那种突然爆火又迅速冷却的技术故事。视频生成能力从年初开始进入生产现场，到了年底，影响已经越过制作环节，伸向融资、渠道、组织方式和利益分配。 年初，Seedance 2.0发布。它最受关注的地方在可控性。创作者可以指定角色、场景和镜头风格，过去需要不断试错的生成过程，第一次有了可以预估成本、周期和交付结果的可能。 这一变化很快传导到资本端。7月，快手将可灵AI相关资产分拆融资，投后估值约180亿美元。生数科技和爱诗科技也在年内完成融资。视频模型由此从母公司内部的一项业务，变成可以被单独估值的资产。 技术能力有了价格以后，内容端开始出现更大规模的供给。短剧因为制作周期短、商业模式成熟、对画面连续性的要求相对可控，成为最先放量的一类内容。今年上线的AI短剧超过50万部，《持械入宋》的走红，又让行业看到了小团队做出爆款的可能。 但供给增加并没有让更多创作者赚到钱。平台掌握流量和分账规则，上游IP获得授权收入，中游制作方承担算力与投流成本。制作门槛被压低以后，利润反而更快地向少数掌握渠道和版权的公司集中。 传统影视行业也在同一年被",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205257.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T07:37:00.000Z",
-      "author": "LCC_Beta版",
-      "tags": [
-        "guide",
-        "主编精选文章",
-        "2026 T-EDGE 创新大会·双城记",
-        "智能大迁移",
-        "2026·大复盘"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6c5a9100800b2bdda7",
-      "titleOriginal": "国产芯片融资潮，来势凶猛",
-      "summaryOriginal": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 11月12日，沐曦与优必选共同发起的曦选创智宣布完成5亿元天使轮融资。此前两天，智能网卡厂商沐创、碳化硅功率模块厂商利普思也相继披露新融资。计算芯片、数据互联、供电器件，围绕算力系统的多个环节都在吸引资金。 更早一周，后摩智能传出完成数十亿元融资的消息，奕成科技、凌川科技也分别披露数十亿元和10亿元融资。10月31日至11月6日， 国内集成电路领域披露融资约111亿元，占当周全部已披露融资金额的一半以上。 投中研究院的统计则显示，今年三季度，半导体领域VC／PE投资规模约1092亿元，同比增长91％。 多家企业把新产品或新工艺的量产节点定在2027年前后，也有刚完成大额融资的企业，要到2028年才计划推出首款芯片。资本既在支持已有产品扩大交付，也在提前投入尚未形成销售的新架构与新工艺。这一轮融资潮，将给国产芯片带来怎样的竞争变化？ 01 资金押向不同的算力路线 投中研究院统计， 今年三季度半导体领域VC／PE投资规模约1092亿元，同比增长91％，明显高于整个VC／PE市场49.6％的增速，投资事件数量也增长超过",
-      "titleZh": "国产芯片融资潮，来势凶猛",
-      "summaryZh": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 11月12日，沐曦与优必选共同发起的曦选创智宣布完成5亿元天使轮融资。此前两天，智能网卡厂商沐创、碳化硅功率模块厂商利普思也相继披露新融资。计算芯片、数据互联、供电器件，围绕算力系统的多个环节都在吸引资金。 更早一周，后摩智能传出完成数十亿元融资的消息，奕成科技、凌川科技也分别披露数十亿元和10亿元融资。10月31日至11月6日， 国内集成电路领域披露融资约111亿元，占当周全部已披露融资金额的一半以上。 投中研究院的统计则显示，今年三季度，半导体领域VC／PE投资规模约1092亿元，同比增长91％。 多家企业把新产品或新工艺的量产节点定在2027年前后，也有刚完成大额融资的企业，要到2028年才计划推出首款芯片。资本既在支持已有产品扩大交付，也在提前投入尚未形成销售的新架构与新工艺。这一轮融资潮，将给国产芯片带来怎样的竞争变化？ 01 资金押向不同的算力路线 投中研究院统计， 今年三季度半导体领域VC／PE投资规模约1092亿元，同比增长91％，明显高于整个VC／PE市场49.6％的增速，投资事件数量也增长超过",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205694.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T06:48:19.000Z",
-      "author": "半导体产业纵横",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5cb06a149ba494ec51",
-      "titleOriginal": "【数智周报】黄仁勋辞任英伟达CEO ，CFO克雷斯任临时CEO；阿里拟分拆平头哥港股独立上市；Anthropic启动IPO路演，估值较峰值近腰斩……",
-      "summaryOriginal": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 面板酝酿涨价，TCL华星赵军称驱动力来自成本而非需求 TCL华星赵军预测明年出货面积增长，但涨价驱动力不来自需求，而是成本推动。 百度李彦宏：企业应围绕AI重新设计组织形态 11月12日，百度创始人李彦宏表示，百度正在发力AI智能体、拓展用户，因此强调AI对企业形态的改造，企业应围绕AI重新设计组织形态。 高盛CEO：AI基建融资需求依旧旺盛，市场整体环境仍然有利Anthropic上市 高盛首席执行官大卫・所罗门周一表示，尽管近期市场震荡、投资者开始重新评估大规模算力扩产背后潜藏的风险，但AI基础设施领域的融资需求依然旺盛。所罗门称，近几周高盛在AI相关资本市场交易中“动作频频”，他预计这一态势还会延续。他表示，政治环境变动等因素会带来“重新定价与行情起伏，我们当下正看到这类波动”。“但我始终坚信，AI具备强大潜力，长期来看能够推动美国经济生产率提升。” 国内新闻 中芯国际赵海军：中国客户需求增长速度高于公司整体需求增长速度 中芯国际联合CEO赵海军在三季度业绩会上表示，三季度销售收入以",
-      "titleZh": "【数智周报】黄仁勋辞任英伟达CEO ，CFO克雷斯任临时CEO；阿里拟分拆平头哥港股独立上市；Anthropic启动IPO路演，估值较峰值近腰斩……",
-      "summaryZh": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 面板酝酿涨价，TCL华星赵军称驱动力来自成本而非需求 TCL华星赵军预测明年出货面积增长，但涨价驱动力不来自需求，而是成本推动。 百度李彦宏：企业应围绕AI重新设计组织形态 11月12日，百度创始人李彦宏表示，百度正在发力AI智能体、拓展用户，因此强调AI对企业形态的改造，企业应围绕AI重新设计组织形态。 高盛CEO：AI基建融资需求依旧旺盛，市场整体环境仍然有利Anthropic上市 高盛首席执行官大卫・所罗门周一表示，尽管近期市场震荡、投资者开始重新评估大规模算力扩产背后潜藏的风险，但AI基础设施领域的融资需求依然旺盛。所罗门称，近几周高盛在AI相关资本市场交易中“动作频频”，他预计这一态势还会延续。他表示，政治环境变动等因素会带来“重新定价与行情起伏，我们当下正看到这类波动”。“但我始终坚信，AI具备强大潜力，长期来看能够推动美国经济生产率提升。” 国内新闻 中芯国际赵海军：中国客户需求增长速度高于公司整体需求增长速度 中芯国际联合CEO赵海军在三季度业绩会上表示，三季度销售收入以",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205592.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T06:19:18.000Z",
-      "author": "TechHorizon",
-      "tags": [
-        "news",
-        "主编精选文章",
-        "ITValue",
-        "投稿"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "468bcf13c675a3a73e",
-      "titleOriginal": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
-      "summaryOriginal": "美东时间11月17日盘后， 英伟达 将公布2027财年第三季度财报。主持电话会的将不再是执掌公司33年的黄仁勋，而是临时首席执行官、首席财务官科莱特&middot;克雷斯。11月12日，英伟达公告黄仁勋辞去总裁、首席执行官和董事会职务，即刻生效，资深董事哈维&middot;琼斯出任公司历史上第一位董事会主席。消息公布当天，英伟达盘前一度下跌超过10%，收盘跌4.34%，市值蒸发近1820亿美元。 这场财报会释放的信号将超出业绩本身，巨头为AI砸下的天量资本开支能否换来回报，这个争论已经持续了一个多月，英伟达处在争论的中心，这份财报是争论爆发以来的第一份正式回应。 争论在11月5日被引爆，美东时间当天收盘，费城半导体指数暴跌12.25%，创2020年3月以来最大单日跌幅。英伟达跌9.3%，一个交易日蒸发约4470亿美元市值。三倍做多半导体ETF SOXL单日下跌38.7%。次日，首尔KOSPI指数开盘两分钟内跌幅扩大到8%以上，触发熔断机制，盘中跌破5000点。 把观察期拉长到一个月，跌幅更大的数字出现了。英伟达自10月上旬的高点以来， 市值蒸发近1.4万亿美元，道歉信曝光后的两个交易日",
-      "titleZh": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
-      "summaryZh": "美东时间11月17日盘后， 英伟达 将公布2027财年第三季度财报。主持电话会的将不再是执掌公司33年的黄仁勋，而是临时首席执行官、首席财务官科莱特&middot;克雷斯。11月12日，英伟达公告黄仁勋辞去总裁、首席执行官和董事会职务，即刻生效，资深董事哈维&middot;琼斯出任公司历史上第一位董事会主席。消息公布当天，英伟达盘前一度下跌超过10%，收盘跌4.34%，市值蒸发近1820亿美元。 这场财报会释放的信号将超出业绩本身，巨头为AI砸下的天量资本开支能否换来回报，这个争论已经持续了一个多月，英伟达处在争论的中心，这份财报是争论爆发以来的第一份正式回应。 争论在11月5日被引爆，美东时间当天收盘，费城半导体指数暴跌12.25%，创2020年3月以来最大单日跌幅。英伟达跌9.3%，一个交易日蒸发约4470亿美元市值。三倍做多半导体ETF SOXL单日下跌38.7%。次日，首尔KOSPI指数开盘两分钟内跌幅扩大到8%以上，触发熔断机制，盘中跌破5000点。 把观察期拉长到一个月，跌幅更大的数字出现了。英伟达自10月上旬的高点以来， 市值蒸发近1.4万亿美元，道歉信曝光后的两个交易日",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205717.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T04:19:48.000Z",
-      "author": "硅谷Tech news",
-      "tags": [
-        "news",
-        "主编精选文章",
-        "英伟达",
-        "黄仁勋婚外情风波",
-        "黄仁勋"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11522,7 +11519,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 32
+      "count": 33
     },
     {
       "id": "deepmind",
@@ -11538,7 +11535,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 79
+      "count": 80
     },
     {
       "id": "theverge",
@@ -11546,7 +11543,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 48
+      "count": 50
     },
     {
       "id": "mittr",
@@ -11562,7 +11559,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 27
+      "count": 26
     },
     {
       "id": "thedecoder",
@@ -11570,7 +11567,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 55
+      "count": 56
     },
     {
       "id": "marktechpost",
@@ -11626,7 +11623,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 111
+      "count": 109
     },
     {
       "id": "infoq",
@@ -11634,13 +11631,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 55
+      "count": 53
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 38,
-    "translated": 209,
+    "guides": 39,
+    "translated": 218,
     "sources": 14
   }
 }
