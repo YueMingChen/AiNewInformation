@@ -1,6 +1,236 @@
 {
-  "generatedAt": "2026-11-22T02:20:14.989Z",
+  "generatedAt": "2026-11-22T12:41:20.050Z",
   "articles": [
+    {
+      "id": "2eb1f0477cf2bb96da",
+      "titleOriginal": "财务团队的 AI 蓝图",
+      "summaryOriginal": "",
+      "titleZh": "财务团队的 AI 蓝图",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T17:54:58.000Z",
+      "author": "王玮",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "83799e9b8729e31e4a",
+      "titleOriginal": "打造 AI 优先的销售与营销运营体系",
+      "summaryOriginal": "",
+      "titleZh": "打造 AI 优先的销售与营销运营体系",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T17:41:49.000Z",
+      "author": "王玮",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "457390e70738fba404",
+      "titleOriginal": "智能体企业新前沿：驱动高效智能",
+      "summaryOriginal": "",
+      "titleZh": "智能体企业新前沿：驱动高效智能",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T17:38:28.000Z",
+      "author": "王玮",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "08ae7c88a3e3d15627",
+      "titleOriginal": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summaryOriginal": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing three providers and 125 endpoints. The article Security researchers show how cheap AI inference providers steal keys and snoop on users appeared first on The Decoder .",
+      "titleZh": "安全研究人员揭示了廉价的AI推理服务提供商是如何窃取密钥并窥探用户的",
+      "summaryZh": "Dragos的安全研究人员使用200万个虚假AI请求，揭露了AI供应链中存在的严重漏洞，发现了至少三家被攻陷的提供商、数百个被盗的AWS密钥，以及只是在阅读客户请求的市场转售商。OpenRouter对此作出了回应，移除了三家提供商和125个端点。文章《安全研究人员揭示廉价AI推理提供商如何窃取密钥并窥探用户》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-22T12:07:56.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Cybersecurity"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fa9fd258dbb9f71547",
+      "titleOriginal": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+      "summaryOriginal": "The Lean and Mathlib community has officially confirmed Levent Alpöge's proof of the Riemann hypothesis as correct. Dozens of independent verifiers checked the 17 million lines of computer code. The solution arrived years earlier than expected: Terence Tao had predicted it wouldn't happen until around 2050 and didn't expect AI to solve it alone. The article Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct appeared first on The Decoder .",
+      "titleZh": "Lean 和 Mathlib 社区正式确认 Levent Alpöge 对黎曼猜想的证明是正确的",
+      "summaryZh": "Lean 和 Mathlib 社区已正式确认 Levent Alpöge 对黎曼猜想的证明是正确的。数十名独立验证人员对1700万行计算机代码进行了核查。这一解决方案比预期提前了数年：陶哲轩曾预测要到2050年左右才会出现，而且他并不认为人工智能能够独自解决这一问题。文章《Lean和Mathlib社区正式确认Levent Alpöge对黎曼猜想的证明是正确的》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-22T11:08:31.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and math"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5195ddd8fa5bf2752e",
+      "titleOriginal": "从快手独立，可灵要回答的问题变了",
+      "summaryOriginal": "（本文作者为 市值榜，钛媒体经授权发布） 文 | 市值榜，作者 | 相青，编辑 | 赵元 从快手内部项目，到成长为一家估值百亿美元的AI公司，可灵只用了两年多时间。 近日，快手发布公告，宣布可灵AI完成新一轮增资交割，实际融资金额约198.02亿元，投后估值接近180亿美元。腾讯、阿里云、百度及多家投资机构参与其中。按照交易安排，可灵从快手内部业务转为引入外部股东的独立经营主体，快手仍保留控制权。 这笔融资背后，是可灵快速增长的收入和用户规模。 2026年第二季度，可灵收入超过8.5亿元，同比增长超过200%。截至6月底，全球用户突破1亿，企业客户接近5万家。随着AI视频逐渐进入广告、影视、短剧等制作环节，可灵的收入来源也从个人会员订阅，扩展到了面向企业和开发者的API服务。 但增长的另一面，是不断增加的投入。 11月19日，快手公布最新财报。今年第三季度，集团研发开支达到51.78亿元，同比增长41.9%，快手明确表示，费用增长主要由于加大可灵AI投入，包括相关训练支出。同期，快手经调整净利润降至约7.9亿元，同比大幅下降。 根据快手此前披露的重组模拟财务数据，2024年、2025年",
+      "titleZh": "从快手独立，可灵要回答的问题变了",
+      "summaryZh": "（本文作者为 市值榜，钛媒体经授权发布） 文 | 市值榜，作者 | 相青，编辑 | 赵元 从快手内部项目，到成长为一家估值百亿美元的AI公司，可灵只用了两年多时间。 近日，快手发布公告，宣布可灵AI完成新一轮增资交割，实际融资金额约198.02亿元，投后估值接近180亿美元。腾讯、阿里云、百度及多家投资机构参与其中。按照交易安排，可灵从快手内部业务转为引入外部股东的独立经营主体，快手仍保留控制权。 这笔融资背后，是可灵快速增长的收入和用户规模。 2026年第二季度，可灵收入超过8.5亿元，同比增长超过200%。截至6月底，全球用户突破1亿，企业客户接近5万家。随着AI视频逐渐进入广告、影视、短剧等制作环节，可灵的收入来源也从个人会员订阅，扩展到了面向企业和开发者的API服务。 但增长的另一面，是不断增加的投入。 11月19日，快手公布最新财报。今年第三季度，集团研发开支达到51.78亿元，同比增长41.9%，快手明确表示，费用增长主要由于加大可灵AI投入，包括相关训练支出。同期，快手经调整净利润降至约7.9亿元，同比大幅下降。 根据快手此前披露的重组模拟财务数据，2024年、2025年",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213670.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T11:05:57.000Z",
+      "author": "市值榜",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "43477e7f39bded39df",
+      "titleOriginal": "拆解大厂财报：谁最舍得为AI花钱？",
+      "summaryOriginal": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，作者｜刘瑞祺 11月16日至19日，百度、京东、腾讯、阿里相继发布2026年第三季度财报。 四家公司中，只有阿里和百度明确披露了AI相关业务收入，分别为179.18亿元和132亿元。 大厂都想让AI参与老生意 阿里目前收入规模最清楚的AI业务，就是云与算力服务。 第三季度，阿里AI云与算力服务收入609.73亿元，同比增长53%。其中，约470亿元来自集团外部客户，约370亿元属于经常性收入，同比增长67%。 这370亿元包含其他云服务，阿里单独披露的AI相关产品收入为179.18亿元，已连续13个季度实现三位数同比增长。 谁在买单？除了训练和运行大模型的AI公司，汽车、金融、生物科技等行业企业也在扩大云服务使用规模。它们需要算力来训练、部署模型，也需要云平台支撑自己的AI业务。 第四波科技制图 百度的AI云基础设施业务也在快速增长。第三季度，百度AI核心业务收入132亿元，其中AI云基础设施收入82亿元，同比增长94%。GPU云收入同比增长191%，千帆MaaS平台外部客户的Token调用收入同比增长1159%。 部分客户已经",
+      "titleZh": "拆解大厂财报：谁最舍得为AI花钱？",
+      "summaryZh": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，作者｜刘瑞祺 11月16日至19日，百度、京东、腾讯、阿里相继发布2026年第三季度财报。 四家公司中，只有阿里和百度明确披露了AI相关业务收入，分别为179.18亿元和132亿元。 大厂都想让AI参与老生意 阿里目前收入规模最清楚的AI业务，就是云与算力服务。 第三季度，阿里AI云与算力服务收入609.73亿元，同比增长53%。其中，约470亿元来自集团外部客户，约370亿元属于经常性收入，同比增长67%。 这370亿元包含其他云服务，阿里单独披露的AI相关产品收入为179.18亿元，已连续13个季度实现三位数同比增长。 谁在买单？除了训练和运行大模型的AI公司，汽车、金融、生物科技等行业企业也在扩大云服务使用规模。它们需要算力来训练、部署模型，也需要云平台支撑自己的AI业务。 第四波科技制图 百度的AI云基础设施业务也在快速增长。第三季度，百度AI核心业务收入132亿元，其中AI云基础设施收入82亿元，同比增长94%。GPU云收入同比增长191%，千帆MaaS平台外部客户的Token调用收入同比增长1159%。 部分客户已经",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8212870.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T11:05:18.000Z",
+      "author": "第四波",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "31c3365412387b39f4",
+      "titleOriginal": "Banks Have Had It Up to Here With Your AI Agent",
+      "summaryOriginal": "Major US financial institutions are banning third-party bots from logging into your accounts—and warning that any costly bot mistakes are strictly your problem.",
+      "titleZh": "银行对您的人工智能代理已经忍无可忍",
+      "summaryZh": "美国主要金融机构正在禁止第三方机器人登录您的账户，并警告称，任何代价高昂的机器人错误都将完全由您承担。",
+      "translated": true,
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-22T11:00:00.000Z",
+      "author": "Reece Rogers",
+      "tags": [
+        "analysis",
+        "Gear",
+        "Gear / Gear News and Events",
+        "Agent"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3e3659d6d4ef44cb44",
+      "titleOriginal": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+      "summaryOriginal": "A personal AI agent runs continuously, keeps memory across sessions, and acts inside your apps. You talk to it in a chat app, by email or by voice. It keeps working after you close the window. The category started small. OpenClaw began in November 2025 as Clawdbot, a weekend project by Peter Steinberger. Twelve months later, Google, OpenAI, Meta and Perplexity all ship their own versions. The products split into 2 camps. Self-hosted agents run on your machine or server and use any model you choo",
+      "titleZh": "2026年最佳个人AI代理：OpenClaw、Hermes Agent、Gemini Spark等，从内存、安全性和成本方面进行比较",
+      "summaryZh": "个人 AI 代理持续运行，在不同会话之间保留记忆，并在您的应用程序中执行操作。您可以通过聊天应用、电子邮件或语音与它交谈。即使您关闭窗口，它也会继续工作。这个类别起步时规模很小。OpenClaw最初于2025年11月以Clawdbot的名义面世，是Peter Steinberger的一个周末项目。十二个月后，Google、OpenAI、Meta和Perplexity都推出了自己的版本。这些产品分为两大阵营。自托管代理在您的计算机或服务器上运行，并使用您选择的任何模型。",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-22T10:36:17.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Agents",
+        "Comparison",
+        "Editors Pick"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c907589fe764c7dcf7",
+      "titleOriginal": "Google AI Previews Tool Retrieval in the Gemini API for Large Tool Libraries",
+      "summaryOriginal": "Google has launched Tool Retrieval in the Gemini API , now in preview in the Interactions API. Gemini API Tool Retrieval lets an agent keep a large tool library available. It does not send every parameter schema in every prompt. The model loads a schema only when a task needs that tool. For agents wired to dozens of functions or MCP servers, it targets a real cost: tool definitions. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . TL;DR Tool:",
+      "titleZh": "Google AI 预览 Gemini API 中的工具检索功能，适用于大型工具库",
+      "summaryZh": "Google 已在 Gemini API 中推出工具检索功能，目前正在 Interactions API 中进行预览。Gemini API 工具检索功能使代理能够拥有一个庞大的工具库。它不会在每个提示中发送每个参数模式。只有当任务需要该工具时，模型才会加载架构。对于连接到数十个函数或 MCP 服务器的代理，它针对的是一项真正的成本：工具定义。您可以通过我们的 GPULeaderboard.com Chrome 扩展程序在此处查看部署选项和规格。TL;DR 工具：",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/22/google-gemini-api-tool-retrieval/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-22T10:03:54.000Z",
+      "author": "Michal Sutter",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "55ac31860b71b723da",
       "titleOriginal": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
@@ -20,6 +250,100 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c4e40287f1a80d5ee3",
+      "titleOriginal": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summaryOriginal": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder .",
+      "titleZh": "GPT-6.2 Astra和Sol更快切入正题，但在透明度方面得分低于Claude",
+      "summaryZh": "OpenAI的GPT-6.2 Astra和Sol给出的答案比其前身要简短得多、直接得多，但它们也不太愿意承认不确定性。Anthropic的Claude模型在透明度方面遥遥领先。文章《GPT-6.2 Astra和Sol更快地切入正题，但在透明度方面的得分低于Claude》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-22T09:41:37.000Z",
+      "author": "Tomislav Bezmalinović",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Benchmarks",
+        "ChatGPT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6217e39c0de874e225",
+      "titleOriginal": "跨境收款之后，中国公司盯上智能体支付的新生意",
+      "summaryOriginal": "11月18日-20日，第11届新加坡金融科技节（Singapore FinTech Festival，简称SFF）在新加坡博览中心举行。作为全球规模最大的金融科技节，SFF历来被业内视作全球金融科技的风向标。 开幕当天，新加坡副总理兼贸工部长、新加坡金融管理局（MAS）主席颜金勇在主旨演讲中宣布了金融服务领域的三项国家 AI 使命： 加强金融诈骗防范 、 改善中小企业融资 ，以及 推动 AI 智能体安全执行交易 。 三项使命中的最后一项，几乎预告了本届展会的叙事主线， Agentic Commerce 智能体商务（ Agentic Commerce ） 与 AI 支付 被列在官方展览重点的第一位，大会议程中专设“让智能体支付成为主流”等专场，600 多家参展商中，从卡组织、收单机构到钱包和协议方，都在回答同一个问题： 当 AI 智能体代替企业下单、采购、付款时，谁来保证这笔交易是可信的。 与过去几届agentic payment 以停留在白皮书和协议框架阶段不同，本届首笔真实交易成了展台上的新通行证。 AXS 与 Visa、万事达卡开放了覆盖 800 多家账单机构的智能体账单支付网络，",
+      "titleZh": "跨境收款之后，中国公司盯上智能体支付的新生意",
+      "summaryZh": "11月18日-20日，第11届新加坡金融科技节（Singapore FinTech Festival，简称SFF）在新加坡博览中心举行。作为全球规模最大的金融科技节，SFF历来被业内视作全球金融科技的风向标。 开幕当天，新加坡副总理兼贸工部长、新加坡金融管理局（MAS）主席颜金勇在主旨演讲中宣布了金融服务领域的三项国家 AI 使命： 加强金融诈骗防范 、 改善中小企业融资 ，以及 推动 AI 智能体安全执行交易 。 三项使命中的最后一项，几乎预告了本届展会的叙事主线， Agentic Commerce 智能体商务（ Agentic Commerce ） 与 AI 支付 被列在官方展览重点的第一位，大会议程中专设“让智能体支付成为主流”等专场，600 多家参展商中，从卡组织、收单机构到钱包和协议方，都在回答同一个问题： 当 AI 智能体代替企业下单、采购、付款时，谁来保证这笔交易是可信的。 与过去几届agentic payment 以停留在白皮书和协议框架阶段不同，本届首笔真实交易成了展台上的新通行证。 AXS 与 Visa、万事达卡开放了覆盖 800 多家账单机构的智能体账单支付网络，",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213773.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T08:19:16.000Z",
+      "author": "出海参考新加坡站",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "出海参考",
+        "出海",
+        "金融科技"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7729ab8c25f71cfbce",
+      "titleOriginal": "Anthropic万亿上市，搅动的却是半导体江湖",
+      "summaryOriginal": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 11月19日，人工智能大模型公司Anthropic正式在纳斯达克挂牌，股票代码“ANT”。 此次IPO最终以每股83美元定价，高于此前70美元至78美元的推介区间，基础发行9.8亿股，募资约813.4亿美元，超过SpaceX今年6月创下的全球IPO募资纪录；上市首日开盘价升至111.50美元，收盘涨约17%，公司估值站上万亿美元级别。 不同于常规科技股IPO， 此次上市同步落地了一笔260亿美元的私募配售，认购方几乎全部来自Anthropic的上游算力与半导体供应链 ：谷歌和英伟达各出资100亿美元，AMD出资25亿美元，博通、美光和微软各出资10亿美元，一贯严守中立、极少直接投资下游软件公司的台积电也通过关联实体出资5亿美元。七家企业均按发行价认购无投票权N类普通股。 上游硬件供应商集体出资成为下游客户的新股东，且不要求投票权，这在过往的半导体行业周期中并不多见。结合Anthropic招股书披露的9009亿美元算力与基础设施承诺来看，此次上市不仅是一次资本事件，更直接暴露了AI芯片竞争、上游供应链采购方式以及算",
+      "titleZh": "Anthropic万亿上市，搅动的却是半导体江湖",
+      "summaryZh": "（本文作者为 半导体产业纵横，钛媒体经授权发布） 文 | 半导体产业纵横 11月19日，人工智能大模型公司Anthropic正式在纳斯达克挂牌，股票代码“ANT”。 此次IPO最终以每股83美元定价，高于此前70美元至78美元的推介区间，基础发行9.8亿股，募资约813.4亿美元，超过SpaceX今年6月创下的全球IPO募资纪录；上市首日开盘价升至111.50美元，收盘涨约17%，公司估值站上万亿美元级别。 不同于常规科技股IPO， 此次上市同步落地了一笔260亿美元的私募配售，认购方几乎全部来自Anthropic的上游算力与半导体供应链 ：谷歌和英伟达各出资100亿美元，AMD出资25亿美元，博通、美光和微软各出资10亿美元，一贯严守中立、极少直接投资下游软件公司的台积电也通过关联实体出资5亿美元。七家企业均按发行价认购无投票权N类普通股。 上游硬件供应商集体出资成为下游客户的新股东，且不要求投票权，这在过往的半导体行业周期中并不多见。结合Anthropic招股书披露的9009亿美元算力与基础设施承诺来看，此次上市不仅是一次资本事件，更直接暴露了AI芯片竞争、上游供应链采购方式以及算",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213769.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T06:16:44.000Z",
+      "author": "半导体产业纵横",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "141aaca982bbe1c264",
+      "titleOriginal": "存储行业变天：比涨价更可怕的，是拿不到货",
+      "summaryOriginal": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜沈浪 美银11月报告指，NAND现货自10月中旬以来累计回调约20%，主因有三点：现货价修正、PC与手机及国内云厂商需求偏弱、2027年一季度合约价谈判可能推迟。 上游则是另一幅景象，TrendForce近日发布预测，认为PC DRAM内存、Client SSD（客户端固态硬盘）存储的价格将在2026年第4季度分别再环比上涨13%-18%、0-5%。 从数据上看，合约价在上行，现货行情在走弱，加权月度均价却持平。 这三组行情的相互背离，从本质上来说是原厂统一供给定价模式的瓦解。 01.现货倒挂：不是没需求，而是没配额 放在过去，行业判断存储行情基本锚定终端出货节奏、渠道库存水位以及原厂稼动率这三个标尺。现货与合约价格长期趋势基本是同步的，价差主要由账期和采购规模拉开，而成品价格整体低于原料颗粒的系统性倒挂在过去并不多见。 渠道库存原本是周期的蓄水池，在行情走强时囤货，行情走弱时出清，以此对冲一部分价格波动。 但这一轮，最先失灵的恰恰就是这个蓄水池。 原厂搭建起了两套不同逻辑的供给通道，其中一路对接头部云厂商、AI算力集群与",
+      "titleZh": "存储行业变天：比涨价更可怕的，是拿不到货",
+      "summaryZh": "（本文作者为 硅碳变量，钛媒体经授权发布） 文｜硅碳变量，作者｜沈浪 美银11月报告指，NAND现货自10月中旬以来累计回调约20%，主因有三点：现货价修正、PC与手机及国内云厂商需求偏弱、2027年一季度合约价谈判可能推迟。 上游则是另一幅景象，TrendForce近日发布预测，认为PC DRAM内存、Client SSD（客户端固态硬盘）存储的价格将在2026年第4季度分别再环比上涨13%-18%、0-5%。 从数据上看，合约价在上行，现货行情在走弱，加权月度均价却持平。 这三组行情的相互背离，从本质上来说是原厂统一供给定价模式的瓦解。 01.现货倒挂：不是没需求，而是没配额 放在过去，行业判断存储行情基本锚定终端出货节奏、渠道库存水位以及原厂稼动率这三个标尺。现货与合约价格长期趋势基本是同步的，价差主要由账期和采购规模拉开，而成品价格整体低于原料颗粒的系统性倒挂在过去并不多见。 渠道库存原本是周期的蓄水池，在行情走强时囤货，行情走弱时出清，以此对冲一部分价格波动。 但这一轮，最先失灵的恰恰就是这个蓄水池。 原厂搭建起了两套不同逻辑的供给通道，其中一路对接头部云厂商、AI算力集群与",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8213789.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-22T06:09:06.000Z",
+      "author": "硅碳变量",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -1546,9 +1870,9 @@
       "id": "079373956374b3c38a",
       "titleOriginal": "Chips can survive the space environment — can their financing?",
       "summaryOriginal": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "titleZh": "Chips can survive the space environment — can their financing?",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "芯片可以在太空环境中存活——它们的融资能否做到？",
+      "summaryZh": "贷款人不想让SpaceX把他们的抵押品送入轨道。这对太空数据中心整体而言意味着什么？",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -1591,9 +1915,9 @@
       "id": "859ee3ec8c206bcf24",
       "titleOriginal": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
       "summaryOriginal": "Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alp&ouml;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval already unleashed by OpenAI's previous, often inelegant forays into t",
-      "titleZh": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Anthropic 数学家声称已借助 Claude 解决了著名的千年大奖难题",
+      "summaryZh": "Anthropic 于 2026 年 11 月 19 日上市。|图片来源：Getty Images Anthropic的数学家Levent Alpöge声称，在Claude的帮助下，他证明了黎曼猜想——数学界最棘手的难题之一，破解了这个让世界上一些最优秀的数学家苦苦思索了几十年的谜题。如果得到证实，这将标志着人工智能在数学领域的又一项重大成就，并进一步加剧OpenAI此前在数学领域所进行的、往往并不优雅的探索所引发的颠覆性影响。",
+      "translated": true,
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -1612,9 +1936,9 @@
       "id": "9e188d65b5accd0c98",
       "titleOriginal": "Quoting Levent Alpöge",
       "summaryOriginal": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one",
-      "titleZh": "Quoting Levent Alpöge",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "引用Levent Alpöge的话",
+      "summaryZh": "我相信，在与Claude合作的过程中，我发现了黎曼猜想的证明。事实上，这种方法可以轻松地扩展到更广的范围，从而解决了所谓的广义黎曼猜想，而且我预计，只要有更多的时间，它也能解决广义黎曼猜想。克劳德和我还对不带假设的论证进行了形式化。人们自然会觉得这是个终点，就我而言，是失去了一盏主要的指路明灯，但我在研究过程中所看到的东西让我感到非常震撼，我相信这只是",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -1683,9 +2007,9 @@
       "id": "92c1cc867c01424733",
       "titleOriginal": "The fallout from Nvidia’s Jensen Huang scandal continues",
       "summaryOriginal": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-      "titleZh": "The fallout from Nvidia’s Jensen Huang scandal continues",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "英伟达黄仁勋丑闻的影响仍在持续",
+      "summaryZh": "在应对罢免首席执行官黄仁勋所带来的影响之际，英伟达本周发布了最新财报，显示出强劲的增长势头，并承诺美好势头将持续下去。与此同时，这家芯片制造商表示将停止在中国销售其H200芯片，并驳回了 […] 的呼吁。",
+      "translated": true,
       "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -1733,9 +2057,9 @@
       "id": "20109fb1b569d92304",
       "titleOriginal": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
       "summaryOriginal": "NVIDIA has released Nemotron-Labs-Sigma , a collection of 14 open checkpoints at 3B and 8B scale. Nemotron-Labs-Sigma is a continuous diffusion language model family that denoises text in a 16-D embedding space. Most diffusion LLMs, such as LLaDA and Dream, work on discrete tokens. Sigma works in a smooth latent space instead. NVIDIA team states that this makes few-step distillation and trajectory steering practical for text. TL;DR Size: 3B and 8B parameters, 14 checkpoints. Context is 4,096 tok",
-      "titleZh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "NVIDIA AI发布Nemotron-Labs-Sigma，这是一款具有14个检查点的3B/8B连续扩散语言模型",
+      "summaryZh": "NVIDIA 发布了 Nemotron-Labs-Sigma ，这是一个包含 14 个开放检查点的集合，规模分别为 30 亿和 80 亿。Nemotron-Labs-Sigma 是一个连续扩散语言模型系列，它在 16 维嵌入空间中对文本进行去噪。大多数扩散LLM（如LLaDA和Dream）都基于离散的token。而Sigma则在平滑的潜在空间中工作。NVIDIA 团队表示，这使得少步蒸馏和轨迹引导在文本中具有实用性。TL;DR 大小：30亿和80亿参数，14个检查点。上下文为 4,096 个标记",
+      "translated": true,
       "url": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
       "sourceId": "marktechpost",
       "sourceName": "MarkTechPost",
@@ -11189,320 +11513,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "968e4ab4d9bb9e0706",
-      "titleOriginal": "datasette-apps 0.4a0",
-      "summaryOriginal": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queries against your data. 0.4a0 adds support for linking: you can link to an app with #fragments in the URL and the app can see and use those, plus supported URL schemes are reported back to Datasette Agent so it can help write apps that link to each other. This means you can have e.g. an app that shows details about a specif",
-      "titleZh": "datasette-apps 0.4a0",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-15T04:02:45.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "cc7b7d65085832de9f",
-      "titleOriginal": "datasette-agent 0.6a0",
-      "summaryOriginal": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds an agent prompt directly to the Datasette homepage, with support for hash-mentions of tables and queries: Tags: datasette-agent , llm , datasette , llms , ai , generative-ai",
-      "titleZh": "datasette-agent 0.6a0",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-15T03:49:47.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Agent",
-        "Prompt"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b1b6378b17c88c84cd",
-      "titleOriginal": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
-      "summaryOriginal": "（本文作者为 孙永杰，钛媒体经授权发布） 文 | 孙永杰 近期，英伟达创始人兼CEO黄仁勋离职风波在业内引起强烈反响，且仍在持续发酵。而当我们站在中国AI产业现实和发展的视角冷静思考，该风波不只是一起涉及芯片转运和出口管制的调查，更折射出中国AI产业面临的现实处境，即国产算力正在加速发展，但从“可用”走向“好用”、从单点芯片突破走向完整系统能力，仍需要时间。与此同时，企业又必须在激烈的AI竞争中争取模型训练速度和产品迭代效率。正是这种短期竞争需求与长期自主化目标之间的时间差，构成了当前中国AI算力发展的一重现实张力。 管制管的是芯片，企业要的是算力 截至目前，回望这起事件，不仅在于某些服务器最终流向了哪里，更在于两种逻辑之间的错位，具体表现为美国出口管制主要针对先进芯片的物理流向，而中国AI企业真正需要的是能够持续、稳定使用的先进算力。 说到出口管制，其传统思路是限制先进芯片进入特定国家。而按照这一逻辑，英伟达Blackwell等高端产品被挡在中国市场之外。例如2026年1月，美国对英伟达H200及部分同类产品调整了出口政策，允许在满足特定条件的情况下逐案审查，但并非全面放开。相关条件",
-      "titleZh": "黄仁勋离职风波冷思考：中国AI自主化与海外依赖张力之辩",
-      "summaryZh": "（本文作者为 孙永杰，钛媒体经授权发布） 文 | 孙永杰 近期，英伟达创始人兼CEO黄仁勋离职风波在业内引起强烈反响，且仍在持续发酵。而当我们站在中国AI产业现实和发展的视角冷静思考，该风波不只是一起涉及芯片转运和出口管制的调查，更折射出中国AI产业面临的现实处境，即国产算力正在加速发展，但从“可用”走向“好用”、从单点芯片突破走向完整系统能力，仍需要时间。与此同时，企业又必须在激烈的AI竞争中争取模型训练速度和产品迭代效率。正是这种短期竞争需求与长期自主化目标之间的时间差，构成了当前中国AI算力发展的一重现实张力。 管制管的是芯片，企业要的是算力 截至目前，回望这起事件，不仅在于某些服务器最终流向了哪里，更在于两种逻辑之间的错位，具体表现为美国出口管制主要针对先进芯片的物理流向，而中国AI企业真正需要的是能够持续、稳定使用的先进算力。 说到出口管制，其传统思路是限制先进芯片进入特定国家。而按照这一逻辑，英伟达Blackwell等高端产品被挡在中国市场之外。例如2026年1月，美国对英伟达H200及部分同类产品调整了出口政策，允许在满足特定条件的情况下逐案审查，但并非全面放开。相关条件",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205600.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:50:20.000Z",
-      "author": "孙永杰",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "748e129fa49be8d140",
-      "titleOriginal": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
-      "summaryOriginal": "（本文作者为 创业最前线，钛媒体经授权发布） 文 | 创业最前线，作者 | 于莹，编辑 | 魏帅 2026年的三季报，把可川科技从光通信概念的热潮里拽回了现实。 这家靠消费电子、电池功能性器件起家的苏州企业，两年前一头扎进硅光赛道。今年来，公司曾借着AI算力的东风“一飞冲天”，公司股价最高冲至120.47元/股，市值站上220亿元的巅峰。 但当概念热度退去，如今公司股价却暴跌近七成。 数据显示，今年前三季度，可川科技亏损5127万元， 上市后首度转亏，而被寄予厚望的硅光业务部分仍停留在送样验证阶段。 更值得玩味的是实控人施惠庆的操作。今年以来，其在股价较高点减持套现3.7亿元，不久后，又反手斥资超4亿元拿下协和电子，手握第二个A股平台。 当实控人的重心转向新的资本平台，可川科技讲了两年的硅光故事，会有新的变数吗？ 1、从器件工厂到“追光者”，股价经历过山车 可川科技的基本盘，曾和“高精尖”的定位相距较远。 资料显示，公司主营各类功能性器件的研发生产，产品按应用分成三大类： 电池类、结构类、光学类， 下游客户覆盖宁德时代、三星视界、中创新航、蓝思科技等产业链知名厂商，本质是精密加工环节的",
-      "titleZh": "光通信热潮退去，可川科技股价“膝斩”七成，实控人左手减持右手接盘新公司",
-      "summaryZh": "（本文作者为 创业最前线，钛媒体经授权发布） 文 | 创业最前线，作者 | 于莹，编辑 | 魏帅 2026年的三季报，把可川科技从光通信概念的热潮里拽回了现实。 这家靠消费电子、电池功能性器件起家的苏州企业，两年前一头扎进硅光赛道。今年来，公司曾借着AI算力的东风“一飞冲天”，公司股价最高冲至120.47元/股，市值站上220亿元的巅峰。 但当概念热度退去，如今公司股价却暴跌近七成。 数据显示，今年前三季度，可川科技亏损5127万元， 上市后首度转亏，而被寄予厚望的硅光业务部分仍停留在送样验证阶段。 更值得玩味的是实控人施惠庆的操作。今年以来，其在股价较高点减持套现3.7亿元，不久后，又反手斥资超4亿元拿下协和电子，手握第二个A股平台。 当实控人的重心转向新的资本平台，可川科技讲了两年的硅光故事，会有新的变数吗？ 1、从器件工厂到“追光者”，股价经历过山车 可川科技的基本盘，曾和“高精尖”的定位相距较远。 资料显示，公司主营各类功能性器件的研发生产，产品按应用分成三大类： 电池类、结构类、光学类， 下游客户覆盖宁德时代、三星视界、中创新航、蓝思科技等产业链知名厂商，本质是精密加工环节的",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205602.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:50:09.000Z",
-      "author": "创业最前线",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "790290d6df8a0f4b6a",
-      "titleOriginal": "AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？",
-      "summaryOriginal": "（本文作者为 硅谷101，钛媒体经授权发布） 文 | 硅谷101 美股中期选举之后，AI叙事改变，导致股市崩盘。 民主党赢得国会参众两院控制权后，市场担心，接下来对数据中心建设和AI安全的监管将进一步收紧。11月5日，纳斯达克100指数与费城半导体指数双双创下2020年3月以来最大单日跌幅。 而让人们更担心的是，这会是AI叙事的正式转变吗？ 过去，数据中心能否按时建成，主要看电够不够、设备能否交付。现在，企业还要回答另一组问题：电网升级由谁出钱，居民增加的水电费由谁承担，社区能获得多少长期就业？在一些地区，只要条件达不到，项目就可能被一票否决。在这次对话中，我们的嘉宾估计，在较坏的情况下，数据中心的成本可能增加10%至20%。 但建设受阻，并不等于算力需求消失。如果需求仍然旺盛，已经拥有算力的公司，反而可能获得更强的定价权。华尔街究竟是在担心机房建不起来，还是企业不再愿意为AI花钱？这两种判断，会带来完全不同的结果。 与此同时，许多美国当地居民关心的，是更具体的生活：房租还能不能负担，电费会不会上涨，建设结束后，工作岗位能留下多少。正如济容投资CEO兼CIO Bruce在对话中反复提醒",
-      "titleZh": "AI撞上美国“新世界”：暴跌、监管、政治博弈，数据中心何去何从？",
-      "summaryZh": "（本文作者为 硅谷101，钛媒体经授权发布） 文 | 硅谷101 美股中期选举之后，AI叙事改变，导致股市崩盘。 民主党赢得国会参众两院控制权后，市场担心，接下来对数据中心建设和AI安全的监管将进一步收紧。11月5日，纳斯达克100指数与费城半导体指数双双创下2020年3月以来最大单日跌幅。 而让人们更担心的是，这会是AI叙事的正式转变吗？ 过去，数据中心能否按时建成，主要看电够不够、设备能否交付。现在，企业还要回答另一组问题：电网升级由谁出钱，居民增加的水电费由谁承担，社区能获得多少长期就业？在一些地区，只要条件达不到，项目就可能被一票否决。在这次对话中，我们的嘉宾估计，在较坏的情况下，数据中心的成本可能增加10%至20%。 但建设受阻，并不等于算力需求消失。如果需求仍然旺盛，已经拥有算力的公司，反而可能获得更强的定价权。华尔街究竟是在担心机房建不起来，还是企业不再愿意为AI花钱？这两种判断，会带来完全不同的结果。 与此同时，许多美国当地居民关心的，是更具体的生活：房租还能不能负担，电费会不会上涨，建设结束后，工作岗位能留下多少。正如济容投资CEO兼CIO Bruce在对话中反复提醒",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205551.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:30:54.000Z",
-      "author": "硅谷101",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a3de1043e228e0e7b3",
-      "titleOriginal": "黄仁勋和“平头哥”，都在等一个厉娜！",
-      "summaryOriginal": "（本文作者为 互联网江湖，钛媒体经授权发布） 文 | 互联网江湖，作者 | Evin，编辑 | 刘致呈 “我是被宣判的人，我能去哪儿啊，我画地为牢，厉娜！” 这是最近一部综艺里爆火出圈的台词，感觉挺适合拿来点评国内外AI科技圈正在发生的两件大事： 一个是英伟达黄仁勋那档子事儿； 一个是刚刚由阿里宣布，拟分拆全资芯片子公司平头哥在香港联交所主板独立上市的消息。 按公告所言，早在两个月前的9月11日，平头哥就已经以保密形式向港交所递交了A1上市申请表。 黄仁勋画地为牢的对象就不说了，全在道歉信里了。 有意思的是平头哥，其实，平头哥上市本身不是一件很意外的事儿。 毕竟，在年初百度昆仑芯宣布独立分拆上市时，就有媒体传出阿里已经决定支持旗下的芯片公司，平头哥在未来独立上市了。 随后在3月份的财报电话会上，阿里CEO吴泳铭也表示：“平头哥已经成功商业化……未来不排除去IPO，现在还没有一个明确的时间点”。 也正因此，比起上市，现在很多人反而更关注：过去一直“困”在阿里云画地为牢中的平头哥，为什么突然走出来了？ 在今年9月已经递交了上市申请表的背景下，为什么此时选择了掀开“盖子”？ 难道是平头哥等来",
-      "titleZh": "黄仁勋和“平头哥”，都在等一个厉娜！",
-      "summaryZh": "（本文作者为 互联网江湖，钛媒体经授权发布） 文 | 互联网江湖，作者 | Evin，编辑 | 刘致呈 “我是被宣判的人，我能去哪儿啊，我画地为牢，厉娜！” 这是最近一部综艺里爆火出圈的台词，感觉挺适合拿来点评国内外AI科技圈正在发生的两件大事： 一个是英伟达黄仁勋那档子事儿； 一个是刚刚由阿里宣布，拟分拆全资芯片子公司平头哥在香港联交所主板独立上市的消息。 按公告所言，早在两个月前的9月11日，平头哥就已经以保密形式向港交所递交了A1上市申请表。 黄仁勋画地为牢的对象就不说了，全在道歉信里了。 有意思的是平头哥，其实，平头哥上市本身不是一件很意外的事儿。 毕竟，在年初百度昆仑芯宣布独立分拆上市时，就有媒体传出阿里已经决定支持旗下的芯片公司，平头哥在未来独立上市了。 随后在3月份的财报电话会上，阿里CEO吴泳铭也表示：“平头哥已经成功商业化……未来不排除去IPO，现在还没有一个明确的时间点”。 也正因此，比起上市，现在很多人反而更关注：过去一直“困”在阿里云画地为牢中的平头哥，为什么突然走出来了？ 在今年9月已经递交了上市申请表的背景下，为什么此时选择了掀开“盖子”？ 难道是平头哥等来",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205553.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:30:50.000Z",
-      "author": "互联网江湖",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8f31cc4c7bf3636bc3",
-      "titleOriginal": "算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？",
-      "summaryOriginal": "（本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 聊天对话框省不出利润率，物理AI真正的金矿藏在“同源耦合”的水下。 这两年，科技界与实体产业之间裂开了一道肉眼可见的鸿沟。 一边是算力基础设施与大语言模型狂飙突进，参数规模、推理速度每半年翻一番，智能体（Agent）概念席卷所有科技峰会；另一边却是广大实体制造企业的财报越来越沉重——营收从几十亿冲上几百亿，软件与数字化投入连年增长，企业的净利率却普遍跌到 4%—5% 的刀锋边缘，投入资本回报率（ROIC）更是掉进 3%—6% 的微利区间，连资金成本都难以覆盖。 为什么硅基算力已经如此廉价而强大，却救不了实体企业的利润表？ 如果你走进任何一家百亿级制造企业的董事会旁听一次预算审批，答案当场就会浮出水面。 研发负责人申请投三个亿开发新一代硬件，销售负责人申请花两个亿拓展海外渠道，制造负责人申请砸五个亿建自动化新产线——一把手往往拍板极快，因为所有人都默认研发、渠道和产线是赚钱的发动机。唯独轮到数字化与供应链负责人申请建核心计划与决策算法系统时，立项报告上的预期收益几乎千篇一律写着： 预计库存降低 5%—8%，准时",
-      "titleZh": "算力狂飙而净利率跌破5%：为什么工业AI算不出实体企业的真利润？",
-      "summaryZh": "（本文作者为 GritMeng，钛媒体经授权发布） 文 | GritMeng 聊天对话框省不出利润率，物理AI真正的金矿藏在“同源耦合”的水下。 这两年，科技界与实体产业之间裂开了一道肉眼可见的鸿沟。 一边是算力基础设施与大语言模型狂飙突进，参数规模、推理速度每半年翻一番，智能体（Agent）概念席卷所有科技峰会；另一边却是广大实体制造企业的财报越来越沉重——营收从几十亿冲上几百亿，软件与数字化投入连年增长，企业的净利率却普遍跌到 4%—5% 的刀锋边缘，投入资本回报率（ROIC）更是掉进 3%—6% 的微利区间，连资金成本都难以覆盖。 为什么硅基算力已经如此廉价而强大，却救不了实体企业的利润表？ 如果你走进任何一家百亿级制造企业的董事会旁听一次预算审批，答案当场就会浮出水面。 研发负责人申请投三个亿开发新一代硬件，销售负责人申请花两个亿拓展海外渠道，制造负责人申请砸五个亿建自动化新产线——一把手往往拍板极快，因为所有人都默认研发、渠道和产线是赚钱的发动机。唯独轮到数字化与供应链负责人申请建核心计划与决策算法系统时，立项报告上的预期收益几乎千篇一律写着： 预计库存降低 5%—8%，准时",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205381.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:30:45.000Z",
-      "author": "GritMeng",
-      "tags": [
-        "launch",
-        "Agent"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "86006d350f3d108d49",
-      "titleOriginal": "一条推文蒸发近3万亿：美国ASI禁令引爆科技股雪崩",
-      "summaryOriginal": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 一条推文，让美股科技板块迎来了一场教科书级别的“踩踏式雪崩”。 当地时间 11 月 4 日，美国亚利桑那州民主党众议员 亚萨明・安萨里（Yassamin Ansari） 在社交平台 X 公开发文表态：要求将 暂停先进 AI 研发、全面监管失控的 AI 行业、立法禁止超级人工智能（ASI） ，列为新一届民主党国会首日的核心议程。 这条带有强政策指向、直击 AI 产业根基的官方议员推文，短时间内千万级刷屏。次日， 马斯克精准转发该条议员原帖 ，仅配文一句： It’s a Brave New World（美丽新世界） ，以经典反乌托邦隐喻完成讽刺表态。 短短两次社交平台联动，瞬间点燃华尔街恐慌情绪。全网迅速发酵出统一叙事： 一条推文引发全球 AI 恐慌，一夜之间美科技股市值蒸发近 3 万亿 。 表面看，这是一次典型的 “情绪杀”，由社交媒体舆情触发资金出逃。 但如果只把这场史诗级暴跌归结为一条推文、一次情绪波动，那就完全看错了本轮 AI 大调整的底层逻辑。 议员原发推文是源头、马斯克转发是爆点、市场暴跌是结果。真正引爆崩盘的，",
-      "titleZh": "一条推文蒸发近3万亿：美国ASI禁令引爆科技股雪崩",
-      "summaryZh": "（本文作者为 斯凯有话说，钛媒体经授权发布） 文 | 斯凯有话说 一条推文，让美股科技板块迎来了一场教科书级别的“踩踏式雪崩”。 当地时间 11 月 4 日，美国亚利桑那州民主党众议员 亚萨明・安萨里（Yassamin Ansari） 在社交平台 X 公开发文表态：要求将 暂停先进 AI 研发、全面监管失控的 AI 行业、立法禁止超级人工智能（ASI） ，列为新一届民主党国会首日的核心议程。 这条带有强政策指向、直击 AI 产业根基的官方议员推文，短时间内千万级刷屏。次日， 马斯克精准转发该条议员原帖 ，仅配文一句： It’s a Brave New World（美丽新世界） ，以经典反乌托邦隐喻完成讽刺表态。 短短两次社交平台联动，瞬间点燃华尔街恐慌情绪。全网迅速发酵出统一叙事： 一条推文引发全球 AI 恐慌，一夜之间美科技股市值蒸发近 3 万亿 。 表面看，这是一次典型的 “情绪杀”，由社交媒体舆情触发资金出逃。 但如果只把这场史诗级暴跌归结为一条推文、一次情绪波动，那就完全看错了本轮 AI 大调整的底层逻辑。 议员原发推文是源头、马斯克转发是爆点、市场暴跌是结果。真正引爆崩盘的，",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205565.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:30:42.000Z",
-      "author": "斯凯有话说",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8a97c0024ed231f42d",
-      "titleOriginal": "Kimi估值500亿美元，月之暗面为什么急着拆掉海外架构？",
-      "summaryOriginal": "（本文作者为 厚雪商业，钛媒体经授权发布） 文 | 厚雪商业 11月13日，据《华尔街日报》报道，Kimi开发商月之暗面正在调整上市前的公司架构：计划终止开曼控股公司的运作，回购早期投资者持有的相关股份，再安排投资者将资金重新投入中国境内的主要运营实体。 这场调整，被外界视为月之暗面为港股IPO做准备的重要一步。 此前，市场已经传出月之暗面计划赴港上市的消息。彭博社报道称，公司最新一轮融资估值约500亿美元，并考虑在2027年第一季度登陆港交所，募资规模最高可能达到50亿美元。 如果这一计划落地，月之暗面将成为中国AI创业公司冲击公开市场的重要代表。 但比上市时间和募资规模更值得关注的，是它正在调整的资本结构。 一家依靠美元基金起家的AI公司，为什么在准备上市时，反而要拆掉曾经帮助自己融资的海外架构？ 01 从美元资本起家，为什么又要回到境内？ 2023年，杨植麟创立月之暗面，推出Kimi。凭借长文本处理能力，公司迅速获得市场关注，红杉中国、真格基金、阿里巴巴、腾讯、美团等机构先后参与投资。 对于一家大模型创业公司来说，融资能力至关重要。 训练模型需要大量算力，研发需要持续投入，人才成",
-      "titleZh": "Kimi估值500亿美元，月之暗面为什么急着拆掉海外架构？",
-      "summaryZh": "（本文作者为 厚雪商业，钛媒体经授权发布） 文 | 厚雪商业 11月13日，据《华尔街日报》报道，Kimi开发商月之暗面正在调整上市前的公司架构：计划终止开曼控股公司的运作，回购早期投资者持有的相关股份，再安排投资者将资金重新投入中国境内的主要运营实体。 这场调整，被外界视为月之暗面为港股IPO做准备的重要一步。 此前，市场已经传出月之暗面计划赴港上市的消息。彭博社报道称，公司最新一轮融资估值约500亿美元，并考虑在2027年第一季度登陆港交所，募资规模最高可能达到50亿美元。 如果这一计划落地，月之暗面将成为中国AI创业公司冲击公开市场的重要代表。 但比上市时间和募资规模更值得关注的，是它正在调整的资本结构。 一家依靠美元基金起家的AI公司，为什么在准备上市时，反而要拆掉曾经帮助自己融资的海外架构？ 01 从美元资本起家，为什么又要回到境内？ 2023年，杨植麟创立月之暗面，推出Kimi。凭借长文本处理能力，公司迅速获得市场关注，红杉中国、真格基金、阿里巴巴、腾讯、美团等机构先后参与投资。 对于一家大模型创业公司来说，融资能力至关重要。 训练模型需要大量算力，研发需要持续投入，人才成",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205584.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T02:30:39.000Z",
-      "author": "厚雪商业",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d0405a40483443ff28",
-      "titleOriginal": "Edge AI Daily 早报（11月15日）",
-      "summaryOriginal": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、英伟达请回黄仁勋，真正被审判的是董事会 1.11月12日英伟达宣布黄仁勋辞去总裁、CEO及董事职务并即刻生效，执行副总裁兼CFO科莱特&middot;克雷斯出任临时CEO并保留原职，董事会启动内部与外部继任者遴选，并任命哈维&middot;琼斯为首任董事长。截至11月14日下午，请愿网站签名超11.5万，含5965名现任员工、1108名前员工和63063名股东，马斯克等科技公司高管亦在支持者之列，要求董事会在独立调查厘清事实期间让黄仁勋回任并公开更多信息。 2.文章认为争议核心不是“黄仁勋是否应回归”，而是创始人依赖、董事会程序与产业链信任之间的张力：黄仁勋自1993年领导公司，深度绑定芯片设计、云计算、AI模型、开发者与政策关系，其离任把问题推向“英伟达能否在没有他的情况下继续做出关键决策”。继任者须同时理解芯片、系统、软件生态、云服务与政策环境，临时CEO可稳住财务沟通与经营秩序，却难以完全替代创始人的技术号召力与产业关系功能。 3.公告当日英伟达收跌4.34%，盘中最大跌幅约14.35%后逐步收复，同日",
-      "titleZh": "Edge AI Daily 早报（11月15日）",
-      "summaryZh": "（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、英伟达请回黄仁勋，真正被审判的是董事会 1.11月12日英伟达宣布黄仁勋辞去总裁、CEO及董事职务并即刻生效，执行副总裁兼CFO科莱特&middot;克雷斯出任临时CEO并保留原职，董事会启动内部与外部继任者遴选，并任命哈维&middot;琼斯为首任董事长。截至11月14日下午，请愿网站签名超11.5万，含5965名现任员工、1108名前员工和63063名股东，马斯克等科技公司高管亦在支持者之列，要求董事会在独立调查厘清事实期间让黄仁勋回任并公开更多信息。 2.文章认为争议核心不是“黄仁勋是否应回归”，而是创始人依赖、董事会程序与产业链信任之间的张力：黄仁勋自1993年领导公司，深度绑定芯片设计、云计算、AI模型、开发者与政策关系，其离任把问题推向“英伟达能否在没有他的情况下继续做出关键决策”。继任者须同时理解芯片、系统、软件生态、云服务与政策环境，临时CEO可稳住财务沟通与经营秩序，却难以完全替代创始人的技术号召力与产业关系功能。 3.公告当日英伟达收跌4.34%，盘中最大跌幅约14.35%后逐步收复，同日",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8205610.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-15T01:09:35.000Z",
-      "author": "Edge AI Daily",
-      "tags": [
-        "launch",
-        "AGI",
-        "大模型"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "acaf00569e865f0806",
-      "titleOriginal": "Where was Nvidia’s security team?",
-      "summaryOriginal": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
-      "titleZh": "Nvidia 的安全团队在哪里？",
-      "summaryZh": "英伟达的安全主管于8月份悄然离职，而现在，首席执行官黄仁勋因其人际关系而辞职，其中包括与一家涉嫌向中国输送芯片的公司的某位高管的关系。一位前情报官员表示，这是一种在日常对话中发生的泄密行为，大多数公司的安全团队都缺乏发现此类泄密的手段。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-15T00:08:07.000Z",
-      "author": "Connie Loizos",
-      "tags": [
-        "news",
-        "AI",
-        "nvidia",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2059ff8340bbc5f665",
-      "titleOriginal": "datasette-llm 0.1a11",
-      "summaryOriginal": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama or llama.cpp (which just hit v1.0.0 ) you can run Datasette via uvx like this: wget https://datasette.",
-      "titleZh": "datasette-llm 0.1a11",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-14T23:59:28.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a4a92fbcda03532a99",
-      "titleOriginal": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summaryOriginal": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "titleZh": "埃隆·马斯克和其他科技公司高管签署请愿书，呼吁英伟达恢复黄仁勋的职位",
-      "summaryZh": "截至周六下午，该请愿书已获得超过11.5万个签名。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-14T21:41:22.000Z",
-      "author": "Anthony Ha",
-      "tags": [
-        "news",
-        "AI",
-        "Elon Musk",
-        "In Brief",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a60709173eb7c2b552",
-      "titleOriginal": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
-      "summaryOriginal": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a reco",
-      "titleZh": "Anthropic首席执行官Amodei在创纪录的IPO前几天承认“明年将发生的事情存在巨大的不确定性",
-      "summaryZh": "在可能成为史上最大规模IPO的几天前，Anthropic首席执行官Dario Amodei将购买计算能力称为其公司面临的“最深层次的业务困境”。Anthropic目前的承诺总额已接近9010亿美元，但未来收入是否能弥补这些成本仍远未可知。计划中的IPO主要旨在为应对这种不确定性提供财务缓冲。这篇文章称，在IPO前几天，Anthropic首席执行官Amodei承认“明年将发生的事情存在巨大的不确定性”。",
-      "translated": true,
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-14T19:05:17.000Z",
-      "author": "Matthias Bastian",
-      "tags": [
-        "news",
-        "AI and society",
-        "Artificial Intelligence",
-        "Anthropic"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11528,7 +11538,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 81
+      "count": 79
     },
     {
       "id": "theverge",
@@ -11552,7 +11562,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 26
+      "count": 27
     },
     {
       "id": "thedecoder",
@@ -11560,7 +11570,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 53
+      "count": 55
     },
     {
       "id": "marktechpost",
@@ -11568,7 +11578,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 25
+      "count": 27
     },
     {
       "id": "simonwillison",
@@ -11576,7 +11586,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 21
+      "count": 18
     },
     {
       "id": "oneusefulthing",
@@ -11616,7 +11626,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 114
+      "count": 111
     },
     {
       "id": "infoq",
@@ -11624,13 +11634,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 52
+      "count": 55
     }
   ],
   "stats": {
     "total": 500,
     "guides": 38,
-    "translated": 201,
+    "translated": 209,
     "sources": 14
   }
 }
