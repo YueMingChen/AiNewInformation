@@ -1,6 +1,131 @@
 {
-  "generatedAt": "2026-11-25T11:27:52.463Z",
+  "generatedAt": "2026-11-25T21:49:27.780Z",
   "articles": [
+    {
+      "id": "bf32abdcd127b19616",
+      "titleOriginal": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summaryOriginal": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap is widening. The article US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs appeared first on The Decoder .",
+      "titleZh": "据报道，美国的芯片准入限制和反分流措施已经开始影响中国人工智能实验室的发展。",
+      "summaryZh": "据报道，芯片限制、反蒸馏措施以及在海外获得Nvidia硬件的机会日益减少，正给Deepseek、Moonshot AI和阿里巴巴带来越来越大的压力。Deepseek研究人员内部估计，他们已经落后于美国模型长达九个月之久，而且差距还在不断拉大。文章《据报道，美国的芯片获取限制和反蒸馏措施已经开始拖慢中国人工智能实验室的步伐》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:51:02.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and China"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9136aa5e82c27d20b6",
+      "titleOriginal": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "summaryOriginal": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\" appeared first on The Decoder .",
+      "titleZh": "Anthropic首席执行官Dario Amodei表示，让人工智能来治理社会将是一个“糟糕的主意",
+      "summaryZh": "Anthropic首席执行官Dario Amodei对Axios的一篇报道提出反驳，该报道称一些员工认为人类将把权力交给超智能系统。Amodei表示，“将治理权交给人工智能是个坏主意。” 题为《Anthropic首席执行官Dario Amodei表示，让人工智能来治理社会将是一个“糟糕的主意”》的文章最初发表在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:15:50.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Dario Amodei"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dc85126b0ac71765a1",
+      "titleOriginal": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "summaryOriginal": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "titleZh": "OpenAI表示，随着ChatGPT将聊天和工作功能合并，重度用户可能更快达到使用上限。",
+      "summaryZh": "OpenAI 将在整个 ChatGPT 中引入一个统一的使用量仪表，因为它将聊天和工作体验结合在一起。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T20:03:27.000Z",
+      "author": "Jagmeet Singh",
+      "tags": [
+        "news",
+        "AI",
+        "OpenAI",
+        "ChatGPT",
+        "openai chatgpt"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "fb5a7d58c9a946b018",
+      "titleOriginal": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "summaryOriginal": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "titleZh": "Jensen Huang违反了Nvidia的行为准则，他的员工可能不会忘记这一点",
+      "summaryZh": "大多数行为准则都反映了企业文化。就英伟达而言，这可能会产生后果。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:54:57.000Z",
+      "author": "Russell Brandom",
+      "tags": [
+        "news",
+        "AI",
+        "corporate culture",
+        "Jensen Huang",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "00d3c793baf99b8faf",
+      "titleOriginal": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "summaryOriginal": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "titleZh": "Anthropic的Dario Amodei称，将人类控制权拱手让给人工智能的指控“荒谬至极",
+      "summaryZh": "尽管领先的人工智能公司正日益将自己的研究和模型开发自动化，但Anthropic首席执行官Dario Amodei仍对竞争对手指责他倾向于将人类的自主权拱手让给人工智能的说法予以反驳。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T19:44:24.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "research",
+        "AI",
+        "Anthropic",
+        "dario amodei",
+        "OpenAI"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "e8b2e19caddaecbd60",
       "titleOriginal": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
@@ -107,6 +232,102 @@
       "readingMinutes": 2
     },
     {
+      "id": "1abbeffa2ac67f7e89",
+      "titleOriginal": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summaryOriginal": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder .",
+      "titleZh": "OpenAI承诺不查看公司数据，希望公司将敏感工作委托给它",
+      "summaryZh": "OpenAI正在测试一项名为“私有推理”（Private Inference）的新功能，该功能可以让公司在其最强大的模型上运行查询，而OpenAI无法访问这些数据。这篇文章《OpenAI承诺不查看公司数据，希望公司将敏感工作委托给它》最初发表在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:22:02.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "OpenAI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4f0b7bfbd5a5d08ec8",
+      "titleOriginal": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "summaryOriginal": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "titleZh": "想在这个圣诞节给孩子买一个人工智能玩具吗？在纽约不行",
+      "summaryZh": "纽约已禁止人工智能聊天机器人玩具五年，因为Common Sense Media的新研究揭示了令人担忧的安全缺陷，包括接触不当内容和对情感发展的风险。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T18:11:46.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "research",
+        "AI",
+        "Commerce",
+        "Gadgets",
+        "Government & Policy"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6359c2ce0900437371",
+      "titleOriginal": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "summaryOriginal": "In an announcement on Wednesday , the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative . With several others also pursuing the idea of putting AI data centers in space , including Google and Blue Origin, this is the first approval the agency has granted for a full \"constellation\" of AI satellites. The FCC's approval requires SpaceX to deploy at least one satellite by 2033, and meet the 1 million sat",
+      "titleZh": "FCC批准SpaceX的计划，拟将多达100万颗数据中心卫星送入太空",
+      "summaryZh": "美国联邦通信委员会（FCC）周三发布公告称，已授权SpaceX部署多达100万颗配备人工智能芯片的卫星，这是埃隆·马斯克旗下公司“Starmind”计划的一部分。包括谷歌和蓝色起源在内，还有多家公司也在推进将人工智能数据中心部署到太空的计划。这是该机构首次批准建立完整的人工智能卫星“星座”。FCC的批准要求SpaceX在2033年之前至少部署一颗卫星，并达到100万颗卫星的目标。",
+      "translated": true,
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-25T17:44:51.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "16ddaf7683c8da2566",
+      "titleOriginal": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "summaryOriginal": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "titleZh": "Character.AI拍卖用户私人聊天的计划受到州总检察长的质疑",
+      "summaryZh": "州总检察长表示，拟议的Character.ai破产拍卖包括来自超过2100万个美国账户的敏感个人数据，其中210万个账户为未成年人注册。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T17:35:58.000Z",
+      "author": "Sarah Perez",
+      "tags": [
+        "news",
+        "AI",
+        "Privacy",
+        "Startups",
+        "lawsuit"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
       "id": "1ffb9c21f47c9d23c3",
       "titleOriginal": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
       "summaryOriginal": "",
@@ -128,6 +349,52 @@
       "readingMinutes": 2
     },
     {
+      "id": "dc8fa3c5c43982940c",
+      "titleOriginal": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store.",
+      "summaryOriginal": "Amazon and Meta are in talks to bring back Muse, Meta's AI shopping agent that Amazon kicked off its platform in September. The two sides are stuck on ad revenue and who gets to control search results. That matters because Amazon's ad business generates $68.6 billion a year, and Muse already commands 51 percent of all agentic shopping orders. The article Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store. appeared first on The Decoder .",
+      "titleZh": "亚马逊和Meta正在商谈解除对Meta人工智能购物助手Muse在亚马逊网店的封禁。",
+      "summaryZh": "亚马逊和Meta正在商谈重新引入Muse，这是Meta的AI购物助手，亚马逊在9月份将其从平台上移除。双方在广告收入以及谁来掌控搜索结果的问题上陷入僵局。这一点至关重要，因为亚马逊的广告业务每年可创造686亿美元的收入，而Muse已经占据了所有代理购物订单的51%。文章《亚马逊和Meta正在商谈解除对Meta的AI购物助手Muse在亚马逊网店的封禁》最初发表在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T16:44:37.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Amazon"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6b1c4ab3d056003c48",
+      "titleOriginal": "Nothing offers a full look at its AI earbuds and charging case",
+      "summaryOriginal": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3 , the Ear Note's microphone-equipped case comes with a \"Talk\" button that you can use to record your own voice. There's also a new \"Record\" button that can record and transcribe your conversations. In a post on X , Nothing CEO Carl Pei says the bu",
+      "titleZh": "Nothing全面展示其AI耳机和充电盒",
+      "summaryZh": "在即将于12月8日发布之前，Nothing正展示其即将推出的AI耳机的更多细节。Ear Note 耳机可以录制您的通话，而其充电盒可以录制、转录和总结您的通话内容。与Ear 3一样，Ear Note的带麦克风充电盒也配备了“Talk”按钮，您可以使用该按钮录制自己的声音。还有一个新的“录音”按钮，可以录音并转录您的对话。在X上的一篇帖子中，Nothing首席执行官Carl Pei表示，这款耳机",
+      "translated": true,
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-25T16:00:59.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "b3d1de061f03e8b999",
       "titleOriginal": "2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限",
       "summaryOriginal": "",
@@ -144,6 +411,78 @@
       "author": "林绮蓓",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b47f021e12d7c01960",
+      "titleOriginal": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "summaryOriginal": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
+      "titleZh": "人工智能数据中心越来越难建，新云正在感受到这一点",
+      "summaryZh": "⁠Nvidia已明确表示，在人工智能数据中心即将投入运行之前，它不会提供支持，而正值新云公司报告建设延期和债务成本上升之际。向开发商传达的信息是，土地、电力和竣工的建筑比路演PPT更重要。⁠Anita Verma-Lallian⁠ 一直在推销的就是这一点。 […]",
+      "translated": true,
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T15:41:43.000Z",
+      "author": "Theresa Loconsolo, Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "AI data center",
+        "Chamath Palihapitiya"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e1845ee0b548d25f61",
+      "titleOriginal": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summaryOriginal": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune . The discussions, which could end Amazon's block on Muse , reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune , Amazon is concerned that it could lose advertising revenue by allowing Muse on its site, since it depends on actual humans seeing ads across its online m",
+      "titleZh": "据报道，亚马逊正在商谈终止Muse AI购物屏蔽事宜",
+      "summaryZh": "据《财富》杂志报道，亚马逊已就允许Meta的Muse AI代理在其在线平台上购物一事进行了磋商。据报道，这些讨论可能将结束亚马逊对Muse的封禁，其重点在于AI代理所推荐的产品类型，以及这对这家电商巨头的广告收入可能产生的影响。据《财富》报道，亚马逊担心允许Muse在其网站上运营可能会导致广告收入的损失，因为其广告收入依赖于真实的人类在其在线平台上看到广告。",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-25T14:12:33.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "61cb6e1f95ec64ca2b",
+      "titleOriginal": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summaryOriginal": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "titleZh": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T14:10:18.000Z",
+      "author": "Lauren Forristal",
+      "tags": [
+        "news",
+        "AI",
+        "Commerce",
+        "Amazon",
+        "e-commerce"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -191,6 +530,31 @@
       "readingMinutes": 2
     },
     {
+      "id": "7354ff43a60ca597be",
+      "titleOriginal": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "summaryOriginal": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks. The article AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains di",
+      "titleZh": "AI agents now control part of Deepmind's compute for Gemini experiments, but recursive self-improvement remains distant",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T13:23:36.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "Google Deepmind"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "50fa941dd93df20410",
       "titleOriginal": "GTM 领导者 AI 转型蓝图",
       "summaryOriginal": "",
@@ -207,6 +571,76 @@
       "author": "Snowflake",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1578fa0fd76b1fd5bc",
+      "titleOriginal": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+      "summaryOriginal": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures. The article Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools appeared first on The Decoder .",
+      "titleZh": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T13:14:27.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Anthropic",
+        "Claude"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bb674824a508df3f33",
+      "titleOriginal": "医疗AI进医院，模型高分还不够",
+      "summaryOriginal": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 医疗AI正在加速进入医生的日常工作。 2026年10月，《美国医学会杂志》（JAMA）发表的一项研究显示，2024年初至2026年6月底，美国约95.2万名医疗专业人员累计通过医疗AI平台OpenEvidence发起2.71亿次查询。到2026年6月，该平台月活跃用户已达70.3万。 中国医疗AI的应用范围也在扩大。 今年3月，国家人工智能应用上海中试基地披露，肝胆肿瘤智能体已推广至122家医疗机构，累计服务超过100万人次，胸部影像智能体累计处理超过250万例病例，覆盖全国20余家医院。 与此同时，互联网科技公司、医疗IT企业和医院自身都在加大投入。蚂蚁阿福近日宣布向医生端引入循证医学工具、推出电脑工作台，并发布新一代医疗健康模型。蚂蚁披露，阿福已有1.5亿用户，并提出2027年服务百万级医生的目标。 从这些进展来看，医疗AI正在从医学知识问答和特定疾病识别，进一步进入医疗服务的实际流程。 不过，一项技术能够回答专业问题，与它能够帮助医生更好地完成工作，仍然存在距离。医疗AI正在进入一个需要更多现实证据的阶段。 医疗AI开始进入医",
+      "titleZh": "医疗AI进医院，模型高分还不够",
+      "summaryZh": "（本文作者为 Barrons巴伦，钛媒体经授权发布） 医疗AI正在加速进入医生的日常工作。 2026年10月，《美国医学会杂志》（JAMA）发表的一项研究显示，2024年初至2026年6月底，美国约95.2万名医疗专业人员累计通过医疗AI平台OpenEvidence发起2.71亿次查询。到2026年6月，该平台月活跃用户已达70.3万。 中国医疗AI的应用范围也在扩大。 今年3月，国家人工智能应用上海中试基地披露，肝胆肿瘤智能体已推广至122家医疗机构，累计服务超过100万人次，胸部影像智能体累计处理超过250万例病例，覆盖全国20余家医院。 与此同时，互联网科技公司、医疗IT企业和医院自身都在加大投入。蚂蚁阿福近日宣布向医生端引入循证医学工具、推出电脑工作台，并发布新一代医疗健康模型。蚂蚁披露，阿福已有1.5亿用户，并提出2027年服务百万级医生的目标。 从这些进展来看，医疗AI正在从医学知识问答和特定疾病识别，进一步进入医疗服务的实际流程。 不过，一项技术能够回答专业问题，与它能够帮助医生更好地完成工作，仍然存在距离。医疗AI正在进入一个需要更多现实证据的阶段。 医疗AI开始进入医",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8217765.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T13:11:26.000Z",
+      "author": "Barrons巴伦",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2633f28b544934987f",
+      "titleOriginal": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+      "summaryOriginal": "The US Financial Crimes Enforcement Network took systems offline as a precaution after unauthorized access. Hours earlier, reports emerged of a separate breach at the CIA, NGA, and ODNI, in which investigators suspect attackers used the AI defense tool Artex. Both incidents land on a US public that is already on edge. The article Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages appeared first on The Decoder .",
+      "titleZh": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/back-to-back-cyber-incidents-at-us-financial-investigators-and-spy-agencies-follow-a-string-of-federal-hacks-and-outages/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T13:07:44.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "Cybersecurity"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -230,6 +664,103 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "958b4d502f59f32f0d",
+      "titleOriginal": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summaryOriginal": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+      "titleZh": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-25T13:00:00.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Jensen Huang",
+        "Megaspeed",
+        "nvidia"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "929f2b2360df768838",
+      "titleOriginal": "Has vibe coding made open source the new normal for synths?",
+      "summaryOriginal": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world , leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no piece of music gear is safe from Claude and a subreddit full of curious tinkerers, companies have begun making more and more of their devices open source. Th",
+      "titleZh": "Has vibe coding made open source the new normal for synths?",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-11-25T13:00:00.000Z",
+      "author": "Terrence O’Brien",
+      "tags": [
+        "guide",
+        "Agent",
+        "Open Source",
+        "Coding"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0da425035fe71bd113",
+      "titleOriginal": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+      "summaryOriginal": "Startup PrismML has released Ternary Bonsai 2.5 27B, an updated version of its aggressively compressed language model. The article PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values appeared first on The Decoder .",
+      "titleZh": "PrismML shrinks a 54 GB language model to 5.9 GB by reducing every weight to just three possible values",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/prismml-squeezes-an-agent-based-coding-model-with-27-billion-parameters-into-5-9-gb/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T11:51:49.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "PrismML"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b9e7be83e253db50d9",
+      "titleOriginal": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "summaryOriginal": "The “hardest remaining problem in classical physics” gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "titleZh": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-11-25T11:30:00.000Z",
+      "author": "Aarian Marshall",
+      "tags": [
+        "analysis",
+        "Gear",
+        "Gear / Gear News and Events"
+      ],
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
@@ -1506,6 +2037,27 @@
         "research"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dd94f7af62fb3fa3cd",
+      "titleOriginal": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summaryOriginal": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "titleZh": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-11-24T13:07:53.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -10936,532 +11488,6 @@
       ],
       "category": "research",
       "readingMinutes": 2
-    },
-    {
-      "id": "efd708a5285a22abee",
-      "titleOriginal": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
-      "summaryOriginal": "",
-      "titleZh": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "author": "作者：Leela Kumili",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "843804837ac23860c4",
-      "titleOriginal": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
-      "summaryOriginal": "",
-      "titleZh": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "author": "AICon 全球人工智能开发与应用大会",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "84d2fa603ef696ee15",
-      "titleOriginal": "Will Wright’s next game uses AI to map your memories",
-      "summaryOriginal": "Will Wright, the creator of legendary franchises like SimCity and The Sims , is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems . Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. \"We want to take your autobiography and turn it into a toy world,\" he tells The Verge . The MyMems website describes the mobile game as a \"social simulation\" with worlds \"built from",
-      "titleZh": "Will Wright’s next game uses AI to map your memories",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-18T14:00:00.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "3199c796fc0c86e602",
-      "titleOriginal": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
-      "summaryOriginal": "KPMG deployed more than 100 AI agents alongside the regular audit of a UK-listed company. The agents asked \"better questions\" than the audit team in some cases, according to UK head of audit Cath Burnet. The UK's accounting regulator, the FRC, sees a risk in the approach because AI agents analyze far more data than traditional sampling methods, potentially surfacing findings that could serve as a sales pitch for lucrative consulting work and undermine auditor independence. The article KPMG's \"Pr",
-      "titleZh": "KPMG's \"Project Exponential\" put AI agents alongside a real audit team and found the bots dug deeper on individual questions",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://the-decoder.com/kpmgs-project-exponential-put-ai-agents-alongside-a-real-audit-team-and-found-the-bots-dug-deeper-on-individual-questions/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-18T13:55:49.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "AI business",
-        "Finance"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d4ddca37ce14f7c1c9",
-      "titleOriginal": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
-      "summaryOriginal": "",
-      "titleZh": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T13:55:35.000Z",
-      "author": "林绮蓓",
-      "tags": [
-        "news",
-        "Coding"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "791aac0a80686bf7f6",
-      "titleOriginal": "“绝不愿再创办一次英伟达！”黄仁勋亲述创业33年背后的代价",
-      "summaryOriginal": "",
-      "titleZh": "“绝不愿再创办一次英伟达！”黄仁勋亲述创业33年背后的代价",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/e7Gtfwy4TI26o5elxRwT",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T13:50:15.000Z",
-      "author": "林绮蓓",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e4e00226a072f4fd05",
-      "titleOriginal": "谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值",
-      "summaryOriginal": "",
-      "titleZh": "谷歌 SRE 圣经被迫重写：AI 时代，硬技能在塌陷，第一性原理在升值",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/draE95cYeLAqhcR3CwIF",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T13:39:49.000Z",
-      "author": "林绮蓓",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d3d40c7bab1f756f2e",
-      "titleOriginal": "SEC probes Nvidia over undisclosed chip sales tied to China",
-      "summaryOriginal": "The U.S. Securities and Exchange Commission (SEC) has launched a civil investigation into Nvidia. The article SEC probes Nvidia over undisclosed chip sales tied to China appeared first on The Decoder .",
-      "titleZh": "SEC probes Nvidia over undisclosed chip sales tied to China",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://the-decoder.com/sec-probes-nvidia-over-undisclosed-chip-sales-tied-to-china/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-18T13:28:49.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "Nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ce416493dbd77e398c",
-      "titleOriginal": "Nvidia isn’t selling any more AI chips to China",
-      "summaryOriginal": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year . The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday , marking a notable shift for the company that, under former CEO Jensen Huang, fought for the right to ship its powerful Hopper architecture H200 chips to China. \"Our guidance ⁠does not have any licensed Hopper data center products included, and we are no lo",
-      "titleZh": "Nvidia isn’t selling any more AI chips to China",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-18T13:01:05.000Z",
-      "author": "Jess Weatherbed",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5d3a453ab03ddae125",
-      "titleOriginal": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "summaryOriginal": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-      "titleZh": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T13:00:00.000Z",
-      "author": "Julie Bort",
-      "tags": [
-        "news",
-        "AI",
-        "TC",
-        "neocloud",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "61ea44741057eb49f8",
-      "titleOriginal": "股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局",
-      "summaryOriginal": "11月17日晚间，科创板硬质合金刀具龙头 欧科亿 （688308.SH）披露向特定对象发行A股股票预案，拟募资不超过9.5亿元，投向高端刀具产能升级、AI PCB耗材研发及补充流动资金。 半年前，这家公司还因“AI PCB耗材+钨价涨价”双重逻辑被资金推至211元的历史高位；如今股价较高点回撤近79%，市值蒸发超200亿元。在题材退潮、估值回归的节点抛出大额融资，欧科亿的定增究竟是热点余温下的资本运作，还是产业升级的务实布局？ 固本扩产为先，AI 概念小额卡位 本次募资共分四大投向，核心围绕“主业高端化升级+新赛道技术卡位”展开，路径清晰且全部聚焦主营业务。 占比过半的数控刀具产业园产能提升及技术升级项目拟投入5亿元，是本次定增的核心载体。项目将对现有产线进行全品类扩容：整体硬质合金刀具产能提至1000万支/年，新增150万支丝锥产能以补齐“钻攻一体”解决方案；金属陶瓷刀片扩至1000万片/年，同时新增小模数齿轮刀具、超硬刀具等高端品类，并配套扩充PCB棒材产能至1300吨/年。 该项目的核心价值在于补齐产品矩阵短板。此前欧科亿的优势集中在数控刀片与锯齿刀片，超硬刀具、复杂成型刀具等高",
-      "titleZh": "股价回撤近八成后抛9.5亿定增，欧科亿的逆周期扩张赌局",
-      "summaryZh": "11月17日晚间，科创板硬质合金刀具龙头 欧科亿 （688308.SH）披露向特定对象发行A股股票预案，拟募资不超过9.5亿元，投向高端刀具产能升级、AI PCB耗材研发及补充流动资金。 半年前，这家公司还因“AI PCB耗材+钨价涨价”双重逻辑被资金推至211元的历史高位；如今股价较高点回撤近79%，市值蒸发超200亿元。在题材退潮、估值回归的节点抛出大额融资，欧科亿的定增究竟是热点余温下的资本运作，还是产业升级的务实布局？ 固本扩产为先，AI 概念小额卡位 本次募资共分四大投向，核心围绕“主业高端化升级+新赛道技术卡位”展开，路径清晰且全部聚焦主营业务。 占比过半的数控刀具产业园产能提升及技术升级项目拟投入5亿元，是本次定增的核心载体。项目将对现有产线进行全品类扩容：整体硬质合金刀具产能提至1000万支/年，新增150万支丝锥产能以补齐“钻攻一体”解决方案；金属陶瓷刀片扩至1000万片/年，同时新增小模数齿轮刀具、超硬刀具等高端品类，并配套扩充PCB棒材产能至1300吨/年。 该项目的核心价值在于补齐产品矩阵短板。此前欧科亿的优势集中在数控刀片与锯齿刀片，超硬刀具、复杂成型刀具等高",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8210365.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T12:45:31.000Z",
-      "author": "尘市洞见",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0b46823e7860719691",
-      "titleOriginal": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
-      "summaryOriginal": "11月18日，由北京大学、北京市海淀区人民政府共建的“未名・AI Park”正式揭牌。北京大学党委书记何光彩，校长、中国科学院院士高松，海淀区委书记王少峰，区委副书记、区长许心超出席。 仪式开始前，所有人先参观了北京大学人工智能成果展，本次成果展共设18个展项，覆盖量子科技、先进材料、算力芯片、生物医药等前沿方向。 “未名&middot;AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大AI学科资源与海淀科创资源，打通“原始创新—技术攻关—成果落地—产业集聚”链条，是百年京张AI创新带上的重要节点。 北京大学计算机学院AI产学研协同创新基地、北京大学具身智能系统研究中心、北京大学AI+Math国际研究中心正式亮相。平台落地后，将夯实人工智能源头技术供给，加速前沿技术攻关，助推科研成果转化。 一批北大重点科技转化项目完成入驻。神动九州、匡腾芯、虚空之镜、无涯智远、未明新域，与中关村科学城管委会产业促进处共同完成入驻签约，赛道覆盖光量子计算、大模型技术创新、AI4S等前沿方向。 此外，“五方六力”生态一站式入驻仪式举行，通过拼图嵌入的形式，完成科技服务力量的",
-      "titleZh": "“未名·AI Park”正式揭牌，北大海淀共建AI创新转化高地",
-      "summaryZh": "11月18日，由北京大学、北京市海淀区人民政府共建的“未名・AI Park”正式揭牌。北京大学党委书记何光彩，校长、中国科学院院士高松，海淀区委书记王少峰，区委副书记、区长许心超出席。 仪式开始前，所有人先参观了北京大学人工智能成果展，本次成果展共设18个展项，覆盖量子科技、先进材料、算力芯片、生物医药等前沿方向。 “未名&middot;AI Park”核心启动区选址北大西门外，构建服务北大的“一公里转化圈”，立足北大AI学科资源与海淀科创资源，打通“原始创新—技术攻关—成果落地—产业集聚”链条，是百年京张AI创新带上的重要节点。 北京大学计算机学院AI产学研协同创新基地、北京大学具身智能系统研究中心、北京大学AI+Math国际研究中心正式亮相。平台落地后，将夯实人工智能源头技术供给，加速前沿技术攻关，助推科研成果转化。 一批北大重点科技转化项目完成入驻。神动九州、匡腾芯、虚空之镜、无涯智远、未明新域，与中关村科学城管委会产业促进处共同完成入驻签约，赛道覆盖光量子计算、大模型技术创新、AI4S等前沿方向。 此外，“五方六力”生态一站式入驻仪式举行，通过拼图嵌入的形式，完成科技服务力量的",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8210345.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T12:11:01.000Z",
-      "author": "LCC_Beta版",
-      "tags": [
-        "research",
-        "AGI",
-        "人工智能",
-        "北京",
-        "区域经济"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "620756f297e99f3c56",
-      "titleOriginal": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summaryOriginal": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "titleZh": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T12:00:00.000Z",
-      "author": "Jagmeet Singh",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "AI agents",
-        "Exclusive"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "996c920e2c06362cd8",
-      "titleOriginal": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "summaryOriginal": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "titleZh": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T11:30:00.000Z",
-      "author": "Jagmeet Singh",
-      "tags": [
-        "news",
-        "AI",
-        "Robotics",
-        "Startups",
-        "Accel"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "da6c827addce47a13c",
-      "titleOriginal": "Suno now lets you make AI videos for your AI music",
-      "summaryOriginal": "Here are some of the examples that Suno provided to show what Visuals is capable of. | Image: Suno Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals is available on web, iOS, and Android. The exact layout",
-      "titleZh": "Suno now lets you make AI videos for your AI music",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-18T11:16:53.000Z",
-      "author": "Jess Weatherbed",
-      "tags": [
-        "launch",
-        "Prompt",
-        "Video",
-        "Image"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6b4810508eac16df58",
-      "titleOriginal": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
-      "summaryOriginal": "",
-      "titleZh": "谷歌公布已发现 500 多个 XSS 漏洞的 AI 安全代理 PageBreak",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/uGTol3TSzOV72NSrcBrB",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T11:00:00.000Z",
-      "author": "Renato Losio",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "200ec59ce12a6a3afe",
-      "titleOriginal": "这届高校学生，为何选择用鸿蒙创新？",
-      "summaryOriginal": "在 AI 编码工具与智能体技术快速普及的今天，软件开发的门槛正在发生微妙的变化。当编写代码不再是计算机专业学生的专属技能，越来越多来自设计、物理、统计等不同学科的年轻人，开始尝试亲手将脑海里的设想变成可运行的应用。 一个随之而来的问题是：当技术实现不再构成绝对阻碍，这届大学生最想用代码解决什么问题？答案，就藏在刚刚收官的一场国家级赛事里。 11 月 15 日，2026 年「中国高校计算机大赛—人工智能创意赛」总决赛在南京大学落下帷幕。这项创办于 2018 年的赛事，今年首次由华为联合承办，鸿蒙高校创新赛也正式纳入官方赛道，短短数月便吸引全国 800 多所高校、近 5000 支队伍、近万名学子提交了 2800 多份有效作品。 华为终端BG CEO 何刚出席了颁奖现场，并宣布推出「鸿蒙高校创新孵化计划」，通过提供 1V1 技术指导、全周期产品打磨、商业模式指导、商业变现实战、平台技术赋能、上架流程指导、应用市场专区曝光及官方矩阵宣发等支持。 通过这套孵化机制，华为希望伴随好创意走完从教室、赛场到真实市场的完整生命周期。「我们希望更多同学加入我们的比赛，让作品有机会成为消费者能够体验到的产品",
-      "titleZh": "这届高校学生，为何选择用鸿蒙创新？",
-      "summaryZh": "在 AI 编码工具与智能体技术快速普及的今天，软件开发的门槛正在发生微妙的变化。当编写代码不再是计算机专业学生的专属技能，越来越多来自设计、物理、统计等不同学科的年轻人，开始尝试亲手将脑海里的设想变成可运行的应用。 一个随之而来的问题是：当技术实现不再构成绝对阻碍，这届大学生最想用代码解决什么问题？答案，就藏在刚刚收官的一场国家级赛事里。 11 月 15 日，2026 年「中国高校计算机大赛—人工智能创意赛」总决赛在南京大学落下帷幕。这项创办于 2018 年的赛事，今年首次由华为联合承办，鸿蒙高校创新赛也正式纳入官方赛道，短短数月便吸引全国 800 多所高校、近 5000 支队伍、近万名学子提交了 2800 多份有效作品。 华为终端BG CEO 何刚出席了颁奖现场，并宣布推出「鸿蒙高校创新孵化计划」，通过提供 1V1 技术指导、全周期产品打磨、商业模式指导、商业变现实战、平台技术赋能、上架流程指导、应用市场专区曝光及官方矩阵宣发等支持。 通过这套孵化机制，华为希望伴随好创意走完从教室、赛场到真实市场的完整生命周期。「我们希望更多同学加入我们的比赛，让作品有机会成为消费者能够体验到的产品",
-      "translated": true,
-      "url": "https://www.ifanr.com/1690168",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T10:45:36.000Z",
-      "author": "爱范儿",
-      "tags": [
-        "launch",
-        "爱范儿",
-        "华为",
-        "鸿蒙",
-        "鸿蒙高校创新赛"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "af7392eb415c41121c",
-      "titleOriginal": "黄仁勋一直在权力游戏里裸奔",
-      "summaryOriginal": "（本文作者为 未来之地，钛媒体经授权发布） 文 | 未来之地 创始人为何如此轻易被赶出公司？ 当了33年CEO，只用4天就被迫下了台。 在过去九天里，黄仁勋离职震惊全球。一桩突如其来的婚外情，一场真假难辨的间谍门，竟然让全球瞩目的万亿帝国之主，仓皇被赶出了公司。 人们突然发现，黄仁勋对英伟达这家自己一手创办的公司，掌控力竟如此孱弱。一个11人董事会，10个独立董事，就可以轻易决定一位创始人的去留。 他就像被一只看不见的手，从自己亲手建立的王座上，一把推了下去。 最新消息是，黄仁勋离职后首次表态，自己愿意回来。但董事会表示，没这个打算。一个功绩卓著的创始人，怎么看都有些卑微。。 这种情形， 在全球 科技 公司史上都 很 罕见。 黄仁勋可以说是硅谷今天最缺乏保护的CEO，在公司的权力游戏里，他其实一直在“裸奔”。 很多人都说只是个人私德问题，不足以让他去职，硅谷多个知名CEO如贝佐斯等，也经历过类似情形但都没有出局，有人甚至认为这是对亚裔的歧视。 抛开政治博弈，这首先是一个公司控制权问题，而黄仁勋今天的狼狈，其实很多年前就埋下了种子。 01 11月12日，英伟达提交给SEC的文件里，只有寥",
-      "titleZh": "黄仁勋一直在权力游戏里裸奔",
-      "summaryZh": "（本文作者为 未来之地，钛媒体经授权发布） 文 | 未来之地 创始人为何如此轻易被赶出公司？ 当了33年CEO，只用4天就被迫下了台。 在过去九天里，黄仁勋离职震惊全球。一桩突如其来的婚外情，一场真假难辨的间谍门，竟然让全球瞩目的万亿帝国之主，仓皇被赶出了公司。 人们突然发现，黄仁勋对英伟达这家自己一手创办的公司，掌控力竟如此孱弱。一个11人董事会，10个独立董事，就可以轻易决定一位创始人的去留。 他就像被一只看不见的手，从自己亲手建立的王座上，一把推了下去。 最新消息是，黄仁勋离职后首次表态，自己愿意回来。但董事会表示，没这个打算。一个功绩卓著的创始人，怎么看都有些卑微。。 这种情形， 在全球 科技 公司史上都 很 罕见。 黄仁勋可以说是硅谷今天最缺乏保护的CEO，在公司的权力游戏里，他其实一直在“裸奔”。 很多人都说只是个人私德问题，不足以让他去职，硅谷多个知名CEO如贝佐斯等，也经历过类似情形但都没有出局，有人甚至认为这是对亚裔的歧视。 抛开政治博弈，这首先是一个公司控制权问题，而黄仁勋今天的狼狈，其实很多年前就埋下了种子。 01 11月12日，英伟达提交给SEC的文件里，只有寥",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209729.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T10:26:47.000Z",
-      "author": "未来之地",
-      "tags": [
-        "guide",
-        "投稿"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5f35db2179bf55358b",
-      "titleOriginal": "大厂AI对照系：李彦宏布道，马化腾预警",
-      "summaryOriginal": "（本文作者为 财经故事荟，钛媒体经授权发布） 文 | 财经故事荟，作者 | 万天南，编辑 | 陈纪英 2026 年 11 月，中国互联网最有权势的两位创始人，把各自对 AI 的判断，同时摆到了台面上。 一边是李彦宏。11月12日的百度世界大会上，他重申了自己十年前的判断——“下一步是人工智能”，并给 AI 的下一幕下了定义——“智能组织”。 李彦宏习惯站在台前，是大厂创始人里最早最长性的AI布道者：讲趋势、讲技术革命、讲全栈投入，话术从不断代。 另一边是马化腾。腾讯 28 周年的总办 LinkTime 被做成一档内部播客，讲话纪要随后流出，措辞很严峻：“大航海时代，不进则退；工业革命，落后就挨打”，“一半人负责守住，另一半人去打新的战役”。 一个在台上持续布道，一个在内部反复预警。把这两个人放在一起对照，恰好是观察中国大厂AI路线的对照镜像：最早切入 AI 的百度，遭遇的挑战是“起大早、赶晚集”，看得远但还没做实坐稳；一向谨慎克制的腾讯，入场AI慢了半拍，又靠什么后发赶超？ 李彦宏布道，先知未先至 李彦宏是布道者，百度 AI 是先行者，这个判断绝非虚美。 早在2013年1月，百度对外宣",
-      "titleZh": "大厂AI对照系：李彦宏布道，马化腾预警",
-      "summaryZh": "（本文作者为 财经故事荟，钛媒体经授权发布） 文 | 财经故事荟，作者 | 万天南，编辑 | 陈纪英 2026 年 11 月，中国互联网最有权势的两位创始人，把各自对 AI 的判断，同时摆到了台面上。 一边是李彦宏。11月12日的百度世界大会上，他重申了自己十年前的判断——“下一步是人工智能”，并给 AI 的下一幕下了定义——“智能组织”。 李彦宏习惯站在台前，是大厂创始人里最早最长性的AI布道者：讲趋势、讲技术革命、讲全栈投入，话术从不断代。 另一边是马化腾。腾讯 28 周年的总办 LinkTime 被做成一档内部播客，讲话纪要随后流出，措辞很严峻：“大航海时代，不进则退；工业革命，落后就挨打”，“一半人负责守住，另一半人去打新的战役”。 一个在台上持续布道，一个在内部反复预警。把这两个人放在一起对照，恰好是观察中国大厂AI路线的对照镜像：最早切入 AI 的百度，遭遇的挑战是“起大早、赶晚集”，看得远但还没做实坐稳；一向谨慎克制的腾讯，入场AI慢了半拍，又靠什么后发赶超？ 李彦宏布道，先知未先至 李彦宏是布道者，百度 AI 是先行者，这个判断绝非虚美。 早在2013年1月，百度对外宣",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8208862.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T10:24:24.000Z",
-      "author": "财经故事荟",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ebecdae617473fba26",
-      "titleOriginal": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
-      "summaryOriginal": "AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The article Suno's new Visuals feature pairs AI-generated music with AI-generated video appeared first on The Decoder .",
-      "titleZh": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-18T10:22:45.000Z",
-      "author": "Jonathan Kemper",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "Short News",
-        "AI and music"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d1dd49b4f83d7a93a9",
-      "titleOriginal": "This smell startup says its AI nose is as good as a human’s",
-      "summaryOriginal": "Giving computers a nose: AI startup Osmo claims its model has reached \"human-level olfactory intelligence\" — roughly as capable as the average person at detecting smells. The data problem: Fewer than 200,000 human smell descriptions existed before Osmo. The company built its own dataset of over 10 million labels, using teams of trained sniffers and spectrometers running around the clock. Real-world applications — and real skeptics: Osmo has worked with P&G on fragrances, identified insect repell",
-      "titleZh": "这家嗅觉初创公司称其AI嗅觉与人类的嗅觉一样灵敏",
-      "summaryZh": "让计算机拥有嗅觉：人工智能初创公司Osmo声称，其模型已达到“人类水平的嗅觉智能”，在识别气味方面的能力大致相当于普通人。数据问题：在Osmo之前，人类对气味的描述不到20万条。该公司利用由训练有素的嗅探员和光谱仪组成的团队全天候工作，建立了包含超过 1000 万个标签的自有数据集。现实世界的应用——以及真正的怀疑论者：Osmo 已与宝洁合作开发香水，并鉴别出驱虫剂。",
-      "translated": true,
-      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "sourceId": "mittr",
-      "sourceName": "MIT Technology Review",
-      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "sourceColor": "#b31b1b",
-      "lang": "en",
-      "publishedAt": "2026-11-18T10:20:30.000Z",
-      "author": "Amit Katwala",
-      "tags": [
-        "research",
-        "Artificial intelligence",
-        "App",
-        "artificial intelligence",
-        "Summary"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7c2289051b8c49a68d",
-      "titleOriginal": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
-      "summaryOriginal": "OpenAI shipped GPT-6.2 Astra and Sol today, two days before Anthropic’s expected first trading day . In Artificial Analysis ’ tests, Sol ties September’s Astra at about 15% of the cost per task . New Astra scores 62 on the Intelligence Index, just behind Fable 5.2 at 65. Net net, Anthropic still owns the world’s best model, but OpenAI owns the world’s most efficient models in terms of intelligence per $. What’s more unusual about this launch is the STRONGLY negative influencer feedback… which pr",
-      "titleZh": "[AINews] GPT-6.2 Astra 是排名第二的前沿模型，性能更优且价格便宜 20%-600%，但评价褒贬不一；6.2 Sol 或许是主要主力军",
-      "summaryZh": "OpenAI 今天发布了 GPT-6.2 Astra 和 Sol，比 Anthropic 预计的上市首日早了两天。在Artificial Analysis的测试中，Sol与9月份的Astra持平，每项任务的成本约为后者的15%。新版Astra在智能指数上得分62，仅次于Fable 5.2的65分。总的来说，Anthropic仍然拥有世界上最好的模型，但OpenAI拥有世界上性价比最高的模型。这次发布更不寻常的是，网红的反馈非常负面……这",
-      "translated": true,
-      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
-      "sourceId": "latentspace",
-      "sourceName": "Latent Space",
-      "sourceSite": "https://www.latent.space/",
-      "sourceColor": "#7357ff",
-      "lang": "en",
-      "publishedAt": "2026-11-18T10:19:04.000Z",
-      "author": "swyx .ai",
-      "tags": [
-        "launch",
-        "ainews: weekday roundups"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2286c20f1b5e607501",
-      "titleOriginal": "狂奔后的冷却，AI玩具能跑出下一个泡泡玛特吗？",
-      "summaryOriginal": "随着静态手办、传统盲盒进入存量竞争，能对话、有记忆、自带人格的 AI 潮玩正在成为消费科技与潮玩产业的交汇新赛道。 工信部数据显示，2025年中国AI玩具市场规模达290亿元，2026年预计攀升至342亿元。 京东 “618”期间，AI玩具销量同比增长283%；天猫“双十一”开卖首日，AI陪伴 机器人 销量同比暴增超6倍。 快速的增长，引发了资本对AI玩具的狂热追捧。 有统计显示，2025年至今，国内AI玩具相关融资超过50起，累计融资金额超200亿元。与此同时，字节跳动、京东、华为等巨头悉数下场：京东发布JoyInside软硬一体化方案赋能超40个品牌；华为与珞博智能联合推出的“智能憨憨”首发15分钟售出6500件。 不过进入2026年下半年，资本的热情出现了明显的下降。 有报道称，部分投资机构否决了绝大部分的 AI潮玩项目。由于产品功能同质化，AI没有解决真实需求，并且还存在退货率居高不下，真实复购场景不足等问题。仅靠AI概念炒作的项目已经无法获得资本的关注。 在持续的资本狂欢与市场扩容之后，AI玩具赛道的热情正在降温。 从 狂热 到冷静 在AI概念的加持下，让大家对潮玩和玩具都有",
-      "titleZh": "狂奔后的冷却，AI玩具能跑出下一个泡泡玛特吗？",
-      "summaryZh": "随着静态手办、传统盲盒进入存量竞争，能对话、有记忆、自带人格的 AI 潮玩正在成为消费科技与潮玩产业的交汇新赛道。 工信部数据显示，2025年中国AI玩具市场规模达290亿元，2026年预计攀升至342亿元。 京东 “618”期间，AI玩具销量同比增长283%；天猫“双十一”开卖首日，AI陪伴 机器人 销量同比暴增超6倍。 快速的增长，引发了资本对AI玩具的狂热追捧。 有统计显示，2025年至今，国内AI玩具相关融资超过50起，累计融资金额超200亿元。与此同时，字节跳动、京东、华为等巨头悉数下场：京东发布JoyInside软硬一体化方案赋能超40个品牌；华为与珞博智能联合推出的“智能憨憨”首发15分钟售出6500件。 不过进入2026年下半年，资本的热情出现了明显的下降。 有报道称，部分投资机构否决了绝大部分的 AI潮玩项目。由于产品功能同质化，AI没有解决真实需求，并且还存在退货率居高不下，真实复购场景不足等问题。仅靠AI概念炒作的项目已经无法获得资本的关注。 在持续的资本狂欢与市场扩容之后，AI玩具赛道的热情正在降温。 从 狂热 到冷静 在AI概念的加持下，让大家对潮玩和玩具都有",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8208866.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T10:07:01.000Z",
-      "author": "消费纵深",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11479,7 +11505,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 3
+      "count": 4
     },
     {
       "id": "techcrunch",
@@ -11487,7 +11513,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 69
+      "count": 74
     },
     {
       "id": "theverge",
@@ -11495,7 +11521,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 46
+      "count": 47
     },
     {
       "id": "mittr",
@@ -11503,7 +11529,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 6
+      "count": 5
     },
     {
       "id": "wired",
@@ -11511,7 +11537,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 28
+      "count": 29
     },
     {
       "id": "thedecoder",
@@ -11519,7 +11545,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 59
+      "count": 64
     },
     {
       "id": "marktechpost",
@@ -11551,7 +11577,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 8
+      "count": 7
     },
     {
       "id": "ifanr",
@@ -11559,7 +11585,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 28
+      "count": 27
     },
     {
       "id": "sspai",
@@ -11575,7 +11601,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 119
+      "count": 115
     },
     {
       "id": "infoq",
@@ -11583,13 +11609,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 70
+      "count": 64
     }
   ],
   "stats": {
     "total": 500,
     "guides": 42,
-    "translated": 210,
+    "translated": 221,
     "sources": 14
   }
 }
