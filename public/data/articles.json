@@ -1,6 +1,593 @@
 {
-  "generatedAt": "2026-11-25T00:52:19.882Z",
+  "generatedAt": "2026-11-25T11:27:52.463Z",
   "articles": [
+    {
+      "id": "e8b2e19caddaecbd60",
+      "titleOriginal": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+      "summaryOriginal": "",
+      "titleZh": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T19:11:08.000Z",
+      "author": "李冬梅",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ef1c96508118c36c6b",
+      "titleOriginal": "比黑客入侵更难防的，是 AI 正在执行的“合法操作”：企业安全防线，可能守错了地方",
+      "summaryOriginal": "",
+      "titleZh": "比黑客入侵更难防的，是 AI 正在执行的“合法操作”：企业安全防线，可能守错了地方",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/LwwdlrNGE3tbxPO1wIcT",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T18:52:47.000Z",
+      "author": "Akamai",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0620586aceac34107f",
+      "titleOriginal": "“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+      "summaryOriginal": "",
+      "titleZh": "“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T18:45:29.000Z",
+      "author": "李冬梅",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a305c56338874bb0be",
+      "titleOriginal": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
+      "summaryOriginal": "",
+      "titleZh": "阿福学会“望闻问切”背后，真实医疗需求正在重塑百灵大模型",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/V7VOeFvEPLrHAN2EFmUa",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T18:22:30.000Z",
+      "author": "林绮蓓",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b66e8b4937e73793e2",
+      "titleOriginal": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+      "summaryOriginal": "",
+      "titleZh": "Pi创始人曝现代开发奇观：系统崩了，一屋子工程师都在问Claude怎么修",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/ExbJjrItIlc9KLfQ2UeT",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T18:22:07.000Z",
+      "author": "林绮蓓",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1ffb9c21f47c9d23c3",
+      "titleOriginal": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
+      "summaryOriginal": "",
+      "titleZh": "做了 16 年数据库，蚂蚁 OceanBase 为什么要再造一个 AI 数据平台？",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/2YvROKs0CHz1yR4Wi02o",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T17:21:31.000Z",
+      "author": "凌敏",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b3d1de061f03e8b999",
+      "titleOriginal": "2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限",
+      "summaryOriginal": "",
+      "titleZh": "2026年IDEA 大会：AI时代编程语言将深刻影响软件能力交付上限",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/ad1ILH2yFyN1HighXoFF",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T15:44:25.000Z",
+      "author": "林绮蓓",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "135a1e990bb0ede2f1",
+      "titleOriginal": "Netflix 基于运维数据打造知识图谱，实现 AI 可观测性",
+      "summaryOriginal": "",
+      "titleZh": "Netflix 基于运维数据打造知识图谱，实现 AI 可观测性",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/lVQK4fTxIJYZL2sZee2O",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T14:00:00.000Z",
+      "author": "作者：Craig Risi",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "11c2c4fc8768c0f4f5",
+      "titleOriginal": "“Windows该淘汰了！”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活",
+      "summaryOriginal": "",
+      "titleZh": "“Windows该淘汰了！”Rails之父DHH开炮：微软上万工程师干不过一个人带着AI干活",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/ApVrOK0hv1rmmoz2mfGM",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T13:30:16.000Z",
+      "author": "褚杏娟",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "50fa941dd93df20410",
+      "titleOriginal": "GTM 领导者 AI 转型蓝图",
+      "summaryOriginal": "",
+      "titleZh": "GTM 领导者 AI 转型蓝图",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/minibook/APpalUCSDcvjS75zsdgi",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T13:19:34.000Z",
+      "author": "Snowflake",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7e8c77a2fabdc7b05f",
+      "titleOriginal": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+      "summaryOriginal": "",
+      "titleZh": "谷歌开源环境质量智能体 AQuA，用于诊断生产环境 AI 智能体故障",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/YAc2TqCHc09kAFF1A7BS",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T13:00:00.000Z",
+      "author": "作者：Leela Kumili",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b6d3f5719f7f122538",
+      "titleOriginal": "破发！但这仅仅是Anthropic要填的七个大坑之一",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 上市第四个交易日，Anthropic就破发了。 11月19日，Anthropic登陆纳斯达克，开盘价比83美元的发行价高出34%。算上承销商追加认购的股份，这次IPO的规模达到935亿美元，创下全球纪录。可到了11月24日收盘，股价已经跌到81.91美元。即便是按发行价买到股票的人，手里的股票也开始亏钱了。 同一天，X上还传出了一条离职消息，说汤姆&middot;布洛姆菲尔德已经离开Anthropic。布洛姆菲尔德是英国数字银行Monzo的联合创始人，今年7月才从创业孵化器Y Combinator休假，加入Anthropic的算力团队。 他本人尚未证实离职的消息，但这不禁让人嘀咕，Anthropic的离职潮是否马上就要开启。 Anthropic在招股书里提到，对一些早期员工和任职时间较长的员工来说，他们持有的股权可能占个人财富的很大一部分。 用公司的原话说，“他们所持股份的价值，可能会影响他们是否选择继续为我们工作。” 除了留人，阿莫迪还得跟马斯克和亚马逊周旋，给Claude凑够算力。至于公司什么时候能靠Claude稳定赚钱",
+      "titleZh": "破发！但这仅仅是Anthropic要填的七个大坑之一",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 上市第四个交易日，Anthropic就破发了。 11月19日，Anthropic登陆纳斯达克，开盘价比83美元的发行价高出34%。算上承销商追加认购的股份，这次IPO的规模达到935亿美元，创下全球纪录。可到了11月24日收盘，股价已经跌到81.91美元。即便是按发行价买到股票的人，手里的股票也开始亏钱了。 同一天，X上还传出了一条离职消息，说汤姆&middot;布洛姆菲尔德已经离开Anthropic。布洛姆菲尔德是英国数字银行Monzo的联合创始人，今年7月才从创业孵化器Y Combinator休假，加入Anthropic的算力团队。 他本人尚未证实离职的消息，但这不禁让人嘀咕，Anthropic的离职潮是否马上就要开启。 Anthropic在招股书里提到，对一些早期员工和任职时间较长的员工来说，他们持有的股权可能占个人财富的很大一部分。 用公司的原话说，“他们所持股份的价值，可能会影响他们是否选择继续为我们工作。” 除了留人，阿莫迪还得跟马斯克和亚马逊周旋，给Claude凑够算力。至于公司什么时候能靠Claude稳定赚钱",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8217094.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:56:34.000Z",
+      "author": "字母AI",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5f97717be423b259ab",
+      "titleOriginal": "黄仁勋的下一场狠仗：再辞职",
+      "summaryOriginal": "（本文作者为 华商韬略，钛媒体经授权发布） 文 | 华商韬略 今年初在拉斯维加斯，黄仁勋笑谈自己当了三十多年CEO的秘诀：第一，别被开掉；第二，别觉得无聊。 不到一年，他差一点就输在了第一条上。 11月23日，离开英伟达11天后，他被董事会一致投票请了回来。复职公告讲了调查，讲了合规，讲了国家安全，唯独没讲一件事： 下一次，谁来接？ 11月12日，英伟达宣布：黄仁勋辞去总裁、CEO和董事职务，即刻生效。 这是他1993年创办英伟达以来，第一次离开这家公司。 起因是他私人生活的风波，又牵出了国家安全和出口合规的疑虑。但真正让全世界紧张的，不是八卦，而是一个问题： 没有黄仁勋的英伟达，还是英伟达吗？ 就在两周前的10月29日，英伟达市值一度突破5万亿美元，成为史上第一家站上这个台阶的公司。而这一切，头功属于黄仁勋。是他用三十多年，把一家做游戏显卡的小公司，带成了AI时代的“算力总开关”。 因而，面对他的离职，市场反应很直接。当天英伟达股价开盘后一度暴跌14%，收盘跌4.3%。CoreWeave、Nebius这些靠英伟达芯片吃饭的AI云公司，跌得更狠。 接下来的11天，像一场全球围观的拉锯。",
+      "titleZh": "黄仁勋的下一场狠仗：再辞职",
+      "summaryZh": "（本文作者为 华商韬略，钛媒体经授权发布） 文 | 华商韬略 今年初在拉斯维加斯，黄仁勋笑谈自己当了三十多年CEO的秘诀：第一，别被开掉；第二，别觉得无聊。 不到一年，他差一点就输在了第一条上。 11月23日，离开英伟达11天后，他被董事会一致投票请了回来。复职公告讲了调查，讲了合规，讲了国家安全，唯独没讲一件事： 下一次，谁来接？ 11月12日，英伟达宣布：黄仁勋辞去总裁、CEO和董事职务，即刻生效。 这是他1993年创办英伟达以来，第一次离开这家公司。 起因是他私人生活的风波，又牵出了国家安全和出口合规的疑虑。但真正让全世界紧张的，不是八卦，而是一个问题： 没有黄仁勋的英伟达，还是英伟达吗？ 就在两周前的10月29日，英伟达市值一度突破5万亿美元，成为史上第一家站上这个台阶的公司。而这一切，头功属于黄仁勋。是他用三十多年，把一家做游戏显卡的小公司，带成了AI时代的“算力总开关”。 因而，面对他的离职，市场反应很直接。当天英伟达股价开盘后一度暴跌14%，收盘跌4.3%。CoreWeave、Nebius这些靠英伟达芯片吃饭的AI云公司，跌得更狠。 接下来的11天，像一场全球围观的拉锯。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8217227.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:49:52.000Z",
+      "author": "华商韬略",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f27b156bf3f1f649bd",
+      "titleOriginal": "MIT team discovers that unrealistic training data makes AI climate predictions more reliable",
+      "summaryOriginal": "MIT researchers have developed a method that lets AI climate models get by with a single training run instead of the usual six to eight. An algorithm generates deliberately unrealistic scenarios with extreme CO2 or methane swings that make the model more robust. Until now, these emulators were often outdated by the time they were finished, according to the researchers. The article MIT team discovers that unrealistic training data makes AI climate predictions more reliable appeared first on The D",
+      "titleZh": "麻省理工学院团队发现，不切实际的训练数据使人工智能气候预测更加可靠",
+      "summaryZh": "麻省理工学院的研究人员开发了一种方法，使人工智能气候模型只需进行一次训练即可，而无需像通常那样进行六到八次训练。该算法会故意生成不切实际的场景，其中二氧化碳或甲烷含量出现极端波动，从而使模型更加稳健。研究人员表示，迄今为止，这些模拟器往往在完成时就已经过时了。题为《麻省理工学院团队发现，不切实际的训练数据使人工智能气候预测更加可靠》的文章最初发表在The D上。",
+      "translated": true,
+      "url": "https://the-decoder.com/mit-team-discovers-that-unrealistic-training-data-makes-ai-climate-predictions-more-reliable/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-25T10:47:51.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "research",
+        "AI research",
+        "Artificial Intelligence",
+        "Short News",
+        "AI and climate"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "43dfd0070f7a5229d6",
+      "titleOriginal": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
+      "summaryOriginal": "",
+      "titleZh": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:30:02.000Z",
+      "author": "腾讯云容器团队",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "672aca07d5a7c5d18c",
+      "titleOriginal": "用 Super-agent 的理念，拆解 Octop 团队模式",
+      "summaryOriginal": "",
+      "titleZh": "用 Super-agent 的理念，拆解 Octop 团队模式",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:28:44.000Z",
+      "author": "腾讯技术",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "85310429eae6d7c92a",
+      "titleOriginal": "豆包侧边栏放进购物入口：大厂AI，只做翻译，不当主人",
+      "summaryOriginal": "（本文作者为 舒书，钛媒体经授权发布） 文 | 舒书 11月24日，界面新闻披露了一件事：豆包App正在灰度测试豆包购物，入口被放进侧边导航栏，与主对话、新对话、插件&middot;技能、项目并列。点击进入后，加载的不是豆包自建的货架，而是抖音商城的商品流。用户想查看完整价格、库存、下单，系统会弹窗要求关联抖音账号。 一个按钮的位置。 就这么点事。 但如果你点进去看一眼，会发现这个按钮暴露的东西，比任何一篇AI行业研报都多。 一、一个按钮暴露了什么 先说清楚这个按钮在干什么。 用户在豆包对话框里说\"帮我找一件冬天穿的羽绒服，预算两千以内，要轻薄款\"。豆包理解意图、拆解条件、生成推荐。然后用户点侧边栏的购物按钮——跳转到抖音商城，商品流已经按刚才的对话条件筛好了。 AI干了什么？听懂了你要什么，把你的模糊需求翻译成了结构化的搜索条件。 谁完成了交易？抖音商城。从搜索、比价、下单、支付到售后，全在抖音的老体系里跑。 豆包自己不碰货、不碰物流、不碰售后、不碰支付。它只做了一件事：在你开口和抖音商城之间，加了一道翻译。 这不是AI+电商。这是 用AI把用户意图翻译成电商搜索词，然后原封不动地交",
+      "titleZh": "豆包侧边栏放进购物入口：大厂AI，只做翻译，不当主人",
+      "summaryZh": "（本文作者为 舒书，钛媒体经授权发布） 文 | 舒书 11月24日，界面新闻披露了一件事：豆包App正在灰度测试豆包购物，入口被放进侧边导航栏，与主对话、新对话、插件&middot;技能、项目并列。点击进入后，加载的不是豆包自建的货架，而是抖音商城的商品流。用户想查看完整价格、库存、下单，系统会弹窗要求关联抖音账号。 一个按钮的位置。 就这么点事。 但如果你点进去看一眼，会发现这个按钮暴露的东西，比任何一篇AI行业研报都多。 一、一个按钮暴露了什么 先说清楚这个按钮在干什么。 用户在豆包对话框里说\"帮我找一件冬天穿的羽绒服，预算两千以内，要轻薄款\"。豆包理解意图、拆解条件、生成推荐。然后用户点侧边栏的购物按钮——跳转到抖音商城，商品流已经按刚才的对话条件筛好了。 AI干了什么？听懂了你要什么，把你的模糊需求翻译成了结构化的搜索条件。 谁完成了交易？抖音商城。从搜索、比价、下单、支付到售后，全在抖音的老体系里跑。 豆包自己不碰货、不碰物流、不碰售后、不碰支付。它只做了一件事：在你开口和抖音商城之间，加了一道翻译。 这不是AI+电商。这是 用AI把用户意图翻译成电商搜索词，然后原封不动地交",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8216992.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:23:05.000Z",
+      "author": "舒书",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "161aad6a0f4ded6511",
+      "titleOriginal": "小米继续加码AI，MiMo靠什么回本？",
+      "summaryOriginal": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，研究员｜陈俊一 小米的 AI 投入仍在增加，但支撑这笔投入的硬件生意，正面临利润压力。 11 月 24 日港股盘后，小米集团发布 2026 年第三季度财报：当季收入 1072.4 亿元，同比下降 5.2% ；经调整净利润 48.8 亿元，同比下降 56.8% 。 来源：小米 2026 年第三季度业绩材料。 存储等核心器件成本上涨、行业竞争加剧，是小米在财报中列出的经营挑战。第三季度，集团毛利率由上年同期的 22.9% 降至 20.2% 。收入减少之外，每一元收入能够留下的毛利也在下降。 与此同时，小米没有收缩 AI 布局。前三季度，公司研发开支约 274 亿元，其中 AI 相关研发费用占比超过 30% 。在财报电话会上，管理层表示， MiMo 大模型的 API 调用量及 AI 相关收入持续增加，模型也在逐步进入手机、汽车和家庭场景。 不过，收入增长到了什么规模，还没有单独披露。第三季度，小米新能源汽车及 AI 等创新业务分部收入约 239 亿元，其中新能源汽车收入约 227 亿元，其他相关业务收入约 12 亿元。 01 MiMo",
+      "titleZh": "小米继续加码AI，MiMo靠什么回本？",
+      "summaryZh": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，研究员｜陈俊一 小米的 AI 投入仍在增加，但支撑这笔投入的硬件生意，正面临利润压力。 11 月 24 日港股盘后，小米集团发布 2026 年第三季度财报：当季收入 1072.4 亿元，同比下降 5.2% ；经调整净利润 48.8 亿元，同比下降 56.8% 。 来源：小米 2026 年第三季度业绩材料。 存储等核心器件成本上涨、行业竞争加剧，是小米在财报中列出的经营挑战。第三季度，集团毛利率由上年同期的 22.9% 降至 20.2% 。收入减少之外，每一元收入能够留下的毛利也在下降。 与此同时，小米没有收缩 AI 布局。前三季度，公司研发开支约 274 亿元，其中 AI 相关研发费用占比超过 30% 。在财报电话会上，管理层表示， MiMo 大模型的 API 调用量及 AI 相关收入持续增加，模型也在逐步进入手机、汽车和家庭场景。 不过，收入增长到了什么规模，还没有单独披露。第三季度，小米新能源汽车及 AI 等创新业务分部收入约 239 亿元，其中新能源汽车收入约 227 亿元，其他相关业务收入约 12 亿元。 01 MiMo",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8217008.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:23:02.000Z",
+      "author": "第四波",
+      "tags": [
+        "research",
+        "投稿"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "bf2cd01c121178739a",
+      "titleOriginal": "小米，告别小米",
+      "summaryOriginal": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 小米Q3财报电话会上，花旗和摩根大通的分析师先后向小米管理层提出了两个问题。 花旗问小米总裁卢伟冰，存储芯片涨价后，消费者的换机周期是否会从3年延长至4到5年？ 摩根大通则追问，小米汽车车型上市后的第3、第4个月，销量往往出现下滑，小米准备如何拉长产品生命周期？ 两个问题分别指向手机和汽车，却都暴露了一个核心：小米原本依赖的增长方式，正遇到新的阻力。 11月24日，小米发布2026年Q3财报，数据显示本季收入1072.4亿元，同比下降5.2%；经营利润65.7亿元，同比下降56.5%；经调整净利润48.84亿元，同比下降56.8%。 单看数据，结论很简单：小米赚不到以前那么多钱了。 然而更值得琢磨的是，管理层在电话会上回应的经营难题，与十年前相比已截然不同。 自2010年创办以来，小米靠高性价比、单品放量、渠道效率和规模效应打开市场。这套能力依然重要，但小米已经进入手机、汽车、芯片、AI模型和机器人等不同产业。 每一项业务，都有自己的技术门槛、经营周期和投入方式。 小米正在告别过去那套自己擅长和熟悉的打法。",
+      "titleZh": "小米，告别小米",
+      "summaryZh": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 小米Q3财报电话会上，花旗和摩根大通的分析师先后向小米管理层提出了两个问题。 花旗问小米总裁卢伟冰，存储芯片涨价后，消费者的换机周期是否会从3年延长至4到5年？ 摩根大通则追问，小米汽车车型上市后的第3、第4个月，销量往往出现下滑，小米准备如何拉长产品生命周期？ 两个问题分别指向手机和汽车，却都暴露了一个核心：小米原本依赖的增长方式，正遇到新的阻力。 11月24日，小米发布2026年Q3财报，数据显示本季收入1072.4亿元，同比下降5.2%；经营利润65.7亿元，同比下降56.5%；经调整净利润48.84亿元，同比下降56.8%。 单看数据，结论很简单：小米赚不到以前那么多钱了。 然而更值得琢磨的是，管理层在电话会上回应的经营难题，与十年前相比已截然不同。 自2010年创办以来，小米靠高性价比、单品放量、渠道效率和规模效应打开市场。这套能力依然重要，但小米已经进入手机、汽车、芯片、AI模型和机器人等不同产业。 每一项业务，都有自己的技术门槛、经营周期和投入方式。 小米正在告别过去那套自己擅长和熟悉的打法。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8217034.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:23:00.000Z",
+      "author": "版面之外",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "81a0c4fd76ac815e9e",
+      "titleOriginal": "AI进厂，先革企业的命",
+      "summaryOriginal": "（本文作者为 机器最前线，钛媒体经授权发布） 文 | 机器最前线 过去两年，资本市场为AI买单看重的是技术想象力与算力规模；但如今，二级市场的估值逻辑正在回归商业本质——盈利能力，成了衡量AI巨头的新标尺。 作为印证，此前Anthropic正式上市，发行价高达83美元，首日涨幅达17%。可在随后的两个交易日，Anthropic的股价连续回落。即便在此期间爆出了Fable证明黎曼猜想的轰动性消息，也未能扭转其在二级市场的颓势。显然，市场并没有把技术突破和未来的盈利能力划上等号。 那么，这家手握全球顶尖大模型的公司，接下来会将盈利模式的方向锚定在何处？透过Anthropic的招股说明书，我们或许能一探究竟。 01 AI不再满足于回答问题，而是要真正接管工作 在这份招股书中，Anthropic提出了一个极具信号意义的核心定位：Claude as a Virtual Collaborator（作为虚拟协作者的Claude）。从2022年ChatGPT初问世时的“对话助手”，到后来行业普遍提倡的“AI助手”，大模型的角色定位正在迎来又一次进化。 （图源：Anthropic） 按照Anthropi",
+      "titleZh": "AI进厂，先革企业的命",
+      "summaryZh": "（本文作者为 机器最前线，钛媒体经授权发布） 文 | 机器最前线 过去两年，资本市场为AI买单看重的是技术想象力与算力规模；但如今，二级市场的估值逻辑正在回归商业本质——盈利能力，成了衡量AI巨头的新标尺。 作为印证，此前Anthropic正式上市，发行价高达83美元，首日涨幅达17%。可在随后的两个交易日，Anthropic的股价连续回落。即便在此期间爆出了Fable证明黎曼猜想的轰动性消息，也未能扭转其在二级市场的颓势。显然，市场并没有把技术突破和未来的盈利能力划上等号。 那么，这家手握全球顶尖大模型的公司，接下来会将盈利模式的方向锚定在何处？透过Anthropic的招股说明书，我们或许能一探究竟。 01 AI不再满足于回答问题，而是要真正接管工作 在这份招股书中，Anthropic提出了一个极具信号意义的核心定位：Claude as a Virtual Collaborator（作为虚拟协作者的Claude）。从2022年ChatGPT初问世时的“对话助手”，到后来行业普遍提倡的“AI助手”，大模型的角色定位正在迎来又一次进化。 （图源：Anthropic） 按照Anthropi",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8217052.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:22:56.000Z",
+      "author": "机器最前线",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cb4782794f2ff0ad7f",
+      "titleOriginal": "AI is straining America’s open records systems",
+      "summaryOriginal": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he got rather busy. Panton used to get a request every year or so from a company called SmartProcure for “all purchasing records,” covering every",
+      "titleZh": "人工智能正在给美国的公开记录系统带来压力",
+      "summaryZh": "在佛蒙特州人口为660人的潘顿镇，镇书记官凯尔·罗（Kyle Rowe）包揽了所有工作。他负责编制预算、向供应商付款、处理财产税争议，并担任镇的区划主管和选举主持官。在镇政府大厅（一座木质框架建筑，于1858年建成，原为教堂）的上午办公时间，他还处理公共记录申请。最近，他变得相当忙碌。潘顿过去大约每年都会收到一家名为SmartProcure的公司提出的“所有采购记录”申请，涵盖",
+      "translated": true,
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "sourceId": "mittr",
+      "sourceName": "MIT Technology Review",
+      "sourceSite": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "sourceColor": "#b31b1b",
+      "lang": "en",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "author": "Matthew King",
+      "tags": [
+        "analysis",
+        "Artificial intelligence",
+        "App"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e3fe0102d2ccdfc861",
+      "titleOriginal": "Clipto首席科学家韩玫已确认出席 AICon北京，分享Agent 的长上下文从哪里来",
+      "summaryOriginal": "",
+      "titleZh": "Clipto首席科学家韩玫已确认出席 AICon北京，分享Agent 的长上下文从哪里来",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T10:00:00.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "tags": [
+        "news",
+        "Agent"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3f62ec646f120871a2",
+      "titleOriginal": "AI 时代的腾讯：用金扁担，挑旧粪",
+      "summaryOriginal": "（本文作者为 指北Focus，钛媒体经授权发布） 文 | 指北Focus 写在前面： 有人每天挑粪很辛苦，你好心帮他做了一根更轻更结实的扁担。他愿意掏钱，你就继续改，最后帮他改出了一根黄金扁担。 这个比喻表面在讲 AI 时代的蒸蒸日上：AI 进入办公领域，把“更好的工具”本身做成了一门生意。 但在比喻之后，藏着一个和生意无关的问题：真正要解决的从来不是扁担，而是有一天，再也没有人需要挑粪。 这两年各厂商的 AI 产品发布会，看得多了会有一种错觉：大家挤破头比的，是谁的扁担镀金更多。 至于挑粪的人肩膀上那道印子有没有变浅，任何一家发布会的PPT里都没有这一页。 技术热潮会退，产品会更迭，牌桌会换人。 到那时再回头看，真正值得被记住的公司，未必是造出最贵扁担的那一家，而是让挑粪的人相信：放下担子之后，还有生活。 而腾讯这艘互联网时代的大船，正驶在这个比喻的航道上。 11 月 11 日，腾讯 28 周年司庆。 在这本该庆生的日子，马化腾对全员说的却是：\"浪已经杀过来了。一些核心业务看起来地位稳固，但 AI 的进展飞快，远处的浪潮已经在吞没一个个山丘了，你不能还坐着欣赏。\" 一边是造金扁担的手",
+      "titleZh": "AI 时代的腾讯：用金扁担，挑旧粪",
+      "summaryZh": "（本文作者为 指北Focus，钛媒体经授权发布） 文 | 指北Focus 写在前面： 有人每天挑粪很辛苦，你好心帮他做了一根更轻更结实的扁担。他愿意掏钱，你就继续改，最后帮他改出了一根黄金扁担。 这个比喻表面在讲 AI 时代的蒸蒸日上：AI 进入办公领域，把“更好的工具”本身做成了一门生意。 但在比喻之后，藏着一个和生意无关的问题：真正要解决的从来不是扁担，而是有一天，再也没有人需要挑粪。 这两年各厂商的 AI 产品发布会，看得多了会有一种错觉：大家挤破头比的，是谁的扁担镀金更多。 至于挑粪的人肩膀上那道印子有没有变浅，任何一家发布会的PPT里都没有这一页。 技术热潮会退，产品会更迭，牌桌会换人。 到那时再回头看，真正值得被记住的公司，未必是造出最贵扁担的那一家，而是让挑粪的人相信：放下担子之后，还有生活。 而腾讯这艘互联网时代的大船，正驶在这个比喻的航道上。 11 月 11 日，腾讯 28 周年司庆。 在这本该庆生的日子，马化腾对全员说的却是：\"浪已经杀过来了。一些核心业务看起来地位稳固，但 AI 的进展飞快，远处的浪潮已经在吞没一个个山丘了，你不能还坐着欣赏。\" 一边是造金扁担的手",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8216751.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T08:32:41.000Z",
+      "author": "指北Focus",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5ddbde0e5503e1b8cb",
+      "titleOriginal": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "summaryOriginal": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+      "titleZh": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
+      "summaryZh": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/119310",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T06:59:16.000Z",
+      "author": "宛潼",
+      "tags": [
+        "guide"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a20caa5f2b42fa7fdb",
+      "titleOriginal": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "summaryOriginal": "Researchers from The University of Hong Kong and ByteDance Seed have open-sourced Laminar . Laminar is an reinforcement learning RL post-training framework for LLMs and long-horizon agents. The core idea is simple: stop forcing every trajectory and every GPU to wait for the slowest one. For teams training coding agents with long, skewed rollouts, that is where most GPU time goes. TL;DR What: A framework. Tested on Qwen3-Coder-30B-A3B-Instruct (30.5B total, 3.3B active) and Qwen2.5 at 7B, 32B and",
+      "titleZh": "字节跳动研究人员开源Laminar，一个异步强化学习（RL）后训练框架",
+      "summaryZh": "香港大学和字节跳动种子计划的研究人员已将 Laminar 开源。Laminar 是一个用于 LLM 和长视野智能体的强化学习 (RL) 后训练框架。核心思想很简单：不再强迫每个轨迹和每个GPU等待最慢的那个。对于训练具有较长、偏斜的 rollout 的编码代理的团队来说，这就是 GPU 时间消耗最多的地方。TL;DR 内容：一个框架。已在Qwen3-Coder-30B-A3B-Instruct（总计305亿，活跃33亿）和70亿、320亿的Qwen2.5上进行测试，以及",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-25T05:42:05.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0aa2154153e108705a",
+      "titleOriginal": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+      "summaryOriginal": "如果说现在 AI 视频生成还有什么门槛，那「贵」一定是其中绕不过的一环。 对于大多数 AI 视频创作者来说，如果想要更好的画质、更自然的物理运动，往往还是得选择 Seedance 2.5 这样的头部闭源模型。但较高的生成成本，让每一次尝试都像是在「烧钱」。 转向开源模型，虽然可以降低使用门槛，却又经常会在复杂叙事、长视频一致性和画面真实感上遇到问题。 今天， Sand.ai 正式发布了新一代视频生成模型 MAGI-2，这个「好用的用不起，开源的效果又差一截」的局面，可能要被打破了。 根据 Artificial Analysis 视频生成榜单的评测结果，MAGI-2 在图生视频（I2V）维度超越 Seedance 2.5，位居全球第一。 更值得关注的是，Sand.ai 还宣布计划尽快开源 MAGI-2 的模型权重，让开发者能够使用这款具备顶尖视频生成能力的模型。 价格同样有吸引力。MAGI-2 在 1080p 分辨率下的官方刊例价仅为 0.5 元/秒，约为 Seedance 2.5 同规格价格的十分之一。 价格打到一折，模型权重还计划开源。这样的 MAGI-2，实际生成效果到底怎么样？",
+      "titleZh": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
+      "summaryZh": "如果说现在 AI 视频生成还有什么门槛，那「贵」一定是其中绕不过的一环。 对于大多数 AI 视频创作者来说，如果想要更好的画质、更自然的物理运动，往往还是得选择 Seedance 2.5 这样的头部闭源模型。但较高的生成成本，让每一次尝试都像是在「烧钱」。 转向开源模型，虽然可以降低使用门槛，却又经常会在复杂叙事、长视频一致性和画面真实感上遇到问题。 今天， Sand.ai 正式发布了新一代视频生成模型 MAGI-2，这个「好用的用不起，开源的效果又差一截」的局面，可能要被打破了。 根据 Artificial Analysis 视频生成榜单的评测结果，MAGI-2 在图生视频（I2V）维度超越 Seedance 2.5，位居全球第一。 更值得关注的是，Sand.ai 还宣布计划尽快开源 MAGI-2 的模型权重，让开发者能够使用这款具备顶尖视频生成能力的模型。 价格同样有吸引力。MAGI-2 在 1080p 分辨率下的官方刊例价仅为 0.5 元/秒，约为 Seedance 2.5 同规格价格的十分之一。 价格打到一折，模型权重还计划开源。这样的 MAGI-2，实际生成效果到底怎么样？",
+      "translated": true,
+      "url": "https://www.ifanr.com/1691445",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T05:21:04.000Z",
+      "author": "张子豪",
+      "tags": [
+        "guide",
+        "公司",
+        "AI 视频生成",
+        "magi-2",
+        "sand.ai"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "054ddac7c837151979",
+      "titleOriginal": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "summaryOriginal": "Three months ago, shortly after the Demis/Dean/etc departures , and with disappointing progress on Gemini 3 models, people had publicly given up on Google DeepMind as a frontier lab. Today, apologies are being issued , and Neon is the talk of the town! View post on X ↗ Despite giving Gemini 4 Argon (RIP), Carbon and Neon the title story (with Hydrogen a near miss ), we are exercising yet another rare double-feature choice to highlight the unusually strong breakout trend in Neon’s adoption: View",
+      "titleZh": "[AINews] Gemini 4 Neon标志着GDM全面回归前沿实验室",
+      "summaryZh": "三个月前，在Demis/Dean等人离职后不久，由于Gemini 3模型的进展令人失望，人们公开放弃了将Google DeepMind视为前沿实验室。今天，人们正在道歉，而Neon成了街头巷尾的热门话题！在X上查看帖子↗尽管Gemini 4 Argon（已下线）、Carbon和Neon成为头条新闻（Hydrogen险些上榜），但我们仍要做出另一个罕见的双重选择，以凸显Neon采用率的异常强劲增长趋势：查看",
+      "translated": true,
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-25T04:29:07.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis",
+        "ainews: weekday roundups"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
     {
       "id": "1b77bab79a72d42452",
       "titleOriginal": "Edge AI Daily 早报（11月25日）",
@@ -25,8 +612,29 @@
       "readingMinutes": 2
     },
     {
+      "id": "73ef4003e402bfb92d",
+      "titleOriginal": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+      "summaryOriginal": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。 查看全文",
+      "titleZh": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
+      "summaryZh": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。 查看全文",
+      "translated": true,
+      "url": "https://sspai.com/post/119527",
+      "sourceId": "sspai",
+      "sourceName": "少数派",
+      "sourceSite": "https://sspai.com/",
+      "sourceColor": "#d71920",
+      "lang": "zh",
+      "publishedAt": "2026-11-25T00:22:35.000Z",
+      "author": "少数派编辑部",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "05f887d0221c3adc05",
-      "titleOriginal": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "titleOriginal": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "summaryOriginal": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
       "titleZh": "耶鲁大学的索南菲尔德：英伟达对美国工业实力是“有害的”，而不是捍卫者",
       "summaryZh": "耶鲁大学的杰弗里·索南菲尔德（Jeffrey Sonnenfeld）警告称，市场周一欢呼的黄仁勋在白宫支持下重返英伟达担任首席执行官和董事会成员一事，可能会被证明是一个巨大的错误，使董事们因日益增多的诉讼而面临“历史性”的个人责任，并引发人们质疑该国是否在为一家曾协助将先进芯片交到其对手手中的公司欢呼。",
@@ -42,7 +650,8 @@
       "tags": [
         "news",
         "AI",
-        "TC"
+        "Jensen Huang",
+        "nvidia"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -260,8 +869,8 @@
         "news",
         "AI",
         "Privacy",
-        "Startups",
-        "TC"
+        "Security",
+        "Startups"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -408,9 +1017,9 @@
       "id": "cb0d7372f9a0d9c643",
       "titleOriginal": "UK warns AI-driven cyberattacks are exposing years of weak security",
       "summaryOriginal": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
-      "titleZh": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "英国警告称，由人工智能驱动的网络攻击正揭示多年来存在的安全漏洞",
+      "summaryZh": "英国网络安全机构表示，“奠定坚实的基础从未像现在这样重要”，因为人工智能黑客工具依赖于利用简单的安全漏洞。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -433,9 +1042,9 @@
       "id": "d3a6c41efa8ee20849",
       "titleOriginal": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
       "summaryOriginal": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\" The article Novartis CEO says AI will shave four years off drug development, not cure all disease appeared first on The Decoder .",
-      "titleZh": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "诺华首席执行官表示，人工智能将使药物研发时间缩短四年，但并不能治愈所有疾病",
+      "summaryZh": "诺华制药首席执行官Vas Narasimhan（同时也是Anthropic董事会成员）对Anthropic首席执行官Amodei和DeepMind创始人Hassabis所作的包治百病的承诺提出质疑。他说，人工智能将加快药物研发，但它不会在十年内战胜癌症。真正的价值在于“介于两者之间”。这篇文章《诺华首席执行官表示，人工智能将使药物研发缩短四年时间，但不会治愈所有疾病》最初发表在《The Decoder》上。",
+      "translated": true,
       "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -458,9 +1067,9 @@
       "id": "07d721ca5d81647889",
       "titleOriginal": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
       "summaryOriginal": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models. The article OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate",
-      "titleZh": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "随着人工智能进入“非常迅猛的进步阶段”，OpenAI o1的联合创始人Noam Brown敦促有前途的学生辍学。",
+      "summaryZh": "OpenAI研究员Noam Brown敦促有潜力的学生辍学，称“现在不是袖手旁观的好时机”。o1的联合创作者表示，人工智能仍处于“半人马时期”，在规划和自我纠正方面存在困难，但他预计很快就会出现“非常迅猛的进步”。据布朗称，语言模型已被用于构建下一代模型。文章《OpenAI o1联合创始人Noam Brown敦促有前途的学生辍学，因为人工智能正进入“非常迅猛的发展阶段”》",
+      "translated": true,
       "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -482,9 +1091,9 @@
       "id": "9336a8c017b0a14026",
       "titleOriginal": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
       "summaryOriginal": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff.",
-      "titleZh": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "黄仁勋在回归后的首次全体员工大会上向Nvidia员工道歉",
+      "summaryZh": "Nvidia的首席执行官敞开心扉谈论了自己的个人生活，为自己复职一事进行了辩护，并承认自己强硬的管理风格伤害了员工。",
+      "translated": true,
       "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
       "sourceId": "wired",
       "sourceName": "WIRED AI",
@@ -504,9 +1113,9 @@
       "id": "c7d2da5c582fe3f0d6",
       "titleOriginal": "Tidal will start banning AI-generated music next month",
       "summaryOriginal": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen . The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 percent AI-generated. In a post on X, Andersen says Tidal needed to take a more \"drastic\" measure, as AI music made up 43 percent of the tracks distribu",
-      "titleZh": "Tidal will start banning AI-generated music next month",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Tidal将于下月开始禁止人工智能生成的音乐",
+      "summaryZh": "Tidal将于12月9日正式禁止人工智能生成的音乐。据Tidal音乐负责人罗伯特·安德森（Robert Andersen）透露，由于这一变化，Tidal将删除约2900万首由人工智能生成的歌曲，并每天拒绝约8万至8.5万首曲目。此举是在Tidal开始对被认定为100%由人工智能生成的曲目进行标记并取消其变现资格仅几个月后采取的。安德森在X上发帖称，Tidal需要采取更“严厉”的措施，因为AI音乐占分发曲目的43%。",
+      "translated": true,
       "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -525,9 +1134,9 @@
       "id": "eaadf2423721fd74ac",
       "titleOriginal": "Meta brings its Muse AI assistant directly into Instagram DMs",
       "summaryOriginal": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
-      "titleZh": "Meta brings its Muse AI assistant directly into Instagram DMs",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Meta 将其 Muse AI 助手直接引入 Instagram 私信",
+      "summaryZh": "通过新的集成功能，用户在希望与AI代理互动时，无需在Instagram和Muse应用之间来回切换。",
+      "translated": true,
       "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
       "sourceId": "techcrunch",
       "sourceName": "TechCrunch AI",
@@ -550,9 +1159,9 @@
       "id": "c808d58c8ec473e83d",
       "titleOriginal": "GPT 6.2 Astra Solves a Historical Mystery",
       "summaryOriginal": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale’s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available primary and secondary sources. To do so, it discovered a little known source in a paper archive, predicted t",
-      "titleZh": "GPT 6.2 Astra Solves a Historical Mystery",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "GPT 6.2 Astra破解历史谜团",
+      "summaryZh": "GPT 6.2 Astra 破解历史谜团以下是历史学教授 Mark Humphries 提供的一个有趣的案例研究，展示了如何使用 GPT-6.2 Astra 进行历史研究：只需极少的提示，GPT-6.2 Astra 就能自主识别出耶鲁大学拜内克图书馆收藏的一本 1808 年匿名素描本的创作者。它利用公开可查的一手和二手资料，非常迅速地（仅用22分钟）完成了这项工作。为此，它在一个纸质档案中发现了一个鲜为人知的来源，并预测了……",
+      "translated": true,
       "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
       "sourceId": "simonwillison",
       "sourceName": "Simon Willison",
@@ -2644,6 +3253,28 @@
         "AWS"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9dddeb89e408dae00d",
+      "titleOriginal": "Finding faster quantum algorithms with agents and formal verification",
+      "summaryOriginal": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "titleZh": "Finding faster quantum algorithms with agents and formal verification",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-11-23T16:59:40.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Agent"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -10831,672 +11462,6 @@
       ],
       "category": "launch",
       "readingMinutes": 2
-    },
-    {
-      "id": "99d8926ba0774d899e",
-      "titleOriginal": "离开黄仁勋的第一周，英伟达单季狂揽1158亿美元",
-      "summaryOriginal": "（本文作者为 节点AI，钛媒体经授权发布） 文 | 节点AI，作者 | 道哥 北京时间11月18日，英伟达发布了2027财年第三财季（截至2026年10月25日）的财报。 坦白说，即便过去几年我们已经习惯了英伟达一次次刷新商业史的认知，看到这组数据时，依然会有一种强烈的不真实感：单季营收1158亿美元，同比增长103%；净利润653亿美元，同比翻倍；对第四财季的营收指引更是直接给到了1300亿美元，大幅跨过了华尔街1253亿美元的预期门槛。财报落地后，英伟达盘后股价应声上涨超过4%。 但熟悉资本市场的人都清楚，今天围绕英伟达的讨论，早已超出了财务数字本身。就在财报发布前不到一周，掌舵英伟达33年的灵魂人物黄仁勋因个人风波突然辞去CEO职务。 颇具戏剧性的是，就在财报发布的同一天，黄仁勋公开表示自己愿意回归，而董事会主席哈维&middot;琼斯却在电话会议开场便给出了极为冷峻的定调：“董事会一致接受了他的辞职，无意让他复职。” 一边是人类商业史上罕见的算力印钞机，另一边是核心缔造者突然离场后的治理大考。把市场的喧嚣和情绪放一放，我们不妨沉下心来，顺着财报里的几条关键线索，看看这家站在世界",
-      "titleZh": "离开黄仁勋的第一周，英伟达单季狂揽1158亿美元",
-      "summaryZh": "（本文作者为 节点AI，钛媒体经授权发布） 文 | 节点AI，作者 | 道哥 北京时间11月18日，英伟达发布了2027财年第三财季（截至2026年10月25日）的财报。 坦白说，即便过去几年我们已经习惯了英伟达一次次刷新商业史的认知，看到这组数据时，依然会有一种强烈的不真实感：单季营收1158亿美元，同比增长103%；净利润653亿美元，同比翻倍；对第四财季的营收指引更是直接给到了1300亿美元，大幅跨过了华尔街1253亿美元的预期门槛。财报落地后，英伟达盘后股价应声上涨超过4%。 但熟悉资本市场的人都清楚，今天围绕英伟达的讨论，早已超出了财务数字本身。就在财报发布前不到一周，掌舵英伟达33年的灵魂人物黄仁勋因个人风波突然辞去CEO职务。 颇具戏剧性的是，就在财报发布的同一天，黄仁勋公开表示自己愿意回归，而董事会主席哈维&middot;琼斯却在电话会议开场便给出了极为冷峻的定调：“董事会一致接受了他的辞职，无意让他复职。” 一边是人类商业史上罕见的算力印钞机，另一边是核心缔造者突然离场后的治理大考。把市场的喧嚣和情绪放一放，我们不妨沉下心来，顺着财报里的几条关键线索，看看这家站在世界",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209875.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T10:03:34.000Z",
-      "author": "节点AI",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "fd6538236573f1acb0",
-      "titleOriginal": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-      "summaryOriginal": "就在今天，OpenAI 正式发布了新一代旗舰模型 GPT-6.2 Astra，以及主打性价比的 GPT-6.2 Sol。 从官方公布的成绩来看，GPT-6.2 Astra 在专业 Agent 任务上反超 Claude Fable 5.2，完成同等任务的综合成本却只有后者的 5%，堪称一次漂亮的反击。 上下滑动查看更多内容 然而，模型上线不到 12 小时，X 上就出现了大量差评。 知名开发者 Theo 直言，这是「OpenAI 史上最糟糕的模型」；AI 创业者 Matt Shumer 更是评价其「基本无法使用」。 上下滑动查看更多内容 争议主要集中在几个方面：回答过度简洁，写作水平倒退，长程 Agent 任务容易提前停止，甚至遇到问题也不主动向用户报告。 图｜https://developers.openai.com/api/docs/guides/latest-model 但有意思的是，即便是批评最激烈的用户，也承认 GPT-6.2 Astra 在 3D 建模、空间推理和成本效率上的巨大优势，部分能力甚至领先于目前所有竞品。 一边是创纪录的性能和极低的成本，一边是社交媒体上几乎一边倒的",
-      "titleZh": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-      "summaryZh": "就在今天，OpenAI 正式发布了新一代旗舰模型 GPT-6.2 Astra，以及主打性价比的 GPT-6.2 Sol。 从官方公布的成绩来看，GPT-6.2 Astra 在专业 Agent 任务上反超 Claude Fable 5.2，完成同等任务的综合成本却只有后者的 5%，堪称一次漂亮的反击。 上下滑动查看更多内容 然而，模型上线不到 12 小时，X 上就出现了大量差评。 知名开发者 Theo 直言，这是「OpenAI 史上最糟糕的模型」；AI 创业者 Matt Shumer 更是评价其「基本无法使用」。 上下滑动查看更多内容 争议主要集中在几个方面：回答过度简洁，写作水平倒退，长程 Agent 任务容易提前停止，甚至遇到问题也不主动向用户报告。 图｜https://developers.openai.com/api/docs/guides/latest-model 但有意思的是，即便是批评最激烈的用户，也承认 GPT-6.2 Astra 在 3D 建模、空间推理和成本效率上的巨大优势，部分能力甚至领先于目前所有竞品。 一边是创纪录的性能和极低的成本，一边是社交媒体上几乎一边倒的",
-      "translated": true,
-      "url": "https://www.ifanr.com/1690130",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T10:01:23.000Z",
-      "author": "张子豪",
-      "tags": [
-        "launch",
-        "软件",
-        "3D 建模",
-        "AI 写作",
-        "AI 编程"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a426f6b90b1dc456ec",
-      "titleOriginal": "Lovable Wants You to Vibe Code Your Dream Job",
-      "summaryOriginal": "This Swedish startup dominated the vibe-coded app boom. Two years after launch, Lovable is shifting gears to help users run vibe-coded businesses.",
-      "titleZh": "Lovable Wants You to Vibe Code Your Dream Job",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://www.wired.com/story/lovable-wants-you-to-vibe-code-a-living/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-18T10:00:00.000Z",
-      "author": "Reece Rogers",
-      "tags": [
-        "launch",
-        "Gear",
-        "Gear / Gear News and Events",
-        "Coding"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e683d40fba103b5f4b",
-      "titleOriginal": "The Silent Consensus",
-      "summaryOriginal": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-      "titleZh": "默契共识",
-      "summaryZh": "OpenAI战略未来主管Dean Ball探讨了能力更强的人工智能如何重塑社会，以及人们如何能够保持对其机构的掌控。",
-      "translated": true,
-      "url": "https://openai.com/index/the-silent-consensus",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T10:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Intelligence Age"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9c6237472eb6741124",
-      "titleOriginal": "诺奖得主做AI制药，20个月狂揽550亿",
-      "summaryOriginal": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 全球最贵的AI制药独角兽诞生了。 当地时间11月17日，谷歌母公司Alphabet旗下的AI制药公司Isomorphic Labs宣布，完成50亿美元C轮融资，不仅获得超额认购，更一举打破了全球AI制药领域的单笔融资最高纪录。 不到20个月，Isomorphic Labs已完成3轮融资，累计金额达到77亿美元，约合人民币550亿元。 红杉、a16z等硅谷顶级风投纷纷解囊，礼来、诺华等跨国药企也排队送上订单。 这家公司的掌舵人，是2024年诺贝尔化学奖得主、Google DeepMind联合创始人德米斯&middot;哈萨比斯（Demis Hassabis）。 与此同时，OpenAI、Anthropic、英伟达、字节跳动等科技大厂，也正在今年集体涌入生命科学赛道。 但颇具反差的是，Isomorphic Labs至今还没有药物进入人体临床试验。一家尚未跨过临床门槛的公司，为什么能让全球资本、巨头争相下注？ 20个月狂揽550亿，资本抢着投 这笔50亿美元的融资，几乎集齐了全球顶级投资机构。 本轮融资由Greenoaks和红杉资本",
-      "titleZh": "诺奖得主做AI制药，20个月狂揽550亿",
-      "summaryZh": "（本文作者为 新质动能，钛媒体经授权发布） 文 | 新质动能 全球最贵的AI制药独角兽诞生了。 当地时间11月17日，谷歌母公司Alphabet旗下的AI制药公司Isomorphic Labs宣布，完成50亿美元C轮融资，不仅获得超额认购，更一举打破了全球AI制药领域的单笔融资最高纪录。 不到20个月，Isomorphic Labs已完成3轮融资，累计金额达到77亿美元，约合人民币550亿元。 红杉、a16z等硅谷顶级风投纷纷解囊，礼来、诺华等跨国药企也排队送上订单。 这家公司的掌舵人，是2024年诺贝尔化学奖得主、Google DeepMind联合创始人德米斯&middot;哈萨比斯（Demis Hassabis）。 与此同时，OpenAI、Anthropic、英伟达、字节跳动等科技大厂，也正在今年集体涌入生命科学赛道。 但颇具反差的是，Isomorphic Labs至今还没有药物进入人体临床试验。一家尚未跨过临床门槛的公司，为什么能让全球资本、巨头争相下注？ 20个月狂揽550亿，资本抢着投 这笔50亿美元的融资，几乎集齐了全球顶级投资机构。 本轮融资由Greenoaks和红杉资本",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209976.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T09:51:26.000Z",
-      "author": "新质动能",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8e1755c539bcd93a26",
-      "titleOriginal": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
-      "summaryOriginal": "",
-      "titleZh": "GitHub 让 AI 接管工作流，单次默认预算 10 美元：是不是太大方了？",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/lMs1bM1muspglUjMr1l3",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "author": "作者：Mark Silvester",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "9fa731b0ef6c1da92e",
-      "titleOriginal": "Research acceleration: The jagged frontier",
-      "summaryOriginal": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-      "titleZh": "研究加速：不规则的前沿",
-      "summaryZh": "OpenAI 正在衡量编码代理如何加速人工智能研究，它们的表现仍不均衡，以及这对于递归自我改进意味着什么。",
-      "translated": true,
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Research",
-        "Agent",
-        "Coding"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b527b6f0ddceafec70",
-      "titleOriginal": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "summaryOriginal": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "titleZh": "住友生命保险的领导者如何帮助团队采用 ChatGPT Enterprise",
-      "summaryZh": "三井住友海上保险使用 ChatGPT Enterprise 研究保险公司、编制提案以及起草投资分析代码。高管的早期使用有助于推动采用。",
-      "translated": true,
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Coding"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "53f2a14376dda94d54",
-      "titleOriginal": "Inside the Codex sandbox",
-      "summaryOriginal": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-      "titleZh": "Codex沙盒内部",
-      "summaryZh": "了解Codex如何在您的计算机上运行命令，同时在macOS、Linux和Windows上强制执行您控制的文件系统和网络限制。",
-      "translated": true,
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T08:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Engineering"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "beb10735565b02597b",
-      "titleOriginal": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
-      "summaryOriginal": "SID AI has released SID-2 , its second-generation agentic search model, alongside SID-2 Swarm. SID-2 is an agentic search model from SID AI that searches your data, reads results and returns ranked document IDs. It replaces fixed RAG pipelines with a model that decides what to search next. TL;DR Size: Context window is 262k tokens per the report (256k on sid.ai/models ). Runs on: Hosted API at platform.sid.ai , plus Baseten and SageMaker reference paths. SID’s latency figures assume 1 B200 GPU a",
-      "titleZh": "SID AI发布SID-2 Agentic搜索模型，配备0.720 NDCG Swarm模式",
-      "summaryZh": "SID AI发布了其第二代智能体搜索模型SID-2，以及SID-2 Swarm。SID-2 是 SID AI 推出的智能体搜索模型，它可以搜索您的数据、读取结果并返回排名靠前的文档 ID。它用一个能够决定接下来搜索什么的模型取代了固定的RAG管道。TL;DR 大小：根据报告，上下文窗口为 26.2 万个 token（在 sid.ai/models 上为 25.6 万个）。运行环境： platform.sid.ai 上的托管API，以及Baseten和SageMaker参考路径。SID 的延迟数据基于 1 个 B200 GPU a",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-18T07:10:53.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Shorts",
-        "Applications",
-        "Artificial Intelligence"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "aa91484106a60c0a3e",
-      "titleOriginal": "Anthropic Adds Code Mode to Claude Code: Claude Now Chains Tool Calls in JavaScript",
-      "summaryOriginal": "Anthropic has added Code Mode to Claude Code as an experimental, opt-in feature. Claude Code Code Mode is a mode in which Claude writes JavaScript that makes several tool calls in 1 step. It shipped in Claude Code v2.1.323 last week . For developers, it changes how the agent spends round-trips on multi-step work. You can check the deployment options and specs here through our GPULeaderboard.com chrome extension . TL;DR Works with: It works with Claude Opus 5.5, Sonnet 5.5, Haiku 5.5 and Fable 5.",
-      "titleZh": "Anthropic 为 Claude Code 添加了代码模式：Claude 现在可以在 JavaScript 中串联工具调用",
-      "summaryZh": "Anthropic已将代码模式添加至Claude Code，作为一项实验性、可选功能。Claude Code 代码模式是一种模式，在这种模式下，Claude 编写的 JavaScript 可在 1 个步骤中进行多次工具调用。该功能已于上周在 Claude Code v2.1.323 中发布。对于开发者来说，它改变了代理在多步工作中进行往返交互的方式。您可以通过我们的GPULeaderboard.com Chrome扩展程序在此处查看部署选项和规格。TL;DR 适用范围：适用于 Claude Opus 5.5、Sonnet 5.5、Haiku 5.5 和 Fable 5。",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-18T06:53:28.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "5b6030a53092d4b705",
-      "titleOriginal": "互动影游新作3天流水超200万，对话一相逢互动吴志涛：互动影游的门槛，在分支、游戏用户和审核",
-      "summaryOriginal": "（本文作者为 DataEye，钛媒体经授权发布） 文 | DataEye “AI 它始终是个非常好的辅助工具，它没办法代替真人。” 说这句话的吴志涛，所在的一相逢互动科技本身就把AI写进了公司方向。这家公司覆盖互动产品从制作、生产到发行的全流程，有一套囊括内容生产、内容制作、宣发全链路的 AI 大模型，目前以“AI 加互动”为核心，旗下已发行《美女请别影响我成仙》《代号三国》，还有即将发行的《代号迷失》《隐藏侦探》等。 一相逢于11月13日发行的 真人恋爱+SLG融合的全新互动影游作品《重生2我独自逆袭》 仅上线3天总销量便已超5万套，在Steam平台1806位玩家评测之下获得“好评如潮”的评价。 一边把 AI 铺进全链路，一边坚持真人不能被替代，看起来是矛盾的。但如果把这句话放到互动影游这个品类里，它指向的其实是一个很具体的问题：互动影游的门槛，落在分支设计、游戏用户的习惯和平台的审核规则上。强节奏只解决了“几分钟内勾起兴趣”这一步。 各类内容创作的交流场景，互动影游都会被不创作者反复提起，更多是作为微短剧“结合或者靠近”的方向。两个品类看起来只差一个“可以点选”的按钮，吴志涛的说法",
-      "titleZh": "互动影游新作3天流水超200万，对话一相逢互动吴志涛：互动影游的门槛，在分支、游戏用户和审核",
-      "summaryZh": "（本文作者为 DataEye，钛媒体经授权发布） 文 | DataEye “AI 它始终是个非常好的辅助工具，它没办法代替真人。” 说这句话的吴志涛，所在的一相逢互动科技本身就把AI写进了公司方向。这家公司覆盖互动产品从制作、生产到发行的全流程，有一套囊括内容生产、内容制作、宣发全链路的 AI 大模型，目前以“AI 加互动”为核心，旗下已发行《美女请别影响我成仙》《代号三国》，还有即将发行的《代号迷失》《隐藏侦探》等。 一相逢于11月13日发行的 真人恋爱+SLG融合的全新互动影游作品《重生2我独自逆袭》 仅上线3天总销量便已超5万套，在Steam平台1806位玩家评测之下获得“好评如潮”的评价。 一边把 AI 铺进全链路，一边坚持真人不能被替代，看起来是矛盾的。但如果把这句话放到互动影游这个品类里，它指向的其实是一个很具体的问题：互动影游的门槛，落在分支设计、游戏用户的习惯和平台的审核规则上。强节奏只解决了“几分钟内勾起兴趣”这一步。 各类内容创作的交流场景，互动影游都会被不创作者反复提起，更多是作为微短剧“结合或者靠近”的方向。两个品类看起来只差一个“可以点选”的按钮，吴志涛的说法",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209736.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T06:41:38.000Z",
-      "author": "DataEye",
-      "tags": [
-        "research",
-        "投稿"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "7bee81f42e2fb3462b",
-      "titleOriginal": "Anthropic 上市，三个预测",
-      "summaryOriginal": "（本文作者为 大G看科技，钛媒体经授权发布） 文 | 大G看科技 11 月 19 日，Anthropic 在纳斯达克挂牌。发行 8.25 亿股，区间 70 到 78 美元，投行已经在讨论把定价抬到 80 美元以上，完全摊薄 1.5 万亿到 1.6 万亿。合并私募，一共募 904 亿，史上最多。 01 Anthropic 手里有什么牌 发行 8.25 亿股，区间 70 到 78 美元，完全摊薄 1.4 万亿。认购近七倍，多笔百亿级订单，Altimeter 一家就申购了 50 亿。承销商还压着 1.24 亿股超额配售权。 260 亿的同步私募，由七家供应商买走，占发行规模四成。谷歌、英伟达各 100 亿，AMD 25 亿，博通、美光、微软各 10 亿，台积电 5 亿。股权也写清了：亚马逊持股 14.7%，转债全转升到 23.8%；谷歌 13.7%，两家合计约 28%。创始人通过 F 类股，握 50.1% 的投票权。 这是史上弹药最足的一次 IPO，也是流通盘最小的一次。 两个特点叠在一起，基本决定了上市后的第一段走势。 02 预测一：首日偏涨 理由不在基本面，在结构。发行 8.25 亿股，",
-      "titleZh": "Anthropic 上市，三个预测",
-      "summaryZh": "（本文作者为 大G看科技，钛媒体经授权发布） 文 | 大G看科技 11 月 19 日，Anthropic 在纳斯达克挂牌。发行 8.25 亿股，区间 70 到 78 美元，投行已经在讨论把定价抬到 80 美元以上，完全摊薄 1.5 万亿到 1.6 万亿。合并私募，一共募 904 亿，史上最多。 01 Anthropic 手里有什么牌 发行 8.25 亿股，区间 70 到 78 美元，完全摊薄 1.4 万亿。认购近七倍，多笔百亿级订单，Altimeter 一家就申购了 50 亿。承销商还压着 1.24 亿股超额配售权。 260 亿的同步私募，由七家供应商买走，占发行规模四成。谷歌、英伟达各 100 亿，AMD 25 亿，博通、美光、微软各 10 亿，台积电 5 亿。股权也写清了：亚马逊持股 14.7%，转债全转升到 23.8%；谷歌 13.7%，两家合计约 28%。创始人通过 F 类股，握 50.1% 的投票权。 这是史上弹药最足的一次 IPO，也是流通盘最小的一次。 两个特点叠在一起，基本决定了上市后的第一段走势。 02 预测一：首日偏涨 理由不在基本面，在结构。发行 8.25 亿股，",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209437.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T06:00:42.000Z",
-      "author": "大G看科技",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "8b6ac2940fdc0d0ef0",
-      "titleOriginal": "Managing frontier AI risk: From training to deployment",
-      "summaryOriginal": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-      "titleZh": "管理前沿人工智能风险：从训练到部署",
-      "summaryZh": "OpenAI解释了如何通过模型对齐、沙盒机制、屏蔽防护措施和监控，从训练到部署来管理前沿人工智能的风险。",
-      "translated": true,
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T06:00:00.000Z",
-      "author": "",
-      "tags": [
-        "research",
-        "Safety"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "e01c10b61b33232a0d",
-      "titleOriginal": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
-      "summaryOriginal": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画 前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案：不会。 这个站出来说 “不” 的人，他叫哈维・琼斯，是一个在英伟达待了 33 年、却很少出现在公众视野里的人。 1993 年，英伟达刚刚创立，他就进入了董事会。33 年后，他成为英伟达历史上第一位董事会主席，负责主持新 CEO 遴选，也代表董事会决定黄仁勋的去留。 一个参与了黄仁勋创业历程的人，最终站到了黄仁勋的对面。 一、一个硅谷老派经营者 如果只看履历，哈维・琼斯并不陌生于硅谷的创业与资本圈。 他毕业于乔治城大学数学与计算机科学专业，后来进入 MIT 斯隆管理学院。1974 年，他加入计算机图形公司 Calma，从开发岗位起步，之后转向销售和市场。1981 年，他联合创立 Daisy Systems，最终成为公司的 CEO。 Daisy 做的是计算机辅助工程工具，帮助工程师完成芯片设计。这个行业离普通消费者很远，却是后来半导体产业的重要基础设施。 琼斯很早就理解了一件事：技术公司能不能活下来，不只取决于技术有多先进，",
-      "titleZh": "哈维・琼斯：成就黄仁勋，赶走黄仁勋",
-      "summaryZh": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画 前脚，黄仁勋发文明确表达了回归意愿。紧接着，在英伟达公布新一季财报现场，董事会给出了明确答案：不会。 这个站出来说 “不” 的人，他叫哈维・琼斯，是一个在英伟达待了 33 年、却很少出现在公众视野里的人。 1993 年，英伟达刚刚创立，他就进入了董事会。33 年后，他成为英伟达历史上第一位董事会主席，负责主持新 CEO 遴选，也代表董事会决定黄仁勋的去留。 一个参与了黄仁勋创业历程的人，最终站到了黄仁勋的对面。 一、一个硅谷老派经营者 如果只看履历，哈维・琼斯并不陌生于硅谷的创业与资本圈。 他毕业于乔治城大学数学与计算机科学专业，后来进入 MIT 斯隆管理学院。1974 年，他加入计算机图形公司 Calma，从开发岗位起步，之后转向销售和市场。1981 年，他联合创立 Daisy Systems，最终成为公司的 CEO。 Daisy 做的是计算机辅助工程工具，帮助工程师完成芯片设计。这个行业离普通消费者很远，却是后来半导体产业的重要基础设施。 琼斯很早就理解了一件事：技术公司能不能活下来，不只取决于技术有多先进，",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209481.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T05:29:04.000Z",
-      "author": "版面之外",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f1843b54bfb8ccb98c",
-      "titleOriginal": "Anthropic的万亿定价",
-      "summaryOriginal": "（本文作者为 全球财说，钛媒体经授权发布） 文 | 全球财说，作者 | 林洛栩，编辑 | 魏樊曦 一场估值最高约1.4万亿美元的巨无霸IPO，已经进入上市倒计时。 Anthropic已获准在纳斯达克全球精选市场上市，股票代码为“ANT”，计划向公众发售8.25亿股，发行规模最高约643.5亿美元。 就在这笔交易完成前，Anthropic还要单独发行一股。 这股F类普通股没有任何经济权益，不参与公司的利润分配，却在一般股东表决事项上固定享有50.1%的投票权。它将由Anthropic七名联合创始人组成的Founder LLC持有，后续增发A类股或N类股，也不会稀释其投票权。 这场巨无霸IPO由此进入最后的定价阶段，8.25亿股将被送上市场，留给创始人的那一股，却始终握着50.1%的表决权。 万亿IPO Anthropic此次拟发行价为每股70至78美元，基础发行规模为8.25亿股。其中，约8.01亿股由公司发行，约2365万股由现有股东出售。老股出售所得归相关股东所有，Anthropic不会从中获得资金。 按发行区间测算，此次公开发行规模约为577.5亿至643.5亿美元。承销商还拥有一",
-      "titleZh": "Anthropic的万亿定价",
-      "summaryZh": "（本文作者为 全球财说，钛媒体经授权发布） 文 | 全球财说，作者 | 林洛栩，编辑 | 魏樊曦 一场估值最高约1.4万亿美元的巨无霸IPO，已经进入上市倒计时。 Anthropic已获准在纳斯达克全球精选市场上市，股票代码为“ANT”，计划向公众发售8.25亿股，发行规模最高约643.5亿美元。 就在这笔交易完成前，Anthropic还要单独发行一股。 这股F类普通股没有任何经济权益，不参与公司的利润分配，却在一般股东表决事项上固定享有50.1%的投票权。它将由Anthropic七名联合创始人组成的Founder LLC持有，后续增发A类股或N类股，也不会稀释其投票权。 这场巨无霸IPO由此进入最后的定价阶段，8.25亿股将被送上市场，留给创始人的那一股，却始终握着50.1%的表决权。 万亿IPO Anthropic此次拟发行价为每股70至78美元，基础发行规模为8.25亿股。其中，约8.01亿股由公司发行，约2365万股由现有股东出售。老股出售所得归相关股东所有，Anthropic不会从中获得资金。 按发行区间测算，此次公开发行规模约为577.5亿至643.5亿美元。承销商还拥有一",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209454.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T05:28:56.000Z",
-      "author": "全球财说",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ce03d4717a4c5e132a",
-      "titleOriginal": "黄仁勋：想回英伟达，董事会：没这个打算",
-      "summaryOriginal": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，作者｜王晨 北京时间11月18日，AI芯片巨头英伟达公布2027财年第三季度财报。有意思的是，财报发布前5个小时，黄仁勋在X上，首次就辞任CEO以及出轨风波，公开发声。 他称，自己犯下严重错误，但如果得到董事会支持，他愿意重新担任CEO。 而在财报会开始后的几分钟，董事会主席哈维&middot;琼斯就说：“董事会不打算重新任命黄仁勋担任首席执行官。” 财报发布前一个交易日，英伟达股价下跌4.12%，收于156.14美元，较10月6日的收盘高点回落约35%。美东时间11月17日，英伟达收于155.46美元，下跌0.44%。截至美东时间16时46分，财报发布后，英伟达股价盘后上涨2.47%，报159.30美元。 赚了653亿美元 先来看财报。 此轮周期内，英伟达营收为1158.44亿美元，环比增长20%，同比增长103%。净利润652.87亿美元，同比增长105%；摊薄后每股收益2.70美元。 英伟达上季给出的营收指引为1080亿美元，上下浮动2%，实际营收超过了指引上限。随后的财报电话会是黄仁勋辞职以来，英伟达首次举行重大公开活动",
-      "titleZh": "黄仁勋：想回英伟达，董事会：没这个打算",
-      "summaryZh": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，作者｜王晨 北京时间11月18日，AI芯片巨头英伟达公布2027财年第三季度财报。有意思的是，财报发布前5个小时，黄仁勋在X上，首次就辞任CEO以及出轨风波，公开发声。 他称，自己犯下严重错误，但如果得到董事会支持，他愿意重新担任CEO。 而在财报会开始后的几分钟，董事会主席哈维&middot;琼斯就说：“董事会不打算重新任命黄仁勋担任首席执行官。” 财报发布前一个交易日，英伟达股价下跌4.12%，收于156.14美元，较10月6日的收盘高点回落约35%。美东时间11月17日，英伟达收于155.46美元，下跌0.44%。截至美东时间16时46分，财报发布后，英伟达股价盘后上涨2.47%，报159.30美元。 赚了653亿美元 先来看财报。 此轮周期内，英伟达营收为1158.44亿美元，环比增长20%，同比增长103%。净利润652.87亿美元，同比增长105%；摊薄后每股收益2.70美元。 英伟达上季给出的营收指引为1080亿美元，上下浮动2%，实际营收超过了指引上限。随后的财报电话会是黄仁勋辞职以来，英伟达首次举行重大公开活动",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8209226.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T05:23:38.000Z",
-      "author": "第四波",
-      "tags": [
-        "launch",
-        "投稿"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bc658e73accea2a480",
-      "titleOriginal": "Over a Third of Gen Z-ers Rely on AI for Friendship",
-      "summaryOriginal": "Young people who have online-only friends or use AI as a social companion face higher odds of loneliness than those who do not, a new Gallup report reveals.",
-      "titleZh": "超过三分之一的Z世代依靠人工智能来建立友谊",
-      "summaryZh": "盖洛普的一份新报告显示，只有线上朋友或将人工智能作为社交伴侣的年轻人，比没有这样做的年轻人更容易感到孤独。",
-      "translated": true,
-      "url": "https://www.wired.com/story/over-a-third-of-gen-z-rely-on-ai-for-friendship/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-18T05:01:00.000Z",
-      "author": "Jason Parham",
-      "tags": [
-        "analysis",
-        "Culture",
-        "Culture / Digital Culture"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "4ece385aecd28f369d",
-      "titleOriginal": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
-      "summaryOriginal": "影像江湖的金字塔尖，永远有大银幕的一席之地。 所以判断一门影像手艺成没成，有个简单粗暴的试金石：敢不敢上大银幕。胶片当年闯过这关，数字摄影机也闯过，三维动画同样闯过，每闯过一关，就意味着一项新技术拿到了成熟影像工业的入场券。 过去两年，AI 视频生成你方唱罢我登场，一个比一个惊艳，可真正到了商业制作的修罗场，甲方要的是原生 4K，导演想一镜到底，品牌方动不动就改需求，制作团队还得在成本、周期和最终交付之间走钢丝。 最近，爱范儿注意到即梦 Seedance 2.5 推出了 4K 版本，把最长 30 秒单次生成、全模态参考、视频编辑与延长等本领一并拉到了更高的画质规格。 AI 视频的成人礼，就该从拥有一条 4K 生产线开始。 甲方的显微镜下，AI 视频迎来 4K 大考 过去体验 AI 视频模型，我总习惯给它安排一些足够热闹的场面。巨型怪兽、千军万马、末日都市，最好再来点爆炸与运镜，十几秒的视频也能拍出大片预告的气势。 但仔细想想，真正让商业制作团队头疼的，可能是一瓶香水上的标签、一张在不同渠道反复使用的商品图，或者导演临时要求修改的某个镜头。 因此，在体验 Seedance 2.5 4K",
-      "titleZh": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
-      "summaryZh": "影像江湖的金字塔尖，永远有大银幕的一席之地。 所以判断一门影像手艺成没成，有个简单粗暴的试金石：敢不敢上大银幕。胶片当年闯过这关，数字摄影机也闯过，三维动画同样闯过，每闯过一关，就意味着一项新技术拿到了成熟影像工业的入场券。 过去两年，AI 视频生成你方唱罢我登场，一个比一个惊艳，可真正到了商业制作的修罗场，甲方要的是原生 4K，导演想一镜到底，品牌方动不动就改需求，制作团队还得在成本、周期和最终交付之间走钢丝。 最近，爱范儿注意到即梦 Seedance 2.5 推出了 4K 版本，把最长 30 秒单次生成、全模态参考、视频编辑与延长等本领一并拉到了更高的画质规格。 AI 视频的成人礼，就该从拥有一条 4K 生产线开始。 甲方的显微镜下，AI 视频迎来 4K 大考 过去体验 AI 视频模型，我总习惯给它安排一些足够热闹的场面。巨型怪兽、千军万马、末日都市，最好再来点爆炸与运镜，十几秒的视频也能拍出大片预告的气势。 但仔细想想，真正让商业制作团队头疼的，可能是一瓶香水上的标签、一张在不同渠道反复使用的商品图，或者导演临时要求修改的某个镜头。 因此，在体验 Seedance 2.5 4K",
-      "translated": true,
-      "url": "https://www.ifanr.com/1690033",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T04:00:43.000Z",
-      "author": "山宗",
-      "tags": [
-        "launch",
-        "产品",
-        "AI 视频",
-        "Seedance 2.5",
-        "即梦"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "55b6fab3a7a007a13b",
-      "titleOriginal": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
-      "summaryOriginal": "OpenAI 可能没想到，自己精心准备的新模型，刚刚发布就迎来了一场颇为热闹的舆论风波。 今天凌晨，OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol，主打更强的专业工作能力、更高的 Token 效率，以及进一步降低的使用成本。 按照官方公布的成绩，新模型在编程、科研、专业办公、3D 设计等领域表现出色，部分任务的完成成本甚至降至上一代的三分之一以下。 而在首批开发者实测中，GPT-6.2 的评价却出现了明显分化。 有人惊叹于它的 3D 生成能力和成本优势，也有人认为模型在复杂任务中表现糟糕，甚至专门写了一封长信向 OpenAI 投诉。 我们也那么 GPT-6.2 究竟表现如何？ GPT-6.2 登场，跑分更聪明、更便宜 此次发布的两款模型有着不同定位，其中 GPT-6.2 Astra 面向复杂专业任务，GPT-6.2 Sol 则更加注重效率与成本，覆盖日常办公、编程及多步骤 Agent 工作。 在衡量长周期、多步骤专业任务的 Agents’ Last Exam 测试中，GPT-6.2 Astra 比上一代高出 5.2 分，完成任务的成本却不到后者的三分之一",
-      "titleZh": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
-      "summaryZh": "OpenAI 可能没想到，自己精心准备的新模型，刚刚发布就迎来了一场颇为热闹的舆论风波。 今天凌晨，OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol，主打更强的专业工作能力、更高的 Token 效率，以及进一步降低的使用成本。 按照官方公布的成绩，新模型在编程、科研、专业办公、3D 设计等领域表现出色，部分任务的完成成本甚至降至上一代的三分之一以下。 而在首批开发者实测中，GPT-6.2 的评价却出现了明显分化。 有人惊叹于它的 3D 生成能力和成本优势，也有人认为模型在复杂任务中表现糟糕，甚至专门写了一封长信向 OpenAI 投诉。 我们也那么 GPT-6.2 究竟表现如何？ GPT-6.2 登场，跑分更聪明、更便宜 此次发布的两款模型有着不同定位，其中 GPT-6.2 Astra 面向复杂专业任务，GPT-6.2 Sol 则更加注重效率与成本，覆盖日常办公、编程及多步骤 Agent 工作。 在衡量长周期、多步骤专业任务的 Agents’ Last Exam 测试中，GPT-6.2 Astra 比上一代高出 5.2 分，完成任务的成本却不到后者的三分之一",
-      "translated": true,
-      "url": "https://www.ifanr.com/1690103",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T02:39:15.000Z",
-      "author": "山宗",
-      "tags": [
-        "guide",
-        "产品",
-        "AI",
-        "OpenAI",
-        "Agent"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d652f478feeed9d6a3",
-      "titleOriginal": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-      "summaryOriginal": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-      "titleZh": "英伟达的初创企业投资额飙升至650亿美元，但黄仁勋的退出让未来的交易蒙上阴影",
-      "summaryZh": "在过去九个月里，英伟达的私募投资价值几乎翻了两番，这得益于黄仁勋激进的交易策略以及其现有投资组合公司的估值不断攀升。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T01:44:21.000Z",
-      "author": "Dominic-Madori Davis, Marina Temkin",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "Colette Kress",
-        "Jensen Huang"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "66c3862e5d0404d315",
-      "titleOriginal": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
-      "summaryOriginal": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
-      "titleZh": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
-      "summaryZh": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。 查看全文",
-      "translated": true,
-      "url": "https://sspai.com/post/119210",
-      "sourceId": "sspai",
-      "sourceName": "少数派",
-      "sourceSite": "https://sspai.com/",
-      "sourceColor": "#d71920",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T00:46:03.000Z",
-      "author": "少数派编辑部",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "160f58e3c0fd840e31",
-      "titleOriginal": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
-      "summaryOriginal": "辞去英伟达 CEO 职务仅仅五天后，黄仁勋终于公开发声，回应了外界持续发酵的回归呼声。 上下滑动查看更多内容 今天凌晨，黄仁勋在个人 X 账号发表长文，感谢过去一周来自朋友、行业同事，以及英伟达员工和投资者的支持。他再次承认自己在个人生活中犯下错误，同时首次明确表示，愿意重新担任英伟达 CEO。 然而，就在黄仁勋公开表达回归意愿的几个小时后，英伟达董事会给出了截然相反的答复。 在最新季度财报电话会议上，英伟达董事长 Harvey Jones 明确表示，董事会已经一致接受黄仁勋的辞呈，目前无意恢复他的 CEO 职务。 图｜Harvey Jones，来源 AnalyticsInsight 同一天，英伟达还交出了一份相当亮眼的财报：季度营收达到 1158 亿美元，同比增长 103%，净利润达到 653 亿美元。 一边是创始人希望重返公司，一边是董事会明确拒绝，而英伟达的 AI 芯片生意仍在高速增长。 这家刚刚经历重大人事变动的科技巨头，似乎已经准备好继续向前走了。 黄仁勋：如果董事会同意，我愿意回来 这是黄仁勋自 11 月 12 日辞去英伟达 CEO 职务以来，首次面向公众发表完整声明。 在",
-      "titleZh": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
-      "summaryZh": "辞去英伟达 CEO 职务仅仅五天后，黄仁勋终于公开发声，回应了外界持续发酵的回归呼声。 上下滑动查看更多内容 今天凌晨，黄仁勋在个人 X 账号发表长文，感谢过去一周来自朋友、行业同事，以及英伟达员工和投资者的支持。他再次承认自己在个人生活中犯下错误，同时首次明确表示，愿意重新担任英伟达 CEO。 然而，就在黄仁勋公开表达回归意愿的几个小时后，英伟达董事会给出了截然相反的答复。 在最新季度财报电话会议上，英伟达董事长 Harvey Jones 明确表示，董事会已经一致接受黄仁勋的辞呈，目前无意恢复他的 CEO 职务。 图｜Harvey Jones，来源 AnalyticsInsight 同一天，英伟达还交出了一份相当亮眼的财报：季度营收达到 1158 亿美元，同比增长 103%，净利润达到 653 亿美元。 一边是创始人希望重返公司，一边是董事会明确拒绝，而英伟达的 AI 芯片生意仍在高速增长。 这家刚刚经历重大人事变动的科技巨头，似乎已经准备好继续向前走了。 黄仁勋：如果董事会同意，我愿意回来 这是黄仁勋自 11 月 12 日辞去英伟达 CEO 职务以来，首次面向公众发表完整声明。 在",
-      "translated": true,
-      "url": "https://www.ifanr.com/1689994",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T00:39:56.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "news",
-        "人物",
-        "公司",
-        "AI 芯片",
-        "数据中心"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "a065833d0b1d13bd3a",
-      "titleOriginal": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
-      "summaryOriginal": "黄仁勋辞职后首次发声：董事会认可的话，愿重返英伟达当 CEO 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% AMD 完成收购 World Labs，李飞飞出任执行副总裁兼首席科学家 OpenAI 发布 GPT-6.2 Astra 和 Sol，Astra API 价格下调 20% 苹果 iPhone Duo 适配 App 超 20 万款，一周多翻倍 macOS 27.3 收紧 App 文件访问权限 红果短剧治理肖像侵权，已处理 43992 部疑似问题作品 Spotify 向所有艺人开放主页保护，可先审核名下新歌 曝苹果拟与三星签 4 至 5 年 DRAM 长约，正进行最后磋商 车企 60 天账期进入年度调研评估，故意拖延付款将被约谈 《文明》开发商 Firaxis 裁员约三分之一，工作室负责人将离职 昆仑芯 M100 预计年底具备量产条件，百度 AI 云收入增长 94% 联想 PC 及平板市场销售额份额超苹果，IDC 估算达 195 亿美元 何小鹏预计 11 月销量首超 6 万辆、人形机器人明年二季度面向商业客户发布 《NBA 2K27》将联动《GTA 6》，罪恶都市主题球",
-      "titleZh": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
-      "summaryZh": "黄仁勋辞职后首次发声：董事会认可的话，愿重返英伟达当 CEO 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% AMD 完成收购 World Labs，李飞飞出任执行副总裁兼首席科学家 OpenAI 发布 GPT-6.2 Astra 和 Sol，Astra API 价格下调 20% 苹果 iPhone Duo 适配 App 超 20 万款，一周多翻倍 macOS 27.3 收紧 App 文件访问权限 红果短剧治理肖像侵权，已处理 43992 部疑似问题作品 Spotify 向所有艺人开放主页保护，可先审核名下新歌 曝苹果拟与三星签 4 至 5 年 DRAM 长约，正进行最后磋商 车企 60 天账期进入年度调研评估，故意拖延付款将被约谈 《文明》开发商 Firaxis 裁员约三分之一，工作室负责人将离职 昆仑芯 M100 预计年底具备量产条件，百度 AI 云收入增长 94% 联想 PC 及平板市场销售额份额超苹果，IDC 估算达 195 亿美元 何小鹏预计 11 月销量首超 6 万辆、人形机器人明年二季度面向商业客户发布 《NBA 2K27》将联动《GTA 6》，罪恶都市主题球",
-      "translated": true,
-      "url": "https://www.ifanr.com/1689915",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T00:32:49.000Z",
-      "author": "郑廷旭",
-      "tags": [
-        "launch",
-        "早报"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "83a48772429ae19970",
-      "titleOriginal": "Nvidia promises that revenue will keep soaring — for now",
-      "summaryOriginal": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-      "titleZh": "英伟达承诺，目前营收将继续飙升",
-      "summaryZh": "尽管在声名狼藉的创始人兼首席执行官黄仁勋离职后，Nvidia 陷入了动荡，但该公司预计其创纪录的收入势头不会就此止步。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T00:16:50.000Z",
-      "author": "Julie Bort",
-      "tags": [
-        "news",
-        "AI",
-        "TC",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "6cab9c8cd38347e314",
-      "titleOriginal": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "summaryOriginal": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-      "titleZh": "Le Groupe Figaro与OpenAI合作，将《费加罗报》的新闻报道引入ChatGPT",
-      "summaryZh": "费加罗报集团与OpenAI合作，通过摘要和节选将《费加罗报》的新闻报道引入ChatGPT，并提供指向原报道的链接。",
-      "translated": true,
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Company"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c7d3ecb006439a1357",
-      "titleOriginal": "Advancing chip design with OpenAI models",
-      "summaryOriginal": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "titleZh": "利用 OpenAI 模型推进芯片设计",
-      "summaryZh": "OpenAI 模型优化了 Jalapeño 芯片中使用的电路，并改进了 RISC‑V 核心设计，展示了 GPT‑6 Astra 在 AI 辅助芯片设计方面的进展。",
-      "translated": true,
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "sourceId": "openai",
-      "sourceName": "OpenAI",
-      "sourceSite": "https://openai.com/news",
-      "sourceColor": "#10a37f",
-      "lang": "en",
-      "publishedAt": "2026-11-18T00:00:00.000Z",
-      "author": "",
-      "tags": [
-        "launch",
-        "Research"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "19bce111d0ee609687",
-      "titleOriginal": "Satya Nadella says he’s AGI-pilled now",
-      "summaryOriginal": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at a roundtable discussion following his Microsoft Ignite keynote at the Chase Center in San Francisco",
-      "titleZh": "萨蒂亚·纳德拉表示，他现在已经“吃下”了AGI的“药丸",
-      "summaryZh": "微软首席执行官萨蒂亚·纳德拉在微软Ignite大会上登台亮相。|图片来源：微软/YouTube微软首席执行官萨蒂亚·纳德拉（Satya Nadella）表示，他相信AGI，至少在谈到人工智能可能会对经济结构带来惊人变化，以及政治可能会因此发生变化时，他相信AGI。他在旧金山大通中心（Chase Center）的微软Ignite大会主题演讲后举行的圆桌讨论会上问道：“我之所以对AGI深信不疑，是因为在经济层面，围绕AGI的政治经济组织是什么样的？",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-17T23:41:18.000Z",
-      "author": "Nilay Patel",
-      "tags": [
-        "news",
-        "Image"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "28509d8a3a743ac752",
-      "titleOriginal": "Nvidia is abandoning China after Jensen Huang’s ouster",
-      "summaryOriginal": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
-      "titleZh": "在黄仁勋被罢免后，英伟达正在放弃中国市场",
-      "summaryZh": "英伟达的临时首席执行官表示，该公司已停止向中国销售芯片。这会造成多大损失？",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-17T23:37:48.000Z",
-      "author": "Tim Fernholz",
-      "tags": [
-        "news",
-        "AI",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11506,7 +11471,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 24
+      "count": 17
     },
     {
       "id": "deepmind",
@@ -11514,7 +11479,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 2
+      "count": 3
     },
     {
       "id": "techcrunch",
@@ -11522,7 +11487,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 72
+      "count": 69
     },
     {
       "id": "theverge",
@@ -11530,7 +11495,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 47
+      "count": 46
     },
     {
       "id": "mittr",
@@ -11538,7 +11503,7 @@
       "site": "https://www.technologyreview.com/topic/artificial-intelligence/",
       "lang": "en",
       "color": "#b31b1b",
-      "count": 5
+      "count": 6
     },
     {
       "id": "wired",
@@ -11546,7 +11511,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 30
+      "count": 28
     },
     {
       "id": "thedecoder",
@@ -11554,7 +11519,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 58
+      "count": 59
     },
     {
       "id": "marktechpost",
@@ -11562,7 +11527,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 25
+      "count": 24
     },
     {
       "id": "simonwillison",
@@ -11586,7 +11551,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 7
+      "count": 8
     },
     {
       "id": "ifanr",
@@ -11594,7 +11559,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 32
+      "count": 28
     },
     {
       "id": "sspai",
@@ -11602,7 +11567,7 @@
       "site": "https://sspai.com/",
       "lang": "zh",
       "color": "#d71920",
-      "count": 4
+      "count": 5
     },
     {
       "id": "tmtpost",
@@ -11618,13 +11583,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 57
+      "count": 70
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 40,
-    "translated": 213,
+    "guides": 42,
+    "translated": 210,
     "sources": 14
   }
 }
