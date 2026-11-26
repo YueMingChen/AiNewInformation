@@ -1,6 +1,152 @@
 {
-  "generatedAt": "2026-11-26T14:00:50.894Z",
+  "generatedAt": "2026-11-26T23:04:51.346Z",
   "articles": [
+    {
+      "id": "d9534e56c25c30c336",
+      "titleOriginal": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "summaryOriginal": "Open video on YouTube ↗ Clay wants you to get about the same results whether you use its own agent or point Claude Code at Clay. Usage is already split close to 50/50 between Clay’s agent and outside harnesses. In this episode, we chat with Jeff Barg, Head of AI at Clay, about what it takes to build go-to-market infrastructure that any agent can use. Jeff joined Clay when it acquired Avenue , the ops alerting startup he cofounded. At the time, Clay had about 50 people, and Avenue had five. AI wa",
+      "titleZh": "Clay 如何培养 GTM 代理人 — 人工智能主管 Jeff Barg",
+      "summaryZh": "在 YouTube 上打开视频 ↗ Clay 希望您无论使用其自有代理还是将 Claude Code 指向 Clay，都能获得大致相同的结果。Clay 的代理与外部工具的使用量已经接近 50/50。在本期节目中，我们与Clay的AI负责人Jeff Barg聊了聊，了解构建任何代理都能使用的上市基础设施需要具备哪些条件。Jeff 在 Clay 收购他共同创立的运营警报初创公司 Avenue 时加入 Clay。当时，Clay 有大约 50 名员工，Avenue 有 5 名员工。人工智能……",
+      "translated": true,
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-26T23:02:48.000Z",
+      "author": "Basil Chatha",
+      "tags": [
+        "analysis",
+        "Agent",
+        "Video",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "94305b427e5aac0a7d",
+      "titleOriginal": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summaryOriginal": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "titleZh": "英伟达暂停向东南亚出货芯片",
+      "summaryZh": "英伟达已告知制造合作伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚出货服务器，因为美国正在加紧努力，阻止人工智能芯片进入中国。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-26T20:03:54.000Z",
+      "author": "Connie Loizos",
+      "tags": [
+        "news",
+        "AI"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7e69e25001aceb512a",
+      "titleOriginal": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+      "summaryOriginal": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography. The article Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it appeared first on The Decoder .",
+      "titleZh": "前OpenAI研究员表示，黎曼猜想的证明并不像人工智能系统能够给出证明这一事实那样重要",
+      "summaryZh": "复杂性理论家、前OpenAI研究员斯科特·阿伦森（Scott Aaronson）认为，人工智能最近在数学领域的突破意义远不止于学术界。他写道，可能的后果从重塑全球经济到威胁地球上所有生命不等。他还“几乎可以肯定”，人工智能实验室在密码学领域“掌握着一个或多个重磅炸弹”。这篇文章《前OpenAI研究员表示，黎曼猜想的证明并不像人工智能系统能够给出证明这一事实那样重要》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-26T19:31:46.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI and society",
+        "Artificial Intelligence",
+        "AI and math",
+        "Anthropic"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "927ad05da19b904439",
+      "titleOriginal": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+      "summaryOriginal": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business users get free Fast Mode through year-end. OpenAI is also testing a Chat and Work mode merger. The article GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error appeared first on The Decoder .",
+      "titleZh": "OpenAI 修复定价错误后，GPT-6.2 Astra 用户达到使用上限的速度提高了 40%",
+      "summaryZh": "OpenAI表示，由于一个计费漏洞，GPT-6.2用户获得了不正确的折扣。修复后，Astra 和 Sol 用户达到使用上限的速度比上周分别快了 40% 和 25%。作为道歉，订阅用户将获得一次额外的重置机会，企业用户则可免费使用快速模式直至年底。OpenAI 还在测试聊天模式和工作模式的合并。文章《OpenAI 修复定价错误后，GPT-6.2 Astra 用户达到使用上限的速度比之前快了 40%》最初发表在 The Decoder 上。",
+      "translated": true,
+      "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-26T17:28:56.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "ChatGPT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "e5c5d8632474a2a0c6",
+      "titleOriginal": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "summaryOriginal": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
+      "titleZh": "《侠盗猎车手6》证明了效率为何不是一种美德",
+      "summaryZh": "在Anthropic上市的同一天，一款精心打造的拟人化视频游戏成为了有史以来最成功的娱乐产品之一。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "author": "Amanda Silberling",
+      "tags": [
+        "launch",
+        "AI",
+        "Gaming",
+        "Anthropic",
+        "grand theft auto"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9052beabd7a9774094",
+      "titleOriginal": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+      "summaryOriginal": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder .",
+      "titleZh": "在OpenAI和Anthropic关闭了其数据的大门后，一家中国人工智能开发商正转向谷歌和Meta。",
+      "summaryZh": "中国人工智能公司 Z.AI 和 Moonshot AI 不得不推迟下一代旗舰模型的发布，并正在寻找新的训练数据来源。这篇文章《在OpenAI和Anthropic关闭数据大门后，一家中国人工智能开发商转而求助于谷歌和Meta》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-26T15:45:08.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "research",
+        "AI and society",
+        "Artificial Intelligence",
+        "Short News",
+        "China"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "10985b5fb5da91812d",
       "titleOriginal": "破发不算最疼，Claude Code核心班底被OpenAI疯狂收割才是：Anthropic的编程王座悬了？",
@@ -19,6 +165,28 @@
       "tags": [
         "news",
         "Coding"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "316e60a88e0f2ae8cb",
+      "titleOriginal": "Quoting Jack Despain Zhou",
+      "summaryOriginal": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their reputations and mine, and I see Claude . — Jack Despain Zhou , Spitting in the Face of Glaude Tags: ai-mis",
+      "titleZh": "引用Jack Despain Zhou的话",
+      "summaryZh": "在人工智能已经产生的众多影响中，去个性化是一个显著的现象。我打开一个YouTube视频，听到了Claude的声音。我坐在会议演讲现场，听到了Claude的声音。我打开电子邮件收件箱，看到来自看似严肃的人的推销和文章，他们拥有看似严肃的资质，隶属于看似严肃的机构，希望发布与他们和我的声誉相关的内容，而我看到了Claude。— Jack Despain Zhou，《向Glaude的脸上吐唾沫》标签：ai-mis",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-26T15:09:31.000Z",
+      "author": "",
+      "tags": [
+        "news",
+        "Video"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -526,6 +694,27 @@
       "sourceColor": "#2f6f4e",
       "lang": "en",
       "publishedAt": "2026-11-26T06:08:25.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "7822140280bf26363e",
+      "titleOriginal": "The New York Times warns photographers not to update Photoshop over AI features",
+      "summaryOriginal": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this year (for a story about Moltbook, oddly enough). At one point I asked if they could fix things up if I had a stain on my shirt and they said absolutely not - they present photographs as they were taken, with cropping and balancing applied but no edits beyond that. He did spend a bunch of time trying to find the best possible",
+      "titleZh": "《纽约时报》警告摄影师不要更新 Photoshop 的 AI 功能",
+      "summaryZh": "我在《纽约时报》上的评论提醒摄影师不要为了AI功能而更新Photoshop——Hacker News。今年早些时候，我请了一位《纽约时报》的摄影师到我家给我拍照（很奇怪，是为了一篇关于Moltbook的文章）。有一次，我问他们如果我的衬衫上有污渍，他们能不能修一下，他们说绝对不行——他们展示的照片就是拍摄时的样子，只进行了裁剪和平衡处理，除此之外不做任何编辑。他确实花了很多时间来寻找最佳方案。",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-26T05:08:46.000Z",
       "author": "",
       "tags": [
         "news"
@@ -2987,9 +3176,9 @@
       "id": "dd94f7af62fb3fa3cd",
       "titleOriginal": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
       "summaryOriginal": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
-      "titleZh": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "从谱图到结构：使用质谱技术为 Google Antigravity 鉴定分子",
+      "summaryZh": "Mass Spec Skills 借助 Google Antigravity，使科学家能够解读串联质谱。",
+      "translated": true,
       "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
       "sourceId": "deepmind",
       "sourceName": "Google DeepMind",
@@ -4020,9 +4209,9 @@
       "id": "ec442b764e041cd285",
       "titleOriginal": "How Intentful uses dots to make more time for growth",
       "summaryOriginal": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "titleZh": "How Intentful uses dots to make more time for growth",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Intentful 如何利用点来腾出更多时间用于发展",
+      "summaryZh": "Marina Petrova 的 Dot Aria 可帮助研究网站和制定提案，同时主动标记消息并解决问题。",
+      "translated": true,
       "url": "https://openai.com/business/customer-stories/intentful-dots",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -4041,9 +4230,9 @@
       "id": "7a6462e387eb267a9c",
       "titleOriginal": "How iFood scales coding agents across 15,000 repositories",
       "summaryOriginal": "",
-      "titleZh": "How iFood scales coding agents across 15,000 repositories",
+      "titleZh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
       "summaryZh": "",
-      "translated": false,
+      "translated": true,
       "url": "https://openai.com/business/customer-stories/ifood",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -4064,9 +4253,9 @@
       "id": "99b93f3e10984935a6",
       "titleOriginal": "Clay helps sales teams win with Codex and ChatGPT",
       "summaryOriginal": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "titleZh": "Clay helps sales teams win with Codex and ChatGPT",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Clay 通过 Codex 和 ChatGPT 帮助销售团队取得成功",
+      "summaryZh": "ChatGPT 和 Codex 集成帮助 Clay 的用户研究交易，并将数据转化为上市策略，由 GPT-6 模型负责推理。",
+      "translated": true,
       "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "sourceId": "openai",
       "sourceName": "OpenAI",
@@ -4541,9 +4730,9 @@
       "id": "9c47dc701af7d59edc",
       "titleOriginal": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
       "summaryOriginal": "Z.ai has released GLM-5.4 , its first flagship model built on a Loop Transformer architecture. The GLM-5.4 Loop Transformer runs 28 layers of the GLM-5 base model for 2 iterations. Z.ai says the model reaches intelligence comparable to 2T-3T parameter models. For developers, the pitch is ‘Generalized Coding’: code as the tool for video, games, 3D shaders and CAD. TL;DR Size: 750B-scale base. Active parameters not disclosed. Context window not officially listed (the blog discusses deployment at 1",
-      "titleZh": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Z AI 发布 GLM-5.4：一款 7500 亿参数的循环变压器，可运行 28 层两次",
+      "summaryZh": "Z.ai发布了GLM-5.4 ，这是其首款基于环形Transformer架构的旗舰模型。GLM-5.4 Loop Transformer 运行 GLM-5 基础模型的 28 个层，进行 2 次迭代。Z.ai表示，该模型的智能水平可与2T-3T参数模型相媲美。对于开发者来说，其卖点是“通用编程”：将代码作为视频、游戏、3D 着色器和 CAD 的工具。TL;DR 大小：7500亿规模的基础模型。未披露有效参数。未正式列出上下文窗口（博客讨论了 1",
+      "translated": true,
       "url": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
       "sourceId": "marktechpost",
       "sourceName": "MarkTechPost",
@@ -11256,194 +11445,6 @@
       ],
       "category": "guide",
       "readingMinutes": 2
-    },
-    {
-      "id": "fd1897fc7619b29cf1",
-      "titleOriginal": "llm-gemini 0.38",
-      "summaryOriginal": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st December once their initial discount pricing expires. The Neon announcement pretends that Argon doesn't e",
-      "titleZh": "llm-gemini 0.38",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-      "sourceId": "simonwillison",
-      "sourceName": "Simon Willison",
-      "sourceSite": "https://simonwillison.net/",
-      "sourceColor": "#2f6f4e",
-      "lang": "en",
-      "publishedAt": "2026-11-18T23:59:20.000Z",
-      "author": "",
-      "tags": [
-        "launch"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2d47068128db511127",
-      "titleOriginal": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-      "summaryOriginal": "不得不佩服 Gemini 挑日子发新闻的勇气，昨晚《GTA 6》刚解锁上线把全球互联网热搜屠了个干净，劈柴老哥今天依然顶着漫天游戏贴，硬生生从元素周期表里又掏出了一款新模型。 就在刚刚，距离上一款旗舰模型 Gemini 4 Carbon 发布才过去三周，谷歌反手端出了全新的主力大模型 Gemini 4 Neon，也就是化学元素周期表里的第 10 号稀有气体「氖」。 最让开发者松了一口气的是，谷歌这次没有再搞排队申请那套期货玩法，发布当天就同步在 Google AI Studio、Gemini App、企业端 API 以及自家的编程环境 Google Antigravity 里全量现货上线。 先给大伙划个省流重点。 如果说三周前的 Carbon 是用来冲击超长程复杂任务的扛把子模型，那么今天登场的 Neon，就是谷歌真正派出来跟 Claude Opus 5.5 和 GPT-6.2 Sol 贴身肉搏的走量性价比主力。 它不仅在 Artificial Analysis 综合智商榜上拿下了 61 分的高分，定价还直接压到了每百万输入 Token 3 美元（缓存输入低至 0.15 美元）、输出",
-      "titleZh": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-      "summaryZh": "不得不佩服 Gemini 挑日子发新闻的勇气，昨晚《GTA 6》刚解锁上线把全球互联网热搜屠了个干净，劈柴老哥今天依然顶着漫天游戏贴，硬生生从元素周期表里又掏出了一款新模型。 就在刚刚，距离上一款旗舰模型 Gemini 4 Carbon 发布才过去三周，谷歌反手端出了全新的主力大模型 Gemini 4 Neon，也就是化学元素周期表里的第 10 号稀有气体「氖」。 最让开发者松了一口气的是，谷歌这次没有再搞排队申请那套期货玩法，发布当天就同步在 Google AI Studio、Gemini App、企业端 API 以及自家的编程环境 Google Antigravity 里全量现货上线。 先给大伙划个省流重点。 如果说三周前的 Carbon 是用来冲击超长程复杂任务的扛把子模型，那么今天登场的 Neon，就是谷歌真正派出来跟 Claude Opus 5.5 和 GPT-6.2 Sol 贴身肉搏的走量性价比主力。 它不仅在 Artificial Analysis 综合智商榜上拿下了 61 分的高分，定价还直接压到了每百万输入 Token 3 美元（缓存输入低至 0.15 美元）、输出",
-      "translated": true,
-      "url": "https://www.ifanr.com/1690235",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-18T23:56:47.000Z",
-      "author": "山宗",
-      "tags": [
-        "launch",
-        "公司",
-        "AI 编程",
-        "Gemini 4"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "44255eb49d7cccbd7d",
-      "titleOriginal": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summaryOriginal": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "titleZh": "在人们对人工智能网络攻击的担忧中，萨蒂亚·纳德拉表示，许多关键基础设施“无法修补",
-      "summaryZh": "微软首席执行官淡化了最近的Outlook服务中断事件，同时指出，人工智能既为保障大部分互联世界带来了机遇，也带来了新的挑战。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T23:45:00.000Z",
-      "author": "Lucas Ropek",
-      "tags": [
-        "news",
-        "AI",
-        "cyberattacks",
-        "Microsoft",
-        "Outlook"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ae30c6152bf9ca30be",
-      "titleOriginal": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "summaryOriginal": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "titleZh": "埃隆·马斯克表示，罢免黄仁勋就像“把迈克尔·乔丹踢出你的球队",
-      "summaryZh": "我不认为[黄仁勋]对美国不忠。”马斯克说。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T23:25:17.000Z",
-      "author": "Amanda Silberling",
-      "tags": [
-        "news",
-        "AI",
-        "Elon Musk",
-        "Jensen Huang",
-        "nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b429cb510b698793f1",
-      "titleOriginal": "The nation’s largest school districts consider ditching Google Search",
-      "summaryOriginal": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times . Starting next year, schools will not have the option to disable Gemini-powered features without also disabling Search. Chris Phillips, Google's vice president of education, told the Times that, \"Search and AI are deeply integrated,\" and that schools that turn off Google's AI features \"will not h",
-      "titleZh": "美国最大的学区考虑放弃使用Google搜索",
-      "summaryZh": "据《纽约时报》报道，在谷歌表示将对选择不使用其人工智能功能的学校禁用搜索功能后，纽约、洛杉矶和芝加哥的学校正在考虑使用谷歌的替代方案。从明年开始，学校将无法在不禁用搜索功能的情况下禁用由Gemini提供支持的功能。谷歌教育事务副总裁克里斯·菲利普斯（Chris Phillips）在接受《纽约时报》采访时表示，“搜索和人工智能是深度融合的”，而关闭谷歌人工智能功能的学校“将无法……",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-18T23:18:35.000Z",
-      "author": "Terrence O’Brien",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "ebee197c44b51a8c91",
-      "titleOriginal": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "summaryOriginal": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "titleZh": "黄仁勋离职后，微软首席执行官萨蒂亚·纳德拉（Satya Nadella）仍对英伟达充满信心",
-      "summaryZh": "微软首席执行官萨蒂亚·纳德拉（Satya Nadella）对黄仁勋的继任者科莱特·克雷斯（Colette Kress）表示有信心，后者目前担任英伟达的临时首席执行官。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T23:17:28.000Z",
-      "author": "Amanda Silberling",
-      "tags": [
-        "news",
-        "AI",
-        "Jensen Huang",
-        "Microsoft",
-        "Satya Nadella"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f7885a7f892bd83988",
-      "titleOriginal": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "summaryOriginal": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "titleZh": "萨蒂亚·纳德拉预测，人工智能代理将重塑网络经济",
-      "summaryZh": "微软首席执行官表示，人工智能代理可能会颠覆以广告为驱动的商业模式，迫使亚马逊等公司重新思考如何争夺客户。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-18T22:58:11.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Commerce",
-        "AI agents",
-        "In Brief"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "25e810fd0ee0ebbb00",
-      "titleOriginal": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-      "summaryOriginal": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-      "titleZh": "英伟达能搞定吗？临时首席执行官科莱特·克雷斯表示，英伟达能搞定",
-      "summaryZh": "《连线》正在统计Nvidia的临时首席执行官向所有人保证公司一切尽在掌控的次数。",
-      "translated": true,
-      "url": "https://www.wired.com/story/guys-really-we-got-this/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-18T22:16:23.000Z",
-      "author": "Lauren Goode",
-      "tags": [
-        "analysis",
-        "Business"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11469,7 +11470,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 65
+      "count": 63
     },
     {
       "id": "theverge",
@@ -11477,7 +11478,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 43
+      "count": 42
     },
     {
       "id": "mittr",
@@ -11493,7 +11494,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 25
+      "count": 24
     },
     {
       "id": "thedecoder",
@@ -11501,7 +11502,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 57
+      "count": 60
     },
     {
       "id": "marktechpost",
@@ -11517,7 +11518,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 19
+      "count": 20
     },
     {
       "id": "oneusefulthing",
@@ -11533,7 +11534,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ifanr",
@@ -11541,7 +11542,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 31
+      "count": 30
     },
     {
       "id": "sspai",
@@ -11571,7 +11572,7 @@
   "stats": {
     "total": 500,
     "guides": 42,
-    "translated": 214,
+    "translated": 221,
     "sources": 14
   }
 }
