@@ -1,6 +1,180 @@
 {
-  "generatedAt": "2026-11-27T19:31:26.584Z",
+  "generatedAt": "2026-11-28T02:47:18.952Z",
   "articles": [
+    {
+      "id": "de3fa327d13e5dbba6",
+      "titleOriginal": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "summaryOriginal": "",
+      "titleZh": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T10:00:00.000Z",
+      "author": "AICon 全球人工智能开发与应用大会",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "b9056d9fcff8f8a434",
+      "titleOriginal": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
+      "summaryOriginal": "（本文作者为 全球财说，钛媒体经授权发布） 文 | 全球财说，作者 | 李新，编辑 | 陈肖冉 短短一周，港股两大科技指数接连调整。恒生科技指数从30只扩容至50只，香港交易所科技100指数则迎来六进七出。 立讯精密（02475.HK）、中际旭创（03308.HK）同时入选两大指数，曦智科技（01879.HK）、群核科技（00068.HK）等新兴科技企业跻身科技100指数，复星医药、黑芝麻智能等公司则被剔除。 从互联网平台到AI算力，从数字经济到先进制造，名单变化的背后，是中国科技资产的构成与资本市场的估值逻辑正在发生变化。 两大科技指数变阵 11月27日，香港交易所指数有限公司公布香港交易所科技100指数2026年12月半年度调整结果。 立讯精密、中际旭创、曦智科技、群核科技、德适生物（02526.HK）及长光辰芯（03277.HK）6家公司将被纳入指数。 与此同时，四环医药、中国通信服务、绿叶制药、复星医药、黑芝麻智能、正力新能及阜博集团7家公司将被剔除。 上述调整将于12月11日收市后实施，并于12月14日起正式生效。 香港交易所科技100指数于2025年12月9日正式推出，旨在",
+      "titleZh": "港交所科技100指数大换血：六进七出，中国科技资产正在重新定价",
+      "summaryZh": "（本文作者为 全球财说，钛媒体经授权发布） 文 | 全球财说，作者 | 李新，编辑 | 陈肖冉 短短一周，港股两大科技指数接连调整。恒生科技指数从30只扩容至50只，香港交易所科技100指数则迎来六进七出。 立讯精密（02475.HK）、中际旭创（03308.HK）同时入选两大指数，曦智科技（01879.HK）、群核科技（00068.HK）等新兴科技企业跻身科技100指数，复星医药、黑芝麻智能等公司则被剔除。 从互联网平台到AI算力，从数字经济到先进制造，名单变化的背后，是中国科技资产的构成与资本市场的估值逻辑正在发生变化。 两大科技指数变阵 11月27日，香港交易所指数有限公司公布香港交易所科技100指数2026年12月半年度调整结果。 立讯精密、中际旭创、曦智科技、群核科技、德适生物（02526.HK）及长光辰芯（03277.HK）6家公司将被纳入指数。 与此同时，四环医药、中国通信服务、绿叶制药、复星医药、黑芝麻智能、正力新能及阜博集团7家公司将被剔除。 上述调整将于12月11日收市后实施，并于12月14日起正式生效。 香港交易所科技100指数于2025年12月9日正式推出，旨在",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8220989.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T02:36:00.000Z",
+      "author": "全球财说",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a0995fbdb2108ff1a4",
+      "titleOriginal": "客户不买单，具身智能的“第一”还值几个钱？",
+      "summaryOriginal": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，作者｜邱慧 一份对机器人落地能力的测评成绩，能说明什么？ 企业端的人说，这能看出实力。产业侧的人告诉我们，他们不关心，也看不懂其中的门道。 据第四波观察，具身智能领域，一款新模型的出现，榜单前五的成绩已经是企业“默认”的宣发标配。榜单名称多元，“榜单第一”也随处可见。 近日，北京智源人工智能研究院（以下简称“智源研究院”）王仲远对第四波等机构提到，目前，行业更多聚焦于单款模型的能力上限与泛化能力，现有榜单中有不少由个人研究者发布，但评测结果有时连业内人士也难以判断，尤其难以看出榜单成绩距离实际部署还有多远。 谁来给榜单定“公平”？ 光看Benchmark，具身大脑、真机实测，不同维度，分门别类。用一位业内人士的话来说，“各家用点心，都能拿到榜单上的大结果。” 但无数个“榜单第一”之后，具身行业里的落地闭环问题，仍没有更好的解法出现。星动纪元创始人陈建宇在提到厂商如何不被淘汰时称，最重要的是打造出正确而扎实的技术底座，并把它真的规模应用到真实场景，实现自我造血。 前述交流中，王仲远提到，要区分行业里的“示范性验证”和“真实需求驱动",
+      "titleZh": "客户不买单，具身智能的“第一”还值几个钱？",
+      "summaryZh": "（本文作者为 第四波，钛媒体经授权发布） 文 | 第四波，作者｜邱慧 一份对机器人落地能力的测评成绩，能说明什么？ 企业端的人说，这能看出实力。产业侧的人告诉我们，他们不关心，也看不懂其中的门道。 据第四波观察，具身智能领域，一款新模型的出现，榜单前五的成绩已经是企业“默认”的宣发标配。榜单名称多元，“榜单第一”也随处可见。 近日，北京智源人工智能研究院（以下简称“智源研究院”）王仲远对第四波等机构提到，目前，行业更多聚焦于单款模型的能力上限与泛化能力，现有榜单中有不少由个人研究者发布，但评测结果有时连业内人士也难以判断，尤其难以看出榜单成绩距离实际部署还有多远。 谁来给榜单定“公平”？ 光看Benchmark，具身大脑、真机实测，不同维度，分门别类。用一位业内人士的话来说，“各家用点心，都能拿到榜单上的大结果。” 但无数个“榜单第一”之后，具身行业里的落地闭环问题，仍没有更好的解法出现。星动纪元创始人陈建宇在提到厂商如何不被淘汰时称，最重要的是打造出正确而扎实的技术底座，并把它真的规模应用到真实场景，实现自我造血。 前述交流中，王仲远提到，要区分行业里的“示范性验证”和“真实需求驱动",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8220898.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T02:33:00.000Z",
+      "author": "第四波",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6cdadede7fd3eba238",
+      "titleOriginal": "先别急着让宿华表演“黄仁勋回宫”",
+      "summaryOriginal": "（本文作者为 超聚焦，钛媒体经授权发布） 文 | 超聚焦 前两天，快手前合伙人曾光明公开发布《快手需要请回创造胜利的人，从一笑开始行动》，核心诉求一句话概括就是：快手危矣，程一笑带不动了，宿华速归。 这个担忧不无道理，2026年三季报显示，快手总收入315.92亿元，同比下降11.1%；经调整净利润7.9亿元，同比骤降84.2%，上年同期还是50亿元的量级；经营利润从52.99亿元直接翻转为经营亏损6.35亿元。线上营销服务收入179亿元，同比下降11.1%；直播收入78亿元，同比下降19.0%；两大主业同时后退，其他服务60亿元仅微增1.5%，补不上缺口。 三季报发布次日，快手股价盘中跌超12%，股价最高回落至20港元以下，总市值约870亿港元。而2021年程一笑接任CEO时，公司的市值在4300亿港元左右。 核心管理层带不动了，需要“创造过胜利的人”回来。最近资本市场正好有类似的叙事模板，创始人被请回来，公司起死回生，股价一飞冲天，弹幕刷满“陛下重返他忠实的英伟达”。 这种寄愿很快得到了公众响应，既然英伟达最后请回了黄仁勋，快手是不是可以请回宿华？ 这个类比有它的感染力，但经不起推",
+      "titleZh": "先别急着让宿华表演“黄仁勋回宫”",
+      "summaryZh": "（本文作者为 超聚焦，钛媒体经授权发布） 文 | 超聚焦 前两天，快手前合伙人曾光明公开发布《快手需要请回创造胜利的人，从一笑开始行动》，核心诉求一句话概括就是：快手危矣，程一笑带不动了，宿华速归。 这个担忧不无道理，2026年三季报显示，快手总收入315.92亿元，同比下降11.1%；经调整净利润7.9亿元，同比骤降84.2%，上年同期还是50亿元的量级；经营利润从52.99亿元直接翻转为经营亏损6.35亿元。线上营销服务收入179亿元，同比下降11.1%；直播收入78亿元，同比下降19.0%；两大主业同时后退，其他服务60亿元仅微增1.5%，补不上缺口。 三季报发布次日，快手股价盘中跌超12%，股价最高回落至20港元以下，总市值约870亿港元。而2021年程一笑接任CEO时，公司的市值在4300亿港元左右。 核心管理层带不动了，需要“创造过胜利的人”回来。最近资本市场正好有类似的叙事模板，创始人被请回来，公司起死回生，股价一飞冲天，弹幕刷满“陛下重返他忠实的英伟达”。 这种寄愿很快得到了公众响应，既然英伟达最后请回了黄仁勋，快手是不是可以请回宿华？ 这个类比有它的感染力，但经不起推",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8220747.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T02:22:54.000Z",
+      "author": "超聚焦",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dd545ebf44c5f886cc",
+      "titleOriginal": "DeepSeek给智能装上了电表",
+      "summaryOriginal": "（本文作者为 高恒说，钛媒体经授权发布） 文 | 高恒说 DeepSeek给一句“你好”标了价。 0.000528元。 11月27日，据《科创板日报》、界面新闻等媒体报道，DeepSeek安卓端App更新至2.10.0版本后，新增了对话资费查询功能。用户每完成一轮对话，便可以看到本次交互消耗了多少Token，以及按照API定价标准计算，这些Token值多少钱。部分网页端用户也已获得相关功能。 在媒体披露的一次测试中，一句简单的“你好”，产生了60个输入Token和51个输出Token。按照DeepSeek Flash模型高峰时段、输入缓存未命中的价格计算，这次对话对应的资费为0.000528元。 钱暂时不用付，页面上仍然标注着“免费”。 就在十余天前，DeepSeek已开始调整免费用户的使用额度。部分用户发现，单次文本输入上限被缩短至约4万字，超过7天没有活跃交互的长对话无法接续，连续使用达到一定额度后，系统也会提示用户等待额度恢复。 一次限制用量，一次展示价格。DeepSeek正在把过去隐藏在后台的算力消耗，变成普通用户可以直接感知的数字。 过去近两年，DeepSeek让全世界重新认",
+      "titleZh": "DeepSeek给智能装上了电表",
+      "summaryZh": "（本文作者为 高恒说，钛媒体经授权发布） 文 | 高恒说 DeepSeek给一句“你好”标了价。 0.000528元。 11月27日，据《科创板日报》、界面新闻等媒体报道，DeepSeek安卓端App更新至2.10.0版本后，新增了对话资费查询功能。用户每完成一轮对话，便可以看到本次交互消耗了多少Token，以及按照API定价标准计算，这些Token值多少钱。部分网页端用户也已获得相关功能。 在媒体披露的一次测试中，一句简单的“你好”，产生了60个输入Token和51个输出Token。按照DeepSeek Flash模型高峰时段、输入缓存未命中的价格计算，这次对话对应的资费为0.000528元。 钱暂时不用付，页面上仍然标注着“免费”。 就在十余天前，DeepSeek已开始调整免费用户的使用额度。部分用户发现，单次文本输入上限被缩短至约4万字，超过7天没有活跃交互的长对话无法接续，连续使用达到一定额度后，系统也会提示用户等待额度恢复。 一次限制用量，一次展示价格。DeepSeek正在把过去隐藏在后台的算力消耗，变成普通用户可以直接感知的数字。 过去近两年，DeepSeek让全世界重新认",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8220986.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T01:50:35.000Z",
+      "author": "高恒说",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a9bef6e04d4c32793a",
+      "titleOriginal": "现在的黄仁勋也没办法让GeForce显卡变便宜",
+      "summaryOriginal": "（本文作者为 源Sight，钛媒体经授权发布） 文 | 源Sight，作者 | 白河、杨子一 63岁正是闯的年纪。 在辞去英伟达总裁、CEO及董事职务仅仅11天后，黄仁勋在本月23日宣布正式重返加州圣克拉拉总部。官方新闻稿披露，英伟达董事会经一致投票恢复了黄仁勋的全部职务。老黄复职当天，英伟达美股盘中大涨约31%，单日市值回升近万亿美元。 来源：英伟达 黄仁勋强势重返英伟达，除了少数抄底成功的股民，最开心的莫过于一众忠诚的游戏玩家。 回归公司首日，黄仁勋在总部大厅接受现场员工迎接时，调侃称这是自己重新上班的第一天，还向IT部门开玩笑喊话，希望快点给自己配一台新电脑，还得是顶配RTX系列。 “顶级销售”的带货能力一夜之间让英伟达旗下RTX Spark系列电脑成为网络热词，这次无心插柳的表态在贴吧、NGA和Reddit等互联网社区刷屏，不少玩家们将其视为利好GeForce RTX系列消费级显卡的信号。 “勋妃回宫” 过于跌宕起伏的剧情走向，使得这场迅速反转的商业风波被不少网友们冠以《仁勋传》之称，而英伟达全体员工在办公室大厅迎接黄仁勋复职的场景，也成就了一幕经典的“勋妃回宫”。网友调侃，“",
+      "titleZh": "现在的黄仁勋也没办法让GeForce显卡变便宜",
+      "summaryZh": "（本文作者为 源Sight，钛媒体经授权发布） 文 | 源Sight，作者 | 白河、杨子一 63岁正是闯的年纪。 在辞去英伟达总裁、CEO及董事职务仅仅11天后，黄仁勋在本月23日宣布正式重返加州圣克拉拉总部。官方新闻稿披露，英伟达董事会经一致投票恢复了黄仁勋的全部职务。老黄复职当天，英伟达美股盘中大涨约31%，单日市值回升近万亿美元。 来源：英伟达 黄仁勋强势重返英伟达，除了少数抄底成功的股民，最开心的莫过于一众忠诚的游戏玩家。 回归公司首日，黄仁勋在总部大厅接受现场员工迎接时，调侃称这是自己重新上班的第一天，还向IT部门开玩笑喊话，希望快点给自己配一台新电脑，还得是顶配RTX系列。 “顶级销售”的带货能力一夜之间让英伟达旗下RTX Spark系列电脑成为网络热词，这次无心插柳的表态在贴吧、NGA和Reddit等互联网社区刷屏，不少玩家们将其视为利好GeForce RTX系列消费级显卡的信号。 “勋妃回宫” 过于跌宕起伏的剧情走向，使得这场迅速反转的商业风波被不少网友们冠以《仁勋传》之称，而英伟达全体员工在办公室大厅迎接黄仁勋复职的场景，也成就了一幕经典的“勋妃回宫”。网友调侃，“",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8220759.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T01:47:31.000Z",
+      "author": "源Sight",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c91c032e523155a524",
+      "titleOriginal": "datasette-charts 0.4a0",
+      "summaryOriginal": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart plugins a whole lot more ergonomic. I've also added a website for the plugin, at charts.datasette.io",
+      "titleZh": "datasette-charts 0.4a0",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-27T23:57:17.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dfb4c570b49892c3a9",
+      "titleOriginal": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+      "summaryOriginal": "A frontier lab can pay more for training data it gets to keep exclusive, or take a discount on data another lab can buy too. At AI Engineer CODE, G2i founder Gabe Greenberg tells swyx how labs make that decision, how small pilot orders turn into bigger engagements, and when it makes sense to build a data operation in-house. We also get into what the labs are buying. A good training task should sit just ahead of what a model can do today. Gabe explains how senior engineers design the task, choose",
+      "titleZh": "人工智能训练数据市场内部——Gabe Greenberg，G2i",
+      "summaryZh": "一家前沿实验室可以为获得独家所有权的训练数据支付更高的费用，也可以对另一家实验室也能购买的数据享受折扣。在AI Engineer CODE上，G2i创始人Gabe Greenberg向swyx介绍了实验室如何做出这一决定，小规模的试点订单如何转化为更大规模的合作，以及在何时建立内部数据运营部门是明智之举。我们还深入探讨了实验室正在购买哪些东西。一个好的训练任务应该略微领先于模型当前的能力。Gabe解释了高级工程师如何设计任务、选择",
+      "translated": true,
+      "url": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-27T22:19:18.000Z",
+      "author": "Latent.Space",
+      "tags": [
+        "research",
+        "Coding"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
     {
       "id": "08604d93ed5124b668",
       "titleOriginal": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
@@ -18,6 +192,31 @@
       "author": "李冬梅",
       "tags": [
         "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dfe2badd460b71c4ce",
+      "titleOriginal": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+      "summaryOriginal": "OpenAI is suing Apple in a California court, accusing it of trade secret theft and of coercing shared suppliers. The countersuit follows Apple's own lawsuit from the summer. Just two years ago, the two companies teamed up to bring ChatGPT to the iPhone. Now OpenAI is building its own devices to compete directly with Apple. The article OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers appeared first on The Decoder .",
+      "titleZh": "OpenAI 就商业秘密盗窃和涉嫌胁迫共同供应商对苹果公司提起反诉",
+      "summaryZh": "OpenAI正在加州法院起诉苹果，指控其窃取商业秘密并胁迫共同供应商。此次反诉是在苹果今年夏天提起诉讼之后提出的。就在两年前，两家公司还联手将ChatGPT引入iPhone。现在，OpenAI正在打造自己的设备，以直接与苹果竞争。这篇文章《OpenAI 就商业秘密盗窃和涉嫌胁迫共同供应商对苹果提起反诉》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-27T19:38:37.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Short News",
+        "Apple"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -774,6 +973,27 @@
         "投稿"
       ],
       "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6481e9f2df718d997d",
+      "titleOriginal": "datasette-mcp 0.4",
+      "summaryOriginal": "Release: datasette-mcp 0.4 Fixed for compatibility with Datasette 1.0a44 . Tags: model-context-protocol , datasette",
+      "titleZh": "datasette-mcp 0.4",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-11-27T00:26:17.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
       "readingMinutes": 2
     },
     {
@@ -11233,237 +11453,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "2600860578f34aa536",
-      "titleOriginal": "ChatGPT can transcribe as you speak now with Live Dictation",
-      "summaryOriginal": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is generating, then edit it in the prompt box when you're done. Dictation in ChatGPT is getting faster and mo",
-      "titleZh": "现在，ChatGPT 可以使用实时听写功能为您转录语音",
-      "summaryZh": "现在，ChatGPT 可以更快地接收来自麦克风的语音提示，因为实时听写功能可以在您说话时进行转录，而不是等到您完成录音后再转录。该功能现已在全球范围内在网页版、桌面版以及iOS和Android版的所有ChatGPT套餐中推出。在ChatGPT中使用听写功能时，您可以轻触或点击音频波形，显示人工智能正在生成的实时文本转录，然后在完成后在提示框中进行编辑。ChatGPT中的听写功能正变得越来越快。",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-19T15:16:45.000Z",
-      "author": "Stevie Bonifield",
-      "tags": [
-        "news",
-        "Prompt"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "26679bca7b0e647264",
-      "titleOriginal": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
-      "summaryOriginal": "刚刚，Anthropic 正式登陆纳斯达克，以「ANT」为股票代码挂牌交易，创下全球史上最大规模 IPO 纪录。 这家 Claude 背后的 AI 巨头，最终以每股 83 美元的价格发行 9.8 亿股，公开发行规模达到 813.4 亿美元，超过马斯克旗下 SpaceX 今年 6 月创下的约 750 亿美元纪录。 除了公开发行，英伟达、微软、谷歌、台积电、AMD、博通和美光七家科技巨头，还约定以发行价额外认购 260 亿美元的 N 类股。扣除约 19.6 亿美元的老股出售部分，两笔交易完成后，Anthropic 自身预计可获得约 1054 亿美元。 然而，就在 Anthropic 迎来历史性上市的同一天，近百位 AI 领域的顶尖研究者、企业创始人和科学家，却联合发表了一份名为《厌恶 Anthropic 声明》（The MisAnthropic Statement）的公开信，公开反对这家公司。 图｜https://misanthropicstatement.com/ 其中既有主张全速推进 AI 发展的有效加速主义者，包括 Guillaume Verdon 和知名黑客 George Hotz",
-      "titleZh": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
-      "summaryZh": "刚刚，Anthropic 正式登陆纳斯达克，以「ANT」为股票代码挂牌交易，创下全球史上最大规模 IPO 纪录。 这家 Claude 背后的 AI 巨头，最终以每股 83 美元的价格发行 9.8 亿股，公开发行规模达到 813.4 亿美元，超过马斯克旗下 SpaceX 今年 6 月创下的约 750 亿美元纪录。 除了公开发行，英伟达、微软、谷歌、台积电、AMD、博通和美光七家科技巨头，还约定以发行价额外认购 260 亿美元的 N 类股。扣除约 19.6 亿美元的老股出售部分，两笔交易完成后，Anthropic 自身预计可获得约 1054 亿美元。 然而，就在 Anthropic 迎来历史性上市的同一天，近百位 AI 领域的顶尖研究者、企业创始人和科学家，却联合发表了一份名为《厌恶 Anthropic 声明》（The MisAnthropic Statement）的公开信，公开反对这家公司。 图｜https://misanthropicstatement.com/ 其中既有主张全速推进 AI 发展的有效加速主义者，包括 Guillaume Verdon 和知名黑客 George Hotz",
-      "translated": true,
-      "url": "https://www.ifanr.com/1690375",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceSite": "https://www.ifanr.com/",
-      "sourceColor": "#d63b2f",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T14:58:57.000Z",
-      "author": "张子豪",
-      "tags": [
-        "research",
-        "公司",
-        "ai 安全",
-        "Anthropic",
-        "Claude"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c990fb12100073c5af",
-      "titleOriginal": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summaryOriginal": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "titleZh": "Anthropic的IPO对人工智能的循环融资热潮提出了考验",
-      "summaryZh": "Anthropic在上市之际面临着巨大的计算承诺，但即使Anthropic失去领先地位，其最大的基础设施合作伙伴（包括亚马逊和谷歌）仍可继续从人工智能中获利。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T14:54:39.000Z",
-      "author": "Rebecca Bellan",
-      "tags": [
-        "news",
-        "AI",
-        "Anthropic",
-        "anthropic ipo",
-        "IPO"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "0b3a38ae0a194f3984",
-      "titleOriginal": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-      "summaryOriginal": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety more than other labs; its founders had left executive research positions at OpenAI. As the AI race has accelerated, though, its executives have emphasized that Anthropic can o",
-      "titleZh": "随着有史以来规模最大的IPO即将到来，Anthropic的“好人”声誉正面临考验",
-      "summaryZh": "今天是Anthropic的新起点：经过多年筹备的IPO超越了SpaceX，成为有史以来市值最高的新上市公司，筹集了813亿美元，并为其他即将上市的人工智能实验室树立了重要先例。但这不仅仅是一个财务里程碑。Anthropic的创立理念是，它比其他实验室更加重视安全；其创始人曾是OpenAI的高级研究人员。然而，随着人工智能竞争的加速，其高管强调，Anthropic能够……",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-19T14:25:37.000Z",
-      "author": "Hayden Field",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c157fe16144c9f3fe7",
-      "titleOriginal": "Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector",
-      "summaryOriginal": "Anthropic launches the largest IPO in history, dethroning SpaceX as the previous record holder. Early investor Dustin Moskovitz is publicly distancing himself, warning that his early funding may have been an act \"that ended the world.\" The article Anthropic's $81.3 billion IPO shatters SpaceX's record as rising rates and political headwinds shake the sector appeared first on The Decoder .",
-      "titleZh": "Anthropic的813亿美元IPO打破了SpaceX的纪录，因为利率上升和政治阻力正在冲击该行业。",
-      "summaryZh": "Anthropic启动了历史上规模最大的IPO，取代了此前创下纪录的SpaceX。早期投资者达斯汀·莫斯科维茨公开与公司撇清关系，并警告称，他早期的投资可能是一项“导致世界末日”的举措。题为《Anthropic的813亿美元IPO打破了SpaceX的纪录，利率上升和政治阻力正在冲击该行业》的文章最初发表在The Decoder上。",
-      "translated": true,
-      "url": "https://the-decoder.com/anthropics-81-3-billion-ipo-shatters-spacexs-record-as-rising-rates-and-political-headwinds-shake-the-sector/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-19T14:02:22.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "launch",
-        "AI and society",
-        "Artificial Intelligence",
-        "Anthropic",
-        "IPO"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1501adb883e7f84cad",
-      "titleOriginal": "Superhuman pushes its Go assistant everywhere",
-      "summaryOriginal": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-      "titleZh": "Superhuman 将其 Go 助手推广到各个角落",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T14:00:00.000Z",
-      "author": "Ivan Mehta",
-      "tags": [
-        "launch",
-        "AI",
-        "Apps",
-        "productivity",
-        "superhuman"
-      ],
-      "category": "launch",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bd6f45e6ce08263ac7",
-      "titleOriginal": "12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！",
-      "summaryOriginal": "",
-      "titleZh": "12类高频任务、3类实践案例，商汤小浣熊带着街道办 AI 白皮书来了！",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/y1DHWaCUGxsuSrQwqEXi",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T13:56:19.000Z",
-      "author": "赵钰莹",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "bc8df316ce06f74e70",
-      "titleOriginal": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
-      "summaryOriginal": "一、市场概览 11月17日，A股五大指数低开后下探，盘中回升又冲高回落，收盘涨跌互现。沪指跌0.50%报3584.58点，深证成指跌0.49%报10638.52点，创业板指跌1.20%报2292.20点，科创50涨0.62%，北证50涨0.59%。沪深两市成交额14577亿元，较前一交易日缩量268亿元。一千三百余只个股上涨、四千一百余只下跌，涨停38只、跌停84只。 盘面是题材的弱势轮动与芯片材料的反弹。光刻胶、光刻机与电子化学品领涨，东方嘉盛、西陇科学、国林科技、联合化学涨停；小家电反复活跃，长虹美菱、小熊电器走出两连板。下跌的是物理AI与AI漫剧，杰克科技、福莱新材、浙文影业等跌停。连板梯队有华胜天成三天两板，长虹美菱、小熊电器与瀛通通讯两板。本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。 二、首次涨停板的投资机会 1.好当家（600467）：盈利体量偏薄的海产折价标的 好当家是威海的水产养殖企业，海参产品占收入逾五成，冷冻调理食品近四成，其余是捕捞海产。折价来自盈利体量：前三季度营收九点七亿、增逾四个百分点，归母为三千余",
-      "titleZh": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
-      "summaryZh": "一、市场概览 11月17日，A股五大指数低开后下探，盘中回升又冲高回落，收盘涨跌互现。沪指跌0.50%报3584.58点，深证成指跌0.49%报10638.52点，创业板指跌1.20%报2292.20点，科创50涨0.62%，北证50涨0.59%。沪深两市成交额14577亿元，较前一交易日缩量268亿元。一千三百余只个股上涨、四千一百余只下跌，涨停38只、跌停84只。 盘面是题材的弱势轮动与芯片材料的反弹。光刻胶、光刻机与电子化学品领涨，东方嘉盛、西陇科学、国林科技、联合化学涨停；小家电反复活跃，长虹美菱、小熊电器走出两连板。下跌的是物理AI与AI漫剧，杰克科技、福莱新材、浙文影业等跌停。连板梯队有华胜天成三天两板，长虹美菱、小熊电器与瀛通通讯两板。本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。 二、首次涨停板的投资机会 1.好当家（600467）：盈利体量偏薄的海产折价标的 好当家是威海的水产养殖企业，海参产品占收入逾五成，冷冻调理食品近四成，其余是捕捞海产。折价来自盈利体量：前三季度营收九点七亿、增逾四个百分点，归母为三千余",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8211631.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T13:56:01.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2f25b07c577c44280a",
-      "titleOriginal": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
-      "summaryOriginal": "AI正在改变企业创造财富的方式。检索、计算、起草、核对等标准化工作，越来越多地由工具完成。技术能力的普及并不意味着企业之间的差距会消失。相反，当算力和信息更容易获得，领导者如何提出问题、配置资源、处理冲突以及确定长期目标，开始更直接地影响企业能否把技术转化为持续价值。 德鲁克曾把管理与领导分开：管理是把事情做对，领导是做对的事情。 这句话在工业时代更像一句提醒，在今天却成了分工的现实。 检索、计算、起草、核对，这些“把事情做对”的活计，正被AI一批批接走。留给领导者的则是：什么事值得做，边界划在哪里，代价由谁承担。 这类问题没有标准答案，只有判断。 领导者的判断从何而来？戴维&middot;鲁克与威廉&middot;托伯特在《行动探询》及其后续研究中，将管理者的行为逻辑分为七种：机会主义者、外交家、专家、实干家、个人主义者、战略家、炼金术士。 这一模型来自对管理者长期行为的观察，描述的是人在压力之下如何理解权力、时间与冲突，而不是一张财富分级表。本文尝试把这一模型与上市公司领导者的资源调度方式联系起来，再讨论其可能产生的财富后果。 我们先看两组数字。需求侧，Gartner预测2026年",
-      "titleZh": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
-      "summaryZh": "AI正在改变企业创造财富的方式。检索、计算、起草、核对等标准化工作，越来越多地由工具完成。技术能力的普及并不意味着企业之间的差距会消失。相反，当算力和信息更容易获得，领导者如何提出问题、配置资源、处理冲突以及确定长期目标，开始更直接地影响企业能否把技术转化为持续价值。 德鲁克曾把管理与领导分开：管理是把事情做对，领导是做对的事情。 这句话在工业时代更像一句提醒，在今天却成了分工的现实。 检索、计算、起草、核对，这些“把事情做对”的活计，正被AI一批批接走。留给领导者的则是：什么事值得做，边界划在哪里，代价由谁承担。 这类问题没有标准答案，只有判断。 领导者的判断从何而来？戴维&middot;鲁克与威廉&middot;托伯特在《行动探询》及其后续研究中，将管理者的行为逻辑分为七种：机会主义者、外交家、专家、实干家、个人主义者、战略家、炼金术士。 这一模型来自对管理者长期行为的观察，描述的是人在压力之下如何理解权力、时间与冲突，而不是一张财富分级表。本文尝试把这一模型与上市公司领导者的资源调度方式联系起来，再讨论其可能产生的财富后果。 我们先看两组数字。需求侧，Gartner预测2026年",
-      "translated": true,
-      "url": "https://www.tmtpost.com/8211622.html",
-      "sourceId": "tmtpost",
-      "sourceName": "钛媒体",
-      "sourceSite": "https://www.tmtpost.com/",
-      "sourceColor": "#1c64f2",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T13:48:30.000Z",
-      "author": "Barrons巴伦",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "90743d4a03d17ea7dd",
-      "titleOriginal": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
-      "summaryOriginal": "OpenAI's internal use of coding agents is growing fast, with theoretical token costs now exceeding researchers' base salaries. Even though teams are reluctant to work without these tools, the models still produce a lot of \"AI slop\" beyond routine tasks. The article OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues appeared first on The Decoder .",
-      "titleZh": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
-      "summaryZh": "",
-      "translated": false,
-      "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-19T13:08:35.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI in practice",
-        "Artificial Intelligence",
-        "OpenAI",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11489,7 +11478,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 62
+      "count": 60
     },
     {
       "id": "theverge",
@@ -11497,7 +11486,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 41
+      "count": 39
     },
     {
       "id": "mittr",
@@ -11521,7 +11510,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 64
+      "count": 63
     },
     {
       "id": "marktechpost",
@@ -11537,7 +11526,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 20
+      "count": 22
     },
     {
       "id": "oneusefulthing",
@@ -11553,7 +11542,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ifanr",
@@ -11561,7 +11550,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 34
+      "count": 33
     },
     {
       "id": "sspai",
@@ -11577,7 +11566,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 124
+      "count": 127
     },
     {
       "id": "infoq",
@@ -11591,7 +11580,7 @@
   "stats": {
     "total": 500,
     "guides": 42,
-    "translated": 229,
+    "translated": 226,
     "sources": 14
   }
 }
