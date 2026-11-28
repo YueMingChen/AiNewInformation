@@ -1,6 +1,256 @@
 {
-  "generatedAt": "2026-11-28T02:47:18.952Z",
+  "generatedAt": "2026-11-28T13:13:40.972Z",
   "articles": [
+    {
+      "id": "79774d1e8ce51a5c25",
+      "titleOriginal": "美团Q3扭亏：利润回来了，但“边界”问题没有",
+      "summaryOriginal": "（本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 11月27日，美团发布第三季度财报，其营收1156亿元，同比增长21.6%；经调整净利润18.5亿元，而去年同期是经调整净亏损160.1亿元。在连续多个季度的亏损之后，美团重新回到了盈利轨道上。核心本地商业经营利润57亿元，上年同期为经营亏损141亿元，同比减亏显著；新业务收入373亿元，同比增长32.9%，经营亏损收窄至13亿元。 把这份财报放在更长的时间轴上看，它的意义不在于“扭亏”本身。过去一年多，美团经历了一场代价高昂的外卖补贴战，单季经调整净亏损一度超过160亿元。如今扭亏兑现，标志着那场消耗战的账面伤口开始愈合。然而，利润修复的路径、竞争格局的固化方式，以及AI与国际化在新叙事中的真实位置，共同指向一个更根本的问题：美团用利润换来的，究竟是一段可持续的修复期，还是仅仅是从一场战争转入另一场更漫长的消耗？ 利润是怎么回来的：补贴退坡、提质减量与新业务减亏 拆解利润修复的来源，比利润数字本身更值得关注。 最直接的推动力是补贴退坡。外卖单均补贴从2025年三季度的2.6—2.8元降至2026年9月的1.3—1.",
+      "titleZh": "美团Q3扭亏：利润回来了，但“边界”问题没有",
+      "summaryZh": "（本文作者为 Tech商业，钛媒体经授权发布） 文 | Tech商业 11月27日，美团发布第三季度财报，其营收1156亿元，同比增长21.6%；经调整净利润18.5亿元，而去年同期是经调整净亏损160.1亿元。在连续多个季度的亏损之后，美团重新回到了盈利轨道上。核心本地商业经营利润57亿元，上年同期为经营亏损141亿元，同比减亏显著；新业务收入373亿元，同比增长32.9%，经营亏损收窄至13亿元。 把这份财报放在更长的时间轴上看，它的意义不在于“扭亏”本身。过去一年多，美团经历了一场代价高昂的外卖补贴战，单季经调整净亏损一度超过160亿元。如今扭亏兑现，标志着那场消耗战的账面伤口开始愈合。然而，利润修复的路径、竞争格局的固化方式，以及AI与国际化在新叙事中的真实位置，共同指向一个更根本的问题：美团用利润换来的，究竟是一段可持续的修复期，还是仅仅是从一场战争转入另一场更漫长的消耗？ 利润是怎么回来的：补贴退坡、提质减量与新业务减亏 拆解利润修复的来源，比利润数字本身更值得关注。 最直接的推动力是补贴退坡。外卖单均补贴从2025年三季度的2.6—2.8元降至2026年9月的1.3—1.",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8220533.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:59:21.000Z",
+      "author": "Tech商业",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ecb2aa90e23418bc45",
+      "titleOriginal": "资本泡沫破了，AI应用与中国公司的机会就来了",
+      "summaryOriginal": "（本文作者为 定焦One，钛媒体经授权发布） 文 | 定焦One，整理 | 金玙璠 10 月以来，如果你同时关注 GPU 、存储 芯片 和 CPU 这三条 芯片细分 赛道的股价，很容易感受到市场情绪的变化：今天这个涨、明天那个崩，市场的共识似乎在一夜之间瓦解了。 AI 的资本盛宴，要散席了吗？ 对于这个问题， 峰瑞资本创始合伙人李丰从全球货币周期出发，给出了更底层的解释。 李丰在主题演讲中指出， 2020 年疫情后，全球 主要央行 释放了 约 1 0 万亿美元的基础货币。 仅用一年多， 放水规模 超过了 2008 年金融危机后四年放水总和 。 理解这笔天量资金从何而来、流向何处，才能看懂当下局面和未来机会。 李丰的判断是， AI 投资正处在从 “ 投最有想象力的应用 ” 转向 “ 投能落地赚钱的应用 ” 的临界点上。 对于中国 AI 公司 ，他的判断是有机会，但有前提。政策重心正在从前沿 技术 比拼转向应用落地，大模型每一次推理都有成本， 当模型公司被要求挣钱， 不 “ 烧卡 ” 之后比的是效率。 “ 如果大家都不烧卡，也许中国的模型会有更多的产业机会。 ” 01.钱从哪来，泡沫就从哪",
+      "titleZh": "资本泡沫破了，AI应用与中国公司的机会就来了",
+      "summaryZh": "（本文作者为 定焦One，钛媒体经授权发布） 文 | 定焦One，整理 | 金玙璠 10 月以来，如果你同时关注 GPU 、存储 芯片 和 CPU 这三条 芯片细分 赛道的股价，很容易感受到市场情绪的变化：今天这个涨、明天那个崩，市场的共识似乎在一夜之间瓦解了。 AI 的资本盛宴，要散席了吗？ 对于这个问题， 峰瑞资本创始合伙人李丰从全球货币周期出发，给出了更底层的解释。 李丰在主题演讲中指出， 2020 年疫情后，全球 主要央行 释放了 约 1 0 万亿美元的基础货币。 仅用一年多， 放水规模 超过了 2008 年金融危机后四年放水总和 。 理解这笔天量资金从何而来、流向何处，才能看懂当下局面和未来机会。 李丰的判断是， AI 投资正处在从 “ 投最有想象力的应用 ” 转向 “ 投能落地赚钱的应用 ” 的临界点上。 对于中国 AI 公司 ，他的判断是有机会，但有前提。政策重心正在从前沿 技术 比拼转向应用落地，大模型每一次推理都有成本， 当模型公司被要求挣钱， 不 “ 烧卡 ” 之后比的是效率。 “ 如果大家都不烧卡，也许中国的模型会有更多的产业机会。 ” 01.钱从哪来，泡沫就从哪",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221264.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:55:15.000Z",
+      "author": "定焦One",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "375e6d951de4daf0ae",
+      "titleOriginal": "AI短剧，正把游戏踹下吸金王座",
+      "summaryOriginal": "（本文作者为 道总有理，钛媒体经授权发布） 文 | 道总有理 一向闷声赚大钱的网易，发布了一份罕见的难看财报，丁磊的发声，更是让整个游戏行业感受到了更大的危机。 就在前几日，网易发布2026年第三季度财报，实现净收入279亿元，同比下降1.8%；毛利润190亿元，同比增长4.8%。作为最重要的收入来源，游戏业务同比下滑，是拖累整体营收的主要因素。数据显示，网易三季度游戏及相关增值服务收入229亿元，同比下降1.7%，自2024年三季度以来再次出现同比下降。 收入下滑，自然与主力产品收入回落、新品空窗等因素有关，但短剧的分流，无疑折射出行业普遍性的困境。对此，丁磊也直接坦言，短剧今年呈现爆炸式发展，对用户注意力的吸引力巨大，短期内确实会对游戏产生影响。 这种危机感在腾讯的身上更为明显。AI浪潮袭来，智能体或AI助手的出现，未来可能会让用户绕开现有的超级流量入口，建在这些入口之上的广告、分发及交易，都会随之动摇。目前来看，腾讯的信息流、内容推荐，全是 AI 可以直接替代的场景，而最核心的游戏业务可能也将受到冲击。 事实上，这门年入三千亿的爽感生意，已经面临着被AI短剧高效绞杀的严峻局面了。",
+      "titleZh": "AI短剧，正把游戏踹下吸金王座",
+      "summaryZh": "（本文作者为 道总有理，钛媒体经授权发布） 文 | 道总有理 一向闷声赚大钱的网易，发布了一份罕见的难看财报，丁磊的发声，更是让整个游戏行业感受到了更大的危机。 就在前几日，网易发布2026年第三季度财报，实现净收入279亿元，同比下降1.8%；毛利润190亿元，同比增长4.8%。作为最重要的收入来源，游戏业务同比下滑，是拖累整体营收的主要因素。数据显示，网易三季度游戏及相关增值服务收入229亿元，同比下降1.7%，自2024年三季度以来再次出现同比下降。 收入下滑，自然与主力产品收入回落、新品空窗等因素有关，但短剧的分流，无疑折射出行业普遍性的困境。对此，丁磊也直接坦言，短剧今年呈现爆炸式发展，对用户注意力的吸引力巨大，短期内确实会对游戏产生影响。 这种危机感在腾讯的身上更为明显。AI浪潮袭来，智能体或AI助手的出现，未来可能会让用户绕开现有的超级流量入口，建在这些入口之上的广告、分发及交易，都会随之动摇。目前来看，腾讯的信息流、内容推荐，全是 AI 可以直接替代的场景，而最核心的游戏业务可能也将受到冲击。 事实上，这门年入三千亿的爽感生意，已经面临着被AI短剧高效绞杀的严峻局面了。",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221355.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:40:24.000Z",
+      "author": "道总有理",
+      "tags": [
+        "launch",
+        "投稿"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "43d8b42c37aa439d51",
+      "titleOriginal": "家电卖场为“讨好”AI，正在到处“表演”科技生活",
+      "summaryOriginal": "（本文作者为 消费观象局，钛媒体经授权发布） 文 | 消费观象局 自从AI火了，各大卖场集体上演“科技表演”。 今年以来，不少家电门店、家电卖场、商场专门开辟了AI家电体验区。 例如，红星美凯龙推出“MEGA-E智电绿洲”，构建了潮电荟、影音汇、Ecolife、美厨房四大开放集合场景；苏宁易购推出AI智慧门店Suning NEXT未来空间。 与当初机器人在各大商圈卖力跳舞表演一样，家电卖场里到处都在“演绎”科技生活： 客厅里，声控AI萌宠眨眼摆尾，和人自如交谈；厨房里，智能炒菜机实现3分钟出餐；卧室中，扫地机器人长出手臂收捡换洗衣服…… 一卷卷精彩的科技生活场景的确带动消费者走入门店，掏出钱包。 苏宁易购数据显示，今年国庆期间，全国核心门店客流同比增长五成，AI智能家电销售同比增长超四成，AI产品销售占比突破70%；京东MALL的智能家电类销量占比升至60%。 然而，这场AI家居狂欢，更像一场精心编排的卖场科技秀，还能支撑多久，不得而知。 家电卖场靠替品牌“表演”科技赚钱？ 被发达的线上渠道挤压了这么多年，家电线下大卖场终于重新热闹起来。 据悉，红星美凯龙智电绿洲上海首店经营面积高达3",
+      "titleZh": "家电卖场为“讨好”AI，正在到处“表演”科技生活",
+      "summaryZh": "（本文作者为 消费观象局，钛媒体经授权发布） 文 | 消费观象局 自从AI火了，各大卖场集体上演“科技表演”。 今年以来，不少家电门店、家电卖场、商场专门开辟了AI家电体验区。 例如，红星美凯龙推出“MEGA-E智电绿洲”，构建了潮电荟、影音汇、Ecolife、美厨房四大开放集合场景；苏宁易购推出AI智慧门店Suning NEXT未来空间。 与当初机器人在各大商圈卖力跳舞表演一样，家电卖场里到处都在“演绎”科技生活： 客厅里，声控AI萌宠眨眼摆尾，和人自如交谈；厨房里，智能炒菜机实现3分钟出餐；卧室中，扫地机器人长出手臂收捡换洗衣服…… 一卷卷精彩的科技生活场景的确带动消费者走入门店，掏出钱包。 苏宁易购数据显示，今年国庆期间，全国核心门店客流同比增长五成，AI智能家电销售同比增长超四成，AI产品销售占比突破70%；京东MALL的智能家电类销量占比升至60%。 然而，这场AI家居狂欢，更像一场精心编排的卖场科技秀，还能支撑多久，不得而知。 家电卖场靠替品牌“表演”科技赚钱？ 被发达的线上渠道挤压了这么多年，家电线下大卖场终于重新热闹起来。 据悉，红星美凯龙智电绿洲上海首店经营面积高达3",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221334.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:40:17.000Z",
+      "author": "消费观象局",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c645c4ddbfedd0a66b",
+      "titleOriginal": "梁文锋“量化”聊天",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 做量化投资出身的梁文锋，开始“量化”DeepSeek的C端用户了。 11月26日，DeepSeek悄悄上线了一项新功能。 在每轮对话结束后，用户可以点击回答下方的图标，查看自己消耗了多少Token、其中有多少命中了缓存，以及按照DeepSeek的API价格计算，这轮对话值多少钱。 虽然这笔钱目前还不需要用户来掏，但免费服务突然多了价签，还是引发了外界关于DeepSeek即将收费的猜测。 有趣的是，在今年5月的投资者闭门交流会上，梁文锋还不知道拿C端用户怎么办。 “虽然现在不知道这些用户有什么用，现在它是一个纯成本的支出，但是以后可能是有用的。” 他甚至透露，DeepSeek一度不想维护C端用户，但用户赶都赶不走。 半年过去，随着模型调用量的增长和算力供给的持续紧张，DeepSeek不得不对免费用户实施限额。而这批赶都赶不走的用户，反倒开始催促DeepSeek推出付费服务。 如今，梁文锋把账单摆到了C端用户面前——钱还没收，但账已经开始算了。 聊个5毛钱的 和DeepSeek打个招呼，需要花多少钱？ 字母榜（ID：wujica",
+      "titleZh": "梁文锋“量化”聊天",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 做量化投资出身的梁文锋，开始“量化”DeepSeek的C端用户了。 11月26日，DeepSeek悄悄上线了一项新功能。 在每轮对话结束后，用户可以点击回答下方的图标，查看自己消耗了多少Token、其中有多少命中了缓存，以及按照DeepSeek的API价格计算，这轮对话值多少钱。 虽然这笔钱目前还不需要用户来掏，但免费服务突然多了价签，还是引发了外界关于DeepSeek即将收费的猜测。 有趣的是，在今年5月的投资者闭门交流会上，梁文锋还不知道拿C端用户怎么办。 “虽然现在不知道这些用户有什么用，现在它是一个纯成本的支出，但是以后可能是有用的。” 他甚至透露，DeepSeek一度不想维护C端用户，但用户赶都赶不走。 半年过去，随着模型调用量的增长和算力供给的持续紧张，DeepSeek不得不对免费用户实施限额。而这批赶都赶不走的用户，反倒开始催促DeepSeek推出付费服务。 如今，梁文锋把账单摆到了C端用户面前——钱还没收，但账已经开始算了。 聊个5毛钱的 和DeepSeek打个招呼，需要花多少钱？ 字母榜（ID：wujica",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221306.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:39:56.000Z",
+      "author": "字母AI",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "17f7a43199f9b6f776",
+      "titleOriginal": "小红书，没有大门的AI游乐场",
+      "summaryOriginal": "（本文作者为 市象，钛媒体经授权发布） 文 | 市象 点开小红书一条普通笔记的底部卡片，屏幕瞬间暗下来，变成一片可以亲手折纸星星的电子星空。攒满十颗放飞，隔天就会收到一封来自“宇宙树洞”的随机回信。 评论区里，有玩家敲出一连串哭泣的表情，说上周许下的心愿收到了星河回复。把这片星空交给十多万陌生人的，是主页不到三千粉丝的创作者“青提盖盖”。 「市象」了解到，这款被小红书推荐收录的Vibe Coding小应用的灵感来自作者小时候的折星星手作。最开始，她只是想通过平台工具做一些治愈解压的小游戏，但在社区网友的推荐裂变下，“折星星”登上小红书的小工具推荐，游玩人次达18.2万人。 类似的故事正在小红书信息流里密集上演。 有人花一顿晚饭的工夫给追星同好搓出应援卡，有人把深夜街边的炭火烤串摊搬进屏幕，也有零代码的文科生一边在简介里抱怨“被AI气死”，一边顺着评论区的许愿连夜修补Bug。 造物者的另一侧，还站着一群记录创作的人。他们有人发布小工具榜单观察的笔记，有人专门立帖，号召社区把自己用过的小工具贴在评论区供网友挑选。这些笔记的评论区热闹得像深夜电子集市，各路野生创作者们排队甩出自己的作品。 这",
+      "titleZh": "小红书，没有大门的AI游乐场",
+      "summaryZh": "（本文作者为 市象，钛媒体经授权发布） 文 | 市象 点开小红书一条普通笔记的底部卡片，屏幕瞬间暗下来，变成一片可以亲手折纸星星的电子星空。攒满十颗放飞，隔天就会收到一封来自“宇宙树洞”的随机回信。 评论区里，有玩家敲出一连串哭泣的表情，说上周许下的心愿收到了星河回复。把这片星空交给十多万陌生人的，是主页不到三千粉丝的创作者“青提盖盖”。 「市象」了解到，这款被小红书推荐收录的Vibe Coding小应用的灵感来自作者小时候的折星星手作。最开始，她只是想通过平台工具做一些治愈解压的小游戏，但在社区网友的推荐裂变下，“折星星”登上小红书的小工具推荐，游玩人次达18.2万人。 类似的故事正在小红书信息流里密集上演。 有人花一顿晚饭的工夫给追星同好搓出应援卡，有人把深夜街边的炭火烤串摊搬进屏幕，也有零代码的文科生一边在简介里抱怨“被AI气死”，一边顺着评论区的许愿连夜修补Bug。 造物者的另一侧，还站着一群记录创作的人。他们有人发布小工具榜单观察的笔记，有人专门立帖，号召社区把自己用过的小工具贴在评论区供网友挑选。这些笔记的评论区热闹得像深夜电子集市，各路野生创作者们排队甩出自己的作品。 这",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221347.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:39:51.000Z",
+      "author": "市象",
+      "tags": [
+        "launch",
+        "投稿",
+        "Coding"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a0df1ef222501740d0",
+      "titleOriginal": "何小鹏的物理AI野心，已经超出了汽车行业",
+      "summaryOriginal": "今年的广州车展，小鹏把发布会的一部分话语权交给了机器人。 高阶通用人形机器人IRON出现在小鹏展台，承担迎宾、导览、车辆讲解等工作，并登台演讲。两天前，何小鹏刚刚回到自己的母校华南理工大学，举办了一场以“原点”为主题的科技日。相比往年，今年何小鹏花了更多时间讲述汽车之外的事情。 小鹏也给出了明确的机器人商业化时间表：2027年1月进入硬件量产阶段，一季度进入部分小鹏门店实习，二季度正式面向商业客户发布，下半年全球上市。 从科技日的技术展示，到广州车展的实际应用，小鹏正在有意识地将人形机器人推向公众。但相比机器人能不能像人一样走路、说话，一个更现实的问题已经摆在何小鹏面前：究竟有多少人愿意为机器人的劳动能力付费？ “我认为做机器人的难度比做汽车难20倍。”小鹏集团董事长、CEO何小鹏在交流中表示。 这个判断也意味着，对于一家经历过汽车行业激烈淘汰赛的企业而言，机器人绝非一条更轻松的增长路径。 机器人需要先证明自己有用 过去一年，人形机器人行业的技术演示越来越精彩，从跑步、跳舞到后空翻，机器人的运动能力在不断刷新公众认知。但一个略显尴尬的现象是，行业至今仍缺乏足够多能够持续产生经济价值的应",
+      "titleZh": "何小鹏的物理AI野心，已经超出了汽车行业",
+      "summaryZh": "今年的广州车展，小鹏把发布会的一部分话语权交给了机器人。 高阶通用人形机器人IRON出现在小鹏展台，承担迎宾、导览、车辆讲解等工作，并登台演讲。两天前，何小鹏刚刚回到自己的母校华南理工大学，举办了一场以“原点”为主题的科技日。相比往年，今年何小鹏花了更多时间讲述汽车之外的事情。 小鹏也给出了明确的机器人商业化时间表：2027年1月进入硬件量产阶段，一季度进入部分小鹏门店实习，二季度正式面向商业客户发布，下半年全球上市。 从科技日的技术展示，到广州车展的实际应用，小鹏正在有意识地将人形机器人推向公众。但相比机器人能不能像人一样走路、说话，一个更现实的问题已经摆在何小鹏面前：究竟有多少人愿意为机器人的劳动能力付费？ “我认为做机器人的难度比做汽车难20倍。”小鹏集团董事长、CEO何小鹏在交流中表示。 这个判断也意味着，对于一家经历过汽车行业激烈淘汰赛的企业而言，机器人绝非一条更轻松的增长路径。 机器人需要先证明自己有用 过去一年，人形机器人行业的技术演示越来越精彩，从跑步、跳舞到后空翻，机器人的运动能力在不断刷新公众认知。但一个略显尴尬的现象是，行业至今仍缺乏足够多能够持续产生经济价值的应",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221505.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T12:04:04.000Z",
+      "author": "花卷不塞车",
+      "tags": [
+        "launch",
+        "钛度车库",
+        "机器人",
+        "物理AI"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6c1021b8f88b2f282c",
+      "titleOriginal": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+      "summaryOriginal": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight correct answers. Visual perception accounts for 73 percent of errors, and more compute time doesn't fix the problem. The article Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs appeared first on The Decoder .",
+      "titleZh": "Google Deepmind 的“人类第一次考试”表明，顶级人工智能模型在反复运行下仍无法完成简单的日常任务",
+      "summaryZh": "Google Deepmind通过“人类首场考试”测试了18个人工智能模型的可靠性。顶级模型至少能解决几乎每个任务类别一次，但即使是像OpenAI的GPT-6.2 Astra这样的领先模型，在被要求连续给出16个正确答案时也会出错。视觉感知占错误的73%，增加计算时间也无法解决这个问题。文章《Google Deepmind的“人类第一场考试”显示，顶级人工智能模型在多次运行下仍无法完成简单的日常任务》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-28T11:12:30.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "Benchmark",
+        "Benchmarks"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c9a34baee004ca76c8",
+      "titleOriginal": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "summaryOriginal": "",
+      "titleZh": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "summaryZh": "",
+      "translated": true,
+      "url": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds",
+      "sourceId": "infoq",
+      "sourceName": "InfoQ 中文",
+      "sourceSite": "https://www.infoq.cn/",
+      "sourceColor": "#0b6bcb",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T11:00:00.000Z",
+      "author": "作者：Matt Saunders",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "2709044ad7d0f3eff0",
+      "titleOriginal": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+      "summaryOriginal": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta, and MIT researchers are behind the startup as the race for general-purpose robotics AI accelerates. The article Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots appeared first on The Decoder .",
+      "titleZh": "机器人初创公司Embo筹集1.1亿美元种子轮融资，用于为机器人构建世界模型人工智能",
+      "summaryZh": "Embo筹集了1.1亿美元的种子轮融资，用于打造具备世界模型的通用机器人大脑。其人工智能通过互联网视频学习物理世界的运作方式，并在模拟中练习运动技能。随着通用机器人人工智能的竞争日益激烈，Google Deepmind、Meta和麻省理工学院的研究人员纷纷为这家初创公司提供支持。文章《机器人初创公司Embo筹集1.1亿美元种子轮融资，用于为机器人打造世界模型人工智能》最初发表在《The Decoder》上。",
+      "translated": true,
+      "url": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-11-28T10:48:18.000Z",
+      "author": "Matthias Bastian",
+      "tags": [
+        "news",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Embo",
+        "Robotics"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "db4de24f50337bd7df",
+      "titleOriginal": "【数智周报】 黄仁勋回归英伟达，恢复CEO职务；Anthropic CEO以IPO发行价出售337.8万股，套现约2.8亿美元；英伟达暂停向四个东南亚国家出货服务器",
+      "summaryOriginal": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 安联首席投资官：黄仁勋回归难解AI泡沫 安联集团首席投资官卢睿德（Ludovic Subran）表示，黄仁勋回归不足以让市场此前的担忧“一笔勾销”。他认为，AI更多停留在期望和议论层面，市场将转而关注实际成效；上周五的暴跌说明调整可能自我强化。“在我看来，现在的市场比之前想的还要泡沫化。”他表示，泡沫已经蔓延至数据中心。 王兴兴：5-10年内中国 机器人 产量或超汽车，年产量超2000万台 在北京举行的WISE2026大会上，宇树科技创始人、董事长王兴兴判断，5到10年内，中国机器人产量有望超过汽车，年产量超过2000万台。 美团王兴：预计明年AI相关的资本支出将低于今年 “无论前端交互方式如何演进，用户对本地生活服务的核心需求并未改变。”11月27日晚，美团三季度财报电话会上，CEO王兴表示，“AI要真正创造价值，关键在于将高价值场景、高质量数据和闭环执行能力深度结合，这正是美团的优势所在。”王兴同时表示，“今年我们通过AI相关的资本支出订单锁定了部分算力用于未来使用，因此我们预计明年",
+      "titleZh": "【数智周报】 黄仁勋回归英伟达，恢复CEO职务；Anthropic CEO以IPO发行价出售337.8万股，套现约2.8亿美元；英伟达暂停向四个东南亚国家出货服务器",
+      "summaryZh": "【数智周报将整合本周最重要的企业级服务、云计算、大数据领域的前沿趋势、重磅政策及行研报告。】 观点 安联首席投资官：黄仁勋回归难解AI泡沫 安联集团首席投资官卢睿德（Ludovic Subran）表示，黄仁勋回归不足以让市场此前的担忧“一笔勾销”。他认为，AI更多停留在期望和议论层面，市场将转而关注实际成效；上周五的暴跌说明调整可能自我强化。“在我看来，现在的市场比之前想的还要泡沫化。”他表示，泡沫已经蔓延至数据中心。 王兴兴：5-10年内中国 机器人 产量或超汽车，年产量超2000万台 在北京举行的WISE2026大会上，宇树科技创始人、董事长王兴兴判断，5到10年内，中国机器人产量有望超过汽车，年产量超过2000万台。 美团王兴：预计明年AI相关的资本支出将低于今年 “无论前端交互方式如何演进，用户对本地生活服务的核心需求并未改变。”11月27日晚，美团三季度财报电话会上，CEO王兴表示，“AI要真正创造价值，关键在于将高价值场景、高质量数据和闭环执行能力深度结合，这正是美团的优势所在。”王兴同时表示，“今年我们通过AI相关的资本支出订单锁定了部分算力用于未来使用，因此我们预计明年",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221485.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T10:37:58.000Z",
+      "author": "Leo张ToB杂谈",
+      "tags": [
+        "guide",
+        "主编精选文章"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
     {
       "id": "de3fa327d13e5dbba6",
       "titleOriginal": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
@@ -20,6 +270,144 @@
         "news"
       ],
       "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a9416658da2d0a3e42",
+      "titleOriginal": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+      "summaryOriginal": "Ant Group has open-sourced LingSante , a family of medical and health AI models behind health app Afu. The flagship, LingSante-3.1-flash , is an open-weight medical AI model with 560B total parameters and 25B active per token. It ships under the MIT license with a 1M-token context window. On the new InclusionMed evaluation, it scores highest among open models. It is a self-hostable model trained for clinical reasoning, medical search and tool-using agents. TL;DR What? :It is a self-hostable mode",
+      "titleZh": "蚂蚁集团发布LingSante-3.1-flash：一款具有5600亿总参数和每token 250亿激活的开放权重MoE模型",
+      "summaryZh": "蚂蚁集团已将健康应用Afu背后的医疗健康AI模型系列LingSante开源。旗舰产品LingSante-3.1-flash是一款开放权重医疗人工智能模型，总参数量为5600亿，每个token的激活参数量为250亿。该模型在MIT许可证下发布，具有100万个token的上下文窗口。在新推出的InclusionMed评估中，该模型在所有开源模型中得分最高。这是一款可自托管的模型，经过训练，可用于临床推理、医学搜索和工具使用代理。TL;DR 什么？：这是一种可自托管的模型",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-11-28T09:45:33.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Paper Summary",
+        "AI Shorts",
+        "Applications"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "78abeefdce95d4df73",
+      "titleOriginal": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+      "summaryOriginal": "NextFin News — Nvidia has told its manufacturing partners to stop shipping servers that contain its chips to Malaysia, Singapore, Thailand and Indonesia, according to people familiar with the matter cited by the Financial Times. Buyers in those countries have been informed that pending orders will not ship for now. Dell and Super Micro Computer, which build finished systems around Nvidia processors, are among the partners that notified customers. Nvidia, Dell and Super Micro did not immediately",
+      "titleZh": "Nvidia Halts AI Server Shipments to Four Southeast Asian Countries",
+      "summaryZh": "NextFin News — Nvidia has told its manufacturing partners to stop shipping servers that contain its chips to Malaysia, Singapore, Thailand and Indonesia, according to people familiar with the matter cited by the Financial Times. Buyers in those countries have been informed that pending orders will not ship for now. Dell and Super Micro Computer, which build finished systems around Nvidia processors, are among the partners that notified customers. Nvidia, Dell and Super Micro did not immediately",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221371.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T07:51:04.000Z",
+      "author": "Chelsea_Sun",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "98bb7b226fe80b91ef",
+      "titleOriginal": "蔚来开始用AI改造自己，这笔经济账怎么算？",
+      "summaryOriginal": "蔚来曾经主动放弃过一次高通旗舰座舱芯片的首发机会。 彼时，相关研发工作已经投入，距离首发只差临门一脚，但在重新核算投入产出之后，蔚来决定放弃这项计划，将资源留给其他更有价值的研发项目。 “以前我们必须争首发。”蔚来创始人、董事长、CEO李斌在交流时表示。 这件事情发生在蔚来内部经营机制变革的过程中，却颇具行业代表性。过去几年，汽车行业的智能化竞争很大程度上建立在技术竞赛之上，争夺芯片首发、追求更高算力、不断增加硬件配置，几乎成为新能源汽车企业的集体惯性。 但在行业增长放缓、利润空间受到挤压的背景下，这套竞争逻辑正在发生变化。 11月25日，第三届NIO IN蔚来创新科技日上，除了发布世界模型NWM 3.0、全场景情感智能NOMI Intelligence 4.0之外，李斌还花了相当大的篇幅，阐述蔚来如何通过AI重构一家汽车公司。 当越来越多车企试图借助AI提升产品的竞争力，蔚来已经将AI引入组织架构、资源分配、成本管理乃至员工的激励机制。那么汽车行业对AI的期待，真的正在从技术红利走向经营红利吗？ AI改变车企的权力结构？ 过去一百多年，汽车工业不仅创造了大规模生产体系，也贡献了大量现",
+      "titleZh": "蔚来开始用AI改造自己，这笔经济账怎么算？",
+      "summaryZh": "蔚来曾经主动放弃过一次高通旗舰座舱芯片的首发机会。 彼时，相关研发工作已经投入，距离首发只差临门一脚，但在重新核算投入产出之后，蔚来决定放弃这项计划，将资源留给其他更有价值的研发项目。 “以前我们必须争首发。”蔚来创始人、董事长、CEO李斌在交流时表示。 这件事情发生在蔚来内部经营机制变革的过程中，却颇具行业代表性。过去几年，汽车行业的智能化竞争很大程度上建立在技术竞赛之上，争夺芯片首发、追求更高算力、不断增加硬件配置，几乎成为新能源汽车企业的集体惯性。 但在行业增长放缓、利润空间受到挤压的背景下，这套竞争逻辑正在发生变化。 11月25日，第三届NIO IN蔚来创新科技日上，除了发布世界模型NWM 3.0、全场景情感智能NOMI Intelligence 4.0之外，李斌还花了相当大的篇幅，阐述蔚来如何通过AI重构一家汽车公司。 当越来越多车企试图借助AI提升产品的竞争力，蔚来已经将AI引入组织架构、资源分配、成本管理乃至员工的激励机制。那么汽车行业对AI的期待，真的正在从技术红利走向经营红利吗？ AI改变车企的权力结构？ 过去一百多年，汽车工业不仅创造了大规模生产体系，也贡献了大量现",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221323.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T05:26:50.000Z",
+      "author": "花卷不塞车",
+      "tags": [
+        "guide",
+        "汽车行业",
+        "蔚来"
+      ],
+      "category": "guide",
+      "readingMinutes": 2
+    },
+    {
+      "id": "81d5f7e4acaf8af6a5",
+      "titleOriginal": "[AINews] Inside the exploding Coding Data Market",
+      "summaryOriginal": "There’s a lot of online drama around potential Claude sabotage and general trust in Anthropic , but we’re hesitant to give it more full title story treatment at this point barring further evidence (see below). In it’s place we’re choosing to highlight the coding data market, which has multiple ~1 year old statups all making $~100m/year in data contracts for frontier labs: View post on X ↗ Fortunately we have just the right episode today - with G2i as a co-organizer and sponsor of AIE Code, now d",
+      "titleZh": "[AI新闻] 蓬勃发展的编码数据市场内部情况",
+      "summaryZh": "关于潜在的Claude破坏事件以及对Anthropic的普遍信任，网上有很多戏剧性的报道，但除非有进一步的证据（见下文），否则我们目前不愿对此进行更全面的头条报道。取而代之的是，我们选择重点介绍编码数据市场，该市场有多家成立约1年的初创公司，它们都通过为前沿实验室提供数据合同每年赚取约1亿美元的收入：在X上查看帖子↗幸运的是，我们今天正好有合适的节目——G2i作为AIE Code的联合主办方和赞助方，现在d",
+      "translated": true,
+      "url": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-11-28T03:45:59.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "analysis",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c3e2389af947e22985",
+      "titleOriginal": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "summaryOriginal": "作者 | 硅谷Tech news，编辑 | 林深 截至11月27日收盘的这一周，美股走出一轮修复行情。标普500指数全周上涨5.6%，录得2025年4月以来的最大单周涨幅，11月27日感恩节后的半日交易中，三大指数集体收涨。但本周的涨幅，只收复了前一周的部分失地。 这一轮失地出现在截至11月20日的一周，标普500指数下跌8.6%，道琼斯指数下跌8%， 纳斯达克 100指数下跌超过10%，三大指数均录得2025年4月以来最差的单周表现，纳斯达克综合指数11月20日单日下跌5.28%，年内涨幅全部蒸发。 抛售的引信，是Anthropic 11月19日在纳斯达克完成的IPO。这家公司上市首日上涨17%，次日回落9.1%，史上最大IPO没能给AI板块带来信心，反而成了资金离场的契机。11月12日黄仁勋辞职后， 英伟达 连跌六个交易日，11月20日单日再跌14%。 本周一开始，轮到造AI机器的公司交成绩单，先发布财报的是HPE，接着是ADI，盘后出业绩的是戴尔。三家公司的营收都创了新高，戴尔和HPE的AI订单也双双创下纪录。 股价没有同步走高，HPE在11月24日收盘下跌16.31%，报40.",
+      "titleZh": "AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么",
+      "summaryZh": "作者 | 硅谷Tech news，编辑 | 林深 截至11月27日收盘的这一周，美股走出一轮修复行情。标普500指数全周上涨5.6%，录得2025年4月以来的最大单周涨幅，11月27日感恩节后的半日交易中，三大指数集体收涨。但本周的涨幅，只收复了前一周的部分失地。 这一轮失地出现在截至11月20日的一周，标普500指数下跌8.6%，道琼斯指数下跌8%， 纳斯达克 100指数下跌超过10%，三大指数均录得2025年4月以来最差的单周表现，纳斯达克综合指数11月20日单日下跌5.28%，年内涨幅全部蒸发。 抛售的引信，是Anthropic 11月19日在纳斯达克完成的IPO。这家公司上市首日上涨17%，次日回落9.1%，史上最大IPO没能给AI板块带来信心，反而成了资金离场的契机。11月12日黄仁勋辞职后， 英伟达 连跌六个交易日，11月20日单日再跌14%。 本周一开始，轮到造AI机器的公司交成绩单，先发布财报的是HPE，接着是ADI，盘后出业绩的是戴尔。三家公司的营收都创了新高，戴尔和HPE的AI订单也双双创下纪录。 股价没有同步走高，HPE在11月24日收盘下跌16.31%，报40.",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221273.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T03:17:25.000Z",
+      "author": "硅谷Tech news",
+      "tags": [
+        "launch",
+        "英伟达",
+        "AGI",
+        "芯片",
+        "戴尔"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d093d7899e231d60e1",
+      "titleOriginal": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "summaryOriginal": "（本文作者为 寻空的营销启示录，钛媒体经授权发布） 文 | 寻空的营销启示录 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing & Brand部门有19个开放岗位，Google DeepMind也在招聘整合营销经理。 OpenAI 给负责 ChatGPT 消费订阅的增长产品营销经理开出 23.9 万至 26.5 万美元的年薪，另有股权。Anthropic 给负责创业公司客户营销的岗位开出的年薪是 32 万至 40 万美元。 AI连营销人自己的工作都能做了，为什么AI公司还要花钱招聘营销人？ 我拆解了三家公司的招聘要求，发现营销人的价值正在发生一次比较明显的变化。 01 三家",
+      "titleZh": "OpenAI 和 Anthropic 在招什么样的营销人才？",
+      "summaryZh": "（本文作者为 寻空的营销启示录，钛媒体经授权发布） 文 | 寻空的营销启示录 AI正在取代越来越多的工作，营销是受到冲击最直接的行业之一。我之前也在《大厂减市场预算，加AI预算》这篇文章中谈过这个问题。 但有一个现象挺有意思，当很多企业都在讨论AI如何替代营销人时，AI大模型公司却在大量招聘营销人才。 我看了一下OpenAI、Anthropic和Google DeepMind的招聘信息，发现这些公司对营销人才的需求很强劲。 现在，在OpenAI官网搜索Marketing关键词，显示有50个相关招聘岗位，Anthropic的Marketing & Brand部门有19个开放岗位，Google DeepMind也在招聘整合营销经理。 OpenAI 给负责 ChatGPT 消费订阅的增长产品营销经理开出 23.9 万至 26.5 万美元的年薪，另有股权。Anthropic 给负责创业公司客户营销的岗位开出的年薪是 32 万至 40 万美元。 AI连营销人自己的工作都能做了，为什么AI公司还要花钱招聘营销人？ 我拆解了三家公司的招聘要求，发现营销人的价值正在发生一次比较明显的变化。 01 三家",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8221003.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-11-28T02:53:00.000Z",
+      "author": "寻空的营销启示录",
+      "tags": [
+        "guide",
+        "投稿"
+      ],
+      "category": "guide",
       "readingMinutes": 2
     },
     {
@@ -2116,7 +2504,7 @@
     {
       "id": "e9eadcd028c200d98a",
       "titleOriginal": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
-      "summaryOriginal": "AINews by Latent Space Scott Aaronson was still trying to digest two proofs of VP ≠ VNP at dinner. Before dessert, an OpenAI paper claimed that the square matrix multiplication exponent ω is exactly 9/4 . During dessert, another paper claimed matching upper and lower bounds for the finite Fourier transform . The lower bound is the biggest news. In October, OpenAI found an upper bound for ω down to at most 9/4 . Finding the lower bound = upper bound leaves only one possible value, which is a shoc",
+      "summaryOriginal": "AINews by Latent Space Scott Aaronson was still trying to digest two proofs of VP ≠ VNP at dinner. Before dessert, an OpenAI paper claimed that the square matrix multiplication exponent ω is exactly 9/4 . During dessert, another paper claimed matching upper and lower bounds for the finite Fourier transform . The lower bound is the biggest news. In October, OpenAI found an upper bound for ω down to at most 9/4 . If the new lower bound holds, it pins the square matrix multiplication exponent at 9/",
       "titleZh": "[AINews] 数学证明的速度比我们阅读的速度更快",
       "summaryZh": "AINews by Latent Space Scott Aaronson 在晚餐时仍在努力消化 VP ≠ VNP 的两个证明。在享用甜点之前，一篇 OpenAI 的论文声称，方阵乘法指数 ω 正好是 9/4 。在享用甜品时，另一篇论文声称找到了有限傅里叶变换的匹配上界和下界。下界是最大的新闻。10 月，OpenAI 找到了 ω 的上界，最多为 9/4。找到下界 = 上界，只剩下一个可能的值，这令人震惊。",
       "translated": true,
@@ -11059,400 +11447,6 @@
       ],
       "category": "news",
       "readingMinutes": 2
-    },
-    {
-      "id": "a628e3d51eab8a75a8",
-      "titleOriginal": "Gemini on Mac can now use your computer",
-      "summaryOriginal": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says . Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live prev",
-      "titleZh": "Mac 版 Gemini 现在可以使用您的电脑了",
-      "summaryZh": "Google 表示，适用于 macOS 的 Gemini 应用现已具备计算机使用功能，这意味着它可以帮助你“在本地文件、桌面应用和网页上完成多步任务”。Google表示，该功能可能有助于加快工作流程、填写表格、制作演示文稿以及发布商品等。用户将能够决定Gemini可以访问哪些应用程序，并且能够实时跟踪Gemini的工作情况，因为它有自己的后台窗口，可以显示实时预览。",
-      "translated": true,
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:21:13.000Z",
-      "author": "Jay Peters",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2185840283b16cb2b2",
-      "titleOriginal": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-      "summaryOriginal": "Agents no longer just call a model. They call tools over MCP, delegate to other agents over A2A, and act inside business systems. The best agent gateways sit on that path and decide who can do what. This list compares 13 of them on traffic coverage, identity, deployment and price. What is an agent gateway? An agent gateway is a control point that authenticates agents, filters the tools they see, and logs every call. A plain LLM gateway only routes model requests. An agent gateway adds MCP tool g",
-      "titleZh": "2026年最适合MCP、A2A和LLM流量的13款最佳代理网关：Kong、Bifrost、AgentCore、Arcade",
-      "summaryZh": "代理不再只是调用模型。它们通过 MCP 调用工具，通过 A2A 将任务委派给其他代理，并在业务系统内部执行操作。最好的代理网关位于这条路径上，并决定谁可以做什么。本列表对其中 13 个网关的流量覆盖范围、身份、部署和价格进行了比较。什么是代理网关？代理网关是一个控制点，用于对代理进行身份验证、筛选代理可见的工具并记录每次调用。普通的 LLM 网关仅路由模型请求。代理网关添加了 MCP 工具 g",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:13:21.000Z",
-      "author": "Asif Razzaq",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Agents",
-        "AI Infrastructure",
-        "AI Shorts"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1054662f25c3d852e5",
-      "titleOriginal": "Google gives Gemini the ability to use your Mac for you",
-      "summaryOriginal": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "titleZh": "Google让Gemini能够代您使用Mac",
-      "summaryZh": "Google 对 Gemini 的最新更新为 Mac 带来了 AI 代理，它可以整理文件、填写表单并处理多步工作流程。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T18:09:11.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "ai agent",
-        "gemini"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c10aa6e486c43c255b",
-      "titleOriginal": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
-      "summaryOriginal": "",
-      "titleZh": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T18:05:40.000Z",
-      "author": "褚杏娟",
-      "tags": [
-        "guide"
-      ],
-      "category": "guide",
-      "readingMinutes": 2
-    },
-    {
-      "id": "df2b61241112c73a02",
-      "titleOriginal": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-      "summaryOriginal": "Perplexity has launched the Perplexity Orchestrator API , a single endpoint for frontier and open-weight models. It picks a serving provider by availability, capacity and latency , and bills everything through 1 account. Developers get fewer integrations and 1 invoice. What is the Perplexity Orchestrator API? The Perplexity Orchestrator API is a hosted inference gateway that serves many models behind 1 base URL. It covers frontier models from OpenAI, Anthropic, Google and xAI . It also serves op",
-      "titleZh": "Perplexity推出用于故障转移和模型路由的Orchestrator API",
-      "summaryZh": "Perplexity 推出了 Perplexity Orchestrator API ，这是面向前沿模型和开源权重模型的单一端点。它会根据可用性、容量和延迟选择服务提供商，并通过一个账户对所有费用进行计费。开发人员需要进行的集成更少，且只需支付 1 张账单。什么是Perplexity Orchestrator API？Perplexity Orchestrator API 是一种托管式推理网关，通过一个基础 URL 为多个模型提供服务。它涵盖了来自OpenAI、Anthropic、Google和xAI的尖端模型。它还提供开放式",
-      "translated": true,
-      "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-      "sourceId": "marktechpost",
-      "sourceName": "MarkTechPost",
-      "sourceSite": "https://www.marktechpost.com/",
-      "sourceColor": "#9a6b00",
-      "lang": "en",
-      "publishedAt": "2026-11-19T17:47:00.000Z",
-      "author": "Michal Sutter",
-      "tags": [
-        "research",
-        "Agentic AI",
-        "AI Infrastructure",
-        "AI Shorts",
-        "Applications"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2919f418f3f516824d",
-      "titleOriginal": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "summaryOriginal": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
-      "titleZh": "据报道，Meta的AI代理Muse正在混淆对话，并可能泄露私人数据",
-      "summaryZh": "在其中一些情况下，员工表示Muse显示了他们从未提出的托儿申请、他们从未征求的职业建议、他们从未下过的产品订单以及不属于他们的银行账户余额。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T17:38:40.000Z",
-      "author": "Aisha Malik",
-      "tags": [
-        "news",
-        "AI",
-        "Apps",
-        "In Brief",
-        "Meta"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "55aef2caa97fc8fbce",
-      "titleOriginal": "Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears",
-      "summaryOriginal": "Stricter US export controls on AI chips are hitting fast. China's Moonshot AI walked away from a $150 million deal in Indonesia, while TSMC and Samsung stopped shipping to Chinese customers. A New York Times investigation found that Alibaba had routed Nvidia chips to Chinese military researchers through a web of front companies. The article Chinese tech firms face a double hit as chip shipments stop and overseas cloud access disappears appeared first on The Decoder .",
-      "titleZh": "随着芯片供应中断和海外云访问渠道消失，中国科技公司面临双重打击",
-      "summaryZh": "美国对人工智能芯片实施的更严格出口管制正在迅速产生影响。中国的月球计划人工智能公司放弃了一笔价值1.5亿美元的印尼交易，而台积电和三星则停止向中国客户发货。《纽约时报》的一项调查发现，阿里巴巴曾通过一个幌子公司网络将英伟达芯片转运给中国军事研究人员。文章《中国科技公司面临双重打击：芯片供应中断，海外云访问消失》最初发表在《The Decoder》上。",
-      "translated": true,
-      "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
-      "sourceId": "thedecoder",
-      "sourceName": "The Decoder",
-      "sourceSite": "https://the-decoder.com/",
-      "sourceColor": "#5b4bdb",
-      "lang": "en",
-      "publishedAt": "2026-11-19T17:02:41.000Z",
-      "author": "Maximilian Schreiner",
-      "tags": [
-        "news",
-        "AI and society",
-        "Artificial Intelligence",
-        "China",
-        "Nvidia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "27f297a759c176e68b",
-      "titleOriginal": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "summaryOriginal": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "titleZh": "前阿里巴巴高管的Everful筹集4850万美元，旨在将零售商与中国工厂联系起来",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "author": "Kate Park",
-      "tags": [
-        "news",
-        "AI",
-        "Startups",
-        "alibaba",
-        "Asia"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "2a01bbcb107b1e63fc",
-      "titleOriginal": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
-      "summaryOriginal": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
-      "titleZh": "谷歌打造了一个巨大的“镜像维度”互联网，用于测试其Chrome AI代理",
-      "summaryZh": "该公司的平行宇宙互联网是一个庞大的沙盒，让Chrome团队能够妥善训练人工智能浏览代理，而不用担心它们失控。",
-      "translated": true,
-      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
-      "sourceId": "wired",
-      "sourceName": "WIRED AI",
-      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
-      "sourceColor": "#111111",
-      "lang": "en",
-      "publishedAt": "2026-11-19T17:00:00.000Z",
-      "author": "Lily Hay Newman",
-      "tags": [
-        "analysis",
-        "Security",
-        "Security / Security News",
-        "Agent"
-      ],
-      "category": "analysis",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d680d8751ecd7c4c1e",
-      "titleOriginal": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "summaryOriginal": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-      "titleZh": "Anthropic在纳斯达克交易所上市，股价为111美元，比IPO价格高出33%",
-      "summaryZh": "Anthropic的IPO价格定为83美元，这意味着将筹集超过800亿美元的新资本。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T16:59:23.000Z",
-      "author": "Russell Brandom",
-      "tags": [
-        "news",
-        "AI",
-        "Anthropic",
-        "In Brief",
-        "IPO"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "d0946e26531ae61b75",
-      "titleOriginal": "Anthropic starts trading on Wall Street",
-      "summaryOriginal": "Anthropic CEO Dario Amodei speaks at the Nasdaq ahead of his company’s public debut. | Photo: Michael Nagle / Bloomberg via Getty Images Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share , up from its initial $83 per share price that put company's value at around $1.5 trillion. The listing comes nearly a month after Anthropic revealed its plans to go public . In its lengthy S-1 filing, the AI company reported recording an $80.",
-      "titleZh": "Anthropic开始在华尔街交易",
-      "summaryZh": "Anthropic首席执行官Dario Amodei在公司上市前于纳斯达克发表讲话。|照片：Michael Nagle /彭博社，由Getty Images提供Anthropic已正式上市。该公司以“ANT”的股票代码在纳斯达克开始交易，股价为每股111.50美元，高于最初的每股83美元，使公司市值达到约1.5万亿美元。此次上市是在Anthropic宣布上市计划近一个月后进行的。在这份冗长的S-1招股说明书中，这家人工智能公司报告称，其亏损额为80美元。",
-      "translated": true,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "sourceId": "theverge",
-      "sourceName": "The Verge AI",
-      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
-      "sourceColor": "#e44d26",
-      "lang": "en",
-      "publishedAt": "2026-11-19T16:52:01.000Z",
-      "author": "Emma Roth",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "f52c045eef00eb81ed",
-      "titleOriginal": "杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访",
-      "summaryOriginal": "",
-      "titleZh": "杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/rtBT5s1opGGazFgQi0YS",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T16:32:33.000Z",
-      "author": "蔡芳芳",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "b80c1a82c17c255252",
-      "titleOriginal": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-      "summaryOriginal": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
-      "titleZh": "在纳斯达克开市钟声响起之际，Anthropic首席执行官再次承诺稳步推进人工智能发展",
-      "summaryZh": "在纳斯达克开市钟声致辞中，Dario Amodei重申了Anthropic对稳步推进人工智能发展的承诺，不受商业或政治压力的影响。",
-      "translated": true,
-      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-      "sourceId": "techcrunch",
-      "sourceName": "TechCrunch AI",
-      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
-      "sourceColor": "#0a9e01",
-      "lang": "en",
-      "publishedAt": "2026-11-19T16:19:41.000Z",
-      "author": "Sarah Perez",
-      "tags": [
-        "news",
-        "AI",
-        "Anthropic",
-        "dario amodei",
-        "IPO"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "1b088715b432714d8c",
-      "titleOriginal": "Agent 实干派：从人人可用到全栈工程进化 | InfoQ 小编探班",
-      "summaryOriginal": "",
-      "titleZh": "Agent 实干派：从人人可用到全栈工程进化 | InfoQ 小编探班",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/video/Cfrl4QYhD3dHMuhGt6hw",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T16:16:29.000Z",
-      "author": "凌敏",
-      "tags": [
-        "news",
-        "Agent"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "346994e655a8fd989e",
-      "titleOriginal": "价值为先，金融智能体应用实践 | TF技术前线188期报名",
-      "summaryOriginal": "",
-      "titleZh": "价值为先，金融智能体应用实践 | TF技术前线188期报名",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/NR0Wal4xOQ3b5flxE0Hi",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T16:11:32.000Z",
-      "author": "中国计算机学会",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
-    },
-    {
-      "id": "c4014f86958f14d1a1",
-      "titleOriginal": "范式首秀！国产算力训练的Phai系列模型，究竟有什么不同",
-      "summaryOriginal": "",
-      "titleZh": "范式首秀！国产算力训练的Phai系列模型，究竟有什么不同",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T16:08:30.000Z",
-      "author": "作者：杨过",
-      "tags": [
-        "research"
-      ],
-      "category": "research",
-      "readingMinutes": 2
-    },
-    {
-      "id": "75235af758c52283ac",
-      "titleOriginal": "街道办 AI 智能化白皮书",
-      "summaryOriginal": "",
-      "titleZh": "街道办 AI 智能化白皮书",
-      "summaryZh": "",
-      "translated": true,
-      "url": "https://www.infoq.cn/minibook/UAGTBMHJ8mTIx95CFzmo",
-      "sourceId": "infoq",
-      "sourceName": "InfoQ 中文",
-      "sourceSite": "https://www.infoq.cn/",
-      "sourceColor": "#0b6bcb",
-      "lang": "zh",
-      "publishedAt": "2026-11-19T15:41:28.000Z",
-      "author": "InfoQ",
-      "tags": [
-        "news"
-      ],
-      "category": "news",
-      "readingMinutes": 2
     }
   ],
   "sources": [
@@ -11478,7 +11472,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 60
+      "count": 55
     },
     {
       "id": "theverge",
@@ -11486,7 +11480,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 39
+      "count": 37
     },
     {
       "id": "mittr",
@@ -11502,7 +11496,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 24
+      "count": 23
     },
     {
       "id": "thedecoder",
@@ -11510,7 +11504,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 63
+      "count": 64
     },
     {
       "id": "marktechpost",
@@ -11518,7 +11512,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 23
+      "count": 22
     },
     {
       "id": "simonwillison",
@@ -11542,7 +11536,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 11
+      "count": 12
     },
     {
       "id": "ifanr",
@@ -11566,7 +11560,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 127
+      "count": 139
     },
     {
       "id": "infoq",
@@ -11574,13 +11568,13 @@
       "site": "https://www.infoq.cn/",
       "lang": "zh",
       "color": "#0b6bcb",
-      "count": 71
+      "count": 66
     }
   ],
   "stats": {
     "total": 500,
-    "guides": 42,
-    "translated": 226,
+    "guides": 47,
+    "translated": 219,
     "sources": 14
   }
 }
